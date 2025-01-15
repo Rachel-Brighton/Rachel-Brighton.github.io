@@ -510,11 +510,6 @@
 					continue;
 				}
 
-				if (card[3].includes("Basic") && !searchTerms.includes("*t:basic") && !searchTerms.includes("t:basic"))
-				{
-					continue;
-				}
-
 				searched = searchAllTokens(card, tokenizeTerms(searchTerms));
 
 				if (searched && !containsCard(search_results, card))

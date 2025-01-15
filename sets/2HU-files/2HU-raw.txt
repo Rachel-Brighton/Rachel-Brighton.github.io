@@ -473,7 +473,8 @@ Whenever a Vehicle or Spirit you control attacks and isn’t blocked, you may pu
 !tag PlayableREPLACEMEShou Toramaru	W	rare	Legendary Creature — Cat Youkai Avatar 	29	W	1WWW	Vigilance, lifelink
 1: Reveal the top card of your library. Shou Toramaru deals damage equal to that card’s converted mana cost divided as you choose among any number of target attacking or blocking creatures. Activate this ability only once each turn.	4/4		normal	2HU		!tag UFO
 !tag Shou
-!tag Stage5REPLACEMEKyouko Kasodani	R	common	Legendary Creature — Youkai Monk 	106	R	R	Echo R (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)
+!tag Stage5
+!tag MyourenREPLACEMEKyouko Kasodani	R	common	Legendary Creature — Youkai Monk 	106	R	R	Echo R (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)
 Whenever Kyouko enters or its echo cost is paid, target creature can’t block this turn.	2/2		normal	2HU		!tag TD
 !tag Kyouko
 !tag Kyoko
@@ -883,6 +884,7 @@ Hakurouken — Whenever you untap Youmu, exile target card in a graveyard. When 
 !tag MoonREPLACEMERenko Usami	U	common	Legendary Creature — Human 	58	U	1U	At the beginning of each opponent’s upkeep, scry 1.	1/2		normal	2HU		!tag Hifuu
 !tag Renko
 !tag CDREPLACEMEThis, Too, Is Yuri	G	common	Sorcery	142	G	G	Choose target creature you control and target creature you don’t control. If a legendary creature was chosen this way, put a +1/+1 counter on the creature you control. Then those creatures fight each other. (Each deals damage equal to its power to the other.)			normal	2HU		!tag IN
+!tag Peak
 !tag Gay
 !tag YuriREPLACEMEKnight of Nights	B	uncommon	Instant	78	B	1B	Until end of turn, target creature gets +2/+0 and gains haste, menace, first strike, and deathtouch.			normal	2HU		!tag Sakuya
 !tag MusicREPLACEMEKokoro, Noh Embodied	UR	rare	Legendary Creature — Youkai Performer 	179	UR	1UR	Whenever Kokoro enters or attacks, create your choice of a Royal Role token, a Monster Role token, or a Sorcerer Role token attached to it. (If you control another role attached to it, put that one into the graveyard.)
@@ -1210,7 +1212,8 @@ Sacrifice a creature, then gain control of target creature and put four +1/+1 co
 !tag StageEX
 !tag SageREPLACEMEPlayer 2	U	rare	Creature — Avatar 	56	U	2U	As you cast this spell, choose a color.
 You may have this creature enter as a copy of a creature you control, except its name is still Player 2 and it’s the chosen color.	0/0		normal	2HU		!tag Fighter
-!tag PoFVREPLACEMEChen, Servitor's Lackey	R	common	Legendary Creature — Cat Youkai 	95	URG	2R	Haste
+!tag PoFV
+!tag GameplayREPLACEMEChen, Servitor's Lackey	R	common	Legendary Creature — Cat Youkai 	95	URG	2R	Haste
 Menace
 Whenever Chen deals combat damage to a player, you may pay G/UG/U. When you do, look at the top seven cards of your library. You may reveal a Youkai creature or Yukari planeswalker card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.	3/2		normal	2HU		!tag PCB
 !tag Chen
@@ -1279,7 +1282,8 @@ Knockout in Three Steps — Whenever Yuugi attacks, you may sacrifice an artifac
 !tag Print
 !tag Fighter
 !tag Spinoff
-!tag PlayableREPLACEMEByakuren, Superhuman	WU	rare	Legendary Creature — Wizard Monk 	152	WU	2WU	When Byakuren enters, each opponent gains 5 life.
+!tag Playable
+!tag SageREPLACEMEByakuren, Superhuman	WU	rare	Legendary Creature — Wizard Monk 	152	WU	2WU	When Byakuren enters, each opponent gains 5 life.
 Vigilance, ward 3
 Whenever Byakuren attacks, you may discard a card. When you do, Byakuren gains double strike until end of turn.	5/5		normal	2HU		!tag UFO
 !tag Byakuren
