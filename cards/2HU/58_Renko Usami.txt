@@ -1,0 +1,1 @@
+﻿Renko Usami	U	common	Legendary Creature – Human 	58	U	1U	At the beginning of each opponent’s upkeep, scry 1.	1/2		normal	2HU		!tag HifuuNEWLINE!tag RenkoNEWLINE!tag CD

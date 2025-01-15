@@ -1,0 +1,1 @@
+﻿Agatha ChrisQ	U	rare	Legendary Creature – Human Bard 	34	U	U	When Agatha Chris”Q” enters, investigate. (Create a Clue token. It’s an artifact with “2, Sacrifice this artifact: Draw a card.”)NEWLINEU, Sacrifice Agatha Chris”Q”: Scry 2.	1/2		normal	2HU		!tag FSNEWLINE!tag AkyuuNEWLINE!tag Print

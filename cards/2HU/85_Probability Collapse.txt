@@ -1,0 +1,1 @@
+﻿Probability Collapse	B	rare	Enchantment	85	B	1BB	FlashNEWLINEWhenever an opponent draws a card other than the first one they draw in each of their draw steps, that player discards a card.			normal	2HU		!tag PoDDNEWLINE!tag Yumemi

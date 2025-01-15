@@ -1,0 +1,1 @@
+﻿Kagerou, Bamboos Loup-Garou	G	uncommon	Legendary Creature – Werewolf Youkai 	136	G	G	Vigilance, trampleNEWLINEFull Moon Howling – 1GG: Until end of turn, Kagerou becomes a Wolf with base power and toughness 5/5.	1/2		normal	2HU		!exportname Kagerou, Bamboos Loup-GarouNEWLINE!tag DDCNEWLINE!tag KagerouNEWLINE!tag KaggywaggyNEWLINE!tag GrassrootsNEWLINE!tag Stage3

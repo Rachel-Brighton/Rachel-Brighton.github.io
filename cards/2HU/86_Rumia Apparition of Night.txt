@@ -1,0 +1,1 @@
+﻿Rumia, Apparition of Night	B	common	Legendary Creature – Shade Youkai 	86	B	B	B: Rumia gets +1/+1 and gains shadow until end of turn. Activate only once. (This creature can block or be blocked by only creatures with shadow.)	2/1		normal	2HU		!tag EoSDNEWLINE!tag RumiaNEWLINE!tag Stage1

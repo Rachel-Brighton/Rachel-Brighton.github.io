@@ -1,0 +1,1 @@
+﻿Eika Ebisu	G	common	Legendary Creature – Spirit Child 	128	G	G	When Eika Ebisu enters, you may put a +1/+1 counter on another target creature.NEWLINE3G: Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)	1/1		normal	2HU		!tag WBaWCNEWLINE!tag EikaNEWLINE!tag Stage1

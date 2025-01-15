@@ -1,0 +1,1 @@
+﻿Interdimensional Voyage	W	common	Instant	14	W	1W	Exile target creature you control. If it was a Vehicle, exile each creature that crewed it this turn. Then return each creature exiled this way to the battlefield under its owner’s control.			normal	2HU		!tag UFONEWLINE!tag Music

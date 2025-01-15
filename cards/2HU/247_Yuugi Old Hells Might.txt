@@ -1,0 +1,1 @@
+﻿Yuugi, Old Hell's Might	BR	uncommon	Legendary Creature – Demon 	247	BR	3BR	IndestructibleNEWLINEYuugi can’t block.NEWLINEKnockout in Three Steps – Whenever Yuugi attacks, you may sacrifice an artifact. When you do, untap target creature and it blocks Yuugi this turn if able.	6/6		normal	2HU		!tag SANEWLINE!tag YuugiNEWLINE!tag Stage4NEWLINE!tag Hell

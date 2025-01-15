@@ -1,0 +1,1 @@
+﻿Homing Option		uncommon	Artifact – Equipment 	262	C	3	Equipped creature gets +3/+3 and must be blocked if able.NEWLINEEquip 3			normal	2HU		!tag ReimuNEWLINE!tag Hakurei

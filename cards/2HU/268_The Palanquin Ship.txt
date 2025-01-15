@@ -1,0 +1,1 @@
+﻿The Palanquin Ship		rare	Legendary Artifact – Vehicle 	268	C	4	FlyingNEWLINEWhenever The Palanquin Ship enters or attacks, create two Treasure tokens.NEWLINECrew 5	7/7		normal	2HU		!tag UFO

@@ -1,0 +1,1 @@
+﻿Byakuren, Superhuman	WU	rare	Legendary Creature – Wizard Monk 	152	WU	2WU	When Byakuren enters, each opponent gains 5 life.NEWLINEVigilance, ward 3NEWLINEWhenever Byakuren attacks, you may discard a card. When you do, Byakuren gains double strike until end of turn.	5/5		normal	2HU		!tag UFONEWLINE!tag ByakurenNEWLINE!tag Stage6NEWLINE!tag MyourenNEWLINE!tag Playable

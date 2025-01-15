@@ -1,0 +1,1 @@
+﻿Body Enhancement Magic	W	uncommon	Enchantment – Aura 	7	W	1W	Enchant creatureNEWLINEWhen this enchantment enters or whenever enchanted creature attacks, put a +1/+1 counter on enchanted creature.			normal	2HU		!tag Byakuren

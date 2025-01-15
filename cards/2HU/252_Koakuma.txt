@@ -1,0 +1,1 @@
+﻿Koakuma	BR	uncommon	Legendary Creature – Devil 	252	BR	1B/R	Whenever Koakuma enters, attacks, or dies, it deals 1 damage to target player.	1/1		normal	2HU		!tag EoSDNEWLINE!tag KoakumaNEWLINE!tag Stage4NEWLINE!tag UnnamedNEWLINE!tag SDM

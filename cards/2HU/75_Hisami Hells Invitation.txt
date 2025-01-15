@@ -1,0 +1,1 @@
+﻿Hisami, Hells Invitation	B	rare	Legendary Creature – Hag 	75	B	1BB	When Hisami enters, you may exile target creature. When you do, that creature’s controller creates two Treasure tokens.	2/2		normal	2HU		!exportname Hisami, Hells InvitationNEWLINE!tag UDoALGNEWLINE!tag HisamiNEWLINE!tag PhantasmagoriaNEWLINE!tag Playable

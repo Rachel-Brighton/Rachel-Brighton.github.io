@@ -1,0 +1,1 @@
+﻿Lunar Capitol Thoroughfare		rare	Land	277	WB		T, Pay 1 life: Add W or B.NEWLINET, Sacrifice Lunar Capitol Thoroughfare: Search your library for a basic Plains or Swamp, put it onto the battlefield tapped, then shuffle.			normal	2HU		!tag LoLKNEWLINE!tag SSiBNEWLINE!tag CiLRNEWLINE!tag IN-extendedNEWLINE!tag IN-allNEWLINE!tag BougetsushouNEWLINE!tag PrintNEWLINE!tag Moon

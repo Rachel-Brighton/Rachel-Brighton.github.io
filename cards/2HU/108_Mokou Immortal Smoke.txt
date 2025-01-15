@@ -1,0 +1,1 @@
+﻿Mokou, Immortal Smoke	R	mythic	Legendary Creature – Human 	108	R	2RR	You may cast Mokou, Immortal Smoke from your graveyard.NEWLINEHasteNEWLINEInextinguishable – Sacrifice Mokou: It deals 2 damage to any target.	2/2		normal	2HU		"just add a life cost to the graveyard cast" -RickyRisterNEWLINENEWLINE!tag INNEWLINE!tag MokouNEWLINE!tag EXNEWLINE!tag StageEXNEWLINE!tag Playable

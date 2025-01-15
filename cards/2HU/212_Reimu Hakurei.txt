@@ -1,0 +1,1 @@
+﻿Reimu Hakurei	WR	mythic	Legendary Creature – Human Monk 	212	WR	2RW	Flying, vigilance, lifelinkNEWLINEFantasy Seal – 2RW, T: Reimu deals 2 damage divided as you choose among one or two target creatures.	3/3		normal	2HU		!tag INNEWLINE!tag ReimuNEWLINE!tag Stage4NEWLINE!tag HakureiNEWLINE!tag Playable

@@ -1,0 +1,1 @@
+﻿Human Village Streets		rare	Land	275	WG		T, Pay 1 life: Add G or W.NEWLINET, Sacrifice Human Village Streets: Search your library for a basic Forest or Plains, put it onto the battlefield tapped, then shuffle.			normal	2HU		!tag IN

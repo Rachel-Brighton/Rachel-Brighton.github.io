@@ -1,0 +1,1 @@
+﻿Gensokyo Accepts All	G	common	Sorcery	133	G	G	Look at the top four cards of your library. You may reveal a creature or land from among them and put it into your hand. Put the rest on the bottom of your library in any order. Until end of turn, creatures you control that share a name with the revealed card enter with an additional +1/+1 counter.			normal	2HU		

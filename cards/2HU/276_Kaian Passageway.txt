@@ -1,0 +1,1 @@
+﻿Kaian Passageway		rare	Land	276	UB		T, Pay 1 life: Add U or B.NEWLINET, Sacrifice Kaian Passageway: Search your library for a basic Island or Swamp, put it onto the battlefield tapped, then shuffle.			normal	2HU		!tag LoLK

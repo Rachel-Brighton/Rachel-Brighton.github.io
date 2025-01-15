@@ -1,0 +1,1 @@
+﻿Hong Meiling	RG	uncommon	Legendary Creature – Youkai 	168	RG	RG	T: Add R or G.NEWLINECreatures blocking or blocked by Hong Meiling have first strike.	4/3		normal	2HU		!tag EoSDNEWLINE!tag MeilingNEWLINE!tag Stage3NEWLINE!tag SDMNEWLINE!tag Playable

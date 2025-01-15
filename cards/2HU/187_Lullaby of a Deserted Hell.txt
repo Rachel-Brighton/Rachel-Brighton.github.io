@@ -1,0 +1,1 @@
+﻿Lullaby of a Deserted Hell	BR	uncommon	Enchantment	187	BR	1BR	Whenever this enchantment enters the battlefield or is put into a graveyard from the battlefield, exile target player’s graveyard. Until end of turn, you may play a card exiled this way.NEWLINE1, Sacrifice this enchantment: Add one mana of any color.			normal	2HU		!tag SANEWLINE!tag MusicNEWLINE!tag Hell

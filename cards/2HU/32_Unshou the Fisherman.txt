@@ -1,0 +1,1 @@
+﻿Unshou, the Fisherman	W	common	Legendary Creature – Human 	32	W	W	FlashNEWLINEKappa’s Nostrum – When Unshou enters, return to your hand target creature card in your graveyard that was put there from the battlefield this turn.	1/1		normal	2HU		!tag WaHHNEWLINE!tag Print

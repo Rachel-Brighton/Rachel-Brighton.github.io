@@ -1,0 +1,1 @@
+﻿Enoko Mitsugashira	R	uncommon	Legendary Creature – Wolf Zombie 	99	R	3R	First strikeNEWLINECerberus Fire – Whenever a creature dealt damage by Enoko Mitsugashira this turn dies, Enoko deals 2 damage to target opponent.	3/2		normal	2HU		!tag UDoALGNEWLINE!tag EnokoNEWLINE!tag PhantasmagoriaNEWLINE!tag Playable

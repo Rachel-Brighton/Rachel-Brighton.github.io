@@ -1,0 +1,1 @@
+﻿Moreya Shrine Path		rare	Land	279	UG		T, Pay 1 life: Add G or U.NEWLINET, Sacrifice Moreya Shrine Path: Search your library for a basic Forest or Island, put it onto the battlefield tapped, then shuffle.			normal	2HU		!tag MoFNEWLINE!tag MoriyaNEWLINE!tag Moreya

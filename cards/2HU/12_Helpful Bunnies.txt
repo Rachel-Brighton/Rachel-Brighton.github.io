@@ -1,0 +1,1 @@
+﻿Helpful Bunnies	W	common	Creature – Rabbit 	12	W	3W	When this creature enters, tap up to one target creature.NEWLINEWhenever this creature becomes tapped, create a Food token. (It’s an artifact with “2, T, Sacrifice this artifact: You gain 3 life.”)	3/3		normal	2HU		!tag IotMaIotENEWLINE!tag IN-extendedNEWLINE!tag IN-allNEWLINE!tag BougetsushouNEWLINE!tag Eientei

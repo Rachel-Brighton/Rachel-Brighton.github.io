@@ -1,0 +1,1 @@
+﻿Bad Apple	WB	rare	Sorcery	149	WB	WB	Search your library for a legendary creature card, reveal it, put it into your hand, then shuffle. Until end of turn, spells with that card’s name cost 2 less to cast. You lose 3 life. 			normal	2HU		!tag LLSNEWLINE!tag EllenNEWLINE!tag BappleNEWLINE!tag MusicNEWLINE!tag PC-98

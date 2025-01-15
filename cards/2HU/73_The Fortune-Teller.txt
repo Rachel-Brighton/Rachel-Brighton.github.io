@@ -1,0 +1,1 @@
+﻿The Fortune-Teller	B	common	Legendary Creature – Youkai Advisor 	73	B	1B	MenaceNEWLINEEmerge 2B (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature’s mana value.)NEWLINEWhen you cast The Fortune-Teller, if its emerge cost was paid, draw two cards and you lose 2 life.	2/1		normal	2HU		!tag FSNEWLINE!tag Print

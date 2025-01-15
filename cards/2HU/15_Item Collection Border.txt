@@ -1,0 +1,1 @@
+﻿Item Collection Border	W	uncommon	Instant	15	W	2W	Put a +1/+1 counter on target creature. You gain 1 life.NEWLINEGravestorm (When you cast this spell, copy it for each permanent put into a graveyard from the battlefield this turn. You may choose new targets for the copies.)			normal	2HU		

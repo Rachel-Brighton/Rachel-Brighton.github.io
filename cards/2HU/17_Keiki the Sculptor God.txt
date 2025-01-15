@@ -1,0 +1,1 @@
+﻿Keiki, the Sculptor God	W	rare	Legendary Creature – God 	17	W	2WWW	Idol of Soil and Water – When Keiki enters, you may search your library for an artifact creature card with mana value 3 or less and put it onto the battlefield, then shuffle.NEWLINEArtifact creatures you control get +1/+1 for each Human you control.	3/3		normal	2HU		!tag WBaWCNEWLINE!tag KeikiNEWLINE!tag Stage6

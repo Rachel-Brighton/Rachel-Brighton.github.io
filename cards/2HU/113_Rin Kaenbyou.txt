@@ -1,0 +1,1 @@
+﻿Rin Kaenbyou	R	rare	Legendary Creature – Cat Youkai 	113	BR	1RR	HasteNEWLINERekindling of Dead Ashes – 1B: Exile target card in a graveyard. If a creature card is exiled this way, create a 1/1 white Spirit creature token with flying and haste.	3/2		normal	2HU		!tag SANEWLINE!tag RinNEWLINE!tag OrinNEWLINE!tag Stage5NEWLINE!tag ChireidenNEWLINE!tag HellNEWLINE!tag Playable

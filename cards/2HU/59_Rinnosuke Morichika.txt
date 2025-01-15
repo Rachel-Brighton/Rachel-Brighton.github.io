@@ -1,0 +1,1 @@
+﻿Rinnosuke Morichika	U	uncommon	Legendary Creature – Human Youkai 	59	U	2U	DefenderNEWLINEWhenever an artifact enters the battlefield under your control, you may scry X, where X is that artifact’s mana value.	1/4		normal	2HU		!tag CoLANEWLINE!tag RinnosukeNEWLINE!tag Print

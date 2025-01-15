@@ -1,0 +1,1 @@
+﻿Hakurei Shrine Grounds		rare	Land	273	WR		T, Pay 1 life: Add R or W.NEWLINET, Sacrifice Hakurei Shrine Grounds: Search your library for a basic Mountain or Plains, put it onto the battlefield tapped, then shuffle.			normal	2HU		!tag Hakurei

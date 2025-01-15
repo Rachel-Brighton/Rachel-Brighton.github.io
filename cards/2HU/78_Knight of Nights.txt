@@ -1,0 +1,1 @@
+﻿Knight of Nights	B	uncommon	Instant	78	B	1B	Until end of turn, target creature gets +2/+0 and gains haste, menace, first strike, and deathtouch.			normal	2HU		!tag SakuyaNEWLINE!tag Music

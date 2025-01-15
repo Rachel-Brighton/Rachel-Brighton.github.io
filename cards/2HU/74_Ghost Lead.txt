@@ -1,0 +1,1 @@
+﻿Ghost Lead	B	common	Creature – Spirit 	74	B	3B	FlyingNEWLINEWhen this creature enters, create a 1/1 white Spirit creature token with flying.	2/2		normal	2HU		!tag TDNEWLINE!tag MusicNEWLINE!tag Stage1

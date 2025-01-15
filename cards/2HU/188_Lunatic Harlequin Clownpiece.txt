@@ -1,0 +1,1 @@
+﻿Lunatic Harlequin, Clownpiece	BR	rare	Legendary Creature – Faerie Clown 	188	BR	2BR	FlyingNEWLINEWhen Clownpiece enters, each player discards their hand and draws two cards.NEWLINEWhenever a player discards a card, they lose 1 life.	3/1		normal	2HU		!tag LoLKNEWLINE!tag ClownpieceNEWLINE!tag KurapiNEWLINE!tag Stage5NEWLINE!tag HellNEWLINE!tag Sangetsusei

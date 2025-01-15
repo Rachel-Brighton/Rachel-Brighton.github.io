@@ -1,0 +1,1 @@
+﻿Tsuchinoko	G	common	Creature – Snake 	143	G	1G	When this creature enters, you may sacrifice a noncreature permanent. When you do, search your library for a basic land and put it onto the battlefield tapped, then shuffle.	2/2		normal	2HU		!tag PrintNEWLINE!tag Sangetsusei

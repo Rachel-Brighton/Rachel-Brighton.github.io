@@ -1,0 +1,1 @@
+﻿Aerodynamic Blades		uncommon	Artifact – Equipment 	257	C	4	When you cast this spell, copy it twice.NEWLINEEquipped creature gets +1/+0.NEWLINEWhenever equipped creature attacks, you may sacrifice this Equipment. When you do, that creature deals 1 damage to any target.NEWLINEEquip 1			normal	2HU		!tag Sakuya

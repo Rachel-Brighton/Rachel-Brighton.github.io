@@ -1,0 +1,1 @@
+﻿Marisa Kirisame	UR	mythic	Legendary Creature – Human Wizard 	192	UR	2UR	Flying, haste, prowessNEWLINEBlazing Star – You may cast sorcery and enchantment spells as though they had flash.	4/3		normal	2HU		!tag INNEWLINE!tag MarisaNEWLINE!tag Stage4NEWLINE!tag Playable

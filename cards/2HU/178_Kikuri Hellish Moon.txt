@@ -1,0 +1,1 @@
+﻿Kikuri, Hellish Moon	WB	rare	Legendary Artifact Creature – Wall 	178	WB	WWBB	DefenderNEWLINEWhen Kikuri, Hellish Moon enters, create two 1/1 white Spirit creature tokens with flying.NEWLINESpirits you control get +1/+1.	1/3		normal	2HU		!tag HRtPNEWLINE!tag KikuriNEWLINE!tag HellNEWLINE!tag PC-98

@@ -1,0 +1,1 @@
+﻿Panic Bomb	B	common	Instant	84	B	1B	Target creature you control gains indestructible until end of turn. Tap it.NEWLINEEach opponent loses 2 life.			normal	2HU		!tag Gameplay

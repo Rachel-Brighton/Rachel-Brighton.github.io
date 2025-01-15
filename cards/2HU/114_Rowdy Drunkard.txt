@@ -1,0 +1,1 @@
+﻿Rowdy Drunkard	R	common	Creature – Human Citizen 	114	R	R	This creature has haste as long as you control an artifact token.NEWLINEWhenever you sacrifice an artifact token, this creature gains menace until end of turn.	2/1		normal	2HU		!tag UBNEWLINE!tag Isami

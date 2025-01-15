@@ -1,0 +1,1 @@
+﻿Judgement	WB	rare	Instant	174	WB	1WB	Choose one –NEWLINE• Exile target creature.NEWLINE• Exile target planeswalker.NEWLINE• Exile target player’s graveyard.			normal	2HU		!tag EikiNEWLINE!tag Shikieiki

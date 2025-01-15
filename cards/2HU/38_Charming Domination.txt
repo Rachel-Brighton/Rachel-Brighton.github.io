@@ -1,0 +1,1 @@
+﻿Charming Domination	U	rare	Enchantment – Aura 	38	U	3UU	Enchant creatureNEWLINEYou control enchanted creature.NEWLINE1: Enchanted creature becomes a copy of another target creature you control until end of turn.			normal	2HU		!tag PCBNEWLINE!tag YukariNEWLINE!tag RanNEWLINE!tag YakumoNEWLINE!tag Music

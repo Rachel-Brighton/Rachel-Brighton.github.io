@@ -1,0 +1,1 @@
+﻿Maribel Hearn	U	uncommon	Legendary Creature – Human 	50	URG	U	Whenever you scry, you may pay R/G. if R was spent this way, exile the top card of your library and you may play it until your next end step. If G was spent this way, untap target permanent.	1/1		normal	2HU		!tag HifuuNEWLINE!tag MaribelNEWLINE!tag CD

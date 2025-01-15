@@ -1,0 +1,1 @@
+﻿Shanghai Doll		common	Artifact Creature – Doll 	271	C	2	When this creature dies, draw a card.	1/1		normal	2HU		!tag PCBNEWLINE!tag AliceNEWLINE!tag Shanghai

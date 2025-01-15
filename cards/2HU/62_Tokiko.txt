@@ -1,0 +1,1 @@
+﻿Tokiko	U	common	Legendary Creature – Bird Youkai 	62	U	U	FlyingNEWLINEWhenever Tokiko is dealt damage, each player may draw a card.	0/1		normal	2HU		!tag CoLANEWLINE!tag TokikoNEWLINE!tag Print

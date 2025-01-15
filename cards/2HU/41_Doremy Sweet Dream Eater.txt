@@ -1,0 +1,1 @@
+﻿Doremy Sweet, Dream Eater	U	uncommon	Legendary Creature – Nightmare Youkai 	41	U	2UU	When Doremy Sweet enters, put a stun counter on each other creature.NEWLINET: Tap or untap target creature.	3/3		normal	2HU		!tag LoLKNEWLINE!tag DoremyNEWLINE!tag Stage3NEWLINE!tag Playable

@@ -1,0 +1,1 @@
+﻿Youki, Konpaku Ancestor	G	rare	Legendary Creature – Spirit Samurai 	146	G	2GG	VigilanceNEWLINEBushido 2 (Whenever this creature blocks or becomes blocked, it gets +2/+2 until end of turn.)NEWLINEAt the beginning of each upkeep, untap target creature you control.	4/5		normal	2HU		!tag PCBNEWLINE!tag YoukiNEWLINE!tag Youmu

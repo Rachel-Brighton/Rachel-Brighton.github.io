@@ -1,0 +1,1 @@
+﻿Goliath Doll		rare	Artifact Creature – Doll Giant 	260	C	5	At the end of combat on each of your turns, put a charge counter on this creature. Then if there are three or more charge counters on it, sacrifice this creature and it deals 5 damage to each creature and planeswalker.	5/5		normal	2HU		!tag AliceNEWLINE!tag Hisoutensoku

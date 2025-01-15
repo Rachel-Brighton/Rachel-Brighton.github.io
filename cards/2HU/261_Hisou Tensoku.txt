@@ -1,0 +1,1 @@
+﻿Hisou Tensoku		rare	Legendary Artifact Creature – Giant Robot 	261	C	5	Hisou Tensoku enters with five +1/+1 counters on it.NEWLINEAt the beginning of your end step, remove a +1/+1 counter from Hisou Tensoku.NEWLINE2: Put a +1/+1 counter on Hisou Tensoku.	0/0		normal	2HU		!tag Hisoutensoku

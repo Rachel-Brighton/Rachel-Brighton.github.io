@@ -1,0 +1,1 @@
+﻿Repurposed Rover		uncommon	Artifact Creature – Drone 	270	C	6	Frontline purifier – If a creature dealt damage by Repurposed Rover this turn would die, exile it instead.NEWLINEWhenever this creature deals combat damage to a player, exile their graveyard.	5/6		normal	2HU		!tag LoLK

@@ -1,0 +1,1 @@
+﻿Curtain Fire	R	common	Sorcery	96	R	3RR	Curtain Fire deals 5 damage divided as you choose among any number of nonplayer targets.			normal	2HU		!tag Gameplay

@@ -1,0 +1,1 @@
+﻿Safe Zone	W	common	Enchantment – Aura 	28	W	W	Enchant creatureNEWLINEFlashNEWLINEAs this enchantment enters, choose a card name.NEWLINEEnchanted creature has protection from the chosen card name. (It can’t be targeted, dealt damage, enchanted, or equipped by anything with that card name.)			normal	2HU		!tag EoSDNEWLINE!tag CirnoNEWLINE!tag Gameplay

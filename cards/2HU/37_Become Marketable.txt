@@ -1,0 +1,1 @@
+﻿Become Marketable	U	common	Enchantment – Aura 	37	U	U	Enchant creatureNEWLINEEnchanted creature loses all abilities and is a colorless Doll artifact creature with base power and toughness 1/1.			normal	2HU		!tag Peak

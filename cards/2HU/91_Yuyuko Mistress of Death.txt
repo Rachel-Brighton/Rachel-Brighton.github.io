@@ -1,0 +1,1 @@
+﻿Yuyuko, Mistress of Death	B	rare	Legendary Creature – Spirit Noble 	91	B	4BB	Menace, deathtouchNEWLINEWhen Yuyuko enters, destroy target creature. Then, create a 1/1 white Spirit creature token with flying for each creature in target player’s graveyard.	3/5		normal	2HU		!tag PCBNEWLINE!tag TDNEWLINE!tag YuyukoNEWLINE!tag Stage6NEWLINE!tag Stage1NEWLINE!tag Playable
