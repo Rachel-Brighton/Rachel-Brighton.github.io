@@ -1,0 +1,1 @@
+﻿Demon	B	common	Token Creature – Demon 	10	C		Menace	2/2		token	2HU		!related Shinki, Creator Goddess<2>

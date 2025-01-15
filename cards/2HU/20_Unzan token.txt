@@ -1,0 +1,1 @@
+﻿Unzan token	WU	common	Legendary Token Creature – Elemental 	20	C		Flying, double strike, indestructible, vigilance	4/4		token	2HU		!exportname Unzan tokenNEWLINE!related Ichirin Kumoi

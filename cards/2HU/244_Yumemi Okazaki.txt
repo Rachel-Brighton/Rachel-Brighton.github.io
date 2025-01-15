@@ -1,0 +1,1 @@
+﻿Yumemi Okazaki	UBR	mythic	Legendary Creature – Human Scientist 	244	UBR	2UBR	Adoration of Magic – Whenever an opponent casts a spell, you may scry 1, then reveal the top card of your library. If you do, exile that spell if it has the same mana value as the revealed card.NEWLINEYou may cast spells exiled with Yumemi Okazaki without paying their mana costs.	4/4		normal	2HU		

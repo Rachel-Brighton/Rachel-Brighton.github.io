@@ -1,0 +1,1 @@
+﻿Bat	BR	common	Token Creature – Bat 	17	C		FlyingNEWLINESacrifice this creature: Return a card named Elis, Innocence Devil from exile to the battlefield	1/1		token	2HU		!related Elis, Innocence DevilNEWLINE!tokentag ElisBat

@@ -1,0 +1,1 @@
+﻿Graze	W	common	Instant	10	W	W	Prevent the next 3 damage that would be dealt to target creature or planeswalker this turn.NEWLINEScry 2.			normal	2HU		

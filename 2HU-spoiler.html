@@ -1,0 +1,764 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<link rel="icon" type="image/png" href="sets/2HU-files/icon.png"/>
+	<link rel="stylesheet" href="/resources/header.css">
+	<title>2HU visual spoiler</title>
+	<style>
+		body {
+			font-family: Arial, sans-serif;
+			margin: 0;
+			padding: 0;
+			overscroll-behavior: none;
+			background-size: cover;
+			background-attachment: fixed;
+		}
+		.main-content {
+			position: relative;
+			width: 100%;
+			float: left;
+			z-index: 2;
+			justify-items: center;
+		}
+		.sidebar {
+			position: sticky;
+			top: 0;
+			display: none;
+			text-align: center;
+			padding-right: 3%;
+			z-index: 1;
+			justify-items: center;
+		}
+		.sidebar-container {
+			width: 80%;
+			max-width: 375px;
+		}
+		.sidebar img {
+			vertical-align: middle;
+			width: 100%;
+		}
+		.close-btn {
+			background: url('img/close.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 10%;
+			height: 10%;
+			border: none;
+			cursor: pointer;
+			position: absolute;
+			right: 4%;
+		}
+		.close-btn:hover {
+			background: url('img/close-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.grid-container {
+			display: grid;
+			grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+			gap: 2px;
+			padding-left: 5%;
+			padding-right: 5%;
+			padding-bottom: 3%;
+			justify-items: center;
+			max-width: 1200px;
+		}
+		.grid-container img {
+			width: 100%;
+			height: auto;
+			display: block;
+			visibility: hidden;
+			cursor: pointer;
+		}
+		.banner {
+			width: 100%;
+			height: auto;
+			padding-top: 20px;
+			padding-bottom: 50px;
+		}
+		.logo {
+			display: block;
+			margin: auto;
+			max-width: 30%;
+			max-height: 320px;
+		}
+		.container {
+			position: relative;
+			width: 100%;
+		}
+		.container img {
+			width: 100%;
+			height: auto;
+		}
+		.flip-btn {
+			background: url('img/flip.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 15%;
+			height: 11%;
+			cursor: pointer;
+			border: none;
+			position: absolute;
+			top: 6.5%;
+			left: 8.5%;
+			transform: translate(-50%, -50%);
+		}
+		.flip-btn:hover {
+			background: url('img/flip-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.sidebar .flip-btn {
+			right: 80%;
+			left: 7.8%;
+			top: -4%;
+			transform: none;
+
+		}
+		.icon-bar {
+			display: grid;
+			grid-template-columns: repeat(10, 3fr 2fr) 3fr;
+			gap: 1px;
+			padding-left: 5%;
+			padding-right: 5%;
+			padding-top: 2%;
+			padding-bottom: 1%;
+			justify-items: center;
+			align-items: center;
+		}
+		.icon-bar .icon img {
+			width: 90%;
+			max-width: 80px;
+			height: auto;
+			display: block;
+			padding: 5%;
+			margin: auto;
+			text-align: center;
+		}
+		.icon-bar .dot img {
+			width: 50%;
+			max-width: 65px;
+			height: auto;
+			display: block;
+			margin: auto;
+			text-align: center;
+		}
+		.preload-hidden {
+			display: none;
+		}
+		/* This is here to enable the stickiness in a Float environment. I don't know why it works but it does */
+		.footer {
+			clear: both;
+		}
+	</style>
+</head>
+<body>
+	<img class="preload-hidden" src="/img/dot.png" />
+	<img class="preload-hidden" src="/sets/2HU-files/logo.png" />
+	<img class="preload-hidden" src="/sets/2HU-files/icon.png" />
+		<div class="header">
+		<div class="search-grid">
+			<a href="/"><img class="sg-logo" src="/img/banner.png"></a>
+			<img class="sg-icon" src="/img/search.png">
+			<input type="text" inputmode="search" placeholder="Search ..." name="search" id="search" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
+			<a href="/all-sets"><img src="/img/sets.png" class="sg-icon">Sets</a>
+			<a onclick="randomCard()"><img src="/img/random.png" class="sg-icon">Random</a>
+		</div>
+	</div>
+
+	<div class="icon-bar">
+			<div class="icon"><a href="2HU-spoiler"><img src="sets/2HU-files/icon.png"></img></a></div>
+
+		</div>
+		<div class="banner">
+		<img class="logo" src="sets/2HU-files/logo.png">
+		</div>
+		<div class="main-content" id="main-content">
+			<div class="grid-container">
+				<div class="container"><img alt="sets\2HU-files\img\8_Fantasy Nature.png" id="8" data-flag="@X" onclick="openSidebar('8')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\33_Agatha ChrisQ.png" id="33" data-flag="@X" onclick="openSidebar('33')"></div>
+			<div class="container"><img data-alt_src="sets\2HU-files\img\75_Ibaraki-Douji_back.png" alt="sets\2HU-files\img\75_Ibaraki-Douji_front.png" id="75" data-flag="@XD" onclick="openSidebar(75)"><button class="flip-btn" onclick="imgFlip(75)"></button></div>
+			<div class="container"><img alt="sets\2HU-files\img\106_Master Spark.png" id="106" data-flag="@X" onclick="openSidebar('106')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\138_Momoyo, Onyx Dragon-Eater.png" id="138" data-flag="@X" onclick="openSidebar('138')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\18_Lord Tenma.png" id="18" data-flag="@X" onclick="openSidebar('18')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\37_Charming Domination.png" id="37" data-flag="@X" onclick="openSidebar('37')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\87_Toutetsu, the Avaricious Beast.png" id="87" data-flag="@X" onclick="openSidebar('87')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\107_Mokou, Immortal Smoke.png" id="107" data-flag="@X" onclick="openSidebar('107')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\145_Youki, Konpaku Ancestor.png" id="145" data-flag="@X" onclick="openSidebar('145')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\30_Toyohime, Divine Ward.png" id="30" data-flag="@X" onclick="openSidebar('30')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\44_Hieda no Akyuu.png" id="44" data-flag="@X" onclick="openSidebar('44')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\91_Zanmu, the Unobstructed Light.png" id="91" data-flag="@X" onclick="openSidebar('91')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\109_Raiko Horikawa.png" id="109" data-flag="@X" onclick="openSidebar('109')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\128_Elly, Guardian of Mugenkan.png" id="128" data-flag="@X" onclick="openSidebar('128')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\32_Yorihime, Divine Vessel.png" id="32" data-flag="@X" onclick="openSidebar('32')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\45_Kaguya, Lunatic Princess.png" id="45" data-flag="@X" onclick="openSidebar('45')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\66_Bloom Nobly, Ink-Black Blossoms.png" id="66" data-flag="@X" onclick="openSidebar('66')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\123_Utsuho Reiuji.png" id="123" data-flag="@X" onclick="openSidebar('123')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\130_Exploitable Resources.png" id="130" data-flag="@X" onclick="openSidebar('130')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\12_Idolatrize World.png" id="12" data-flag="@X" onclick="openSidebar('12')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\55_Player 2.png" id="55" data-flag="@X" onclick="openSidebar('55')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\69_Chiyuri, Sailor of Time.png" id="69" data-flag="@X" onclick="openSidebar('69')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\99_Extend Ash.png" id="99" data-flag="@X" onclick="openSidebar('99')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\133_The Gensokyo the Gods Loved.png" id="133" data-flag="@X" onclick="openSidebar('133')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\15_Iwakasa, Bearer of the Elixir.png" id="15" data-flag="@X" onclick="openSidebar('15')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\56_Ran, Sage's Servitor.png" id="56" data-flag="@X" onclick="openSidebar('56')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\70_The Coward Pierrot.png" id="70" data-flag="@X" onclick="openSidebar('70')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\102_Giga Flare.png" id="102" data-flag="@X" onclick="openSidebar('102')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\135_Kagerou, Bamboos Loup-Garou.png" id="135" data-flag="@X" onclick="openSidebar('135')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\16_Keiki, the Sculptor God.png" id="16" data-flag="@X" onclick="openSidebar('16')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\34_Alice Margatroid.png" id="34" data-flag="@X" onclick="openSidebar('34')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\74_Hisami, Hells Invitation.png" id="74" data-flag="@X" onclick="openSidebar('74')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\103_The Grounds Color is Yellow.png" id="103" data-flag="@X" onclick="openSidebar('103')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\137_Land of Faith and Fantasy.png" id="137" data-flag="@X" onclick="openSidebar('137')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\21_Mayumi Joutougu.png" id="21" data-flag="@X" onclick="openSidebar('21')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\38_Cosmic Mind.png" id="38" data-flag="@X" onclick="openSidebar('38')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\79_Lets Live in a Lovely Cemetery.png" id="79" data-flag="@X" onclick="openSidebar('79')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\110_Reverse Ideology.png" id="110" data-flag="@X" onclick="openSidebar('110')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\139_Son Biten.png" id="139" data-flag="@X" onclick="openSidebar('139')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\23_Now, Until Your Final Breath.png" id="23" data-flag="@X" onclick="openSidebar('23')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\39_Deaf to All but the Song.png" id="39" data-flag="@X" onclick="openSidebar('39')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\82_Mima, the Black Wind.png" id="82" data-flag="@X" onclick="openSidebar('82')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\112_Rin Kaenbyou.png" id="112" data-flag="@X" onclick="openSidebar('112')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\125_Drunk As I Like.png" id="125" data-flag="@X" onclick="openSidebar('125')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\28_Shou Toramaru.png" id="28" data-flag="@X" onclick="openSidebar('28')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\40_Doremy Sweet, Dream Eater.png" id="40" data-flag="@X" onclick="openSidebar('40')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\84_Probability Collapse.png" id="84" data-flag="@X" onclick="openSidebar('84')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\116_Seija, Bane of Gensokyo.png" id="116" data-flag="@X" onclick="openSidebar('116')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\126_Dynamic Entrance.png" id="126" data-flag="@X" onclick="openSidebar('126')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\29_Tewi, White Rabbit of Inaba.png" id="29" data-flag="@X" onclick="openSidebar('29')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\42_God Forbid Women Do Anything.png" id="42" data-flag="@X" onclick="openSidebar('42')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\86_Shion, Consuming Poverty.png" id="86" data-flag="@X" onclick="openSidebar('86')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\122_Tojiko, Thunder Soul.png" id="122" data-flag="@X" onclick="openSidebar('122')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\127_Eika Ebisu.png" id="127" data-flag="@X" onclick="openSidebar('127')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\7_Cinderella Cage.png" id="7" data-flag="@X" onclick="openSidebar('7')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\47_Kana Anaberal.png" id="47" data-flag="@X" onclick="openSidebar('47')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\90_Yuyuko, Mistress of Death.png" id="90" data-flag="@X" onclick="openSidebar('90')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\92_Battle Bond.png" id="92" data-flag="@X" onclick="openSidebar('92')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\129_Eternity Larva, Birth and Rebirth.png" id="129" data-flag="@X" onclick="openSidebar('129')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\9_Fires of Hokkai.png" id="9" data-flag="@X" onclick="openSidebar('9')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\49_Maribel Hearn.png" id="49" data-flag="@X" onclick="openSidebar('49')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\64_Apparitions Stalk the Night.png" id="64" data-flag="@X" onclick="openSidebar('64')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\97_Ellen, Eternal Unknowing.png" id="97" data-flag="@X" onclick="openSidebar('97')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\131_Full Power Up!!.png" id="131" data-flag="@X" onclick="openSidebar('131')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\14_Item Collection Border.png" id="14" data-flag="@X" onclick="openSidebar('14')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\52_Nitori Kawashiro.png" id="52" data-flag="@X" onclick="openSidebar('52')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\67_Border of Life.png" id="67" data-flag="@X" onclick="openSidebar('67')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\98_Enoko Mitsugashira.png" id="98" data-flag="@X" onclick="openSidebar('98')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\132_Gensokyo Accepts All.png" id="132" data-flag="@X" onclick="openSidebar('132')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\17_Lily White.png" id="17" data-flag="@X" onclick="openSidebar('17')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\54_Patchouli, Archivist Recluse.png" id="54" data-flag="@X" onclick="openSidebar('54')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\68_Chiyari Tenkajin.png" id="68" data-flag="@X" onclick="openSidebar('68')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\101_Get Ahead Of Yourself.png" id="101" data-flag="@X" onclick="openSidebar('101')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\134_Goddesses of Autumn.png" id="134" data-flag="@X" onclick="openSidebar('134')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\24_Phantom Ensemble.png" id="24" data-flag="@X" onclick="openSidebar('24')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\58_Rinnosuke Morichika.png" id="58" data-flag="@X" onclick="openSidebar('58')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\71_Deep-Mountain Encounter.png" id="71" data-flag="@X" onclick="openSidebar('71')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\119_Spellcard Declaration.png" id="119" data-flag="@X" onclick="openSidebar('119')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\136_Kiketsus Sneak, Otter.png" id="136" data-flag="@X" onclick="openSidebar('136')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\25_The Prismriver Sisters.png" id="25" data-flag="@X" onclick="openSidebar('25')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\60_Star Sapphire.png" id="60" data-flag="@X" onclick="openSidebar('60')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\77_Knight of Nights.png" id="77" data-flag="@X" onclick="openSidebar('77')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\120_Sunny Milk.png" id="120" data-flag="@X" onclick="openSidebar('120')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\140_Takane Yamashiro.png" id="140" data-flag="@X" onclick="openSidebar('140')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\10_Graze.png" id="10" data-flag="@X" onclick="openSidebar('10')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\35_Autumnal Waterfall.png" id="35" data-flag="@X" onclick="openSidebar('35')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\80_Lily Black.png" id="80" data-flag="@X" onclick="openSidebar('80')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\93_Blood Drive.png" id="93" data-flag="@X" onclick="openSidebar('93')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\141_This, Too, Is Yuri.png" id="141" data-flag="@X" onclick="openSidebar('141')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\11_Helpful Bunnies.png" id="11" data-flag="@X" onclick="openSidebar('11')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\36_Become Marketable.png" id="36" data-flag="@X" onclick="openSidebar('36')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\81_Medicine Melancholy.png" id="81" data-flag="@X" onclick="openSidebar('81')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\94_Chen, Servitor's Lackey.png" id="94" data-flag="@X" onclick="openSidebar('94')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\142_Tsuchinoko.png" id="142" data-flag="@X" onclick="openSidebar('142')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\13_Interdimensional Voyage.png" id="13" data-flag="@X" onclick="openSidebar('13')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\41_Error-Prone Maid.png" id="41" data-flag="@X" onclick="openSidebar('41')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\88_Ultimate Truth.png" id="88" data-flag="@X" onclick="openSidebar('88')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\95_Curtain Fire.png" id="95" data-flag="@X" onclick="openSidebar('95')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\143_Vine of Wisteria.png" id="143" data-flag="@X" onclick="openSidebar('143')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\19_Luna Child.png" id="19" data-flag="@X" onclick="openSidebar('19')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\43_Gouyoku Agent, Eagle.png" id="43" data-flag="@X" onclick="openSidebar('43')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\89_Yoshika Miyako.png" id="89" data-flag="@X" onclick="openSidebar('89')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\96_Devil's Recitation.png" id="96" data-flag="@X" onclick="openSidebar('96')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\144_Wriggle Nightbug.png" id="144" data-flag="@X" onclick="openSidebar('144')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\20_Lunar Reinforcements.png" id="20" data-flag="@X" onclick="openSidebar('20')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\46_Kaguyas Impossible Request.png" id="46" data-flag="@X" onclick="openSidebar('46')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\65_Bell of Avici.png" id="65" data-flag="@X" onclick="openSidebar('65')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\100_Fierce Fang, Wolf.png" id="100" data-flag="@X" onclick="openSidebar('100')"></div>
+			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\22_Mike Goutokuji.png" id="22" data-flag="@X" onclick="openSidebar('22')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\48_Letty Whiterock.png" id="48" data-flag="@X" onclick="openSidebar('48')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\72_The Fortune-Teller.png" id="72" data-flag="@X" onclick="openSidebar('72')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\104_Kosuzu, Curious Youth.png" id="104" data-flag="@X" onclick="openSidebar('104')"></div>
+			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\26_Ringo, Tactical Coordinator.png" id="26" data-flag="@X" onclick="openSidebar('26')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\50_Mature Adult Discussion.png" id="50" data-flag="@X" onclick="openSidebar('50')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\73_Ghost Lead.png" id="73" data-flag="@X" onclick="openSidebar('73')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\105_Kyouko Kasodani.png" id="105" data-flag="@X" onclick="openSidebar('105')"></div>
+			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\27_Safe Zone.png" id="27" data-flag="@X" onclick="openSidebar('27')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\51_Miyoi Okunoda.png" id="51" data-flag="@X" onclick="openSidebar('51')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\76_Kisume.png" id="76" data-flag="@X" onclick="openSidebar('76')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\108_Moonlit Pursuit.png" id="108" data-flag="@X" onclick="openSidebar('108')"></div>
+			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\31_Unshou, the Fisherman.png" id="31" data-flag="@X" onclick="openSidebar('31')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\53_Optical Camoflague.png" id="53" data-flag="@X" onclick="openSidebar('53')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\78_Kurumi, Keeper of the Lake.png" id="78" data-flag="@X" onclick="openSidebar('78')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\111_Rika, the Tank Girl.png" id="111" data-flag="@X" onclick="openSidebar('111')"></div>
+			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\57_Renko Usami.png" id="57" data-flag="@X" onclick="openSidebar('57')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\83_Panic Bomb.png" id="83" data-flag="@X" onclick="openSidebar('83')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\113_Rowdy Drunkard.png" id="113" data-flag="@X" onclick="openSidebar('113')"></div>
+			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\59_Spellcard Capture.png" id="59" data-flag="@X" onclick="openSidebar('59')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\85_Rumia, Apparition of Night.png" id="85" data-flag="@X" onclick="openSidebar('85')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\114_Sara, Gatekeeper of Makai.png" id="114" data-flag="@X" onclick="openSidebar('114')"></div>
+			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\61_Tokiko.png" id="61" data-flag="@X" onclick="openSidebar('61')"></div>
+			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\115_Scarlet Detonation.png" id="115" data-flag="@X" onclick="openSidebar('115')"></div>
+			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\62_Wakasagihime.png" id="62" data-flag="@X" onclick="openSidebar('62')"></div>
+			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\117_Sekibanki.png" id="117" data-flag="@X" onclick="openSidebar('117')"></div>
+			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\63_Zenki and Goki.png" id="63" data-flag="@X" onclick="openSidebar('63')"></div>
+			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\118_SinGyoku, the Gatekeeper.png" id="118" data-flag="@X" onclick="openSidebar('118')"></div>
+			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\121_Throwing Mt. Togakushi.png" id="121" data-flag="@X" onclick="openSidebar('121')"></div>
+			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\124_The White Rabbits Trick.png" id="124" data-flag="@X" onclick="openSidebar('124')"></div>
+			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\151_Byakuren Hijiri.png" id="151" data-flag="@X" onclick="openSidebar('151')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\205_Nue, Heian Alien.png" id="205" data-flag="@X" onclick="openSidebar('205')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\160_Flandre Scarlet.png" id="160" data-flag="@X" onclick="openSidebar('160')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\181_Konngara, Astral Knight.png" id="181" data-flag="@X" onclick="openSidebar('181')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\212_Reimu of Eastern Winds.png" id="212" data-flag="@X" onclick="openSidebar('212')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\168_Ichirin Kumoi.png" id="168" data-flag="@X" onclick="openSidebar('168')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\231_Suwako, Native God.png" id="231" data-flag="@X" onclick="openSidebar('231')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\158_Elis, Innocence Devil.png" id="158" data-flag="@X" onclick="openSidebar('158')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\159_Enigmatic Vestige.png" id="159" data-flag="@X" onclick="openSidebar('159')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\240_Youmu, Netherworlds Blades.png" id="240" data-flag="@X" onclick="openSidebar('240')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\197_Momiji Inubashiri.png" id="197" data-flag="@X" onclick="openSidebar('197')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\146_Alice of Wonderland.png" id="146" data-flag="@X" onclick="openSidebar('146')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\172_Joon, Avaricious Pestilence.png" id="172" data-flag="@X" onclick="openSidebar('172')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\200_Namazu.png" id="200" data-flag="@X" onclick="openSidebar('200')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\180_Komano Aunn.png" id="180" data-flag="@X" onclick="openSidebar('180')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\215_Rikako Asakura.png" id="215" data-flag="@X" onclick="openSidebar('215')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\153_Cheating Detective Satori.png" id="153" data-flag="@X" onclick="openSidebar('153')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\187_Lunatic Harlequin, Clownpiece.png" id="187" data-flag="@X" onclick="openSidebar('187')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\228_Suika Ibuki.png" id="228" data-flag="@X" onclick="openSidebar('228')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\166_Hina Kagiyama.png" id="166" data-flag="@X" onclick="openSidebar('166')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\253_Kutaka, Hells Border Patrol.png" id="253" data-flag="@X" onclick="openSidebar('253')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\171_The Jailbreak King.png" id="171" data-flag="@X" onclick="openSidebar('171')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\192_Marisa of Scarlet Dreams.png" id="192" data-flag="@X" onclick="openSidebar('192')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\167_Hong Meiling.png" id="167" data-flag="@X" onclick="openSidebar('167')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\184_Louise, Visitor from Makai.png" id="184" data-flag="@X" onclick="openSidebar('184')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\202_Nazrin, Treasure Tracker.png" id="202" data-flag="@X" onclick="openSidebar('202')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\219_Sakuya, Scarlet Guardian.png" id="219" data-flag="@X" onclick="openSidebar('219')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\213_Reisen, Lunatic Moon Rabbit.png" id="213" data-flag="@X" onclick="openSidebar('213')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\216_Romantic Fall.png" id="216" data-flag="@X" onclick="openSidebar('216')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\195_Minoriko of Harvest Fruit.png" id="195" data-flag="@X" onclick="openSidebar('195')"></div>
+			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\233_Tsukasa, Daitengu's Consultant.png" id="233" data-flag="@X" onclick="openSidebar('233')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\214_Remilia, Fate's Mistress.png" id="214" data-flag="@X" onclick="openSidebar('214')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\227_Shizuha of Fallen Leaves.png" id="227" data-flag="@X" onclick="openSidebar('227')"></div>
+			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\152_Captain Murasa.png" id="152" data-flag="@X" onclick="openSidebar('152')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\186_Lullaby of a Deserted Hell.png" id="186" data-flag="@X" onclick="openSidebar('186')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\254_Orange.png" id="254" data-flag="@X" onclick="openSidebar('254')"></div>
+			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\183_Layla, the Last Prismriver.png" id="183" data-flag="@X" onclick="openSidebar('183')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\221_Sannyo Komakusa.png" id="221" data-flag="@X" onclick="openSidebar('221')"></div>
+			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\223_Satori Komeiji.png" id="223" data-flag="@X" onclick="openSidebar('223')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\246_Yuugi, Old Hell's Might.png" id="246" data-flag="@X" onclick="openSidebar('246')"></div>
+			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\236_Wicked Hermit, Seiga Kaku.png" id="236" data-flag="@X" onclick="openSidebar('236')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\251_Koakuma.png" id="251" data-flag="@X" onclick="openSidebar('251')"></div>
+			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\199_Mystia Lorelei.png" id="199" data-flag="@X" onclick="openSidebar('199')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\193_Meira, Seeker of Dark Power.png" id="193" data-flag="@X" onclick="openSidebar('193')"></div>
+			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\204_Nemuno Sakata.png" id="204" data-flag="@X" onclick="openSidebar('204')"></div>
+			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\225_Shikieiki, Judge of Paradise.png" id="225" data-flag="@X" onclick="openSidebar('225')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\247_Yuuka Kazami.png" id="247" data-flag="@X" onclick="openSidebar('247')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\161_Genji, the Venerated.png" id="161" data-flag="@X" onclick="openSidebar('161')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\190_Marisa and Alice.png" id="190" data-flag="@X" onclick="openSidebar('190')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\162_Hakurei Ancestor.png" id="162" data-flag="@X" onclick="openSidebar('162')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\148_Bad Apple.png" id="148" data-flag="@X" onclick="openSidebar('148')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\248_Yuuka, Sleeping Terror.png" id="248" data-flag="@X" onclick="openSidebar('248')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\189_Mamizou, Tanuki Boss.png" id="189" data-flag="@X" onclick="openSidebar('189')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\191_Marisa Kirisame.png" id="191" data-flag="@X" onclick="openSidebar('191')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\211_Reimu Hakurei.png" id="211" data-flag="@X" onclick="openSidebar('211')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\173_Judgement.png" id="173" data-flag="@X" onclick="openSidebar('173')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\208_Parsee, Green-Eyed Monster.png" id="208" data-flag="@X" onclick="openSidebar('208')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\220_Sanae, Living God.png" id="220" data-flag="@X" onclick="openSidebar('220')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\178_Kokoro, Noh Embodied.png" id="178" data-flag="@X" onclick="openSidebar('178')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\198_Mononobe no Futo.png" id="198" data-flag="@X" onclick="openSidebar('198')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\177_Kikuri, Hellish Moon.png" id="177" data-flag="@X" onclick="openSidebar('177')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\234_Urumi Ushizaki.png" id="234" data-flag="@X" onclick="openSidebar('234')"></div>
+			<div class="container"><img data-alt_src="sets\2HU-files\img\176_Keine Kamishirasawa_back.png" alt="sets\2HU-files\img\176_Keine Kamishirasawa_front.png" id="176" data-flag="@XD" onclick="openSidebar(176)"><button class="flip-btn" onclick="imgFlip(176)"></button></div>
+			<div class="container"><img alt="sets\2HU-files\img\147_Aya Shameimaru.png" id="147" data-flag="@X" onclick="openSidebar('147')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\209_Priestess of Pseudo Paradise.png" id="209" data-flag="@X" onclick="openSidebar('209')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\194_Miko, the Saint Reborn.png" id="194" data-flag="@X" onclick="openSidebar('194')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\238_Yamame Kurodani.png" id="238" data-flag="@X" onclick="openSidebar('238')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\201_Narumi, Life Giver.png" id="201" data-flag="@X" onclick="openSidebar('201')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\150_Beloved Tomboyish Girl.png" id="150" data-flag="@X" onclick="openSidebar('150')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\182_Kotohime, Maniacal Princess.png" id="182" data-flag="@X" onclick="openSidebar('182')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\163_Hatate Himekaidou.png" id="163" data-flag="@X" onclick="openSidebar('163')"></div>
+			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\237_Yachie Kicchou.png" id="237" data-flag="@X" onclick="openSidebar('237')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\170_Iku Nagae.png" id="170" data-flag="@X" onclick="openSidebar('170')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\188_Maidens Capriccio.png" id="188" data-flag="@X" onclick="openSidebar('188')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\217_Sagume, the Reversed Fortune.png" id="217" data-flag="@X" onclick="openSidebar('217')"></div>
+			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\250_Daiyousei.png" id="250" data-flag="@X" onclick="openSidebar('250')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\185_Love-Colored Magic.png" id="185" data-flag="@X" onclick="openSidebar('185')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\245_YuugenMagan.png" id="245" data-flag="@X" onclick="openSidebar('245')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\224_Seiran, Lunar Invader.png" id="224" data-flag="@X" onclick="openSidebar('224')"></div>
+			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\239_Yatsuhashi and Benben.png" id="239" data-flag="@X" onclick="openSidebar('239')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\255_Reisen, the Junior.png" id="255" data-flag="@X" onclick="openSidebar('255')"></div>
+			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\242_Yuki and Mai.png" id="242" data-flag="@X" onclick="openSidebar('242')"></div>
+			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\156_Cirno, the Unnatural Chill.png" id="156" data-flag="@X" onclick="openSidebar('156')"></div>
+			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\207_Ordinary Magicians Charm.png" id="207" data-flag="@X" onclick="openSidebar('207')"></div>
+			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\252_Kogasa, Forgotten Umbrella.png" id="252" data-flag="@X" onclick="openSidebar('252')"></div>
+			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\149_Battlefield of Hanazama.png" id="149" data-flag="@X" onclick="openSidebar('149')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\164_Hecatia Lapislazuli.png" id="164" data-flag="@X" onclick="openSidebar('164')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\165_Hidden Star in All Seasons.png" id="165" data-flag="@X" onclick="openSidebar('165')"></div>
+			<div class="container"><img data-alt_src="sets\2HU-files\img\175_Kasen, Seeking Herself_back.png" alt="sets\2HU-files\img\175_Kasen, Seeking Herself_front.png" id="175" data-flag="@XD" onclick="openSidebar(175)"><button class="flip-btn" onclick="imgFlip(175)"></button></div>
+			<div class="container"><img alt="sets\2HU-files\img\203_Necrofantasia.png" id="203" data-flag="@X" onclick="openSidebar('203')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\206_Okina, the Hidden God.png" id="206" data-flag="@X" onclick="openSidebar('206')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\210_Reimu and Yukari.png" id="210" data-flag="@X" onclick="openSidebar('210')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\218_Saki Kurokoma.png" id="218" data-flag="@X" onclick="openSidebar('218')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\222_Sariel, Angel of Death.png" id="222" data-flag="@X" onclick="openSidebar('222')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\226_Shinki, Creator Goddess.png" id="226" data-flag="@X" onclick="openSidebar('226')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\230_Sumireko Usami.png" id="230" data-flag="@X" onclick="openSidebar('230')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\241_Yukari Yakumo.png" id="241" data-flag="@X" onclick="openSidebar('241')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\244_Yumemi Okazaki.png" id="244" data-flag="@X" onclick="openSidebar('244')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\154_Chimata, God of Marketplaces.png" id="154" data-flag="@X" onclick="openSidebar('154')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\155_Choujuu Gigaku.png" id="155" data-flag="@X" onclick="openSidebar('155')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\157_Eirin, Sage of Hourai.png" id="157" data-flag="@X" onclick="openSidebar('157')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\169_Iizunamaru, Daitengu.png" id="169" data-flag="@X" onclick="openSidebar('169')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\174_Kanako, God of Progress.png" id="174" data-flag="@X" onclick="openSidebar('174')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\179_Komachi, Ferrywoman.png" id="179" data-flag="@X" onclick="openSidebar('179')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\229_Sukuna of the Shining Needle.png" id="229" data-flag="@X" onclick="openSidebar('229')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\232_Tenshi, Delinquent Celestial.png" id="232" data-flag="@X" onclick="openSidebar('232')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\235_Venerable Ancient Battlefield.png" id="235" data-flag="@X" onclick="openSidebar('235')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\243_Yumeko, Blade of Makai.png" id="243" data-flag="@X" onclick="openSidebar('243')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\249_Crazy Backup Dancers.png" id="249" data-flag="@X" onclick="openSidebar('249')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\196_Misumaru Tamatsukuri.png" id="196" data-flag="@X" onclick="openSidebar('196')"></div>
+			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\3_Koishi Komeiji.png" id="3" data-flag="@X" onclick="openSidebar('3')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\264_Nuclear Options.png" id="264" data-flag="@X" onclick="openSidebar('264')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\2_Junko, Pure Fury.png" id="2" data-flag="@X" onclick="openSidebar('2')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\6_Purified.png" id="6" data-flag="@X" onclick="openSidebar('6')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\257_Cursed Decoy Doll.png" id="257" data-flag="@X" onclick="openSidebar('257')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\259_Goliath Doll.png" id="259" data-flag="@X" onclick="openSidebar('259')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\260_Hisou Tensoku.png" id="260" data-flag="@X" onclick="openSidebar('260')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\263_Memento of the Avaricious Beast.png" id="263" data-flag="@X" onclick="openSidebar('263')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\265_Ore from the Age of the Gods.png" id="265" data-flag="@X" onclick="openSidebar('265')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\267_The Palanquin Ship.png" id="267" data-flag="@X" onclick="openSidebar('267')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\256_Aerodynamic Blades.png" id="256" data-flag="@X" onclick="openSidebar('256')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\261_Homing Option.png" id="261" data-flag="@X" onclick="openSidebar('261')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\266_Otherworld Defense Platform.png" id="266" data-flag="@X" onclick="openSidebar('266')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\269_Repurposed Rover.png" id="269" data-flag="@X" onclick="openSidebar('269')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\1_Extra Healthbar.png" id="1" data-flag="@X" onclick="openSidebar('1')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\1_Manifest.png" id="1" data-flag="@X" onclick="openSidebar('1')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\4_Maiden's Bunraku.png" id="4" data-flag="@X" onclick="openSidebar('4')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\5_Pristine Lunacy.png" id="5" data-flag="@X" onclick="openSidebar('5')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\258_Ferryboat of the Dead.png" id="258" data-flag="@X" onclick="openSidebar('258')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\262_Kitten of Great Fortune.png" id="262" data-flag="@X" onclick="openSidebar('262')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\268_Persuasion Needle.png" id="268" data-flag="@X" onclick="openSidebar('268')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\270_Shanghai Doll.png" id="270" data-flag="@X" onclick="openSidebar('270')"></div>
+			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\278_Myouren Temple Road.png" id="278" data-flag="@X" onclick="openSidebar('278')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\274_Kaian Passageway.png" id="274" data-flag="@X" onclick="openSidebar('274')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\272_Hellfire Mantle.png" id="272" data-flag="@X" onclick="openSidebar('272')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\281_Youkai Mountain Ravine.png" id="281" data-flag="@X" onclick="openSidebar('281')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\273_Human Village Streets.png" id="273" data-flag="@X" onclick="openSidebar('273')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\275_Lunar Capitol Thoroughfare.png" id="275" data-flag="@X" onclick="openSidebar('275')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\279_Nameless Hill.png" id="279" data-flag="@X" onclick="openSidebar('279')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\277_Moreya Shrine Path.png" id="277" data-flag="@X" onclick="openSidebar('277')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\276_Misty Lake Shores.png" id="276" data-flag="@X" onclick="openSidebar('276')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\271_Hakurei Shrine Grounds.png" id="271" data-flag="@X" onclick="openSidebar('271')"></div>
+			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\280_Sea of Petroleum.png" id="280" data-flag="@X" onclick="openSidebar('280')"></div>
+			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\282_Plains.png" id="282" data-flag="@X" onclick="openSidebar('282')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\283_Island.png" id="283" data-flag="@X" onclick="openSidebar('283')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\284_Swamp.png" id="284" data-flag="@X" onclick="openSidebar('284')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\285_Mountain.png" id="285" data-flag="@X" onclick="openSidebar('285')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\286_Forest.png" id="286" data-flag="@X" onclick="openSidebar('286')"></div>
+			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\2t_Monster Role.png" id="2t" data-flag="@X" onclick="openSidebar('2t')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\3t_Royal Role.png" id="3t" data-flag="@X" onclick="openSidebar('3t')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\4t_Sorcerer Role.png" id="4t" data-flag="@X" onclick="openSidebar('4t')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\5t_Bird Youkai.png" id="5t" data-flag="@X" onclick="openSidebar('5t')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\6t_Rabbit.png" id="6t" data-flag="@X" onclick="openSidebar('6t')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\7t_Soldier.png" id="7t" data-flag="@X" onclick="openSidebar('7t')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\8t_Spirit.png" id="8t" data-flag="@X" onclick="openSidebar('8t')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\9t_Bird.png" id="9t" data-flag="@X" onclick="openSidebar('9t')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\10t_Demon.png" id="10t" data-flag="@X" onclick="openSidebar('10t')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\11t_Mishaguji.png" id="11t" data-flag="@X" onclick="openSidebar('11t')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\12t_Nightstalker.png" id="12t" data-flag="@X" onclick="openSidebar('12t')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\13t_Skeleton.png" id="13t" data-flag="@X" onclick="openSidebar('13t')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\14t_Wolf Spirit.png" id="14t" data-flag="@X" onclick="openSidebar('14t')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\15t_Dog.png" id="15t" data-flag="@X" onclick="openSidebar('15t')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\16t_Insect.png" id="16t" data-flag="@X" onclick="openSidebar('16t')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\17t_Bat.png" id="17t" data-flag="@X" onclick="openSidebar('17t')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\18t_Eye.png" id="18t" data-flag="@X" onclick="openSidebar('18t')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\19t_Human Monk.png" id="19t" data-flag="@X" onclick="openSidebar('19t')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\20t_Unzan token.png" id="20t" data-flag="@X" onclick="openSidebar('20t')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\21t_Vampire Noble.png" id="21t" data-flag="@X" onclick="openSidebar('21t')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\22t_Wizard.png" id="22t" data-flag="@X" onclick="openSidebar('22t')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\23t_Youkai.png" id="23t" data-flag="@X" onclick="openSidebar('23t')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\24t_Youkai (Banki).png" id="24t" data-flag="@X" onclick="openSidebar('24t')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\25t_Blood.png" id="25t" data-flag="@X" onclick="openSidebar('25t')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\26t_Clue.png" id="26t" data-flag="@X" onclick="openSidebar('26t')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\27t_Doll.png" id="27t" data-flag="@X" onclick="openSidebar('27t')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\28t_Food.png" id="28t" data-flag="@X" onclick="openSidebar('28t')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\29t_Orb.png" id="29t" data-flag="@X" onclick="openSidebar('29t')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\30t_Treasure.png" id="30t" data-flag="@X" onclick="openSidebar('30t')"></div>
+			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+	</div>
+</div>
+	<div class="sidebar" id="sidebar">
+		<div class="sidebar-container"><img id="sidebar_img" src="img/er.png"><button class="flip-btn" id="sidebar-flip-btn" onclick="imgFlip('sidebar_img')"></button></div>
+		<button class="close-btn" onclick="closeSidebar()"></button>
+	</div>
+	<div class="footer"></div>
+
+	<script>
+	const delay = ms => new Promise(res => setTimeout(res, ms));
+		let specialchars = "";
+
+	document.addEventListener('DOMContentLoaded', async function() {
+		await fetch('/lists/all-cards.txt')
+					.then(response => response.text())
+					.then(text => {
+						card_list_stringified = text;
+				}).catch(error => console.error('Error:', error));
+
+				await fetch('/resources/replacechars.txt')
+					.then(response => response.text())
+					.then(text => {
+						specialchars = text; 
+				}).catch(error => console.error('Error:', error));
+
+				card_list_arrayified = card_list_stringified.split('\\n');
+
+				for (let i = 0; i < card_list_arrayified.length; i++)
+				{
+					card_list_arrayified[i] = card_list_arrayified[i].split('\t');
+				}
+
+		preloadImgs = document.getElementsByClassName('preload-hidden');
+		
+		let images_loaded = [];
+
+		do {
+			await delay(100);
+			images_loaded = []
+			for (const img of preloadImgs)
+			{
+				images_loaded.push(isImageOk(img));
+			}
+		}
+		while (images_loaded.includes(false));
+
+		
+		loadImages();
+	});
+
+	function isImageOk(img) {
+		if (!img.complete || img.naturalWidth == 0) {
+			return false;
+		}
+
+		return true;
+	}
+
+	function loadImages() {
+		const images = document.querySelectorAll('.grid-container img');
+
+		images.forEach(img => {
+			const flag = img.getAttribute('data-flag');
+
+			if (flag === '@N') {
+				img.src = 'img/card_back.png';
+				img.removeAttribute("onclick");
+				img.style.cursor = 'default';
+			}
+			else
+			{
+				img.src = img.alt;
+
+				if (flag === '@E') {
+					img.removeAttribute("onclick");
+					img.style.cursor = 'default';
+				}
+			}
+
+			img.style.visibility = 'visible';
+		});
+	}
+
+	window.addEventListener('resize', function(event) {
+		setSidebarTop();
+	}, true);
+
+	function setSidebarTop() {
+		let vh = Math.max(document.documentElement.clientHeight || 0, window.innerHeight || 0);
+		let sh = document.getElementById('sidebar').offsetHeight;
+		let height = 100 * ((vh - sh) / 2) / vh;
+		document.getElementById('sidebar').style.top = height + '%';
+	}
+
+	function imgFlip(num) {
+		tmp = document.getElementById(num).src;
+		document.getElementById(num).src = document.getElementById(num).dataset.alt_src;
+		document.getElementById(num).dataset.alt_src = tmp;
+	}
+
+	function openSidebar(id) {
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+		
+		document.getElementById('sidebar').style.display = 'grid';
+		document.getElementById('sidebar_img').src = document.getElementById(id).src;
+		if (document.getElementById(id).dataset.alt_src)
+		{
+			document.getElementById('sidebar_img').dataset.alt_src = document.getElementById(id).dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'block';
+		}
+		else
+		{
+			delete document.getElementById('sidebar_img').dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'none';
+		}
+		document.getElementById('main-content').style.width = '60%';
+		
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+		setSidebarTop();
+	}
+
+	function closeSidebar() {
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+
+		document.getElementById('sidebar').style.display = 'none';
+		document.getElementById('main-content').style.width = '100%';
+		
+
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+	}
+
+	document.getElementById("search").addEventListener("keypress", function(event) {
+			if (event.key === "Enter") {
+				event.preventDefault();
+				search();
+			}
+		});
+
+		function search() {
+			window.location = ("/search?search=" + document.getElementById("search").value);
+		}
+
+		function randomCard() {
+				let i = Math.floor(Math.random() * (card_list_arrayified.length + 1));
+				let card_name = card_list_arrayified[i][0];
+				for (const char of specialchars)
+				{
+					card_name = card_name.replaceAll(char, "");
+				}
+
+				window.location = ('/cards/' + card_list_arrayified[i][11] + '/' + card_list_arrayified[i][4] + '_' + card_name);
+			}
+	</script>
+</body>
+</html>

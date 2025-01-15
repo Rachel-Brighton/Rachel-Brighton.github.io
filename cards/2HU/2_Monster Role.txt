@@ -1,0 +1,1 @@
+﻿Monster Role		common	Token Enchantment – Aura Role 	2	C		Enchant creatureNEWLINEEnchanted creature gets +1/+1 and has trample.			token	2HU		!related Kokoro, Noh EmbodiedNEWLINE!tokentag MonsterMask

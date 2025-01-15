@@ -1,0 +1,1 @@
+﻿Pristine Lunacy		common	Instant	5	C	1C	Target player chooses and exiles a nonland permanent they control.			normal	2HU		

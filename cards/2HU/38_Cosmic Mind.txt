@@ -1,0 +1,1 @@
+﻿Cosmic Mind	U	uncommon	Sorcery	38	U	1UU	Draw three cards, then discard a card unless you control a legendary creature or planeswalker.			normal	2HU		

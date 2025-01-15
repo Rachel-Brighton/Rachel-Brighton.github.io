@@ -1,0 +1,1 @@
+﻿Byakuren Hijiri	WU	rare	Legendary Creature – Wizard Monk 	151	WU	4WWU	Creatures can’t attack unless their controllers pay 2 for each creature they control attacking.NEWLINEWhenever you gain life, each opponent gains that much life.NEWLINEAt the beginning of your upkeep, if each player has at least 20 more life than their starting life total, you win the game.	7/7		normal	2HU		

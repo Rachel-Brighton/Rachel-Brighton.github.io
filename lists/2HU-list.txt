@@ -1,0 +1,430 @@
+8_Fantasy Nature
+33_Agatha ChrisQ
+75_Ibaraki-Douji
+106_Master Spark
+138_Momoyo, Onyx Dragon-Eater
+18_Lord Tenma
+37_Charming Domination
+87_Toutetsu, the Avaricious Beast
+107_Mokou, Immortal Smoke
+145_Youki, Konpaku Ancestor
+30_Toyohime, Divine Ward
+44_Hieda no Akyuu
+91_Zanmu, the Unobstructed Light
+109_Raiko Horikawa
+128_Elly, Guardian of Mugenkan
+32_Yorihime, Divine Vessel
+45_Kaguya, Lunatic Princess
+66_Bloom Nobly, Ink-Black Blossoms
+123_Utsuho Reiuji
+130_Exploitable Resources
+12_Idolatrize World
+55_Player 2
+69_Chiyuri, Sailor of Time
+99_Extend Ash
+133_The Gensokyo the Gods Loved
+15_Iwakasa, Bearer of the Elixir
+56_Ran, Sage's Servitor
+70_The Coward Pierrot
+102_Giga Flare
+135_Kagerou, Bamboos Loup-Garou
+16_Keiki, the Sculptor God
+34_Alice Margatroid
+74_Hisami, Hells Invitation
+103_The Grounds Color is Yellow
+137_Land of Faith and Fantasy
+21_Mayumi Joutougu
+38_Cosmic Mind
+79_Lets Live in a Lovely Cemetery
+110_Reverse Ideology
+139_Son Biten
+23_Now, Until Your Final Breath
+39_Deaf to All but the Song
+82_Mima, the Black Wind
+112_Rin Kaenbyou
+125_Drunk As I Like
+28_Shou Toramaru
+40_Doremy Sweet, Dream Eater
+84_Probability Collapse
+116_Seija, Bane of Gensokyo
+126_Dynamic Entrance
+29_Tewi, White Rabbit of Inaba
+42_God Forbid Women Do Anything
+86_Shion, Consuming Poverty
+122_Tojiko, Thunder Soul
+127_Eika Ebisu
+7_Cinderella Cage
+47_Kana Anaberal
+90_Yuyuko, Mistress of Death
+92_Battle Bond
+129_Eternity Larva, Birth and Rebirth
+9_Fires of Hokkai
+49_Maribel Hearn
+64_Apparitions Stalk the Night
+97_Ellen, Eternal Unknowing
+131_Full Power Up!!
+14_Item Collection Border
+52_Nitori Kawashiro
+67_Border of Life
+98_Enoko Mitsugashira
+132_Gensokyo Accepts All
+17_Lily White
+54_Patchouli, Archivist Recluse
+68_Chiyari Tenkajin
+101_Get Ahead Of Yourself
+134_Goddesses of Autumn
+24_Phantom Ensemble
+58_Rinnosuke Morichika
+71_Deep-Mountain Encounter
+119_Spellcard Declaration
+136_Kiketsus Sneak, Otter
+25_The Prismriver Sisters
+60_Star Sapphire
+77_Knight of Nights
+120_Sunny Milk
+140_Takane Yamashiro
+10_﻿Graze
+35_Autumnal Waterfall
+80_Lily Black
+93_Blood Drive
+141_This, Too, Is Yuri
+11_Helpful Bunnies
+36_Become Marketable
+81_Medicine Melancholy
+94_Chen, Servitor's Lackey
+142_Tsuchinoko
+13_Interdimensional Voyage
+41_Error-Prone Maid
+88_Ultimate Truth
+95_Curtain Fire
+143_Vine of Wisteria
+19_Luna Child
+43_Gouyoku Agent, Eagle
+89_Yoshika Miyako
+96_Devil's Recitation
+144_Wriggle Nightbug
+20_Lunar Reinforcements
+46_Kaguyas Impossible Request
+65_Bell of Avici
+100_Fierce Fang, Wolf
+e
+22_Mike Goutokuji
+48_Letty Whiterock
+72_The Fortune-Teller
+104_Kosuzu, Curious Youth
+e
+26_Ringo, Tactical Coordinator
+50_Mature Adult Discussion
+73_Ghost Lead
+105_Kyouko Kasodani
+e
+27_Safe Zone
+51_Miyoi Okunoda
+76_Kisume
+108_Moonlit Pursuit
+e
+31_Unshou, the Fisherman
+53_Optical Camoflague
+78_Kurumi, Keeper of the Lake
+111_Rika, the Tank Girl
+e
+e
+57_Renko Usami
+83_Panic Bomb
+113_Rowdy Drunkard
+e
+e
+59_Spellcard Capture
+85_Rumia, Apparition of Night
+114_Sara, Gatekeeper of Makai
+e
+e
+61_Tokiko
+e
+115_Scarlet Detonation
+e
+e
+62_Wakasagihime
+e
+117_Sekibanki
+e
+e
+63_Zenki and Goki
+e
+118_SinGyoku, the Gatekeeper
+e
+e
+e
+e
+121_Throwing Mt. Togakushi
+e
+e
+e
+e
+124_The White Rabbits Trick
+e
+er
+er
+er
+er
+er
+151_Byakuren Hijiri
+205_Nue, Heian Alien
+160_Flandre Scarlet
+181_Konngara, Astral Knight
+212_Reimu of Eastern Winds
+168_Ichirin Kumoi
+231_Suwako, Native God
+158_Elis, Innocence Devil
+159_Enigmatic Vestige
+240_Youmu, Netherworlds Blades
+197_Momiji Inubashiri
+146_Alice of Wonderland
+172_Joon, Avaricious Pestilence
+200_Namazu
+180_Komano Aunn
+215_Rikako Asakura
+153_Cheating Detective Satori
+187_Lunatic Harlequin, Clownpiece
+228_Suika Ibuki
+166_Hina Kagiyama
+253_Kutaka, Hells Border Patrol
+171_The Jailbreak King
+192_Marisa of Scarlet Dreams
+167_Hong Meiling
+184_Louise, Visitor from Makai
+202_Nazrin, Treasure Tracker
+219_Sakuya, Scarlet Guardian
+213_Reisen, Lunatic Moon Rabbit
+216_Romantic Fall
+195_Minoriko of Harvest Fruit
+e
+233_Tsukasa, Daitengu's Consultant
+214_Remilia, Fate's Mistress
+227_Shizuha of Fallen Leaves
+e
+e
+152_Captain Murasa
+186_Lullaby of a Deserted Hell
+254_Orange
+e
+e
+183_Layla, the Last Prismriver
+221_Sannyo Komakusa
+e
+e
+e
+223_Satori Komeiji
+246_Yuugi, Old Hell's Might
+e
+e
+e
+236_Wicked Hermit, Seiga Kaku
+251_Koakuma
+e
+e
+e
+199_Mystia Lorelei
+193_Meira, Seeker of Dark Power
+e
+e
+e
+e
+204_Nemuno Sakata
+e
+e
+er
+er
+er
+er
+er
+225_Shikieiki, Judge of Paradise
+247_Yuuka Kazami
+161_Genji, the Venerated
+190_Marisa and Alice
+162_Hakurei Ancestor
+148_Bad Apple
+248_Yuuka, Sleeping Terror
+189_Mamizou, Tanuki Boss
+191_Marisa Kirisame
+211_Reimu Hakurei
+173_Judgement
+208_Parsee, Green-Eyed Monster
+220_Sanae, Living God
+178_Kokoro, Noh Embodied
+198_Mononobe no Futo
+177_Kikuri, Hellish Moon
+234_Urumi Ushizaki
+176_Keine Kamishirasawa
+147_Aya Shameimaru
+209_Priestess of Pseudo Paradise
+194_Miko, the Saint Reborn
+238_Yamame Kurodani
+201_Narumi, Life Giver
+150_Beloved Tomboyish Girl
+182_Kotohime, Maniacal Princess
+163_Hatate Himekaidou
+e
+237_Yachie Kicchou
+170_Iku Nagae
+188_Maidens Capriccio
+217_Sagume, the Reversed Fortune
+e
+250_Daiyousei
+185_Love-Colored Magic
+245_YuugenMagan
+224_Seiran, Lunar Invader
+e
+e
+239_Yatsuhashi and Benben
+255_Reisen, the Junior
+e
+e
+e
+242_Yuki and Mai
+e
+e
+e
+e
+156_Cirno, the Unnatural Chill
+e
+e
+e
+e
+207_Ordinary Magicians Charm
+e
+e
+e
+e
+252_Kogasa, Forgotten Umbrella
+e
+er
+er
+er
+er
+er
+149_Battlefield of Hanazama
+164_Hecatia Lapislazuli
+165_Hidden Star in All Seasons
+175_Kasen, Seeking Herself
+203_Necrofantasia
+206_Okina, the Hidden God
+210_Reimu and Yukari
+218_Saki Kurokoma
+222_Sariel, Angel of Death
+226_Shinki, Creator Goddess
+230_Sumireko Usami
+241_Yukari Yakumo
+244_Yumemi Okazaki
+154_Chimata, God of Marketplaces
+155_Choujuu Gigaku
+157_Eirin, Sage of Hourai
+169_Iizunamaru, Daitengu
+174_Kanako, God of Progress
+179_Komachi, Ferrywoman
+229_Sukuna of the Shining Needle
+232_Tenshi, Delinquent Celestial
+235_Venerable Ancient Battlefield
+243_Yumeko, Blade of Makai
+249_Crazy Backup Dancers
+196_Misumaru Tamatsukuri
+er
+er
+er
+er
+er
+3_Koishi Komeiji
+264_Nuclear Options
+2_Junko, Pure Fury
+6_Purified
+257_Cursed Decoy Doll
+259_Goliath Doll
+260_Hisou Tensoku
+263_Memento of the Avaricious Beast
+265_Ore from the Age of the Gods
+267_The Palanquin Ship
+256_Aerodynamic Blades
+261_Homing Option
+266_Otherworld Defense Platform
+269_Repurposed Rover
+1_Extra Healthbar
+1_Manifest
+4_Maiden's Bunraku
+5_Pristine Lunacy
+258_Ferryboat of the Dead
+262_Kitten of Great Fortune
+268_Persuasion Needle
+270_Shanghai Doll
+e
+e
+e
+er
+er
+er
+er
+er
+278_Myouren Temple Road
+274_Kaian Passageway
+272_Hellfire Mantle
+281_Youkai Mountain Ravine
+273_Human Village Streets
+275_Lunar Capitol Thoroughfare
+279_Nameless Hill
+277_Moreya Shrine Path
+276_Misty Lake Shores
+271_Hakurei Shrine Grounds
+er
+er
+er
+er
+er
+280_Sea of Petroleum
+e
+e
+e
+e
+er
+er
+er
+er
+er
+282_Plains
+283_Island
+284_Swamp
+285_Mountain
+286_Forest
+er
+er
+er
+er
+er
+2t_Monster Role
+3t_Royal Role
+4t_Sorcerer Role
+5t_Bird Youkai
+6t_Rabbit
+7t_Soldier
+8t_Spirit
+9t_Bird
+10t_Demon
+11t_Mishaguji
+12t_Nightstalker
+13t_Skeleton
+14t_Wolf Spirit
+15t_Dog
+16t_Insect
+17t_Bat
+18t_Eye
+19t_Human Monk
+20t_Unzan token
+21t_Vampire Noble
+22t_Wizard
+23t_Youkai
+24t_Youkai (Banki)
+25t_Blood
+26t_Clue
+27t_Doll
+28t_Food
+29t_Orb
+30t_Treasure
+e

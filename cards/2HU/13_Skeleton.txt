@@ -1,0 +1,1 @@
+﻿Skeleton	B	common	Token Creature – Skeleton 	13	C		Menace	1/1		token	2HU		!related Ibaraki-DoujiNEWLINE!related Ibaraki Kasen, Complete<2>

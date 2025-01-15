@@ -1,0 +1,1 @@
+﻿Bird Youkai	W	common	Token Creature – Bird Youkai 	5	C		Flying, vigilance	1/1		token	2HU		!related Lord Tenma<4>

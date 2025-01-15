@@ -1,0 +1,1 @@
+﻿Remilia, Fate's Mistress	BR	rare	Legendary Creature – Vampire Noble 	214	BR	4BR	FlyingNEWLINEScarlet Destiny – When Remilia enters, gain control of target creature an opponent controls.	5/3		normal	2HU		!tag EoSD

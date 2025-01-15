@@ -1,0 +1,1 @@
+﻿Youkai	BR	common	Token Creature – Youkai 	23	C			1/1		token	2HU		!related Kosuzu, Curious Youth<3>NEWLINE!related Land of Faith and FantasyNEWLINE!related Nemuno SakataNEWLINE!related Mike Goutokuji
