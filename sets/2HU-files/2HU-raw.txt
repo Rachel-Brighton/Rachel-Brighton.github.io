@@ -886,7 +886,8 @@ Hakurouken — Whenever you untap Youmu, exile target card in a graveyard. When 
 !tag CDREPLACEMEThis, Too, Is Yuri	G	common	Sorcery	142	G	G	Choose target creature you control and target creature you don’t control. If a legendary creature was chosen this way, put a +1/+1 counter on the creature you control. Then those creatures fight each other. (Each deals damage equal to its power to the other.)			normal	2HU		!tag IN
 !tag Peak
 !tag Gay
-!tag YuriREPLACEMEKnight of Nights	B	uncommon	Instant	78	B	1B	Until end of turn, target creature gets +2/+0 and gains haste, menace, first strike, and deathtouch.			normal	2HU		!tag Sakuya
+!tag Yuri
+!tag YaoiREPLACEMEKnight of Nights	B	uncommon	Instant	78	B	1B	Until end of turn, target creature gets +2/+0 and gains haste, menace, first strike, and deathtouch.			normal	2HU		!tag Sakuya
 !tag MusicREPLACEMEKokoro, Noh Embodied	UR	rare	Legendary Creature — Youkai Performer 	179	UR	1UR	Whenever Kokoro enters or attacks, create your choice of a Royal Role token, a Monster Role token, or a Sorcerer Role token attached to it. (If you control another role attached to it, put that one into the graveyard.)
 Auras attached to Kokoro have umbra armor. (If enchanted permanent would be destroyed, instead remove all damage from it and destroy this Aura.)	2/2		normal	2HU		!replacetoken RoyalMask;1;MonsterMask;1;SorcererMask;1
 !tag HM
