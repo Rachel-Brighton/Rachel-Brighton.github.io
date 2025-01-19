@@ -32,6 +32,7 @@
 		.sidebar-container {
 			width: 80%;
 			max-width: 375px;
+			position: relative;
 		}
 		.sidebar img {
 			vertical-align: middle;
@@ -109,11 +110,7 @@
 			background-position: center;
 		}
 		.sidebar .flip-btn {
-			right: 80%;
-			left: 7.8%;
-			top: -4%;
-			transform: none;
-
+			transform: translate(-50%, -85%);
 		}
 		.icon-bar {
 			display: grid;
@@ -526,13 +523,13 @@
 			<div class="container"><img alt="sets\2HU-files\img\267_Otherworld Defense Platform.png" id="267" data-flag="@X" onclick="openSidebar('267')"></div>
 			<div class="container"><img alt="sets\2HU-files\img\270_Repurposed Rover.png" id="270" data-flag="@X" onclick="openSidebar('270')"></div>
 			<div class="container"><img alt="sets\2HU-files\img\1_Extra Healthbar.png" id="1" data-flag="@X" onclick="openSidebar('1')"></div>
-			<div class="container"><img alt="sets\2HU-files\img\1_Manifest.png" id="1" data-flag="@X" onclick="openSidebar('1')"></div>
 			<div class="container"><img alt="sets\2HU-files\img\4_Maiden's Bunraku.png" id="4" data-flag="@X" onclick="openSidebar('4')"></div>
 			<div class="container"><img alt="sets\2HU-files\img\5_Pristine Lunacy.png" id="5" data-flag="@X" onclick="openSidebar('5')"></div>
 			<div class="container"><img alt="sets\2HU-files\img\259_Ferryboat of the Dead.png" id="259" data-flag="@X" onclick="openSidebar('259')"></div>
 			<div class="container"><img alt="sets\2HU-files\img\263_Kitten of Great Fortune.png" id="263" data-flag="@X" onclick="openSidebar('263')"></div>
 			<div class="container"><img alt="sets\2HU-files\img\269_Persuasion Needle.png" id="269" data-flag="@X" onclick="openSidebar('269')"></div>
 			<div class="container"><img alt="sets\2HU-files\img\271_Shanghai Doll.png" id="271" data-flag="@X" onclick="openSidebar('271')"></div>
+			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
 			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
 			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
 			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
@@ -575,6 +572,7 @@
 			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
 			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
 			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="sets\2HU-files\img\1t_Manifest.png" id="1t" data-flag="@N" onclick="openSidebar('1t')"></div>
 			<div class="container"><img alt="sets\2HU-files\img\2t_Monster Role.png" id="2t" data-flag="@X" onclick="openSidebar('2t')"></div>
 			<div class="container"><img alt="sets\2HU-files\img\3t_Royal Role.png" id="3t" data-flag="@X" onclick="openSidebar('3t')"></div>
 			<div class="container"><img alt="sets\2HU-files\img\4t_Sorcerer Role.png" id="4t" data-flag="@X" onclick="openSidebar('4t')"></div>
@@ -604,11 +602,13 @@
 			<div class="container"><img alt="sets\2HU-files\img\28t_Food.png" id="28t" data-flag="@X" onclick="openSidebar('28t')"></div>
 			<div class="container"><img alt="sets\2HU-files\img\29t_Orb.png" id="29t" data-flag="@X" onclick="openSidebar('29t')"></div>
 			<div class="container"><img alt="sets\2HU-files\img\30t_Treasure.png" id="30t" data-flag="@X" onclick="openSidebar('30t')"></div>
-			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
 	</div>
 </div>
 	<div class="sidebar" id="sidebar">
-		<div class="sidebar-container"><img id="sidebar_img" src="img/er.png"><button class="flip-btn" id="sidebar-flip-btn" onclick="imgFlip('sidebar_img')"></button></div>
+		<div class="sidebar-container">
+			<img id="sidebar_img" src="img/er.png">
+			<button class="flip-btn" id="sidebar-flip-btn" onclick="imgFlip('sidebar_img')"></button>
+		</div>
 		<button class="close-btn" onclick="closeSidebar()"></button>
 	</div>
 	<div class="footer"></div>

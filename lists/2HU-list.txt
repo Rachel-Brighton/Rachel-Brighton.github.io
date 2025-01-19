@@ -349,13 +349,13 @@ er
 267_Otherworld Defense Platform
 270_Repurposed Rover
 1_Extra Healthbar
-1_Manifest
 4_Maiden's Bunraku
 5_Pristine Lunacy
 259_Ferryboat of the Dead
 263_Kitten of Great Fortune
 269_Persuasion Needle
 271_Shanghai Doll
+e
 e
 e
 er
@@ -398,6 +398,7 @@ er
 er
 er
 er
+1t_Manifest
 2t_Monster Role
 3t_Royal Role
 4t_Sorcerer Role
@@ -427,4 +428,3 @@ er
 28t_Food
 29t_Orb
 30t_Treasure
-e

@@ -978,7 +978,7 @@ At the beginning of each upkeep, untap target creature you control.	4/5		normal	
 Each opponent loses 2 life.			normal	2HU		!tag GameplayREPLACEMESpellcard Capture	U	common	Instant	60	U	3UU	This spell costs 2 less to cast if it targets a spell that shares a name with a card in its owner’s graveyard.
 Counter target spell.
 Draw a card.			normal	2HU		!tag GameplayREPLACEMEFull Power Up!!	G	common	Instant	132	G	3G	Put three +1/+1 counters on target creature. Then you gain 1 life for each counter on that creature.			normal	2HU		!tag GameplayREPLACEMEGoliath Doll		rare	Artifact Creature — Doll Giant 	260	C	5	At the end of combat on each of your turns, put a charge counter on this creature. Then if there are three or more charge counters on it, sacrifice this creature and it deals 5 damage to each creature and planeswalker.	5/5		normal	2HU		!tag Alice
-!tag HisoutensokuREPLACEMEBloom Nobly, Ink-Black Blossoms	B	rare	Sorcery	67	B	2B	Each opponent sacrifices a creature or planeswalker of their choice. Each opponent who can’t discards a card.
+!tag HisoutensokuREPLACEMEBloom Nobly, Ink-Black Blossoms	B	rare	Sorcery	67	B	2B	Each opponent sacrifices a creature of their choice. Each opponent who can’t discards a card.
 Escape—3BB, Sacrifice a creature. (You may cast this card from your graveyard for its escape cost.)			normal	2HU		!tag PCB
 !tag Yuyuko
 !tag MusicREPLACEMEUltimate Truth	B	uncommon	Instant	89	B	B	Exile target creature. Its controller creates a 1/1 white Spirit creature token with flying.			normal	2HU		!tag PCB
@@ -1258,13 +1258,14 @@ When you cast The Fortune-Teller, if its emerge cost was paid, draw two cards an
 !tag PrintREPLACEMEMaiden's Bunraku		common	Sorcery	4	C	3	Create two 1/1 colorless Doll artifact creature tokens.			normal	2HU		!tag Alice
 !tag Shanghai
 !tag HouraiREPLACEMEPristine Lunacy		common	Instant	5	C	1C	Target player chooses and exiles a nonland permanent they control.			normal	2HU		!tag Junko
-!tag LoLKREPLACEMEPurified		rare	Enchantment — Aura 	6	C	3C	Enchant permanent
+!tag LoLK
+!tag MusicREPLACEMEPurified		rare	Enchantment — Aura 	6	C	3C	Enchant permanent
 Enchanted permanent loses all colors, types, and abilities.			normal	2HU		!tag JunkoREPLACEMESea of Petroleum		rare	Land	282	C		This land enters tapped with two oil counters on it.
 T: Add C.
 Memory of Fossil Energy — T, Remove an oil counter from this land: Add one mana of any color.
 Memento of All Organisms — 1, T, Remove an oil counter from this land: Create a Blood token. (It’s an artifact with “1, T, Discard a card, Sacrifice this artifact: Draw a card.”)			normal	2HU		!tag SFW
 !tag Spinoff
-!tag HellREPLACEMEDevil's Recitation	R	common	Instant	97	R	R	Devil’s Recitation deals 2 damage to any target. It deals 3 damage instead if you’ve sacrificed an artifact token this turn.			normal	2HU		!tag MS
+!tag HellREPLACEMEDevil's Recitation	R	common	Instant	97	R	R	Devil’s Recitation deals 2 damage to any target. It deals 3 damage instead if you’ve sacrificed an artifact this turn.			normal	2HU		!tag MS
 !tag Shinki
 !tag PC-98REPLACEMEYuugi, Old Hell's Might	BR	uncommon	Legendary Creature — Demon 	247	BR	3BR	Indestructible
 Yuugi can’t block.
@@ -1284,8 +1285,8 @@ Knockout in Three Steps — Whenever Yuugi attacks, you may sacrifice an artifac
 !tag Fighter
 !tag Spinoff
 !tag Playable
-!tag SageREPLACEMEByakuren, Superhuman	WU	rare	Legendary Creature — Wizard Monk 	152	WU	2WU	When Byakuren enters, each opponent gains 5 life.
-Vigilance, ward 3
+!tag SageREPLACEMEByakuren, Superhuman	WU	rare	Legendary Creature — Wizard Monk 	152	WU	2WU	Vigilance, ward 3
+When Byakuren enters, each opponent gains 5 life.
 Whenever Byakuren attacks, you may discard a card. When you do, Byakuren gains double strike until end of turn.	5/5		normal	2HU		!tag UFO
 !tag Byakuren
 !tag Stage6
