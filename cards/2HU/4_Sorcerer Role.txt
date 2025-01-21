@@ -1,1 +1,0 @@
-﻿Sorcerer Role		common	Token Enchantment – Aura Role 	4	C		Enchant creatureNEWLINEEnchanted creature gets +1/+1 and has “Whenever this creature attacks, scry 1.”			token	2HU		!related Kokoro, Noh EmbodiedNEWLINE!tokentag SorcererMask

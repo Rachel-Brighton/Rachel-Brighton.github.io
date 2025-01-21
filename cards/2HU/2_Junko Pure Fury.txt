@@ -1,1 +1,0 @@
-﻿Junko, Pure Fury		rare	Legendary Creature – Spirit 	2	C	12CCC	This spell can’t be countered.NEWLINEWhen you cast this spell, creatures your opponents control get -5/-5 until end of turn.NEWLINEOther creatures you control get +5/+5.	10/10		normal	2HU		!tag LoLKNEWLINE!tag JunkoNEWLINE!tag Stage6

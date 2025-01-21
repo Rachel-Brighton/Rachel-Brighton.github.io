@@ -1,1 +1,0 @@
-﻿YuugenMagan	WR	uncommon	Legendary Creature – Elemental Demon 	246	WR	4RW	Flying, hasteNEWLINEAs YuugenMagan enters, create five 1/1 white and red Eye creature tokens with flying and defender.NEWLINEYuugenMagan’s power and toughness are each equal to the number of Eyes you control.	*/*		normal	2HU		!tag HRtPNEWLINE!tag YuugenMaganNEWLINE!tag MakaiNEWLINE!tag PC-98

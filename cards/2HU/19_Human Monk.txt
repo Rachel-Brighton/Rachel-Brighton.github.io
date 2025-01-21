@@ -1,1 +1,0 @@
-﻿Human Monk	WR	common	Token Creature – Human Monk 	19	C			2/2		token	2HU		!related Maidens Capriccio

@@ -1,1 +1,0 @@
-﻿Drunk As I Like	G	common	Instant	126	G	1G	Target creature gets +4/+4 until end of turn. Goad it. (Until your next turn, that creature attacks each combat if able and attacks a player other than you if able.)			normal	2HU		!tag SWRNEWLINE!tag SuikaNEWLINE!tag FighterNEWLINE!tag SpinoffNEWLINE!tag Music

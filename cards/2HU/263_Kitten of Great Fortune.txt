@@ -1,1 +1,0 @@
-﻿Kitten of Great Fortune		common	Artifact	263	C	3	1, T, Sacrifice this artifact: The next time target creature would deal damage this turn, prevent that damage. Create a Treasure token.			normal	2HU		!tag UMNEWLINE!tag MikeNEWLINE!tag Music

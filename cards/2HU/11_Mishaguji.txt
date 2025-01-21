@@ -1,1 +1,0 @@
-﻿Mishaguji	B	common	Token Enchantment – Aura Curse 	11	C		Enchant playerNEWLINEAt the beginning of your upkeep, enchanted player loses 1 life.			token	2HU		!related Suwako, Native God

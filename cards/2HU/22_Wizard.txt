@@ -1,1 +1,0 @@
-﻿Wizard	UR	common	Token Creature – Wizard 	22	C		Prowess	1/1		token	2HU		!related Love-Colored Magic<2>

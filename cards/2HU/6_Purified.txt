@@ -1,1 +1,0 @@
-﻿Purified		rare	Enchantment – Aura 	6	C	3C	Enchant permanentNEWLINEEnchanted permanent loses all colors, types, and abilities.			normal	2HU		!tag Junko

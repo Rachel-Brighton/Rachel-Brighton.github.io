@@ -1,1 +1,0 @@
-﻿Ore from the Age of the Gods		rare	Artifact – Treasure 	266	C	2	When this artifact enters, exile target creature card from a graveyard.NEWLINEIzanagi Object – This artifact has the activated abilities of each card exiled with it.NEWLINET, Sacrifice this artifact: Add one mana of any color.			normal	2HU		!tag UMNEWLINE!tag Music

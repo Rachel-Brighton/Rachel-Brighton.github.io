@@ -1,1 +1,0 @@
-﻿Moonlit Pursuit	R	common	Instant	109	R	R	Up to two target creatures each get +1/+0 and gain haste and trample until end of turn.			normal	2HU		!tag IN

@@ -1,1 +1,0 @@
-﻿Meira, Seeker of Dark Power	BR	common	Legendary Creature – Human Samurai 	194	BR	BR	HasteNEWLINEClaim the Hakurei – Whenever a creature dealt damage by Meira this turn dies, put a +1/+1 counter on Meira and draw a card.	3/2		normal	2HU		!tag SoEWNEWLINE!tag MeiraNEWLINE!tag Stage2NEWLINE!tag GayNEWLINE!tag YuriNEWLINE!tag PC-98

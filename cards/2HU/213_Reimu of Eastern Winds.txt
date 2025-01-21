@@ -1,1 +1,0 @@
-﻿Reimu of Eastern Winds	WG	rare	Legendary Creature – Human Monk 	213	WG	2GW	VigilanceNEWLINEA Sacred Lot – When Reimu enters, create a 1/1 colorless Orb artifact creature token.NEWLINET: Target creature token gets +2/+2 and has trample and indestructible until end of turn.	2/3		normal	2HU		!tag HRtPNEWLINE!tag ReimuNEWLINE!tag HakureiNEWLINE!tag PC-98NEWLINE!tag Playable

@@ -1,1 +1,0 @@
-﻿Blood Drive	R	common	Instant	94	R	R	Create a Blood token and a Treasure token. Blood Drive deals 1 damage to you. (A Blood token an artifact with “1, T, Discard a card, Sacrifice this artifact: Draw a card.” A Treasure token is an artifact with “T, Sacrifice this artifact: Add one mana of any color.”)			normal	2HU		

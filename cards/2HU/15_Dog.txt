@@ -1,1 +1,0 @@
-﻿Dog	G	common	Token Creature – Dog 	15	C		When this creature enters, you may have it become a copy of target creature, except it’s 1/1.	1/1		token	2HU		!related Mamizou, Tanuki Boss<2>NEWLINE!tokentag Tanuki

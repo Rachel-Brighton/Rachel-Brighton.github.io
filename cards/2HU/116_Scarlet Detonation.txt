@@ -1,1 +1,0 @@
-﻿Scarlet Detonation	R	common	Sorcery	116	R	1R	Destroy target land. Its controller may search their library for a basic land card, put it onto the battlefield tapped, then shuffle. Scarlet Detonation deals 3 damage to each opponent.			normal	2HU		!tag EoSDNEWLINE!tag SDM

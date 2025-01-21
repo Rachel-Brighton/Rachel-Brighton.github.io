@@ -1,1 +1,0 @@
-﻿Mike Goutokuji	W	common	Legendary Creature – Cat Youkai 	23	W	1W	When Mike enters, choose one–NEWLINE• Beckon Wealth – Create a Treasure token. (It’s an artifact with “T, Sacrifice this artifact: Add one mana of any color.”)NEWLINE• Beckon Customers – Create a 1/1 black and red Youkai creature token.	2/2		normal	2HU		!tag UMNEWLINE!tag MikeNEWLINE!tag Stage1

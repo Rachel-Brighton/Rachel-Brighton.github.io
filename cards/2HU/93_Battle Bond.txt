@@ -1,1 +1,0 @@
-﻿Battle Bond	R	uncommon	Enchantment	93	R	2RR	Whenever you attack with exactly two creatures, those creatures get +2/+0 and gain menace until end of turn.			normal	2HU		!tag ReimuNEWLINE!tag Marisa

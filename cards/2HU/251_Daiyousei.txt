@@ -1,1 +1,0 @@
-﻿Daiyousei	UG	common	Legendary Creature – Faerie 	251	UG	G/U	FlashNEWLINEFlyingNEWLINEWhen Daiyousei enters, you may untap target creature.	0/1		normal	2HU		!tag EoSDNEWLINE!tag DaiyouseiNEWLINE!tag Stage2NEWLINE!tag Unnamed

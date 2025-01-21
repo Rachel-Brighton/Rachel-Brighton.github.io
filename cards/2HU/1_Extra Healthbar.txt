@@ -1,1 +1,0 @@
-﻿Extra Healthbar		common	Enchantment – Aura 	1	C	3	Enchant creatureNEWLINEUmbra armor (If enchanted permanent would be destroyed, instead remove all damage from it and destroy this Aura.)NEWLINEEnchanted creature has “Whenever an aura attached to this creature goes to the graveyard from the battlefield, untap this and put a +1/+1 counter on it.”			normal	2HU		!tag Gameplay

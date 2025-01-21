@@ -1,1 +1,0 @@
-﻿Miyoi Okunoda	U	common	Legendary Creature – Youkai 	52	U	U	Whenever Miyoi Okunoda becomes tapped, target player mills three cards.NEWLINET: Target opponent creates a Food token. (It’s an artifact with “2, T, Sacrifice this artifact: You gain 3 life.”)	1/1		normal	2HU		!tag LENEWLINE!tag MiyoiNEWLINE!tag Print

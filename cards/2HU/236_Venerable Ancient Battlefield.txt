@@ -1,1 +1,0 @@
-﻿Venerable Ancient Battlefield	UBG	rare	Enchantment	236	UBG	1BGU	The first time you would draw a card each turn, instead scry 2, then draw a card.NEWLINEThe first time you tap a land for mana each turn, add GG.NEWLINEThe first time a creature you control dies each turn, each opponent loses 2 life and you gain 2 life.			normal	2HU		!tag MoFNEWLINE!tag Music

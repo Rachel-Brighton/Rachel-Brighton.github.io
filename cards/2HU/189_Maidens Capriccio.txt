@@ -1,1 +1,0 @@
-﻿Maidens Capriccio	WR	uncommon	Sorcery	189	WR	2RW	Create a 2/2 red and white Human Monk creature token and two 1/1 colorless Orb artifact creature tokens.NEWLINECreatures you control gain flying and haste until end of turn.			normal	2HU		!exportname Maidens CapriccioNEWLINE!tag INNEWLINE!tag ReimuNEWLINE!tag MusicNEWLINE!tag Hakurei

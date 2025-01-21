@@ -1,1 +1,0 @@
-﻿Vine of Wisteria	G	common	Instant	144	G	1G	Destroy target artifact or enchantment. If it was attached to a creature, untap up to two lands.			normal	2HU		!tag MoF

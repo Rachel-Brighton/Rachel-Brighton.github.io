@@ -1,1 +1,0 @@
-﻿Lunar Reinforcements	W	common	Sorcery	21	W	1W	Kicker–Sacrifice a token (You may sacrifice a token in addition to any other costs as you cast this spell.)NEWLINECreate two 1/1 white Rabbit creature tokens. If this spell was kicked, create four instead.			normal	2HU		!tag LoLK

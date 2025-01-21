@@ -1,1 +1,0 @@
-﻿Land of Faith and Fantasy	G	uncommon	Enchantment	138	G	2G	When this enchantment enters, you may search your library for a card with a basic land type, reveal it, put it into your hand, and shuffle.NEWLINEWhenever a land you control enters, create a 1/1 black and red Youkai creature token. Then if that land was basic, put a +1/+1 counter on a Youkai you control.			normal	2HU		

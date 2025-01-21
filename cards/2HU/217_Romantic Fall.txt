@@ -1,1 +1,0 @@
-﻿Romantic Fall	RG	common	Sorcery	217	RG	1RG	Search your library for up to three basic lands and exile them. You may put one of them onto the battlefield tapped. Until the end of your next turn, you may play the others.			normal	2HU		!tag MoFNEWLINE!tag Music

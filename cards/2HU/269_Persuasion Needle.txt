@@ -1,1 +1,0 @@
-﻿Persuasion Needle		common	Artifact – Equipment 	269	C	1	Equipped creature gets +1/+0.NEWLINEAs long as equipped creature is attacking, it has first strike.NEWLINEWhenever equipped creature deals combat damage to a Youkai, exile it.NEWLINEEquip 2			normal	2HU		!tag ReimuNEWLINE!tag Hakurei

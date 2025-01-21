@@ -1,1 +1,0 @@
-﻿Youkai (Banki)	BR	common	Token Creature – Youkai 	24	C			1/1		token	2HU		!exportname Youkai (Banki)NEWLINE!related SekibankiNEWLINE!related Sekibanki<X>

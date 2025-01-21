@@ -1,1 +1,0 @@
-﻿Rika, the Tank Girl	R	common	Legendary Creature – Human Pilot 	112	R	2R	HasteNEWLINEShe’s in a Temper!! – T: Target Vehicle you control becomes an artifact creature until end of turn.NEWLINEVehicles you control have “R, T: This permanent deals 2 damage to target player.”	2/1		normal	2HU		!tag SoEWNEWLINE!tag RikaNEWLINE!tag MusicNEWLINE!tag Stage1

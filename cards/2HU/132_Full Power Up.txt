@@ -1,1 +1,0 @@
-﻿Full Power Up!!	G	common	Instant	132	G	3G	Put three +1/+1 counters on target creature. Then you gain 1 life for each counter on that creature.			normal	2HU		!tag Gameplay

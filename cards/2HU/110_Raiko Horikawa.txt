@@ -1,1 +1,0 @@
-﻿Raiko Horikawa	R	mythic	Legendary Creature – Youkai Rebel Bard 	110	R	2RR	Flying, double strikeNEWLINEPristine Beat – Whenever Raiko deals combat damage to a player, it deals that much damage to each creature they control.	1/3		normal	2HU		!tag DDCNEWLINE!tag RaikoNEWLINE!tag MusicNEWLINE!tag EXNEWLINE!tag StageEX

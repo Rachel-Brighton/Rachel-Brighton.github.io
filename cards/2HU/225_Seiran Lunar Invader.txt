@@ -1,1 +1,0 @@
-﻿Seiran, Lunar Invader	WB	common	Legendary Creature – Rabbit Soldier 	225	WB	WB	Bullets from another dimension – When Seiran enters, if you own seven or more cards in exile, each opponent loses 3 life and you gain 3 life.	2/2		normal	2HU		!tag LoLKNEWLINE!tag SeiranNEWLINE!tag Stage1NEWLINE!tag MoonNEWLINE!tag Playable

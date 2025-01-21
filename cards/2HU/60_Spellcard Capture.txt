@@ -1,1 +1,0 @@
-﻿Spellcard Capture	U	common	Instant	60	U	3UU	This spell costs 2 less to cast if it targets a spell that shares a name with a card in its owner’s graveyard.NEWLINECounter target spell.NEWLINEDraw a card.			normal	2HU		!tag Gameplay

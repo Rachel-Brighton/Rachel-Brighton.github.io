@@ -1,1 +1,0 @@
-﻿Kisume	B	common	Legendary Creature – Youkai Horror 	77	B	1B	FlashNEWLINETsurube-Otoshi Apparition – When Kisume enters, put a -1/-1 counter on up to one target creature.	2/1		normal	2HU		!tag SANEWLINE!tag KisumeNEWLINE!tag Stage1

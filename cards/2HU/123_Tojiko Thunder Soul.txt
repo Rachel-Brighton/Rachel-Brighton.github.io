@@ -1,1 +1,0 @@
-﻿Tojiko, Thunder Soul	R	rare	Legendary Creature – Spirit Mystic 	123	R	4R	FlyingNEWLINEAt the beginning of each end step, if you or a creature you control was dealt damage this turn, Tojiko deals 3 damage to any target.	5/4		normal	2HU		!tag TDNEWLINE!tag TojikoNEWLINE!tag Stage5NEWLINE!tag Taoist

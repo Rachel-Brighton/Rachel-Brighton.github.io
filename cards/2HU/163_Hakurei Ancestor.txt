@@ -1,1 +1,0 @@
-﻿Hakurei Ancestor	WR	mythic	Legendary Creature – Human Monk 	163	WR	2RW	HasteNEWLINEWhen Hakurei Ancestor enters, it gets +1/+1 until end of turn.NEWLINE2RW: Exile Hakurei Ancestor. At the beginning of the next combat, return it to the battlefield under its owner’s control.	4/4		normal	2HU		!tag HakureiNEWLINE!tag Noncanonical

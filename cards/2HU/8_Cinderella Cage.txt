@@ -1,1 +1,0 @@
-﻿Cinderella Cage	W	uncommon	Enchantment	8	W	2W	FlashNEWLINEWhen this enchantment enters, target nonland permanent phases out until this enchantment leaves the battlefield. (Treat it and anything attached to it as though they don’t exist.)NEWLINEW, Sacrifice this enchantment: You gain 2 life.			normal	2HU		!tag INNEWLINE!tag Music

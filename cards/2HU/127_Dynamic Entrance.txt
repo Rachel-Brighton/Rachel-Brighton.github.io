@@ -1,1 +1,0 @@
-﻿Dynamic Entrance	G	common	Instant	127	G	1G	Target creature you control gets +2/+0 until end of turn if it entered this turn. Then it deals damage equal to its power to target creature or planeswalker you don’t control.			normal	2HU		!tag INNEWLINE!tag Wriggle

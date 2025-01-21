@@ -1,1 +1,0 @@
-﻿Myouren Temple Road		rare	Land	280	WU		T, Pay 1 life: Add W or U.NEWLINET, Sacrifice Myouren Temple Road: Search your library for a basic Plains or Island, put it onto the battlefield tapped, then shuffle.			normal	2HU		!tag UFONEWLINE!tag Myouren

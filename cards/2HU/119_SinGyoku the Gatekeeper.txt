@@ -1,1 +1,0 @@
-﻿SinGyoku, the Gatekeeper	R	common	Legendary Creature – Avatar 	119	R	1RR	MenaceNEWLINEPositive and Negative – 1: SinGyoku’s base power and toughness becomes 1/5, 5/1, or 3/3 until end of turn.	3/3		normal	2HU		!tag HRtPNEWLINE!tag SinGyokuNEWLINE!tag PC-98

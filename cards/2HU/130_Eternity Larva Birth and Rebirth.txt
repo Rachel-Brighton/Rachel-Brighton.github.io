@@ -1,1 +1,0 @@
-﻿Eternity Larva, Birth and Rebirth	G	common	Legendary Creature – Insect Faerie 	130	G	G	FlyingNEWLINEThe first creature spell you cast each turn costs 1 less to cast.	0/1		normal	2HU		!tag HSiFSNEWLINE!tag EternityNEWLINE!tag LarvaNEWLINE!tag Stage1

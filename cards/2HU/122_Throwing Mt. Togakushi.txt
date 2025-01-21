@@ -1,1 +1,0 @@
-﻿Throwing Mt. Togakushi	R	common	Instant	122	R	2R	Throwing Mt. Togakushi deals damage to target creature equal to the number of lands you control, then it deals 3 damage to that creature’s controller if you control three or more basic lands.			normal	2HU		!tag IaMPNEWLINE!tag SuikaNEWLINE!tag FighterNEWLINE!tag Spinoff

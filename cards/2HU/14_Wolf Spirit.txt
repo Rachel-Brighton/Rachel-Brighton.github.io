@@ -1,1 +1,0 @@
-﻿Wolf Spirit	R	common	Token Creature – Wolf Spirit 	14	C		This creature must attack each combat if able.	3/1		token	2HU		!related Saki Kurokoma<2>

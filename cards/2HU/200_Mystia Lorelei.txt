@@ -1,1 +1,0 @@
-﻿Mystia Lorelei	UB	common	Legendary Creature – Bird Youkai 	200	UB	1UB	Flying, menaceNEWLINESong of the Night Sparrow – T: Untap target attacking creature. Prevent all combat damage that would be dealt to and dealt by that creature this turn.	1/3		normal	2HU		!tag INNEWLINE!tag MystiaNEWLINE!tag Stage2NEWLINE!tag MusicNEWLINE!tag Playable

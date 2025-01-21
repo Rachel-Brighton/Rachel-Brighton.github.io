@@ -1,1 +1,0 @@
-﻿Chiyari Tenkajin	B	uncommon	Legendary Creature – Beast Youkai 	69	B	2B	MenaceNEWLINECursed Blood – At the beginning of each end step, if a creature died this turn, put a +1/+1 counter on Chiyari Tenkajin, then you gain 1 life and each opponent loses 1 life.	2/3		normal	2HU		!tag UDoALGNEWLINE!tag ChiyariNEWLINE!tag PhantasmagoriaNEWLINE!tag Playable

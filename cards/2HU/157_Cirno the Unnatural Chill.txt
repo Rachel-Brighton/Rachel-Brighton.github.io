@@ -1,1 +1,0 @@
-﻿Cirno, the Unnatural Chill	UR	common	Legendary Snow Creature – Faerie 	157	UR	1UR	FlyingNEWLINEPerfect Freeze – Whenever a source you control deals damage to a creature an opponent controls, put that many stun counters on it.	3/2		normal	2HU		!tag EoSDNEWLINE!tag CirnoNEWLINE!tag Stage2NEWLINE!tag Playable

@@ -1,1 +1,0 @@
-﻿Player 2	U	rare	Creature – Avatar 	56	U	2U	As you cast this spell, choose a color.NEWLINEYou may have this creature enter as a copy of a creature you control, except its name is still Player 2 and it’s the chosen color.	0/0		normal	2HU		!tag FighterNEWLINE!tag PoFVNEWLINE!tag Gameplay

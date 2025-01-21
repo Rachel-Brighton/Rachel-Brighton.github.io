@@ -1,1 +1,0 @@
-﻿Ordinary Magicians Charm	UR	common	Instant	208	UR	UR	Choose one –NEWLINE• Create a Treasure token.NEWLINE• Create a 1/1 colorless Doll artifact creature token.NEWLINE• Gain control of target noncreature artifact with mana value 3 or less.			normal	2HU		!exportname Ordinary Magicians CharmNEWLINE!tag Marisa

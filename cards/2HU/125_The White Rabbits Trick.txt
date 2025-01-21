@@ -1,1 +1,0 @@
-﻿The White Rabbits Trick	R	common	Instant	125	R	R	Until end of turn, target attacking creature you control can’t be blocked except by target untapped creature defending player controls.			normal	2HU		!exportname The White Rabbits TrickNEWLINE!tag TewiNEWLINE!tag Tei

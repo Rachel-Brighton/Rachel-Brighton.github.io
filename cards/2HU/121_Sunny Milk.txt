@@ -1,1 +1,0 @@
-﻿Sunny Milk	R	uncommon	Legendary Creature – Faerie 	121	R	2R	FlyingNEWLINEManipulate light – When Sunny Milk enters, up to three target creatures can’t block this turn.	2/1		normal	2HU		!tag SunnyNEWLINE!tag GFWNEWLINE!tag SpinoffNEWLINE!tag PrintNEWLINE!tag Sangetsusei

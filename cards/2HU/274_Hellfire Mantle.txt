@@ -1,1 +1,0 @@
-﻿Hellfire Mantle		rare	Land	274	BR		T, Pay 1 life: Add B or R.NEWLINET, Sacrifice Hellfire Mantle: Search your library for a basic Swamp or Mountain, put it onto the battlefield tapped, then shuffle.			normal	2HU		!tag SANEWLINE!tag Hell

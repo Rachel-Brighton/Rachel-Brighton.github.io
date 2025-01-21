@@ -1,1 +1,0 @@
-﻿Spellcard Declaration	R	uncommon	Instant	120	R	R	This spell can’t be countered.NEWLINEChoose an instant or sorcery card name. Until end of turn, spells you control with the chosen name can’t be countered.NEWLINEDraw a card.			normal	2HU		!tag Gameplay

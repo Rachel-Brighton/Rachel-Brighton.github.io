@@ -1,1 +1,0 @@
-﻿Luna Child	W	common	Legendary Creature – Faerie 	20	W	2W	FlyingNEWLINEDampen sound – When Luna Child enters, opponents can’t cast spells until end of turn.	1/2		normal	2HU		!tag LunaNEWLINE!tag GFWNEWLINE!tag SpinoffNEWLINE!tag PrintNEWLINE!tag Sangetsusei

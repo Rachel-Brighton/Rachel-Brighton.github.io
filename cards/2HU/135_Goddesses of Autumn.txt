@@ -1,1 +1,0 @@
-﻿Goddesses of Autumn	G	common	Legendary Creature – God 	135	WRG	1G	Forests you control have “T: Add R.”NEWLINEMountains you control have “T: Add W.”NEWLINEPlains you control have “T: Add G.”	2/2		normal	2HU		!tag MoFNEWLINE!tag MinorikoNEWLINE!tag ShizuhaNEWLINE!tag AkiNEWLINE!tag Stage1

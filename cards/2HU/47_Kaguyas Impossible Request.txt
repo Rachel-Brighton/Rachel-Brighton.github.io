@@ -1,1 +1,0 @@
-﻿Kaguyas Impossible Request	U	common	Instant	47	U	1U	Counter target spell if it shares a card type with a permanent you control or a card in your graveyard.			normal	2HU		!exportname Kaguyas Impossible RequestNEWLINE!tag INNEWLINE!tag KaguyaNEWLINE!tag IN-all

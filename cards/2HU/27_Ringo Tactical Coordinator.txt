@@ -1,1 +1,0 @@
-﻿Ringo, Tactical Coordinator	W	common	Legendary Creature – Rabbit Soldier 	27	W	1WW	Other Rabbits you control get +1/+1.NEWLINERingo gets +2/+2 for each other Rabbit creature you control.	2/2		normal	2HU		!tag LoLKNEWLINE!tag RingoNEWLINE!tag Stage2NEWLINE!tag Moon

@@ -1,1 +1,0 @@
-﻿Urumi Ushizaki	BG	common	Legendary Creature – Beast Demon 	235	BG	2BG	Creatures your opponents control get -2/-2 for each +1/+1 counter on them.NEWLINE2G, T: Put a +1/+1 counter on target creature.	3/3		normal	2HU		!tag WbaWCNEWLINE!tag UrumiNEWLINE!tag Stage2

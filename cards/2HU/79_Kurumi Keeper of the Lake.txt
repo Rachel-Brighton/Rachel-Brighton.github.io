@@ -1,1 +1,0 @@
-﻿Kurumi, Keeper of the Lake	B	common	Legendary Creature – Vampire 	79	B	BB	Flying, lifelinkNEWLINEWhenever a nonbasic land enters the battlefield under an opponent’s control, Kurumi deals 1 damage to any target.	2/2		normal	2HU		!tag LLSNEWLINE!tag KurumiNEWLINE!tag Stage2NEWLINE!tag PC-98

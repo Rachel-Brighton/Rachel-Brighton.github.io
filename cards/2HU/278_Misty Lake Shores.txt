@@ -1,1 +1,0 @@
-﻿Misty Lake Shores		rare	Land	278	UR		T, Pay 1 life: Add U or R.NEWLINET, Sacrifice Misty Lake Shores: Search your library for a basic Island or Mountain, put it onto the battlefield tapped, then shuffle.			normal	2HU		!tag EoSD

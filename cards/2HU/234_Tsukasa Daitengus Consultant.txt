@@ -1,1 +1,0 @@
-﻿Tsukasa, Daitengu's Consultant	UB	rare	Legendary Creature – Fox Advisor 	234	UB	UB	At the beginning of your upkeep, reveal the top card of your library and put that card into your hand. You lose life equal to its mana value.	3/2		normal	2HU		!tag UMNEWLINE!tag TsukasaNEWLINE!tag Stage5NEWLINE!tag TenguNEWLINE!tag Playable

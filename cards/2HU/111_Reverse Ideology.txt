@@ -1,1 +1,0 @@
-﻿Reverse Ideology	R	rare	Sorcery	111	R	3RR	Switch each creature’s power and toughness until your next turn.NEWLINEGoad each creature. (Until your next turn, that creature attacks each combat if able and attacks a player other than you if able.)			normal	2HU		!tag DDCNEWLINE!tag SeijaNEWLINE!tag ajieSNEWLINE!tag Music

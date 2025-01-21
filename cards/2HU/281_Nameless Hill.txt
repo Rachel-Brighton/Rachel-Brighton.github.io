@@ -1,1 +1,0 @@
-﻿Nameless Hill		rare	Land	281	BG		T, Pay 1 life: Add B or G.NEWLINET, Sacrifice Nameless Hill: Search your library for a basic Swamp or Forest, put it onto the battlefield tapped, then shuffle.			normal	2HU		!tag PoFV

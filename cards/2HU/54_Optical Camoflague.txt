@@ -1,1 +1,0 @@
-﻿Optical Camoflague	U	common	Instant	54	U	U	Until end of turn, target creature has hexproof and can’t be blocked.			normal	2HU		!tag MoFNEWLINE!tag Nitori

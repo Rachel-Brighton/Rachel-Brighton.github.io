@@ -1,1 +1,0 @@
-﻿Son Biten	G	uncommon	Legendary Creature – Monkey Youkai 	140	G	1GG	VigilanceNEWLINEMonkey Strike – 4G, T: Son Biten fights target creature you don’t control. If that creature would die this turn, exile it instead. Activate only as a sorcery.	3/3		normal	2HU		!tag UDoALGNEWLINE!tag BitenNEWLINE!tag SonNEWLINE!tag PhantasmagoriaNEWLINE!tag Playable

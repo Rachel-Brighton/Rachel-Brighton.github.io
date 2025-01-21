@@ -1,1 +1,0 @@
-﻿Youkai Mountain Ravine		rare	Land	283	RG		T, Pay 1 life: Add R or G.NEWLINET, Sacrifice Youkai Mountain Ravine: Search your library for a basic Mountain or Forest, put it onto the battlefield tapped, then shuffle.			normal	2HU		!tag MoF

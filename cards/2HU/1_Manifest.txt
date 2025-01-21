@@ -1,1 +1,0 @@
-﻿Manifest		common	Creature	1	C		You can cover a face-down manifested creature with this reminder card.NEWLINEA manifested creature card can be turned face up any time for its mana cost. A face-down card can also be turned face up for its morph cost.	2/2		token	2HU		!related Narumi, Life GiverNEWLINE!tokentag LivingBullet

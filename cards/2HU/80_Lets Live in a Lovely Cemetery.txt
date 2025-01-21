@@ -1,1 +1,0 @@
-﻿Lets Live in a Lovely Cemetery	B	rare	Sorcery	80	B	3BB	Destroy all non-Spirit non-Zombie creatures.			normal	2HU		!exportname Lets Live in a Lovely CemeteryNEWLINE!tag TDNEWLINE!tag YoshikaNEWLINE!tag Music

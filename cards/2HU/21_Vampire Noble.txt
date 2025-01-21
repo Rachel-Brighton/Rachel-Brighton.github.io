@@ -1,1 +1,0 @@
-﻿Vampire Noble	BR	common	Token Creature – Vampire Noble 	21	C		Flying, annihilator 1 (Whenever this creature attacks, defending player sacrifices a permanent.)	2/2		token	2HU		!related Flandre Scarlet<3>

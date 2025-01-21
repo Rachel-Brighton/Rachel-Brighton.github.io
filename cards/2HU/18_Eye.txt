@@ -1,1 +1,0 @@
-﻿Eye	WR	common	Token Creature – Eye 	18	C		Flying, defender	1/1		token	2HU		!related YuugenMagan<5>

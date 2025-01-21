@@ -1,1 +1,0 @@
-﻿Enigmatic Vestige	RG	rare	Legendary Creature – Kirin Spirit 	160	RG	2RG	Vigilance, reach, hasteNEWLINEWind Sign – When Enigmatic Vestige enters, you may return another creature you control to its owner’s hand. If you do, add RG.NEWLINEFlower Sign – Other creatures you control enter with an additional +1/+1 counter on them.	2/4		normal	2HU		!tag Satsuki

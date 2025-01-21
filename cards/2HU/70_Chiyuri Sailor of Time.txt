@@ -1,1 +1,0 @@
-﻿Chiyuri, Sailor of Time	B	rare	Legendary Creature – Human Advisor 	70	B	2BB	When Chiyuri enters, choose one –NEWLINE• Destroy target creature an opponent controls.NEWLINE• Target opponent chooses a creature they control. Gain control of that creature.	3/1		normal	2HU		!tag PoDDNEWLINE!tag ChiyuriNEWLINE!tag PhantasmagoriaNEWLINE!tag PC-98NEWLINE!tag Playable

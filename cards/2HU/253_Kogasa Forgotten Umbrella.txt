@@ -1,1 +1,0 @@
-﻿Kogasa, Forgotten Umbrella	UR	common	Legendary Creature – Youkai Spirit 	253	UR	1U/RU/R	FlashNEWLINEBOO! – When Kogasa enters, change the target of target spell with a single target to Kogasa if able.	2/2		normal	2HU		!tag UFONEWLINE!tag KogasaNEWLINE!tag Stage2

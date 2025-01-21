@@ -1,1 +1,0 @@
-﻿Error-Prone Maid	U	common	Creature – Faerie 	42	U	1U	FlashNEWLINEFlyingNEWLINEWhen this creature enters, you may sacrifice an artifact. When you do, return target nonland permanent an opponent controls to its owner’s hand.	1/3		normal	2HU		!tag EoSD
