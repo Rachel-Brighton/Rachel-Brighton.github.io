@@ -1,0 +1,1 @@
+[MoF Stage 3 - The Gensokyo the Gods Loved](https://www.youtube.com/watch?v=wbjbNGgL8p8)

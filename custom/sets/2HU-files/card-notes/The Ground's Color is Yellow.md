@@ -1,0 +1,1 @@
+[SWR Ruined Hakurei Shrine Battle Theme - The Ground's Color is Yellow](https://www.youtube.com/watch?v=5EV-H1zJbKk)

@@ -1,0 +1,1 @@
+[HRtP Makai Route Final Boss Second Phase - We Shall Die Together AKA Civilization of Magic](https://www.youtube.com/watch?v=HZaFmz8XvrM)

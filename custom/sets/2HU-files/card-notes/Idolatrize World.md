@@ -1,0 +1,1 @@
+[WBaWC Final Boss - Entrust This World to Idols ~ Idolatrize World](https://www.youtube.com/watch?v=Y0VYKbTSxu0)

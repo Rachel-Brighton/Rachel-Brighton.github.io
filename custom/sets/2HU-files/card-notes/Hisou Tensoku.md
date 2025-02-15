@@ -1,0 +1,1 @@
+[Hisoutensoku Pre-Battle Theme - Our Hisou Tensoku](https://www.youtube.com/watch?v=Rom0-LKuUJU)

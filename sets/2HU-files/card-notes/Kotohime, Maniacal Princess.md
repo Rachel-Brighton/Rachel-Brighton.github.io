@@ -1,0 +1,1 @@
+[PoDD Kotohime's theme - Maniacal Princess](https://www.youtube.com/watch?v=oQoQBSF_Lag)

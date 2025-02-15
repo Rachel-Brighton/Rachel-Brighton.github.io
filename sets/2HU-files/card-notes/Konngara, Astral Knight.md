@@ -1,0 +1,1 @@
+[HRtP Hell Route Final Boss - Swordsman of a Distant Star](https://www.youtube.com/watch?v=esoCtl_Yga8)

@@ -1,0 +1,1 @@
+[PoDD Yumemi Okazaki Pre-Battle Theme - Adoration of Magic](https://www.youtube.com/watch?v=VqnfHVYSNAc)
