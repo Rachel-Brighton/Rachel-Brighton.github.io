@@ -1,1 +1,1 @@
-Melds with [Kasen, Seeking Herself](https://rachel-brighton.github.io/card?set=2HU&num=188&name=Kasen%2C+Seeking+Herself)
+Melds with [Kasen, Seeking Herself](https://rachel-brighton.github.io/card?set=2HU&num=190&name=Kasen%2C+Seeking+Herself)
