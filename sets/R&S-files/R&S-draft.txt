@@ -1,0 +1,467 @@
+[CustomCards]
+	[
+		{
+			"name": "Matti, the Paladin",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Legendary Creature — Mouse Knight",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/ATR-files/img/2_Matti, the Paladin.png"
+			}
+		},
+		{
+			"name": "Ranalie, the Mythril",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Legendary Creature — Dragon Noble",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/ATR-files/img/12_Ranalie, the Mythril.png"
+			}
+		},
+		{
+			"name": "Merran, the Steeltooth",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Legendary Creature — Wolf Warrior",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/ATR-files/img/9_Merran, the Steeltooth.png"
+			}
+		},
+		{
+			"name": "Avy, the Starry",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}",
+			"type": "Legendary Creature — Frog Bard",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/ATR-files/img/14_Avy, the Starry.png"
+			}
+		},
+		{
+			"name": "Twili, the Valedictorian",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Legendary Creature — Bird Advisor",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/ATR-files/img/7_Twili, the Valedictorian.png"
+			}
+		},
+		{
+			"name": "Shira, the Queen",
+			"rarity": "mythic",
+			"mana_cost": "{W}{U}{B}{R}{G}",
+			"type": "Legendary Creature — Rabbit Noble",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/ATR-files/img/24_Shira, the Queen.png"
+			}
+		},
+		{
+			"name": "Tassha, the Snowfur",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Legendary Creature — Wolf Assassin",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/ATR-files/img/10_Tassha, the Snowfur.png"
+			}
+		},
+		{
+			"name": "Steel Yourself!",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{W}",
+			"type": "Instant",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/ATR-files/img/4_Steel Yourself!.png"
+			}
+		},
+		{
+			"name": "Dancer Rabbit",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Creature — Rabbit Performer",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/ATR-files/img/20_Dancer Rabbit.png"
+			}
+		},
+		{
+			"name": "Assassin Rabbit",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{B}",
+			"type": "Creature — Rabbit Assassin",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/ATR-files/img/18_Assassin Rabbit.png"
+			}
+		},
+		{
+			"name": "Heavyblade Rabbit",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Creature — Rabbit Warrior",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/ATR-files/img/23_Heavyblade Rabbit.png"
+			}
+		},
+		{
+			"name": "Bruiser Rabbit",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{G}",
+			"type": "Creature — Rabbit Barbarian",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/ATR-files/img/19_Bruiser Rabbit.png"
+			}
+		},
+		{
+			"name": "Sniper Rabbit",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Creature — Rabbit Archer",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/ATR-files/img/25_Sniper Rabbit.png"
+			}
+		},
+		{
+			"name": "Defender Rabbit",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Creature — Rabbit Knight",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/ATR-files/img/21_Defender Rabbit.png"
+			}
+		},
+		{
+			"name": "Ancient Rabbit",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Creature — Elder Rabbit",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/ATR-files/img/17_Ancient Rabbit.png"
+			}
+		},
+		{
+			"name": "Druid Rabbit",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{U}",
+			"type": "Creature — Rabbit Druid",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/ATR-files/img/22_Druid Rabbit.png"
+			}
+		},
+		{
+			"name": "Wizard Rabbit",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Creature — Rabbit Wizard",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/ATR-files/img/27_Wizard Rabbit.png"
+			}
+		},
+		{
+			"name": "Spellsword Rabbit",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Creature — Rabbit Spellshaper",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/ATR-files/img/26_Spellsword Rabbit.png"
+			}
+		},
+		{
+			"name": "Asha, the Shopkeeper",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Legendary Creature — Cat",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/ATR-files/img/1_Asha, the Shopkeeper.png"
+			}
+		},
+		{
+			"name": "Nimi, the Archer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Creature — Mouse Archer",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/ATR-files/img/3_Nimi, the Archer.png"
+			}
+		},
+		{
+			"name": "Saya, the Archon",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Creature — Bird Advisor",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/ATR-files/img/5_Saya, the Archon.png"
+			}
+		},
+		{
+			"name": "Karsi, the Ruby",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Creature — Dragon Warrior",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/ATR-files/img/11_Karsi, the Ruby.png"
+			}
+		},
+		{
+			"name": "Blush, the Painter",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Legendary Creature — Frog",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/ATR-files/img/15_Blush, the Painter.png"
+			}
+		},
+		{
+			"name": "Stretch the Tether",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Instant",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/ATR-files/img/6_Stretch the Tether.png"
+			}
+		},
+		{
+			"name": "Get In The Circle",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/ATR-files/img/8_Get In The Circle.png"
+			}
+		},
+		{
+			"name": "They Were Roommates",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/ATR-files/img/13_They Were Roommates.png"
+			}
+		},
+		{
+			"name": "Defensive Move",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/ATR-files/img/16_Defensive Move.png"
+			}
+		},
+		{
+			"name": "Fullmoon Treasuresphere",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Orb",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/ATR-files/img/28_Fullmoon Treasuresphere.png"
+			}
+		},
+		{
+			"name": "Churchmouse Streets",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Plains",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/ATR-files/img/29_Churchmouse Streets.png"
+			}
+		},
+		{
+			"name": "The Scholar's Nest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Island",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/ATR-files/img/35_The Scholar's Nest.png"
+			}
+		},
+		{
+			"name": "The King's Arsenal",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Swamp",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/ATR-files/img/32_The King's Arsenal.png"
+			}
+		},
+		{
+			"name": "The Emerald Lakeside",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Forest",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/ATR-files/img/30_The Emerald Lakeside.png"
+			}
+		},
+		{
+			"name": "The Moonlit Pinnacle",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/ATR-files/img/33_The Moonlit Pinnacle.png"
+			}
+		},
+		{
+			"name": "Kingdom Outskirts",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/ATR-files/img/31_Kingdom Outskirts.png"
+			}
+		},
+		{
+			"name": "A Nice Hat",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Food Equipment",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/ATR-files/img/3_A Nice Hat.png"
+			}
+		},
+		{
+			"name": "Varmint",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Varmint",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/ATR-files/img/2_Varmint.png"
+			}
+		},
+		{
+			"name": "The Red Darkhouse",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Mountain",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/ATR-files/img/34_The Red Darkhouse.png"
+			}
+		},
+		{
+			"name": "Treasure",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Treasure",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/ATR-files/img/4_Treasure.png"
+			}
+		},
+		{
+			"name": "Mouse Knight",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Mouse Knight",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/ATR-files/img/1_Mouse Knight.png"
+			}
+		},
+	]
+
+[rare(1)]
+	2 Matti, the Paladin
+	2 Ranalie, the Mythril
+	2 Merran, the Steeltooth
+	2 Avy, the Starry
+	2 Twili, the Valedictorian
+	2 Asha, the Shopkeeper
+	2 Get In The Circle
+	2 The Moonlit Pinnacle
+[uncommon(4)]
+	4 Tassha, the Snowfur
+	4 Steel Yourself!
+	4 Dancer Rabbit
+	4 Assassin Rabbit
+	4 Heavyblade Rabbit
+	4 Bruiser Rabbit
+	4 Sniper Rabbit
+	4 Defender Rabbit
+	4 Ancient Rabbit
+	4 Druid Rabbit
+	4 Wizard Rabbit
+	4 Spellsword Rabbit
+	4 Nimi, the Archer
+	4 Saya, the Archon
+	4 Karsi, the Ruby
+	4 Blush, the Painter
+[common(7)]
+	8 Stretch the Tether
+	8 They Were Roommates
+	8 Defensive Move
+	8 Fullmoon Treasuresphere
+	8 Churchmouse Streets
+	8 The Scholar's Nest
+	8 The King's Arsenal
+	8 The Emerald Lakeside
+	8 Kingdom Outskirts
+	8 The Red Darkhouse
+[wildcard(2)]
+	5 Matti, the Paladin
+	5 Ranalie, the Mythril
+	5 Merran, the Steeltooth
+	5 Avy, the Starry
+	5 Twili, the Valedictorian
+	5 Shira, the Queen
+	5 Tassha, the Snowfur
+	5 Steel Yourself!
+	5 Dancer Rabbit
+	5 Assassin Rabbit
+	5 Heavyblade Rabbit
+	5 Bruiser Rabbit
+	5 Sniper Rabbit
+	5 Defender Rabbit
+	5 Ancient Rabbit
+	5 Druid Rabbit
+	5 Wizard Rabbit
+	5 Spellsword Rabbit
+	5 Asha, the Shopkeeper
+	5 Nimi, the Archer
+	5 Saya, the Archon
+	5 Karsi, the Ruby
+	5 Blush, the Painter
+	5 Stretch the Tether
+	5 Get In The Circle
+	5 They Were Roommates
+	5 Defensive Move
+	5 Fullmoon Treasuresphere
+	5 Churchmouse Streets
+	5 The Scholar's Nest
+	5 The King's Arsenal
+	5 The Emerald Lakeside
+	5 The Moonlit Pinnacle
+	5 Kingdom Outskirts
+	5 The Red Darkhouse
