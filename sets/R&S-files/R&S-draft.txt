@@ -72,7 +72,7 @@
 		},
 		{
 			"name": "Steel Yourself!",
-			"rarity": "uncommon",
+			"rarity": "common",
 			"mana_cost": "{W}{W}",
 			"type": "Instant",
 			"collector_number": "4",
@@ -153,7 +153,7 @@
 		{
 			"name": "Druid Rabbit",
 			"rarity": "uncommon",
-			"mana_cost": "{3}{G}{U}",
+			"mana_cost": "{2}{G}{U}",
 			"type": "Creature — Rabbit Druid",
 			"collector_number": "22",
 			"image_uris": {
@@ -225,9 +225,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Legendary Creature — Frog",
-			"collector_number": "15",
+			"collector_number": "16",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/ATR-files/img/15_Blush, the Painter.png"
+				"en": "https://Rachel-Brighton.github.io/sets/ATR-files/img/16_Blush, the Painter.png"
 			}
 		},
 		{
@@ -261,13 +261,13 @@
 			}
 		},
 		{
-			"name": "Defensive Move",
-			"rarity": "common",
-			"mana_cost": "{G}",
-			"type": "Instant",
-			"collector_number": "16",
+			"name": "Beast Mode",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "15",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/ATR-files/img/16_Defensive Move.png"
+				"en": "https://Rachel-Brighton.github.io/sets/ATR-files/img/15_Beast Mode.png"
 			}
 		},
 		{
@@ -285,9 +285,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land — Plains",
-			"collector_number": "29",
+			"collector_number": "30",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/ATR-files/img/29_Churchmouse Streets.png"
+				"en": "https://Rachel-Brighton.github.io/sets/ATR-files/img/30_Churchmouse Streets.png"
 			}
 		},
 		{
@@ -295,9 +295,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land — Island",
-			"collector_number": "35",
+			"collector_number": "36",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/ATR-files/img/35_The Scholar's Nest.png"
+				"en": "https://Rachel-Brighton.github.io/sets/ATR-files/img/36_The Scholar's Nest.png"
 			}
 		},
 		{
@@ -305,9 +305,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land — Swamp",
-			"collector_number": "32",
+			"collector_number": "33",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/ATR-files/img/32_The King's Arsenal.png"
+				"en": "https://Rachel-Brighton.github.io/sets/ATR-files/img/33_The King's Arsenal.png"
 			}
 		},
 		{
@@ -315,9 +315,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land — Forest",
-			"collector_number": "30",
+			"collector_number": "31",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/ATR-files/img/30_The Emerald Lakeside.png"
+				"en": "https://Rachel-Brighton.github.io/sets/ATR-files/img/31_The Emerald Lakeside.png"
 			}
 		},
 		{
@@ -325,9 +325,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "33",
+			"collector_number": "34",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/ATR-files/img/33_The Moonlit Pinnacle.png"
+				"en": "https://Rachel-Brighton.github.io/sets/ATR-files/img/34_The Moonlit Pinnacle.png"
 			}
 		},
 		{
@@ -335,9 +335,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "31",
+			"collector_number": "32",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/ATR-files/img/31_Kingdom Outskirts.png"
+				"en": "https://Rachel-Brighton.github.io/sets/ATR-files/img/32_Kingdom Outskirts.png"
 			}
 		},
 		{
@@ -345,9 +345,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Food Equipment",
-			"collector_number": "3",
+			"collector_number": "4",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/ATR-files/img/3_A Nice Hat.png"
+				"en": "https://Rachel-Brighton.github.io/sets/ATR-files/img/4_A Nice Hat.png"
 			}
 		},
 		{
@@ -355,9 +355,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Varmint",
-			"collector_number": "2",
+			"collector_number": "3",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/ATR-files/img/2_Varmint.png"
+				"en": "https://Rachel-Brighton.github.io/sets/ATR-files/img/3_Varmint.png"
 			}
 		},
 		{
@@ -365,9 +365,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land — Mountain",
-			"collector_number": "34",
+			"collector_number": "35",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/ATR-files/img/34_The Red Darkhouse.png"
+				"en": "https://Rachel-Brighton.github.io/sets/ATR-files/img/35_The Red Darkhouse.png"
 			}
 		},
 		{
@@ -375,9 +375,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Treasure",
-			"collector_number": "4",
+			"collector_number": "5",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/ATR-files/img/4_Treasure.png"
+				"en": "https://Rachel-Brighton.github.io/sets/ATR-files/img/5_Treasure.png"
 			}
 		},
 		{
@@ -385,9 +385,29 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Mouse Knight",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/ATR-files/img/2_Mouse Knight.png"
+			}
+		},
+		{
+			"name": "Shira's Armory",
+			"rarity": "rare",
+			"mana_cost": "{5}",
+			"type": "Artifact — Equipment",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/ATR-files/img/29_Shira's Armory.png"
+			}
+		},
+		{
+			"name": "The Monarch",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/ATR-files/img/1_Mouse Knight.png"
+				"en": "https://Rachel-Brighton.github.io/sets/ATR-files/img/1_The Monarch.png"
 			}
 		},
 	]
@@ -401,9 +421,9 @@
 	2 Asha, the Shopkeeper
 	2 Get In The Circle
 	2 The Moonlit Pinnacle
+	2 Shira's Armory
 [uncommon(4)]
 	4 Tassha, the Snowfur
-	4 Steel Yourself!
 	4 Dancer Rabbit
 	4 Assassin Rabbit
 	4 Heavyblade Rabbit
@@ -418,10 +438,11 @@
 	4 Saya, the Archon
 	4 Karsi, the Ruby
 	4 Blush, the Painter
+	4 Beast Mode
 [common(7)]
+	8 Steel Yourself!
 	8 Stretch the Tether
 	8 They Were Roommates
-	8 Defensive Move
 	8 Fullmoon Treasuresphere
 	8 Churchmouse Streets
 	8 The Scholar's Nest
@@ -456,7 +477,7 @@
 	5 Stretch the Tether
 	5 Get In The Circle
 	5 They Were Roommates
-	5 Defensive Move
+	5 Beast Mode
 	5 Fullmoon Treasuresphere
 	5 Churchmouse Streets
 	5 The Scholar's Nest
@@ -465,3 +486,4 @@
 	5 The Moonlit Pinnacle
 	5 Kingdom Outskirts
 	5 The Red Darkhouse
+	5 Shira's Armory
