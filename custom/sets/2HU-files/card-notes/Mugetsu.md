@@ -1,0 +1,1 @@
+[LLS Extra Stage First Boss - Illusion of a Maid ~ Icemilk Magic](https://www.youtube.com/watch?v=jV1cKB6RmKc)
