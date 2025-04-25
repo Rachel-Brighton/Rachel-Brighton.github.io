@@ -1,0 +1,1 @@
+[LLS Extra Stage Second Boss - Cute Devil ~ Innocence](https://www.youtube.com/watch?v=lxYNz0qff10)

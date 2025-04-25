@@ -7,7 +7,7 @@
 			"type": "Legendary Creature — Mouse Knight",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/ATR-files/img/2_Matti, the Paladin.png"
+				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/2_Matti, the Paladin.png"
 			}
 		},
 		{
@@ -17,7 +17,7 @@
 			"type": "Legendary Creature — Dragon Noble",
 			"collector_number": "12",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/ATR-files/img/12_Ranalie, the Mythril.png"
+				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/12_Ranalie, the Mythril.png"
 			}
 		},
 		{
@@ -27,7 +27,7 @@
 			"type": "Legendary Creature — Wolf Warrior",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/ATR-files/img/9_Merran, the Steeltooth.png"
+				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/9_Merran, the Steeltooth.png"
 			}
 		},
 		{
@@ -37,7 +37,7 @@
 			"type": "Legendary Creature — Frog Bard",
 			"collector_number": "14",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/ATR-files/img/14_Avy, the Starry.png"
+				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/14_Avy, the Starry.png"
 			}
 		},
 		{
@@ -47,7 +47,7 @@
 			"type": "Legendary Creature — Bird Advisor",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/ATR-files/img/7_Twili, the Valedictorian.png"
+				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/7_Twili, the Valedictorian.png"
 			}
 		},
 		{
@@ -57,7 +57,7 @@
 			"type": "Legendary Creature — Rabbit Noble",
 			"collector_number": "24",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/ATR-files/img/24_Shira, the Queen.png"
+				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/24_Shira, the Queen.png"
 			}
 		},
 		{
@@ -67,7 +67,7 @@
 			"type": "Legendary Creature — Wolf Assassin",
 			"collector_number": "10",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/ATR-files/img/10_Tassha, the Snowfur.png"
+				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/10_Tassha, the Snowfur.png"
 			}
 		},
 		{
@@ -77,7 +77,7 @@
 			"type": "Instant",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/ATR-files/img/4_Steel Yourself!.png"
+				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/4_Steel Yourself!.png"
 			}
 		},
 		{
@@ -87,7 +87,7 @@
 			"type": "Creature — Rabbit Performer",
 			"collector_number": "20",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/ATR-files/img/20_Dancer Rabbit.png"
+				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/20_Dancer Rabbit.png"
 			}
 		},
 		{
@@ -97,7 +97,7 @@
 			"type": "Creature — Rabbit Assassin",
 			"collector_number": "18",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/ATR-files/img/18_Assassin Rabbit.png"
+				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/18_Assassin Rabbit.png"
 			}
 		},
 		{
@@ -107,7 +107,7 @@
 			"type": "Creature — Rabbit Warrior",
 			"collector_number": "23",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/ATR-files/img/23_Heavyblade Rabbit.png"
+				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/23_Heavyblade Rabbit.png"
 			}
 		},
 		{
@@ -117,7 +117,7 @@
 			"type": "Creature — Rabbit Barbarian",
 			"collector_number": "19",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/ATR-files/img/19_Bruiser Rabbit.png"
+				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/19_Bruiser Rabbit.png"
 			}
 		},
 		{
@@ -127,7 +127,7 @@
 			"type": "Creature — Rabbit Archer",
 			"collector_number": "25",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/ATR-files/img/25_Sniper Rabbit.png"
+				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/25_Sniper Rabbit.png"
 			}
 		},
 		{
@@ -137,7 +137,7 @@
 			"type": "Creature — Rabbit Knight",
 			"collector_number": "21",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/ATR-files/img/21_Defender Rabbit.png"
+				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/21_Defender Rabbit.png"
 			}
 		},
 		{
@@ -147,7 +147,7 @@
 			"type": "Creature — Elder Rabbit",
 			"collector_number": "17",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/ATR-files/img/17_Ancient Rabbit.png"
+				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/17_Ancient Rabbit.png"
 			}
 		},
 		{
@@ -157,7 +157,7 @@
 			"type": "Creature — Rabbit Druid",
 			"collector_number": "22",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/ATR-files/img/22_Druid Rabbit.png"
+				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/22_Druid Rabbit.png"
 			}
 		},
 		{
@@ -167,7 +167,7 @@
 			"type": "Creature — Rabbit Wizard",
 			"collector_number": "27",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/ATR-files/img/27_Wizard Rabbit.png"
+				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/27_Wizard Rabbit.png"
 			}
 		},
 		{
@@ -177,7 +177,7 @@
 			"type": "Creature — Rabbit Spellshaper",
 			"collector_number": "26",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/ATR-files/img/26_Spellsword Rabbit.png"
+				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/26_Spellsword Rabbit.png"
 			}
 		},
 		{
@@ -187,7 +187,7 @@
 			"type": "Legendary Creature — Cat",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/ATR-files/img/1_Asha, the Shopkeeper.png"
+				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/1_Asha, the Shopkeeper.png"
 			}
 		},
 		{
@@ -197,7 +197,7 @@
 			"type": "Legendary Creature — Mouse Archer",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/ATR-files/img/3_Nimi, the Archer.png"
+				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/3_Nimi, the Archer.png"
 			}
 		},
 		{
@@ -207,7 +207,7 @@
 			"type": "Legendary Creature — Bird Advisor",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/ATR-files/img/5_Saya, the Archon.png"
+				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/5_Saya, the Archon.png"
 			}
 		},
 		{
@@ -217,7 +217,7 @@
 			"type": "Legendary Creature — Dragon Warrior",
 			"collector_number": "11",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/ATR-files/img/11_Karsi, the Ruby.png"
+				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/11_Karsi, the Ruby.png"
 			}
 		},
 		{
@@ -227,7 +227,7 @@
 			"type": "Legendary Creature — Frog",
 			"collector_number": "16",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/ATR-files/img/16_Blush, the Painter.png"
+				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/16_Blush, the Painter.png"
 			}
 		},
 		{
@@ -237,7 +237,7 @@
 			"type": "Instant",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/ATR-files/img/6_Stretch the Tether.png"
+				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/6_Stretch the Tether.png"
 			}
 		},
 		{
@@ -247,7 +247,7 @@
 			"type": "Sorcery",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/ATR-files/img/8_Get In The Circle.png"
+				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/8_Get In The Circle.png"
 			}
 		},
 		{
@@ -257,7 +257,7 @@
 			"type": "Sorcery",
 			"collector_number": "13",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/ATR-files/img/13_They Were Roommates.png"
+				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/13_They Were Roommates.png"
 			}
 		},
 		{
@@ -267,7 +267,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "15",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/ATR-files/img/15_Beast Mode.png"
+				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/15_Beast Mode.png"
 			}
 		},
 		{
@@ -277,7 +277,7 @@
 			"type": "Artifact Creature — Orb",
 			"collector_number": "28",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/ATR-files/img/28_Fullmoon Treasuresphere.png"
+				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/28_Fullmoon Treasuresphere.png"
 			}
 		},
 		{
@@ -287,7 +287,7 @@
 			"type": "Land — Plains",
 			"collector_number": "30",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/ATR-files/img/30_Churchmouse Streets.png"
+				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/30_Churchmouse Streets.png"
 			}
 		},
 		{
@@ -297,7 +297,7 @@
 			"type": "Land — Island",
 			"collector_number": "36",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/ATR-files/img/36_The Scholar's Nest.png"
+				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/36_The Scholar's Nest.png"
 			}
 		},
 		{
@@ -307,7 +307,7 @@
 			"type": "Land — Swamp",
 			"collector_number": "33",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/ATR-files/img/33_The King's Arsenal.png"
+				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/33_The King's Arsenal.png"
 			}
 		},
 		{
@@ -317,7 +317,7 @@
 			"type": "Land — Forest",
 			"collector_number": "31",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/ATR-files/img/31_The Emerald Lakeside.png"
+				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/31_The Emerald Lakeside.png"
 			}
 		},
 		{
@@ -327,7 +327,7 @@
 			"type": "Land",
 			"collector_number": "34",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/ATR-files/img/34_The Moonlit Pinnacle.png"
+				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/34_The Moonlit Pinnacle.png"
 			}
 		},
 		{
@@ -337,7 +337,7 @@
 			"type": "Land",
 			"collector_number": "32",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/ATR-files/img/32_Kingdom Outskirts.png"
+				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/32_Kingdom Outskirts.png"
 			}
 		},
 		{
@@ -347,7 +347,7 @@
 			"type": "Token Artifact — Food Equipment",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/ATR-files/img/4_A Nice Hat.png"
+				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/4_A Nice Hat.png"
 			}
 		},
 		{
@@ -357,7 +357,7 @@
 			"type": "Token Creature — Varmint",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/ATR-files/img/3_Varmint.png"
+				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/3_Varmint.png"
 			}
 		},
 		{
@@ -367,7 +367,7 @@
 			"type": "Land — Mountain",
 			"collector_number": "35",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/ATR-files/img/35_The Red Darkhouse.png"
+				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/35_The Red Darkhouse.png"
 			}
 		},
 		{
@@ -377,7 +377,7 @@
 			"type": "Token Artifact — Treasure",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/ATR-files/img/5_Treasure.png"
+				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/5_Treasure.png"
 			}
 		},
 		{
@@ -387,7 +387,7 @@
 			"type": "Token Creature — Mouse Knight",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/ATR-files/img/2_Mouse Knight.png"
+				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/2_Mouse Knight.png"
 			}
 		},
 		{
@@ -397,7 +397,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "29",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/ATR-files/img/29_Shira's Armory.png"
+				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/29_Shira's Armory.png"
 			}
 		},
 		{
@@ -407,7 +407,7 @@
 			"type": "",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/ATR-files/img/1_The Monarch.png"
+				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/1_The Monarch.png"
 			}
 		},
 	]
@@ -418,6 +418,7 @@
 	2 Merran, the Steeltooth
 	2 Avy, the Starry
 	2 Twili, the Valedictorian
+	1 Shira, the Queen
 	2 Asha, the Shopkeeper
 	2 Get In The Circle
 	2 The Moonlit Pinnacle
@@ -451,39 +452,39 @@
 	8 Kingdom Outskirts
 	8 The Red Darkhouse
 [wildcard(2)]
-	5 Matti, the Paladin
-	5 Ranalie, the Mythril
-	5 Merran, the Steeltooth
-	5 Avy, the Starry
-	5 Twili, the Valedictorian
-	5 Shira, the Queen
-	5 Tassha, the Snowfur
-	5 Steel Yourself!
-	5 Dancer Rabbit
-	5 Assassin Rabbit
-	5 Heavyblade Rabbit
-	5 Bruiser Rabbit
-	5 Sniper Rabbit
-	5 Defender Rabbit
-	5 Ancient Rabbit
-	5 Druid Rabbit
-	5 Wizard Rabbit
-	5 Spellsword Rabbit
-	5 Asha, the Shopkeeper
-	5 Nimi, the Archer
-	5 Saya, the Archon
-	5 Karsi, the Ruby
-	5 Blush, the Painter
-	5 Stretch the Tether
-	5 Get In The Circle
-	5 They Were Roommates
-	5 Beast Mode
-	5 Fullmoon Treasuresphere
-	5 Churchmouse Streets
-	5 The Scholar's Nest
-	5 The King's Arsenal
-	5 The Emerald Lakeside
-	5 The Moonlit Pinnacle
-	5 Kingdom Outskirts
-	5 The Red Darkhouse
-	5 Shira's Armory
+	7 Matti, the Paladin
+	7 Ranalie, the Mythril
+	7 Merran, the Steeltooth
+	7 Avy, the Starry
+	7 Twili, the Valedictorian
+	4 Shira, the Queen
+	15 Tassha, the Snowfur
+	6 Steel Yourself!
+	15 Dancer Rabbit
+	15 Assassin Rabbit
+	15 Heavyblade Rabbit
+	15 Bruiser Rabbit
+	15 Sniper Rabbit
+	15 Defender Rabbit
+	15 Ancient Rabbit
+	15 Druid Rabbit
+	15 Wizard Rabbit
+	15 Spellsword Rabbit
+	7 Asha, the Shopkeeper
+	15 Nimi, the Archer
+	15 Saya, the Archon
+	15 Karsi, the Ruby
+	15 Blush, the Painter
+	6 Stretch the Tether
+	7 Get In The Circle
+	6 They Were Roommates
+	15 Beast Mode
+	6 Fullmoon Treasuresphere
+	6 Churchmouse Streets
+	6 The Scholar's Nest
+	6 The King's Arsenal
+	6 The Emerald Lakeside
+	7 The Moonlit Pinnacle
+	6 Kingdom Outskirts
+	6 The Red Darkhouse
+	7 Shira's Armory
