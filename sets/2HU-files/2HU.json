@@ -1315,11 +1315,11 @@
             "flavor_text": "[i][/i]",
             "pt": "3/2",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "2HU",
             "loyalty": "",
             "artist": "\u306f\u308b\u3068\u304d\u304f\u308c/Harutoki Kure",
-            "notes": "!token Doll\n!tag MoF\n!tag Hina\n!tag Stage2"
+            "notes": "!tag MoF\n!tag Hina\n!tag Stage2"
         },
         {
             "card_name": "Nitori Kawashiro",
