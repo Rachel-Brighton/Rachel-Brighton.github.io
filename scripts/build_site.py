@@ -149,7 +149,7 @@ for code in set_codes:
 			with open(os.path.join('sets', 'versions', 'changelogs', 'chl_' + code + '.txt'), 'w', encoding='utf-8-sig') as f:
 				f.write('VERSION 1 CHANGELOG\n====================\n\nFirst version published.')
 		else:
-			regex = r'/([0-9]+)_'
+			regex = r'[/\\]([0-9]+)_'
 			match = re.search(regex, versions[0])
 			old_version = int(match.group(1))
 			new_version = int(match.group(1)) + 1
