@@ -1,0 +1,1 @@
+[FW Stage 2 Boss - There's a Monster in the Woods](https://www.youtube.com/watch?v=9gIZchPhJxM)

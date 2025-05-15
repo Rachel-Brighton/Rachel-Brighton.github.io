@@ -1,4 +1,493 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+Hisami, Hell's Invitation added.
+Aya, Reporter of Fantasy added.
+Nitori, Super Youkai Warhead added.
+Vengeful Spirit added.
+A Dream More Scarlet added.
+Bunbunmaru Newspaper added.
+Unlocated Hell added.
+Where Flowers Reflect added.
+Peaches of Paradise added.
+Mizuchi, Traitor to Humanity added.
+Chimata, the Market God added.
+Ubame, Sanctuary's Protector added.
+Chimi, Ancient Abomination added.
+Nareko, the Altar's Warden added.
+Nemuno, Sanctuary Keeper added.
+
+Hisami, Hells Invitation removed.
+Aya Shameimaru removed.
+Nitori Kawashiro removed.
+Chimata, God of Marketplaces removed.
+The White Rabbits Trick removed.
+Nemuno Sakata removed.
+
+Reimu Hakurei
+
+Marisa Kirisame
+
+Sanae, Living God
+
+Reisen, Lunatic Moon Rabbit
+
+Eirin, Sage of Hourai
+
+Mokou, Immortal Smoke
+
+Cirno, the Unnatural Chill
+
+Daiyousei
+
+Hong Meiling
+
+Koakuma
+
+Remilia, Fate's Mistress
+
+Rumia, Apparition of Night
+
+Flandre Scarlet
+
+Son Biten
+
+Enoko Mitsugashira
+
+Zanmu, the Unobstructed Light
+
+Yukari Yakumo
+
+Yatsuhashi and Benben
+
+Lullaby of a Deserted Hell
+
+Mamizou, Tanuki Boss
+
+Toutetsu, the Avaricious Beast
+
+Venerable Ancient Battlefield
+
+The Gensokyo the Gods Loved
+
+Lunatic Harlequin, Clownpiece
+
+Goddesses of Autumn
+
+Romantic Fall
+
+Yamame Kurodani
+
+Raiko Horikawa
+
+Wicked Hermit, Seiga Kaku
+
+Maiden's Capriccio
+
+Love-Colored Magic
+
+Extend Ash
+
+Curtain Fire
+
+Hecatia Lapislazuli
+
+Wriggle Nightbug
+
+Mystia Lorelei
+
+Keine Kamishirasawa
+
+Yuuka Kazami
+
+Komachi, Ferrywoman
+
+Eiki Shiki, Judge of Paradise
+
+Judgement
+
+Kosuzu, Curious Youth
+
+Marisa and Alice
+
+Ore from the Age of the Gods
+
+Kitten of Great Fortune
+
+Reimu and Yukari
+
+Hina Kagiyama
+
+Momiji Inubashiri
+
+Kanako, God of Progress
+
+Yoshika Miyako
+
+Parsee, Green-Eyed Monster
+
+Satori Komeiji
+
+Iizunamaru, Daitengu
+
+Nazrin, Treasure Tracker
+
+Kogasa, Forgotten Umbrella
+
+Hatate Himekaidou
+
+Ichirin Kumoi
+
+Tenshi, Delinquent Celestial
+
+Captain Murasa
+
+Kyouko Kasodani
+
+Tojiko, Thunder Soul
+
+Mononobe no Futo
+
+Miko, the Saint Reborn
+
+Dynamic Entrance
+
+Utsuho Reiuji
+
+Scarlet Detonation
+
+Shanghai Doll
+
+Crazy Backup Dancers
+
+Sekibanki
+
+Kagerou, Bamboos Loup-Garou
+
+Seija, Bane of Gensokyo
+
+Sukuna of the Shining Needle
+
+Eternity Larva, Birth and Rebirth
+
+Komano Aunn
+
+Narumi, Life Giver
+
+Seiran, Lunar Invader
+
+Sagume, the Reversed Fortune
+
+Fierce Fang, Wolf
+
+Kiketsus Sneak, Otter
+
+Eika Ebisu
+
+Urumi Ushizaki
+
+Yachie Kicchou
+
+Mayumi Joutougu
+rules_text: Vigilance, protection from spirits
+Humans you control have vigilance and protection from spirits. => Vigilance, protection from Spirits
+Humans you control have vigilance and protection from Spirits.
+
+Namazu
+
+Saki Kurokoma
+
+Takane Yamashiro
+
+Sannyo Komakusa
+
+Misumaru Tamatsukuri
+
+Tsukasa, Daitengu's Consultant
+
+YuugenMagan
+
+Kikuri, Hellish Moon
+
+Konngara, Astral Knight
+
+Sariel, Angel of Death
+
+Genji, the Venerated
+
+Rika, the Tank Girl
+
+Meira, Seeker of Dark Power
+
+Otherworld Defense Platform
+
+Bad Apple
+
+Spellcard Declaration
+
+Ellen, Eternal Unknowing
+
+Kotohime, Maniacal Princess
+rules_text: When Kotohime enters, for each opponent, choose up to one artifact, creature, or planeswalker they control. Exile them until Kotohime leaves the battlefield. => When Kotohime enters, for each opponent, choose up to one target artifact, creature, or planeswalker they control. Exile them until Kotohime leaves the battlefield.
+
+Rikako Asakura
+
+Yumemi Okazaki
+
+Memento of the Avaricious Beast
+
+Orange
+
+Elly, Guardian of Mugenkan
+
+Louise, Visitor from Makai
+
+Yuki and Mai
+
+Yumeko, Blade of Makai
+
+Shinki, Infinite Being
+
+Iku Nagae
+rules_text: Play with the top card of your library revealed.
+Iku has vigilance as long as the top card of your library is white, flying as long as it's blue, menace as long as it's black, first strike as long as its red, and trample as long as it's green.
+{R}: Shuffle your library. => Play with the top card of your library revealed.
+Iku has vigilance as long as the top card of your library is white, flying as long as it's blue, menace as long as it's black, first strike as long as it's red, and trample as long as it's green.
+{R}: Shuffle your library.
+
+Joon, Avaricious Pestilence
+
+Shion, Consuming Poverty
+
+Suika Ibuki
+
+Luna Child
+
+Youmu, Netherworlds Blades
+
+Reisen, the Junior
+
+This, Too, Is Yuri
+
+Knight of Nights
+rules_text: Until end of turn, target creature gets +2/+0 and gains haste, menace, first strike, and deathtouch. => Until end of turn, target creature gets +2/+0 and gains first strike, menace, deathtouch, and haste.
+
+Kokoro, Noh Embodied
+
+Sunny Milk
+
+Star Sapphire
+
+Hakurei Ancestor
+
+Hisou Tensoku
+
+Layla, the Last Prismriver
+
+Nuclear Options
+
+Priestess of Pseudo Paradise
+
+Youki, Konpaku Ancestor
+
+Choujuu Gigaku
+
+Panic Bomb
+
+Full Power Up!!
+
+Goliath Doll
+
+Ultimate Truth
+
+Ferryboat of the Dead
+
+Giga Flare
+
+Repurposed Rover
+
+The Palanquin Ship
+
+Drunk As I Like
+
+Get Ahead Of Yourself
+
+Cursed Decoy Doll
+
+Land of Faith and Fantasy
+
+Gensokyo Accepts All
+
+Exploitable Resources
+
+Momoyo, Onyx Dragon-Eater
+
+The Ground's Color is Yellow
+
+Vine of Wisteria
+
+Yuuka, Sleeping Terror
+
+Persuasion Needle
+
+Battle Bond
+
+Homing Option
+
+Aerodynamic Blades
+
+Throwing Mt. Togakushi
+
+Hakurei Shrine Grounds
+
+Myouren Temple Road
+
+Kaian Passageway
+
+Hellfire Mantle
+
+Youkai Mountain Ravine
+
+Human Village Streets
+
+Lunar Capitol Thoroughfare
+
+Nameless Hill
+
+Moreya Shrine Path
+
+Misty Lake Shores
+
+The Jailbreak King
+
+Tsuchinoko
+
+Enigmatic Vestige
+
+Ordinary Magician's Charm
+
+Necrofantasia
+
+Battlefield of Hanazama
+
+Marisa of Scarlet Dreams
+
+Reimu of Eastern Winds
+
+Beloved Tomboyish Girl
+
+Probability Collapse
+
+Cheating Detective Satori
+
+Rowdy Drunkard
+
+Sumireko Usami
+
+Okina, the Hidden God
+
+Chen, Servitor's Lackey
+
+Blood Drive
+
+Sakuya, Scarlet Guardian
+
+Moonlit Pursuit
+
+Maiden's Bunraku
+
+Purified
+
+Sea of Petroleum
+
+Devil's Recitation
+
+Yuugi, Old Hell's Might
+
+Kasen, Seeking Herself
+
+Byakuren, Superhuman
+
+Body Enhancement Magic
+
+Sorcerer's Sutra Scroll
+
+Hanged Hourai Doll
+
+Tea Break
+
+Bumper Crop
+
+Incorruptible Perfection
+
+Parasol of the Flower Youkai
+
+Alice of Wonderland
+
+Kyuu... BOOM~!
+
+Miyoi, Geidontei's Poster Girl
+
+Creation of Gensokyo
+
+Peak Performance
+
+100th Black Market
+
+Great Frog of the Pond
+
+Guard Tiger
+
+Take it Easy!
+
+You, Get Bigger!
+
+Flower Youkai's Charm
+
+Living God's Charm
+
+Lucky Rabbit's Charm
+
+Shrine Maiden's Charm
+
+Youkai Sages' Charm
+
+Rin, Hell's Traffic Accident
+
+Yuyuko, Mistress of Death
+
+SinGyoku, the Gatekeeper
+
+The Saigyou Ayakashi
+
+Stage Transition
+
+Suwako, Native God
+
+Shining Needle Rebellion
+
+Master Spark
+
+Phantasmagoria of Dimensions
+
+Phantasmagoria of Flowers
+
+Laika, Lively Soul
+
+Mugetsu
+
+Gengetsu
+
+Nue, Heian Alien
+
+Evil Eye Σ
+
+The Flower Tank
+
+Go-Shintank
+
+
+VERSION 2 CHANGELOG
 ====================
 
 No changes.
