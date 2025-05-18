@@ -1,4 +1,98 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+Spirit added.
+Spirit added.
+Spirit added.
+Spirit added.
+Spread Out added.
+Your Intellect Fails You added.
+Terribly Lonely added.
+Dodge This added.
+Just As Bright As You added.
+
+
+Ranalie, the Mythril
+
+Merran, the Steeltooth
+
+Avy, the Starry
+
+Twili, the Valedictorian
+
+Shira, the Queen
+
+Tassha, the Snowfur
+
+Steel Yourself!
+
+Dancer Rabbit
+
+Assassin Rabbit
+
+Heavyblade Rabbit
+
+Bruiser Rabbit
+
+Sniper Rabbit
+
+Defender Rabbit
+
+Ancient Rabbit
+
+Druid Rabbit
+
+Wizard Rabbit
+
+Spellsword Rabbit
+
+Saya, the Archon
+
+Karsi, the Ruby
+
+Blush, the Painter
+
+Stretch the Tether
+
+Get In The Circle
+
+They Were Roommates
+
+Beast Mode
+
+Fullmoon Treasuresphere
+
+Churchmouse Streets
+
+The Scholar's Nest
+
+The King's Arsenal
+
+The Emerald Lakeside
+
+The Moonlit Pinnacle
+
+Kingdom Outskirts
+
+A Nice Hat
+
+Varmint
+
+The Red Darkhouse
+
+Treasure
+
+Mouse Knight
+
+Shira's Armory
+rules_text: Equipped creature gets +5/+5 and has trample.
+When equipped creature deals combat damage to a player, sacrifice this Equipment. When you do, you become the monarch, then create five 1/1 Spirit artifact creature tokens with flying. [i](The monarch draws a card at the beginning of their end step. Whenever the monarch is dealt combat damage by a creature, its controller becomes the monarch.)[/i]
+Equip {5} => Equipped creature gets +5/+5 and has trample.
+When equipped creature deals combat damage to a player, sacrifice this Equipment. When you do, you become the monarch, then create five 1/1 colorless Spirit artifact creature tokens with flying. [i](The monarch draws a card at the beginning of their end step. Whenever the monarch is dealt combat damage by a creature, its controller becomes the monarch.)[/i]
+Equip {5}
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

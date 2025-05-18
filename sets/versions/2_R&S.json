@@ -1,7 +1,7 @@
 ﻿{
     "name": "Steel Yourself! A Rabbit & Steel Miniset",
     "formats": "Modern",
-    "trimmed": "y",
+    "trimmed": "n",
     "image_type": "png",
     "draft_structure": "play booster",
     "cards": [
@@ -905,6 +905,5 @@
             "artist": "Saaya artworks",
             "notes": "!tag Music"
         }
-    ],
-    "version": 2
+    ]
 }
