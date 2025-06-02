@@ -1,4 +1,194 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+Hong Meiling, the Rainbow Gate added.
+Patchouli, the Unmoving Library added.
+Remilia, the Scarlet Devil added.
+Raiko, Pristine Beat added.
+Aunn, Guardian Beast added.
+Seed of Unknown Form added.
+Copy added.
+Obsolescent Industrial Remains added.
+Wonder Stone added.
+
+Hong Meiling removed.
+Patchouli, Archivist Recluse removed.
+Remilia, Fate's Mistress removed.
+Apparitions Stalk the Night removed.
+Raiko Horikawa removed.
+Komano Aunn removed.
+Nightstalker removed.
+
+Eirin, Sage of Hourai
+
+Cirno, the Unnatural Chill
+
+Rumia, Apparition of Night
+
+Flandre Scarlet
+
+Aya, Reporter of Fantasy
+
+Zenki and Goki
+
+Hecatia Lapislazuli
+
+Keine Kamishirasawa
+
+Komachi, Ferrywoman
+
+Eiki Shiki, Judge of Paradise
+
+Judgement
+
+Ore from the Age of the Gods
+
+Hina Kagiyama
+
+Kanako, God of Progress
+
+Iizunamaru, Daitengu
+
+Nazrin, Treasure Tracker
+rules_text: Vigilance
+[i]Little Dowser General[/i] — Whenever Nazrin enters or attacks, investigate. [i](To investigate, create a Clue token. It's an artifact with “{2}, Sacrifice this artifact: Draw a card.”)[/i]
+[i]Gold Detector[/i] — {T}, Sacrifice a Clue: Create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i] => Vigilance
+[i]Little Dowser General[/i] — Whenever Nazrin enters or attacks, investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this artifact: Draw a card.”)[/i]
+[i]Gold Detector[/i] — {T}, Sacrifice a Clue: Create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i]
+
+Hatate Himekaidou
+
+Ichirin Kumoi
+
+Captain Murasa
+
+Wakasagihime
+
+Shanghai Doll
+
+Kikuri, Hellish Moon
+
+Genji, the Venerated
+
+Otherworld Defense Platform
+
+Bad Apple
+
+Iku Nagae
+
+Joon, Avaricious Pestilence
+
+Suika Ibuki
+type: Legendary Creature — Demon Youkai => Legendary Creature — Demon
+
+Kokoro, Noh Embodied
+
+Star Sapphire
+
+Tokiko
+
+Hakurei Ancestor
+
+Choujuu Gigaku
+
+Spellcard Capture
+
+Repurposed Rover
+
+The Palanquin Ship
+
+Yuuka, Sleeping Terror
+rules_text: Ward—Discard a card
+[i]Slaughter is a game[/i] — Whenever Yuuka becomes blocked, defending player sacrifices a creature blocking it.
+[i]Land of Blood[/i] — Whenever a creature card is put into an opponent's graveyard from anywhere, return a creature or land card from your graveyard to your hand. This ability triggers only once each turn. => Ward—Discard a card.
+[i]Slaughter is a game[/i] — Whenever Yuuka becomes blocked, defending player sacrifices a creature of their choice blocking it.
+[i]Land of Blood[/i] — Whenever a creature card is put into an opponent's graveyard from anywhere, return a creature or land card from your graveyard to your hand. This ability triggers only once each turn.
+
+Persuasion Needle
+
+Hakurei Shrine Grounds
+
+Myouren Temple Road
+
+Kaian Passageway
+
+Hellfire Mantle
+
+Youkai Mountain Ravine
+
+Human Village Streets
+
+Lunar Capitol Thoroughfare
+
+Nameless Hill
+
+Moreya Shrine Path
+
+Misty Lake Shores
+
+Rabbit
+
+The Jailbreak King
+
+Enigmatic Vestige
+
+Battlefield of Hanazama
+
+Beloved Tomboyish Girl
+
+Demon
+
+Bird Youkai
+
+Spirit
+
+Manifest
+
+Mishaguji
+
+Soldier
+
+Bird
+
+Royal Role
+
+Monster Role
+
+Sorcerer Role
+
+Cheating Detective Satori
+
+Sea of Petroleum
+
+Kasen, Seeking Herself
+
+Byakuren, Superhuman
+
+Sorcerer's Sutra Scroll
+
+Flower Youkai's Charm
+
+Gengetsu
+
+Manifest
+
+Unlocated Hell
+
+Where Flowers Reflect
+
+Peaches of Paradise
+
+Chimata, the Market God
+
+Chimi, Ancient Abomination
+
+Shinki, Infinite Being
+rules_text: Put a loyalty counter on Shinki, Infinite Being for each Demon on the battlefield.
+Create two 2/2 black Demon creature tokens with menace.
+Each player chooses up to two lands they control and sacrifices the rest. Shinki, Infinite Being deals 6 damage to each opponent and each non-Demon creature. => 
+
+
+VERSION 3 CHANGELOG
 ====================
 
 Hisami, Hell's Invitation added.
