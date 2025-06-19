@@ -1,0 +1,4193 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Graze",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/12_Graze.png"
+			}
+		},
+		{
+			"name": "Reimu Hakurei",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Legendary Creature — Human Monk",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/235_Reimu Hakurei.png"
+			}
+		},
+		{
+			"name": "Marisa Kirisame",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/212_Marisa Kirisame.png"
+			}
+		},
+		{
+			"name": "Fantasy Nature",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Enchantment — Aura",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/10_Fantasy Nature.png"
+			}
+		},
+		{
+			"name": "Sanae, Living God",
+			"rarity": "rare",
+			"mana_cost": "{X}{X}{G}{G}{U}{U}",
+			"type": "Legendary Creature — Human God",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/244_Sanae, Living God.png"
+			}
+		},
+		{
+			"name": "Reisen, Lunatic Moon Rabbit",
+			"rarity": "rare",
+			"mana_cost": "{B}{R}",
+			"type": "Legendary Creature — Rabbit Youkai",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/237_Reisen, Lunatic Moon Rabbit.png"
+			}
+		},
+		{
+			"name": "Eirin, Sage of Hourai",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{W}{U}",
+			"type": "Legendary Creature — Moonfolk Doctor",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/177_Eirin, Sage of Hourai.png"
+			}
+		},
+		{
+			"name": "Kaguya, Lunatic Princess",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Legendary Creature — Moonfolk Noble",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/50_Kaguya, Lunatic Princess.png"
+			}
+		},
+		{
+			"name": "Mokou, Immortal Smoke",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Legendary Creature — Human",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/118_Mokou, Immortal Smoke.png"
+			}
+		},
+		{
+			"name": "God Forbid Women Do Anything",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/47_God Forbid Women Do Anything.png"
+			}
+		},
+		{
+			"name": "Cirno, the Unnatural Chill",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Legendary Snow Creature — Faerie",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/175_Cirno, the Unnatural Chill.png"
+			}
+		},
+		{
+			"name": "Daiyousei",
+			"rarity": "common",
+			"mana_cost": "{G/U}",
+			"type": "Legendary Creature — Faerie",
+			"collector_number": "275",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/275_Daiyousei.png"
+			}
+		},
+		{
+			"name": "Hong Meiling, the Rainbow Gate",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{G}",
+			"type": "Legendary Creature — Youkai",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/187_Hong Meiling, the Rainbow Gate.png"
+			}
+		},
+		{
+			"name": "Koakuma",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B/R}",
+			"type": "Legendary Creature — Devil",
+			"collector_number": "276",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/276_Koakuma.png"
+			}
+		},
+		{
+			"name": "Patchouli, the Unmoving Library",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Legendary Creature — Wizard",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/57_Patchouli, the Unmoving Library.png"
+			}
+		},
+		{
+			"name": "Remilia, the Scarlet Devil",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}{R}",
+			"type": "Legendary Creature — Vampire Noble",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/238_Remilia, the Scarlet Devil.png"
+			}
+		},
+		{
+			"name": "Rumia, Apparition of Night",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Legendary Creature — Shade Youkai",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/91_Rumia, Apparition of Night.png"
+			}
+		},
+		{
+			"name": "Flandre Scarlet",
+			"rarity": "mythic",
+			"mana_cost": "{4}{B}{B}{R}{R}",
+			"type": "Legendary Creature — Vampire Noble",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/179_Flandre Scarlet.png"
+			}
+		},
+		{
+			"name": "Son Biten",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Legendary Creature — Monkey Youkai",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/152_Son Biten.png"
+			}
+		},
+		{
+			"name": "Enoko Mitsugashira",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Legendary Creature — Wolf Youkai",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/108_Enoko Mitsugashira.png"
+			}
+		},
+		{
+			"name": "Chiyari Tenkajin",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Legendary Creature — Beast Youkai",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/71_Chiyari Tenkajin.png"
+			}
+		},
+		{
+			"name": "Zanmu, the Unobstructed Light",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}",
+			"type": "Legendary Creature — Demon Monk",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/99_Zanmu, the Unobstructed Light.png"
+			}
+		},
+		{
+			"name": "Hisami, Hell's Invitation",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Legendary Creature — Hag",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/78_Hisami, Hell's Invitation.png"
+			}
+		},
+		{
+			"name": "Alice Margatroid",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Legendary Creature — Wizard Artificer",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/39_Alice Margatroid.png"
+			}
+		},
+		{
+			"name": "Letty Whiterock",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Legendary Snow Creature — Spirit",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/53_Letty Whiterock.png"
+			}
+		},
+		{
+			"name": "Lily White",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{W}",
+			"type": "Legendary Creature — Faerie",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/21_Lily White.png"
+			}
+		},
+		{
+			"name": "The Prismriver Sisters",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Creature — Spirit Bard",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/28_The Prismriver Sisters.png"
+			}
+		},
+		{
+			"name": "Yukari Yakumo",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}{U}{U}{R}",
+			"type": "Legendary Planeswalker — Yukari",
+			"collector_number": "266",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/266_Yukari Yakumo.png"
+			}
+		},
+		{
+			"name": "Yatsuhashi and Benben",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Legendary Creature — Youkai Rebel Bard",
+			"collector_number": "263",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/263_Yatsuhashi and Benben.png"
+			}
+		},
+		{
+			"name": "Charming Domination",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/42_Charming Domination.png"
+			}
+		},
+		{
+			"name": "Lullaby of a Deserted Hell",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Enchantment",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/207_Lullaby of a Deserted Hell.png"
+			}
+		},
+		{
+			"name": "Mamizou, Tanuki Boss",
+			"rarity": "mythic",
+			"mana_cost": "{G}{G}{U}{U}",
+			"type": "Legendary Creature — Dog Youkai",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/210_Mamizou, Tanuki Boss.png"
+			}
+		},
+		{
+			"name": "Toutetsu, the Avaricious Beast",
+			"rarity": "mythic",
+			"mana_cost": "{5}{B}",
+			"type": "Legendary Creature — Goat Spirit",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/94_Toutetsu, the Avaricious Beast.png"
+			}
+		},
+		{
+			"name": "Gouyoku Agent, Eagle",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment Creature — Bird Spirit",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/48_Gouyoku Agent, Eagle.png"
+			}
+		},
+		{
+			"name": "Idolatrize World",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/14_Idolatrize World.png"
+			}
+		},
+		{
+			"name": "Border of Life",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/70_Border of Life.png"
+			}
+		},
+		{
+			"name": "Venerable Ancient Battlefield",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{G}{U}",
+			"type": "Enchantment",
+			"collector_number": "259",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/259_Venerable Ancient Battlefield.png"
+			}
+		},
+		{
+			"name": "The Gensokyo the Gods Loved",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/141_The Gensokyo the Gods Loved.png"
+			}
+		},
+		{
+			"name": "Lunatic Harlequin, Clownpiece",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Legendary Creature — Faerie Clown",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/208_Lunatic Harlequin, Clownpiece.png"
+			}
+		},
+		{
+			"name": "Goddesses of Autumn",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Legendary Creature — God",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/142_Goddesses of Autumn.png"
+			}
+		},
+		{
+			"name": "Aya, Reporter of Fantasy",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Legendary Creature — Bird Youkai",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/165_Aya, Reporter of Fantasy.png"
+			}
+		},
+		{
+			"name": "Romantic Fall",
+			"rarity": "common",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Sorcery",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/240_Romantic Fall.png"
+			}
+		},
+		{
+			"name": "Autumnal Waterfall",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/40_Autumnal Waterfall.png"
+			}
+		},
+		{
+			"name": "Yamame Kurodani",
+			"rarity": "common",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Legendary Creature — Spider Youkai",
+			"collector_number": "262",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/262_Yamame Kurodani.png"
+			}
+		},
+		{
+			"name": "Raiko, Pristine Beat",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Legendary Creature — Youkai Rebel Bard",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/120_Raiko, Pristine Beat.png"
+			}
+		},
+		{
+			"name": "Wicked Hermit, Seiga Kaku",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}{B}",
+			"type": "Legendary Creature — Mystic",
+			"collector_number": "260",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/260_Wicked Hermit, Seiga Kaku.png"
+			}
+		},
+		{
+			"name": "Maiden's Capriccio",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Sorcery",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/209_Maiden's Capriccio.png"
+			}
+		},
+		{
+			"name": "Love-Colored Magic",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Sorcery",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/205_Love-Colored Magic.png"
+			}
+		},
+		{
+			"name": "Extend Ash",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/109_Extend Ash.png"
+			}
+		},
+		{
+			"name": "Curtain Fire",
+			"rarity": "common",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/104_Curtain Fire.png"
+			}
+		},
+		{
+			"name": "Zenki and Goki",
+			"rarity": "common",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Legendary Creature — Bird Scout",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/68_Zenki and Goki.png"
+			}
+		},
+		{
+			"name": "Hecatia Lapislazuli",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}{B}{R}",
+			"type": "Legendary Creature — God",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/185_Hecatia Lapislazuli.png"
+			}
+		},
+		{
+			"name": "Cosmic Mind",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/43_Cosmic Mind.png"
+			}
+		},
+		{
+			"name": "Cinderella Cage",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/8_Cinderella Cage.png"
+			}
+		},
+		{
+			"name": "Extra Healthbar",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Enchantment — Aura",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/1_Extra Healthbar.png"
+			}
+		},
+		{
+			"name": "Wriggle Nightbug",
+			"rarity": "common",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Legendary Creature — Insect Youkai",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/160_Wriggle Nightbug.png"
+			}
+		},
+		{
+			"name": "Mystia Lorelei",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Legendary Creature — Bird Youkai",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/221_Mystia Lorelei.png"
+			}
+		},
+		{
+			"name": "Keine Kamishirasawa",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Legendary Creature — Human Advisor",
+			"collector_number": "196",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/196_Keine Kamishirasawa_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/196_Keine Kamishirasawa_front.png"
+			}
+		},
+		{
+			"name": "Tewi, White Rabbit of Inaba",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Creature — Rabbit Youkai",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/34_Tewi, White Rabbit of Inaba.png"
+			}
+		},
+		{
+			"name": "Medicine Melancholy",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Legendary Artifact Creature — Doll",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/85_Medicine Melancholy.png"
+			}
+		},
+		{
+			"name": "Yuuka Kazami",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Legendary Creature — Plant Youkai",
+			"collector_number": "272",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/272_Yuuka Kazami.png"
+			}
+		},
+		{
+			"name": "Komachi, Ferrywoman",
+			"rarity": "rare",
+			"mana_cost": "{W}{U}{B}",
+			"type": "Legendary Creature — Spirit",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/199_Komachi, Ferrywoman.png"
+			}
+		},
+		{
+			"name": "Eiki Shiki, Judge of Paradise",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Legendary Creature — Golem Avatar",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/176_Eiki Shiki, Judge of Paradise.png"
+			}
+		},
+		{
+			"name": "Judgement",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Instant",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/193_Judgement.png"
+			}
+		},
+		{
+			"name": "Kosuzu, Curious Youth",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Legendary Creature — Human",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/114_Kosuzu, Curious Youth.png"
+			}
+		},
+		{
+			"name": "Marisa and Alice",
+			"rarity": "mythic",
+			"mana_cost": "{4}{U}{R}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/211_Marisa and Alice.png"
+			}
+		},
+		{
+			"name": "Deaf to All but the Song",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/44_Deaf to All but the Song.png"
+			}
+		},
+		{
+			"name": "Ore from the Age of the Gods",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact — Treasure",
+			"collector_number": "296",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/296_Ore from the Age of the Gods.png"
+			}
+		},
+		{
+			"name": "Kitten of Great Fortune",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "291",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/291_Kitten of Great Fortune.png"
+			}
+		},
+		{
+			"name": "Reimu and Yukari",
+			"rarity": "mythic",
+			"mana_cost": "{3}{U}{R}{W}",
+			"type": "Legendary Creature — Human Youkai Monk",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/234_Reimu and Yukari.png"
+			}
+		},
+		{
+			"name": "Hina Kagiyama",
+			"rarity": "common",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Legendary Creature — God",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/186_Hina Kagiyama.png"
+			}
+		},
+		{
+			"name": "Nitori, Super Youkai Warhead",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Creature — Turtle Youkai Artificer",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/56_Nitori, Super Youkai Warhead.png"
+			}
+		},
+		{
+			"name": "Momiji Inubashiri",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Legendary Creature — Wolf Youkai Scout",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/218_Momiji Inubashiri.png"
+			}
+		},
+		{
+			"name": "Kanako, God of Progress",
+			"rarity": "rare",
+			"mana_cost": "{5}{B}{G}{U}",
+			"type": "Legendary Creature — God",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/194_Kanako, God of Progress.png"
+			}
+		},
+		{
+			"name": "Yoshika Miyako",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}{B}",
+			"type": "Legendary Creature — Zombie",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/97_Yoshika Miyako.png"
+			}
+		},
+		{
+			"name": "Kisume",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Legendary Creature — Youkai Horror",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/80_Kisume.png"
+			}
+		},
+		{
+			"name": "Parsee, Green-Eyed Monster",
+			"rarity": "common",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Legendary Creature — Youkai Noble",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/230_Parsee, Green-Eyed Monster.png"
+			}
+		},
+		{
+			"name": "Safe Zone",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/31_Safe Zone.png"
+			}
+		},
+		{
+			"name": "Satori Komeiji",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{B}",
+			"type": "Legendary Creature — Youkai",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/247_Satori Komeiji.png"
+			}
+		},
+		{
+			"name": "Koishi Komeiji",
+			"rarity": "mythic",
+			"mana_cost": "{5}",
+			"type": "Legendary Creature — Youkai",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/3_Koishi Komeiji.png"
+			}
+		},
+		{
+			"name": "Iizunamaru, Daitengu",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{U}{B}",
+			"type": "Legendary Creature — Bird Youkai",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/189_Iizunamaru, Daitengu.png"
+			}
+		},
+		{
+			"name": "Nazrin, Treasure Tracker",
+			"rarity": "common",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Legendary Creature — Mouse Youkai",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/225_Nazrin, Treasure Tracker.png"
+			}
+		},
+		{
+			"name": "Kogasa, Forgotten Umbrella",
+			"rarity": "common",
+			"mana_cost": "{1}{U/R}{U/R}",
+			"type": "Legendary Creature — Youkai Spirit",
+			"collector_number": "277",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/277_Kogasa, Forgotten Umbrella.png"
+			}
+		},
+		{
+			"name": "Hatate Himekaidou",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Legendary Creature — Bird Youkai",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/184_Hatate Himekaidou.png"
+			}
+		},
+		{
+			"name": "Ichirin Kumoi",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{W}{U}",
+			"type": "Legendary Creature — Youkai Monk",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/188_Ichirin Kumoi.png"
+			}
+		},
+		{
+			"name": "Tenshi, Delinquent Celestial",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{R}{G}",
+			"type": "Legendary Creature — Mystic",
+			"collector_number": "255",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/255_Tenshi, Delinquent Celestial.png"
+			}
+		},
+		{
+			"name": "Captain Murasa",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Legendary Creature — Spirit Pilot",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/170_Captain Murasa.png"
+			}
+		},
+		{
+			"name": "Shou, Bishamonten's Light",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{W}{W}",
+			"type": "Legendary Creature — Cat Youkai Avatar",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/33_Shou, Bishamonten's Light.png"
+			}
+		},
+		{
+			"name": "Kyouko Kasodani",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Legendary Creature — Youkai Monk",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/115_Kyouko Kasodani.png"
+			}
+		},
+		{
+			"name": "Tojiko, Thunder Soul",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}",
+			"type": "Legendary Creature — Spirit Mystic",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/130_Tojiko, Thunder Soul.png"
+			}
+		},
+		{
+			"name": "Mononobe no Futo",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Legendary Creature — Mystic",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/219_Mononobe no Futo.png"
+			}
+		},
+		{
+			"name": "Miko, the Saint Reborn",
+			"rarity": "rare",
+			"mana_cost": "{6}{W}{B}{B}",
+			"type": "Legendary Creature — Mystic Noble",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/215_Miko, the Saint Reborn.png"
+			}
+		},
+		{
+			"name": "Wakasagihime",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{U}{U}",
+			"type": "Legendary Creature — Merfolk Youkai",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/67_Wakasagihime.png"
+			}
+		},
+		{
+			"name": "Dynamic Entrance",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/134_Dynamic Entrance.png"
+			}
+		},
+		{
+			"name": "Utsuho Reiuji",
+			"rarity": "mythic",
+			"mana_cost": "{3}{R}{R}{R}{R}",
+			"type": "Legendary Creature — Bird Youkai Avatar",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/131_Utsuho Reiuji.png"
+			}
+		},
+		{
+			"name": "Scarlet Detonation",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/123_Scarlet Detonation.png"
+			}
+		},
+		{
+			"name": "Shanghai Doll",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Doll",
+			"collector_number": "302",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/302_Shanghai Doll.png"
+			}
+		},
+		{
+			"name": "Crazy Backup Dancers",
+			"rarity": "rare",
+			"mana_cost": "{3}{G/U}{B}",
+			"type": "Legendary Creature — Human Minion",
+			"collector_number": "274",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/274_Crazy Backup Dancers.png"
+			}
+		},
+		{
+			"name": "Sekibanki",
+			"rarity": "common",
+			"mana_cost": "{X}{X}{R}{R}",
+			"type": "Legendary Creature — Youkai",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/125_Sekibanki.png"
+			}
+		},
+		{
+			"name": "Kagerou, Bamboos Loup-Garou",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Legendary Creature — Werewolf Youkai",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/145_Kagerou, Bamboos Loup-Garou.png"
+			}
+		},
+		{
+			"name": "Seija, Bane of Gensokyo",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{R}{R}",
+			"type": "Legendary Creature — Youkai Rebel",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/124_Seija, Bane of Gensokyo.png"
+			}
+		},
+		{
+			"name": "Sukuna of the Shining Needle",
+			"rarity": "rare",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Legendary Creature — Dwarf Rebel Noble",
+			"collector_number": "252",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/252_Sukuna of the Shining Needle.png"
+			}
+		},
+		{
+			"name": "Eternity Larva, Birth and Rebirth",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Legendary Creature — Insect Faerie",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/137_Eternity Larva, Birth and Rebirth.png"
+			}
+		},
+		{
+			"name": "Aunn, Guardian Beast",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Legendary Creature — Dog Golem Youkai",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/164_Aunn, Guardian Beast.png"
+			}
+		},
+		{
+			"name": "Narumi, Life Giver",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{U}",
+			"type": "Legendary Creature — Golem Wizard",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/224_Narumi, Life Giver.png"
+			}
+		},
+		{
+			"name": "Seiran, Lunar Invader",
+			"rarity": "common",
+			"mana_cost": "{W}{B}",
+			"type": "Legendary Creature — Rabbit Youkai Soldier",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/248_Seiran, Lunar Invader.png"
+			}
+		},
+		{
+			"name": "Ringo, Tactical Coordinator",
+			"rarity": "common",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Legendary Creature — Rabbit Youkai Soldier",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/29_Ringo, Tactical Coordinator.png"
+			}
+		},
+		{
+			"name": "Sagume, the Reversed Fortune",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{B}{B}",
+			"type": "Legendary Creature — Moonfolk Advisor",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/241_Sagume, the Reversed Fortune.png"
+			}
+		},
+		{
+			"name": "Fierce Fang, Wolf",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment Creature — Wolf Spirit",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/110_Fierce Fang, Wolf.png"
+			}
+		},
+		{
+			"name": "Kiketsus Sneak, Otter",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment Creature — Otter Spirit",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/146_Kiketsus Sneak, Otter.png"
+			}
+		},
+		{
+			"name": "Eika Ebisu",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Legendary Creature — Spirit Child",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/135_Eika Ebisu.png"
+			}
+		},
+		{
+			"name": "Urumi Ushizaki",
+			"rarity": "common",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Legendary Creature — Beast Demon",
+			"collector_number": "258",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/258_Urumi Ushizaki.png"
+			}
+		},
+		{
+			"name": "Kutaka, Hells Border Patrol",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Creature — Bird God",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/20_Kutaka, Hells Border Patrol.png"
+			}
+		},
+		{
+			"name": "Yachie Kicchou",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{U}{U}",
+			"type": "Legendary Creature — Dragon Turtle Spirit",
+			"collector_number": "261",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/261_Yachie Kicchou.png"
+			}
+		},
+		{
+			"name": "Kaguyas Impossible Request",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/51_Kaguyas Impossible Request.png"
+			}
+		},
+		{
+			"name": "Mayumi Joutougu",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Artifact Creature — Golem",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/25_Mayumi Joutougu.png"
+			}
+		},
+		{
+			"name": "Namazu",
+			"rarity": "rare",
+			"mana_cost": "{5}{R}{G}",
+			"type": "Legendary Creature — Giant Fish",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/222_Namazu.png"
+			}
+		},
+		{
+			"name": "Keiki, the Sculptor God",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}{W}",
+			"type": "Legendary Creature — God",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/19_Keiki, the Sculptor God.png"
+			}
+		},
+		{
+			"name": "Saki Kurokoma",
+			"rarity": "mythic",
+			"mana_cost": "{4}{B}{R}{G}",
+			"type": "Legendary Creature — Pegasus Spirit",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/242_Saki Kurokoma.png"
+			}
+		},
+		{
+			"name": "Mike Goutokuji",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Creature — Cat Youkai",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/26_Mike Goutokuji.png"
+			}
+		},
+		{
+			"name": "Takane Yamashiro",
+			"rarity": "common",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Legendary Creature — Turtle Youkai Advisor",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/154_Takane Yamashiro.png"
+			}
+		},
+		{
+			"name": "Sannyo Komakusa",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{R}",
+			"type": "Legendary Creature — Hag",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/245_Sannyo Komakusa.png"
+			}
+		},
+		{
+			"name": "Misumaru Tamatsukuri",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Legendary Creature — God",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/216_Misumaru Tamatsukuri.png"
+			}
+		},
+		{
+			"name": "Tsukasa, Daitengu's Consultant",
+			"rarity": "rare",
+			"mana_cost": "{U}{B}",
+			"type": "Legendary Creature — Fox Youkai Advisor",
+			"collector_number": "256",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/256_Tsukasa, Daitengu's Consultant.png"
+			}
+		},
+		{
+			"name": "YuugenMagan",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}{W}",
+			"type": "Legendary Creature — Elemental Demon",
+			"collector_number": "270",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/270_YuugenMagan.png"
+			}
+		},
+		{
+			"name": "Kikuri, Hellish Moon",
+			"rarity": "rare",
+			"mana_cost": "{W}{W}{B}{B}",
+			"type": "Legendary Artifact Creature — Wall",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/197_Kikuri, Hellish Moon.png"
+			}
+		},
+		{
+			"name": "Konngara, Astral Knight",
+			"rarity": "mythic",
+			"mana_cost": "{5}{R}{G}",
+			"type": "Legendary Creature — Giant Knight",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/200_Konngara, Astral Knight.png"
+			}
+		},
+		{
+			"name": "Sariel, Angel of Death",
+			"rarity": "mythic",
+			"mana_cost": "{5}{W}{U}{B}",
+			"type": "Legendary Creature — Angel",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/246_Sariel, Angel of Death.png"
+			}
+		},
+		{
+			"name": "Genji, the Venerated",
+			"rarity": "rare",
+			"mana_cost": "{G}{U}",
+			"type": "Legendary Creature — Elder Turtle",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/182_Genji, the Venerated.png"
+			}
+		},
+		{
+			"name": "Rika, the Tank Girl",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Creature — Human Pilot",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/121_Rika, the Tank Girl.png"
+			}
+		},
+		{
+			"name": "Meira, Seeker of Dark Power",
+			"rarity": "common",
+			"mana_cost": "{B}{R}",
+			"type": "Legendary Creature — Human Samurai",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/214_Meira, Seeker of Dark Power.png"
+			}
+		},
+		{
+			"name": "Otherworld Defense Platform",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Legendary Artifact Creature — Orb",
+			"collector_number": "297",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/297_Otherworld Defense Platform.png"
+			}
+		},
+		{
+			"name": "Bad Apple",
+			"rarity": "rare",
+			"mana_cost": "{W}{B}",
+			"type": "Sorcery",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/166_Bad Apple.png"
+			}
+		},
+		{
+			"name": "Iwakasa, Bearer of the Elixir",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Legendary Creature — Human",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/18_Iwakasa, Bearer of the Elixir.png"
+			}
+		},
+		{
+			"name": "Spellcard Declaration",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/127_Spellcard Declaration.png"
+			}
+		},
+		{
+			"name": "Item Collection Border",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/17_Item Collection Border.png"
+			}
+		},
+		{
+			"name": "Deep-Mountain Encounter",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/74_Deep-Mountain Encounter.png"
+			}
+		},
+		{
+			"name": "Ellen, Eternal Unknowing",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Legendary Creature — Wizard",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/107_Ellen, Eternal Unknowing.png"
+			}
+		},
+		{
+			"name": "Kana Anaberal",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Legendary Creature — Spirit",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/52_Kana Anaberal.png"
+			}
+		},
+		{
+			"name": "Kotohime, Maniacal Princess",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Legendary Creature — Human Noble",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/201_Kotohime, Maniacal Princess.png"
+			}
+		},
+		{
+			"name": "Rikako Asakura",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Legendary Creature — Wizard Scientist",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/239_Rikako Asakura.png"
+			}
+		},
+		{
+			"name": "Yumemi Okazaki",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{B}{R}",
+			"type": "Legendary Creature — Human Scientist",
+			"collector_number": "269",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/269_Yumemi Okazaki.png"
+			}
+		},
+		{
+			"name": "Memento of the Avaricious Beast",
+			"rarity": "rare",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "293",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/293_Memento of the Avaricious Beast.png"
+			}
+		},
+		{
+			"name": "Unshou, the Fisherman",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Legendary Creature — Human",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/36_Unshou, the Fisherman.png"
+			}
+		},
+		{
+			"name": "Orange",
+			"rarity": "common",
+			"mana_cost": "{1}{R/G}",
+			"type": "Legendary Creature — Youkai",
+			"collector_number": "278",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/278_Orange.png"
+			}
+		},
+		{
+			"name": "Kurumi, Keeper of the Lake",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Legendary Creature — Vampire",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/82_Kurumi, Keeper of the Lake.png"
+			}
+		},
+		{
+			"name": "Elly, Guardian of Mugenkan",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Legendary Creature — Youkai",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/136_Elly, Guardian of Mugenkan.png"
+			}
+		},
+		{
+			"name": "Sara, Gatekeeper of Makai",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Creature — Demon",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/32_Sara, Gatekeeper of Makai.png"
+			}
+		},
+		{
+			"name": "Louise, Visitor from Makai",
+			"rarity": "common",
+			"mana_cost": "{G}{W}",
+			"type": "Legendary Creature — Demon",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/204_Louise, Visitor from Makai.png"
+			}
+		},
+		{
+			"name": "Yuki and Mai",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}{R}",
+			"type": "Legendary Creature — Demon Wizard",
+			"collector_number": "267",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/267_Yuki and Mai.png"
+			}
+		},
+		{
+			"name": "Yumeko, Blade of Makai",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{W}{B}",
+			"type": "Legendary Creature — Demon",
+			"collector_number": "268",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/268_Yumeko, Blade of Makai.png"
+			}
+		},
+		{
+			"name": "Iku Nagae",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{R}",
+			"type": "Legendary Creature — Fish Youkai",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/190_Iku Nagae.png"
+			}
+		},
+		{
+			"name": "Joon, Avaricious Pestilence",
+			"rarity": "rare",
+			"mana_cost": "{B}{R}",
+			"type": "Legendary Creature — God",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/192_Joon, Avaricious Pestilence.png"
+			}
+		},
+		{
+			"name": "Shion, Consuming Poverty",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Legendary Enchantment Creature — God",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/93_Shion, Consuming Poverty.png"
+			}
+		},
+		{
+			"name": "Suika Ibuki",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Legendary Creature — Demon",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/251_Suika Ibuki.png"
+			}
+		},
+		{
+			"name": "Hieda no Akyuu",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Legendary Creature — Human Advisor",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/49_Hieda no Akyuu.png"
+			}
+		},
+		{
+			"name": "Ibaraki-Douji",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Legendary Creature — Demon Mystic",
+			"collector_number": "79",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/79_Ibaraki-Douji_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/79_Ibaraki-Douji_front.png"
+			}
+		},
+		{
+			"name": "Luna Child",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Creature — Faerie",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/23_Luna Child.png"
+			}
+		},
+		{
+			"name": "Youmu, Netherworlds Blades",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Legendary Creature — Human Spirit Samurai",
+			"collector_number": "265",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/265_Youmu, Netherworlds Blades.png"
+			}
+		},
+		{
+			"name": "Reisen, the Junior",
+			"rarity": "common",
+			"mana_cost": "{1}{R/W}",
+			"type": "Legendary Creature — Rabbit Youkai Soldier",
+			"collector_number": "279",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/279_Reisen, the Junior.png"
+			}
+		},
+		{
+			"name": "This, Too, Is Yuri",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/157_This, Too, Is Yuri.png"
+			}
+		},
+		{
+			"name": "Knight of Nights",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/81_Knight of Nights.png"
+			}
+		},
+		{
+			"name": "Kokoro, Noh Embodied",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Legendary Creature — Youkai Performer",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/198_Kokoro, Noh Embodied.png"
+			}
+		},
+		{
+			"name": "Rinnosuke Morichika",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Creature — Human Youkai",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/61_Rinnosuke Morichika.png"
+			}
+		},
+		{
+			"name": "Sunny Milk",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Creature — Faerie",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/128_Sunny Milk.png"
+			}
+		},
+		{
+			"name": "Star Sapphire",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Creature — Faerie",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/65_Star Sapphire.png"
+			}
+		},
+		{
+			"name": "Tokiko",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Legendary Creature — Bird Youkai",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/66_Tokiko.png"
+			}
+		},
+		{
+			"name": "Junko, Pure Fury",
+			"rarity": "rare",
+			"mana_cost": "{12}{C}{C}{C}",
+			"type": "Legendary Creature — Spirit",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/2_Junko, Pure Fury.png"
+			}
+		},
+		{
+			"name": "Toyohime, Divine Ward",
+			"rarity": "mythic",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Legendary Creature — Moonfolk",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/35_Toyohime, Divine Ward.png"
+			}
+		},
+		{
+			"name": "Yorihime, Divine Vessel",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Legendary Creature — Moonfolk",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/37_Yorihime, Divine Vessel.png"
+			}
+		},
+		{
+			"name": "Hakurei Ancestor",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Legendary Creature — Human Monk",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/183_Hakurei Ancestor.png"
+			}
+		},
+		{
+			"name": "Hisou Tensoku",
+			"rarity": "rare",
+			"mana_cost": "{5}",
+			"type": "Legendary Artifact Creature — Giant Robot",
+			"collector_number": "289",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/289_Hisou Tensoku.png"
+			}
+		},
+		{
+			"name": "Layla, the Last Prismriver",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Legendary Creature — Human",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/202_Layla, the Last Prismriver.png"
+			}
+		},
+		{
+			"name": "Lily Black",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{B}",
+			"type": "Legendary Creature — Faerie",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/84_Lily Black.png"
+			}
+		},
+		{
+			"name": "Lord Tenma",
+			"rarity": "mythic",
+			"mana_cost": "{8}{W}{W}",
+			"type": "Legendary Creature — Bird Youkai Noble",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/22_Lord Tenma.png"
+			}
+		},
+		{
+			"name": "Nuclear Options",
+			"rarity": "mythic",
+			"mana_cost": "{5}",
+			"type": "Legendary Artifact Creature — Robot",
+			"collector_number": "294",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/294_Nuclear Options.png"
+			}
+		},
+		{
+			"name": "Priestess of Pseudo Paradise",
+			"rarity": "rare",
+			"mana_cost": "{R}{W}{W}",
+			"type": "Legendary Creature — Human Monk",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/233_Priestess of Pseudo Paradise.png"
+			}
+		},
+		{
+			"name": "The Coward Pierrot",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Legendary Creature — Human Deserter",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/73_The Coward Pierrot.png"
+			}
+		},
+		{
+			"name": "Youki, Konpaku Ancestor",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Legendary Creature — Spirit Samurai",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/162_Youki, Konpaku Ancestor.png"
+			}
+		},
+		{
+			"name": "Choujuu Gigaku",
+			"rarity": "rare",
+			"mana_cost": "{U}{B}{R}",
+			"type": "Legendary Creature — Youkai Rebel Bard",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/174_Choujuu Gigaku.png"
+			}
+		},
+		{
+			"name": "Panic Bomb",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/88_Panic Bomb.png"
+			}
+		},
+		{
+			"name": "Spellcard Capture",
+			"rarity": "common",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Instant",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/64_Spellcard Capture.png"
+			}
+		},
+		{
+			"name": "Full Power Up!!",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Instant",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/139_Full Power Up!!.png"
+			}
+		},
+		{
+			"name": "Goliath Doll",
+			"rarity": "rare",
+			"mana_cost": "{5}",
+			"type": "Artifact Creature — Giant Doll",
+			"collector_number": "287",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/287_Goliath Doll.png"
+			}
+		},
+		{
+			"name": "Bloom Nobly, Ink-Black Blossoms",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/69_Bloom Nobly, Ink-Black Blossoms.png"
+			}
+		},
+		{
+			"name": "Ultimate Truth",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/95_Ultimate Truth.png"
+			}
+		},
+		{
+			"name": "Phantom Ensemble",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Sorcery",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/27_Phantom Ensemble.png"
+			}
+		},
+		{
+			"name": "Ferryboat of the Dead",
+			"rarity": "common",
+			"mana_cost": "{4}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "284",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/284_Ferryboat of the Dead.png"
+			}
+		},
+		{
+			"name": "Giga Flare",
+			"rarity": "rare",
+			"mana_cost": "{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/112_Giga Flare.png"
+			}
+		},
+		{
+			"name": "Ghost Lead",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Spirit",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/77_Ghost Lead.png"
+			}
+		},
+		{
+			"name": "Repurposed Rover",
+			"rarity": "uncommon",
+			"mana_cost": "{6}",
+			"type": "Artifact Creature — Drone",
+			"collector_number": "301",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/301_Repurposed Rover.png"
+			}
+		},
+		{
+			"name": "Interdimensional Voyage",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/16_Interdimensional Voyage.png"
+			}
+		},
+		{
+			"name": "The Palanquin Ship",
+			"rarity": "rare",
+			"mana_cost": "{7}",
+			"type": "Legendary Artifact — Vehicle",
+			"collector_number": "298",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/298_The Palanquin Ship.png"
+			}
+		},
+		{
+			"name": "Drunk As I Like",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/133_Drunk As I Like.png"
+			}
+		},
+		{
+			"name": "Fires of Hokkai",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Sorcery",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/11_Fires of Hokkai.png"
+			}
+		},
+		{
+			"name": "Get Ahead Of Yourself",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/111_Get Ahead Of Yourself.png"
+			}
+		},
+		{
+			"name": "Cursed Decoy Doll",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature — Doll",
+			"collector_number": "282",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/282_Cursed Decoy Doll.png"
+			}
+		},
+		{
+			"name": "Land of Faith and Fantasy",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/147_Land of Faith and Fantasy.png"
+			}
+		},
+		{
+			"name": "Gensokyo Accepts All",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/140_Gensokyo Accepts All.png"
+			}
+		},
+		{
+			"name": "Become Marketable",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/41_Become Marketable.png"
+			}
+		},
+		{
+			"name": "Doll",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact Creature — Doll",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/27_Doll.png"
+			}
+		},
+		{
+			"name": "Exploitable Resources",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/138_Exploitable Resources.png"
+			}
+		},
+		{
+			"name": "Momoyo, Onyx Dragon-Eater",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Legendary Creature — Insect Youkai",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/149_Momoyo, Onyx Dragon-Eater.png"
+			}
+		},
+		{
+			"name": "The Ground's Color is Yellow",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Enchantment",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/113_The Ground's Color is Yellow.png"
+			}
+		},
+		{
+			"name": "Vine of Wisteria",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/159_Vine of Wisteria.png"
+			}
+		},
+		{
+			"name": "Yuuka, Sleeping Terror",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}{G}",
+			"type": "Legendary Creature — Plant Youkai",
+			"collector_number": "273",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/273_Yuuka, Sleeping Terror.png"
+			}
+		},
+		{
+			"name": "Persuasion Needle",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment",
+			"collector_number": "300",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/300_Persuasion Needle.png"
+			}
+		},
+		{
+			"name": "Battle Bond",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Enchantment",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/101_Battle Bond.png"
+			}
+		},
+		{
+			"name": "Homing Option",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact — Equipment",
+			"collector_number": "290",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/290_Homing Option.png"
+			}
+		},
+		{
+			"name": "Let's Live in a Lovely Cemetery",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/83_Let's Live in a Lovely Cemetery.png"
+			}
+		},
+		{
+			"name": "Aerodynamic Blades",
+			"rarity": "uncommon",
+			"mana_cost": "{4}",
+			"type": "Artifact — Equipment",
+			"collector_number": "280",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/280_Aerodynamic Blades.png"
+			}
+		},
+		{
+			"name": "Throwing Mt. Togakushi",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/129_Throwing Mt. Togakushi.png"
+			}
+		},
+		{
+			"name": "Hakurei Shrine Grounds",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "305",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/305_Hakurei Shrine Grounds.png"
+			}
+		},
+		{
+			"name": "Myouren Temple Road",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "312",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/312_Myouren Temple Road.png"
+			}
+		},
+		{
+			"name": "Kaian Passageway",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "308",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/308_Kaian Passageway.png"
+			}
+		},
+		{
+			"name": "Hellfire Mantle",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "306",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/306_Hellfire Mantle.png"
+			}
+		},
+		{
+			"name": "Youkai Mountain Ravine",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "317",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/317_Youkai Mountain Ravine.png"
+			}
+		},
+		{
+			"name": "Human Village Streets",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "307",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/307_Human Village Streets.png"
+			}
+		},
+		{
+			"name": "Lunar Capitol Thoroughfare",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "309",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/309_Lunar Capitol Thoroughfare.png"
+			}
+		},
+		{
+			"name": "Nameless Hill",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "313",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/313_Nameless Hill.png"
+			}
+		},
+		{
+			"name": "Moreya Shrine Path",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "311",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/311_Moreya Shrine Path.png"
+			}
+		},
+		{
+			"name": "Misty Lake Shores",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "310",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/310_Misty Lake Shores.png"
+			}
+		},
+		{
+			"name": "Unzan token",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Legendary Token Creature — Elemental",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/20_Unzan token.png"
+			}
+		},
+		{
+			"name": "Helpful Bunnies",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Rabbit",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/13_Helpful Bunnies.png"
+			}
+		},
+		{
+			"name": "Food",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Food",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/28_Food.png"
+			}
+		},
+		{
+			"name": "Rabbit",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Rabbit",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/8_Rabbit.png"
+			}
+		},
+		{
+			"name": "The Jailbreak King",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{B}",
+			"type": "Legendary Creature — Spirit Rogue",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/191_The Jailbreak King.png"
+			}
+		},
+		{
+			"name": "Tsuchinoko",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Snake",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/158_Tsuchinoko.png"
+			}
+		},
+		{
+			"name": "Enigmatic Vestige",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Legendary Creature — Kirin Spirit",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/178_Enigmatic Vestige.png"
+			}
+		},
+		{
+			"name": "Ordinary Magician's Charm",
+			"rarity": "common",
+			"mana_cost": "{U}{R}",
+			"type": "Instant",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/229_Ordinary Magician's Charm.png"
+			}
+		},
+		{
+			"name": "Necrofantasia",
+			"rarity": "mythic",
+			"mana_cost": "{1}{G}{U}{R}",
+			"type": "Sorcery",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/226_Necrofantasia.png"
+			}
+		},
+		{
+			"name": "Battlefield of Hanazama",
+			"rarity": "mythic",
+			"mana_cost": "{4}{W}{B}{G}",
+			"type": "Sorcery",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/167_Battlefield of Hanazama.png"
+			}
+		},
+		{
+			"name": "Marisa of Scarlet Dreams",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/213_Marisa of Scarlet Dreams.png"
+			}
+		},
+		{
+			"name": "Reimu of Eastern Winds",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Legendary Creature — Human Monk",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/236_Reimu of Eastern Winds.png"
+			}
+		},
+		{
+			"name": "Beloved Tomboyish Girl",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{R}",
+			"type": "Enchantment — Aura",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/168_Beloved Tomboyish Girl.png"
+			}
+		},
+		{
+			"name": "Treasure",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Treasure",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/30_Treasure.png"
+			}
+		},
+		{
+			"name": "Skeleton",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Skeleton",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/14_Skeleton.png"
+			}
+		},
+		{
+			"name": "Demon",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Demon",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/12_Demon.png"
+			}
+		},
+		{
+			"name": "Youkai",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Youkai",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/24_Youkai.png"
+			}
+		},
+		{
+			"name": "Vampire Noble",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Vampire Noble",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/21_Vampire Noble.png"
+			}
+		},
+		{
+			"name": "Bird Youkai",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Bird Youkai",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/7_Bird Youkai.png"
+			}
+		},
+		{
+			"name": "Spirit",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Spirit",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/10_Spirit.png"
+			}
+		},
+		{
+			"name": "Orb",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact Creature — Orb",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/29_Orb.png"
+			}
+		},
+		{
+			"name": "Eye",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Eye",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/18_Eye.png"
+			}
+		},
+		{
+			"name": "Manifest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Creature",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/2_Manifest.png"
+			}
+		},
+		{
+			"name": "Insect",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Insect",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/17_Insect.png"
+			}
+		},
+		{
+			"name": "Wizard",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Wizard",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/22_Wizard.png"
+			}
+		},
+		{
+			"name": "Human Monk",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Human Monk",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/19_Human Monk.png"
+			}
+		},
+		{
+			"name": "Mishaguji",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Enchantment — Aura Curse",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/13_Mishaguji.png"
+			}
+		},
+		{
+			"name": "Soldier",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Soldier",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/9_Soldier.png"
+			}
+		},
+		{
+			"name": "Bird",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Bird",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/11_Bird.png"
+			}
+		},
+		{
+			"name": "Royal Role",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Enchantment — Aura Role",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/5_Royal Role.png"
+			}
+		},
+		{
+			"name": "Monster Role",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Enchantment — Aura Role",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/4_Monster Role.png"
+			}
+		},
+		{
+			"name": "Sorcerer Role",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Enchantment — Aura Role",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/6_Sorcerer Role.png"
+			}
+		},
+		{
+			"name": "Blood",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Blood",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/25_Blood.png"
+			}
+		},
+		{
+			"name": "Dog",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Dog",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/16_Dog.png"
+			}
+		},
+		{
+			"name": "Clue",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Clue",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/26_Clue.png"
+			}
+		},
+		{
+			"name": "Wolf Spirit",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Wolf Spirit",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/15_Wolf Spirit.png"
+			}
+		},
+		{
+			"name": "Youkai",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Youkai",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/23_Youkai.png"
+			}
+		},
+		{
+			"name": "Error-Prone Maid",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Faerie",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/46_Error-Prone Maid.png"
+			}
+		},
+		{
+			"name": "Probability Collapse",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Enchantment",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/89_Probability Collapse.png"
+			}
+		},
+		{
+			"name": "Cheating Detective Satori",
+			"rarity": "rare",
+			"mana_cost": "{U}{B}",
+			"type": "Legendary Creature — Youkai Detective",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/171_Cheating Detective Satori.png"
+			}
+		},
+		{
+			"name": "Rowdy Drunkard",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/122_Rowdy Drunkard.png"
+			}
+		},
+		{
+			"name": "Sumireko Usami",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}{R}{W}",
+			"type": "Legendary Planeswalker — Sumireko",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/253_Sumireko Usami.png"
+			}
+		},
+		{
+			"name": "Okina, the Hidden God",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}{G}{U}",
+			"type": "Legendary Planeswalker — Okina",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/228_Okina, the Hidden God.png"
+			}
+		},
+		{
+			"name": "Player 2",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Avatar",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/59_Player 2.png"
+			}
+		},
+		{
+			"name": "Chen, Servitor's Lackey",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Creature — Cat Youkai Minion",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/103_Chen, Servitor's Lackey.png"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "323",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/323_Forest.png"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "322",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/322_Mountain.png"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "321",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/321_Swamp.png"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "319",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/319_Plains.png"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "320",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/320_Island.png"
+			}
+		},
+		{
+			"name": "Blood Drive",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/102_Blood Drive.png"
+			}
+		},
+		{
+			"name": "Agatha ChrisQ",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Legendary Creature — Human Bard",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/38_Agatha ChrisQ.png"
+			}
+		},
+		{
+			"name": "Chiyuri, Sailor of Time",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Legendary Creature — Human Advisor",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/72_Chiyuri, Sailor of Time.png"
+			}
+		},
+		{
+			"name": "Sakuya, Scarlet Guardian",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Legendary Creature — Human",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/243_Sakuya, Scarlet Guardian.png"
+			}
+		},
+		{
+			"name": "Moonlit Pursuit",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/119_Moonlit Pursuit.png"
+			}
+		},
+		{
+			"name": "Lunar Reinforcements",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/24_Lunar Reinforcements.png"
+			}
+		},
+		{
+			"name": "The Fortune-Teller",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Legendary Creature — Youkai Deserter",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/76_The Fortune-Teller.png"
+			}
+		},
+		{
+			"name": "Maiden's Bunraku",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Sorcery",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/4_Maiden's Bunraku.png"
+			}
+		},
+		{
+			"name": "Pristine Lunacy",
+			"rarity": "common",
+			"mana_cost": "{1}{C}",
+			"type": "Instant",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/5_Pristine Lunacy.png"
+			}
+		},
+		{
+			"name": "Purified",
+			"rarity": "rare",
+			"mana_cost": "{3}{C}",
+			"type": "Enchantment — Aura",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/6_Purified.png"
+			}
+		},
+		{
+			"name": "Sea of Petroleum",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "314",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/314_Sea of Petroleum.png"
+			}
+		},
+		{
+			"name": "Devil's Recitation",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/105_Devil's Recitation.png"
+			}
+		},
+		{
+			"name": "Yuugi, Old Hell's Might",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{R}",
+			"type": "Legendary Creature — Demon",
+			"collector_number": "271",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/271_Yuugi, Old Hell's Might.png"
+			}
+		},
+		{
+			"name": "Kasen, Seeking Herself",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}{B}{G}",
+			"type": "Legendary Planeswalker — Kasen",
+			"collector_number": "195",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/195_Kasen, Seeking Herself_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/195_Kasen, Seeking Herself_front.png"
+			}
+		},
+		{
+			"name": "Byakuren, Superhuman",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Legendary Creature — Wizard Monk",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/169_Byakuren, Superhuman.png"
+			}
+		},
+		{
+			"name": "Body Enhancement Magic",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/7_Body Enhancement Magic.png"
+			}
+		},
+		{
+			"name": "Sorcerer's Sutra Scroll",
+			"rarity": "mythic",
+			"mana_cost": "{5}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "303",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/303_Sorcerer's Sutra Scroll.png"
+			}
+		},
+		{
+			"name": "Hanged Hourai Doll",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Doll",
+			"collector_number": "288",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/288_Hanged Hourai Doll.png"
+			}
+		},
+		{
+			"name": "Roving Orb",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact Creature — Orb",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/30_Roving Orb.png"
+			}
+		},
+		{
+			"name": "Magician's Grimoire",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Artifact",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/54_Magician's Grimoire.png"
+			}
+		},
+		{
+			"name": "Tea Break",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/156_Tea Break.png"
+			}
+		},
+		{
+			"name": "Bumper Crop",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/132_Bumper Crop.png"
+			}
+		},
+		{
+			"name": "Incorruptible Perfection",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/15_Incorruptible Perfection.png"
+			}
+		},
+		{
+			"name": "Parasol of the Flower Youkai",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Artifact",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/150_Parasol of the Flower Youkai.png"
+			}
+		},
+		{
+			"name": "Mature Adult Discussion",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/55_Mature Adult Discussion.png"
+			}
+		},
+		{
+			"name": "Alice of Wonderland",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Legendary Creature — Wizard Child",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/163_Alice of Wonderland.png"
+			}
+		},
+		{
+			"name": "Doremy, Eternal Spring Dream",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Legendary Creature — Nightmare Youkai",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/45_Doremy, Eternal Spring Dream.png"
+			}
+		},
+		{
+			"name": "Kyuu... BOOM~!",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/116_Kyuu... BOOM~!.png"
+			}
+		},
+		{
+			"name": "Miyoi, Geidontei's Poster Girl",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Legendary Creature — Youkai",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/148_Miyoi, Geidontei's Poster Girl.png"
+			}
+		},
+		{
+			"name": "Creation of Gensokyo",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/9_Creation of Gensokyo.png"
+			}
+		},
+		{
+			"name": "Peak Performance",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/58_Peak Performance.png"
+			}
+		},
+		{
+			"name": "100th Black Market",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/100_100th Black Market.png"
+			}
+		},
+		{
+			"name": "Great Frog of the Pond",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}{G}",
+			"type": "Creature — Frog",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/143_Great Frog of the Pond.png"
+			}
+		},
+		{
+			"name": "Guard Tiger",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Cat",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/144_Guard Tiger.png"
+			}
+		},
+		{
+			"name": "Take it Easy!",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/155_Take it Easy!.png"
+			}
+		},
+		{
+			"name": "You, Get Bigger!",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{G}",
+			"type": "Instant",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/161_You, Get Bigger!.png"
+			}
+		},
+		{
+			"name": "Flower Youkai's Charm",
+			"rarity": "common",
+			"mana_cost": "{B}{G}",
+			"type": "Instant",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/180_Flower Youkai's Charm.png"
+			}
+		},
+		{
+			"name": "Living God's Charm",
+			"rarity": "common",
+			"mana_cost": "{G}{U}",
+			"type": "Instant",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/203_Living God's Charm.png"
+			}
+		},
+		{
+			"name": "Lucky Rabbit's Charm",
+			"rarity": "common",
+			"mana_cost": "{W}{B}",
+			"type": "Instant",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/206_Lucky Rabbit's Charm.png"
+			}
+		},
+		{
+			"name": "Shrine Maiden's Charm",
+			"rarity": "common",
+			"mana_cost": "{R}{W}",
+			"type": "Instant",
+			"collector_number": "250",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/250_Shrine Maiden's Charm.png"
+			}
+		},
+		{
+			"name": "Youkai Sages' Charm",
+			"rarity": "mythic",
+			"mana_cost": "{W}{U}{B}{R}{G}",
+			"type": "Sorcery",
+			"collector_number": "264",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/264_Youkai Sages' Charm.png"
+			}
+		},
+		{
+			"name": "Wastes",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land",
+			"collector_number": "318",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/318_Wastes.png"
+			}
+		},
+		{
+			"name": "Rin, Hell's Traffic Accident",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Legendary Creature — Cat Youkai",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/90_Rin, Hell's Traffic Accident.png"
+			}
+		},
+		{
+			"name": "Yuyuko, Mistress of Death",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Legendary Creature — Spirit Noble",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/98_Yuyuko, Mistress of Death.png"
+			}
+		},
+		{
+			"name": "SinGyoku, the Gatekeeper",
+			"rarity": "common",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Legendary Creature — Avatar",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/126_SinGyoku, the Gatekeeper.png"
+			}
+		},
+		{
+			"name": "The Saigyou Ayakashi",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}",
+			"type": "Legendary Creature — Plant",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/92_The Saigyou Ayakashi.png"
+			}
+		},
+		{
+			"name": "Elis, Innocence Devil",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Legendary Creature — Devil",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/75_Elis, Innocence Devil.png"
+			}
+		},
+		{
+			"name": "The Secret Sealing Club",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Creature — Human",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/62_The Secret Sealing Club.png"
+			}
+		},
+		{
+			"name": "Ran, Sage's Servitor",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Legendary Creature — Fox Youkai Minion",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/60_Ran, Sage's Servitor.png"
+			}
+		},
+		{
+			"name": "Stage Transition",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/153_Stage Transition.png"
+			}
+		},
+		{
+			"name": "Suwako, Native God",
+			"rarity": "mythic",
+			"mana_cost": "{B}{B}{G}",
+			"type": "Legendary Creature — God",
+			"collector_number": "254",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/254_Suwako, Native God.png"
+			}
+		},
+		{
+			"name": "Shining Needle Rebellion",
+			"rarity": "mythic",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/151_Shining Needle Rebellion.png"
+			}
+		},
+		{
+			"name": "Master Spark",
+			"rarity": "mythic",
+			"mana_cost": "{X}{R}",
+			"type": "Legendary Instant",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/117_Master Spark.png"
+			}
+		},
+		{
+			"name": "Phantasmagoria of Dimensions",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Enchantment",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/231_Phantasmagoria of Dimensions.png"
+			}
+		},
+		{
+			"name": "Phantasmagoria of Flowers",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Enchantment",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/232_Phantasmagoria of Flowers.png"
+			}
+		},
+		{
+			"name": "Laika, Lively Soul",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Legendary Artifact Creature — Dog Spirit Robot",
+			"collector_number": "292",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/292_Laika, Lively Soul.png"
+			}
+		},
+		{
+			"name": "Mugetsu",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Legendary Creature — Demon",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/220_Mugetsu.png"
+			}
+		},
+		{
+			"name": "Gengetsu",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Legendary Creature — Demon",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/181_Gengetsu.png"
+			}
+		},
+		{
+			"name": "Mima, Complete Darkness",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Legendary Creature — Spirit Wizard",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/86_Mima, Complete Darkness.png"
+			}
+		},
+		{
+			"name": "Nue, Heian Alien",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Legendary Creature — Youkai Shapeshifter",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/227_Nue, Heian Alien.png"
+			}
+		},
+		{
+			"name": "Manifest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Creature",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/3_Manifest.png"
+			}
+		},
+		{
+			"name": "Evil Eye Σ",
+			"rarity": "mythic",
+			"mana_cost": "{6}",
+			"type": "Legendary Artifact — Vehicle",
+			"collector_number": "283",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/283_Evil Eye Σ.png"
+			}
+		},
+		{
+			"name": "The Flower Tank",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Legendary Artifact — Vehicle",
+			"collector_number": "285",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/285_The Flower Tank.png"
+			}
+		},
+		{
+			"name": "Go-Shintank",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "286",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/286_Go-Shintank.png"
+			}
+		},
+		{
+			"name": "Vengeful Spirit",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Spirit",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/96_Vengeful Spirit.png"
+			}
+		},
+		{
+			"name": "A Dream More Scarlet",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/106_A Dream More Scarlet.png"
+			}
+		},
+		{
+			"name": "Bunbunmaru Newspaper",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "281",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/281_Bunbunmaru Newspaper.png"
+			}
+		},
+		{
+			"name": "Unlocated Hell",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "315",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/315_Unlocated Hell.png"
+			}
+		},
+		{
+			"name": "Where Flowers Reflect",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "316",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/316_Where Flowers Reflect.png"
+			}
+		},
+		{
+			"name": "Peaches of Paradise",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact — Food",
+			"collector_number": "299",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/299_Peaches of Paradise.png"
+			}
+		},
+		{
+			"name": "Mizuchi, Traitor to Humanity",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Legendary Creature — Human Deserter",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/217_Mizuchi, Traitor to Humanity.png"
+			}
+		},
+		{
+			"name": "Chimata, the Market God",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{B}{R}",
+			"type": "Legendary Creature — God",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/172_Chimata, the Market God.png"
+			}
+		},
+		{
+			"name": "Ubame, Sanctuary's Protector",
+			"rarity": "common",
+			"mana_cost": "{W}{B}",
+			"type": "Legendary Creature — Hag Noble",
+			"collector_number": "257",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/257_Ubame, Sanctuary's Protector.png"
+			}
+		},
+		{
+			"name": "Chimi, Ancient Abomination",
+			"rarity": "common",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Legendary Creature — Elder Youkai",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/173_Chimi, Ancient Abomination.png"
+			}
+		},
+		{
+			"name": "Nareko, the Altar's Warden",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Legendary Creature — Golem",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/223_Nareko, the Altar's Warden.png"
+			}
+		},
+		{
+			"name": "Nemuno, Sanctuary Keeper",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Legendary Creature — Hag",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/87_Nemuno, Sanctuary Keeper.png"
+			}
+		},
+		{
+			"name": "Shinki, Infinite Being",
+			"rarity": "mythic",
+			"mana_cost": "{3}{R}{W}{B}",
+			"type": "Legendary Planeswalker — Shinki",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/249_Shinki, Infinite Being.png"
+			}
+		},
+		{
+			"name": "Seed of Unknown Form",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/63_Seed of Unknown Form.png"
+			}
+		},
+		{
+			"name": "Copy",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/1_Copy.png"
+			}
+		},
+		{
+			"name": "Obsolescent Industrial Remains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Artifact Land — Treasure",
+			"collector_number": "295",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/295_Obsolescent Industrial Remains.png"
+			}
+		},
+		{
+			"name": "Wonder Stone",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Prism",
+			"collector_number": "304",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/304_Wonder Stone.png"
+			}
+		},
+	]
+
+[rare(1)]
+	1 Reimu Hakurei
+	1 Marisa Kirisame
+	1 Fantasy Nature
+	2 Sanae, Living God
+	2 Reisen, Lunatic Moon Rabbit
+	2 Eirin, Sage of Hourai
+	2 Kaguya, Lunatic Princess
+	1 Mokou, Immortal Smoke
+	2 Remilia, the Scarlet Devil
+	1 Flandre Scarlet
+	1 Zanmu, the Unobstructed Light
+	2 Hisami, Hell's Invitation
+	1 Yukari Yakumo
+	2 Charming Domination
+	1 Mamizou, Tanuki Boss
+	1 Toutetsu, the Avaricious Beast
+	2 Idolatrize World
+	2 Venerable Ancient Battlefield
+	2 Lunatic Harlequin, Clownpiece
+	1 Raiko, Pristine Beat
+	2 Extend Ash
+	1 Hecatia Lapislazuli
+	2 Tewi, White Rabbit of Inaba
+	2 Yuuka Kazami
+	2 Komachi, Ferrywoman
+	1 Eiki Shiki, Judge of Paradise
+	2 Judgement
+	1 Marisa and Alice
+	2 Ore from the Age of the Gods
+	1 Reimu and Yukari
+	2 Kanako, God of Progress
+	1 Koishi Komeiji
+	2 Iizunamaru, Daitengu
+	2 Tenshi, Delinquent Celestial
+	2 Shou, Bishamonten's Light
+	2 Tojiko, Thunder Soul
+	2 Mononobe no Futo
+	2 Miko, the Saint Reborn
+	1 Utsuho Reiuji
+	2 Crazy Backup Dancers
+	2 Seija, Bane of Gensokyo
+	2 Sukuna of the Shining Needle
+	2 Mayumi Joutougu
+	2 Namazu
+	2 Keiki, the Sculptor God
+	1 Saki Kurokoma
+	2 Tsukasa, Daitengu's Consultant
+	2 Kikuri, Hellish Moon
+	1 Konngara, Astral Knight
+	1 Sariel, Angel of Death
+	2 Genji, the Venerated
+	2 Bad Apple
+	2 Iwakasa, Bearer of the Elixir
+	1 Yumemi Okazaki
+	2 Memento of the Avaricious Beast
+	2 Yumeko, Blade of Makai
+	2 Joon, Avaricious Pestilence
+	2 Shion, Consuming Poverty
+	2 Suika Ibuki
+	2 Hieda no Akyuu
+	1 Ibaraki-Douji
+	2 Youmu, Netherworlds Blades
+	2 Kokoro, Noh Embodied
+	2 Junko, Pure Fury
+	1 Toyohime, Divine Ward
+	1 Yorihime, Divine Vessel
+	1 Hakurei Ancestor
+	2 Hisou Tensoku
+	1 Lord Tenma
+	1 Nuclear Options
+	2 Priestess of Pseudo Paradise
+	2 The Coward Pierrot
+	2 Youki, Konpaku Ancestor
+	2 Choujuu Gigaku
+	2 Goliath Doll
+	2 Bloom Nobly, Ink-Black Blossoms
+	2 Giga Flare
+	2 The Palanquin Ship
+	2 Cursed Decoy Doll
+	1 Momoyo, Onyx Dragon-Eater
+	2 The Ground's Color is Yellow
+	2 Yuuka, Sleeping Terror
+	2 Let's Live in a Lovely Cemetery
+	2 Hakurei Shrine Grounds
+	2 Myouren Temple Road
+	2 Kaian Passageway
+	2 Hellfire Mantle
+	2 Youkai Mountain Ravine
+	2 Human Village Streets
+	2 Lunar Capitol Thoroughfare
+	2 Nameless Hill
+	2 Moreya Shrine Path
+	2 Misty Lake Shores
+	2 The Jailbreak King
+	2 Enigmatic Vestige
+	1 Necrofantasia
+	1 Battlefield of Hanazama
+	2 Marisa of Scarlet Dreams
+	2 Reimu of Eastern Winds
+	2 Probability Collapse
+	2 Cheating Detective Satori
+	1 Sumireko Usami
+	1 Okina, the Hidden God
+	2 Player 2
+	2 Agatha ChrisQ
+	2 Chiyuri, Sailor of Time
+	2 Sakuya, Scarlet Guardian
+	2 Purified
+	2 Sea of Petroleum
+	1 Kasen, Seeking Herself
+	2 Byakuren, Superhuman
+	1 Sorcerer's Sutra Scroll
+	2 Alice of Wonderland
+	2 Creation of Gensokyo
+	2 Great Frog of the Pond
+	1 Youkai Sages' Charm
+	2 Rin, Hell's Traffic Accident
+	2 Yuyuko, Mistress of Death
+	1 The Saigyou Ayakashi
+	2 Elis, Innocence Devil
+	1 The Secret Sealing Club
+	1 Ran, Sage's Servitor
+	2 Stage Transition
+	1 Suwako, Native God
+	1 Shining Needle Rebellion
+	1 Master Spark
+	2 Phantasmagoria of Dimensions
+	2 Phantasmagoria of Flowers
+	1 Mugetsu
+	1 Gengetsu
+	2 Mima, Complete Darkness
+	1 Nue, Heian Alien
+	1 Evil Eye Σ
+	2 Unlocated Hell
+	2 Mizuchi, Traitor to Humanity
+	2 Chimata, the Market God
+	1 Shinki, Infinite Being
+[uncommon(4)]
+	4 God Forbid Women Do Anything
+	4 Hong Meiling, the Rainbow Gate
+	4 Koakuma
+	4 Patchouli, the Unmoving Library
+	4 Son Biten
+	4 Enoko Mitsugashira
+	4 Chiyari Tenkajin
+	4 Alice Margatroid
+	4 Lily White
+	4 The Prismriver Sisters
+	4 Yatsuhashi and Benben
+	4 Lullaby of a Deserted Hell
+	4 Border of Life
+	4 The Gensokyo the Gods Loved
+	4 Aya, Reporter of Fantasy
+	4 Wicked Hermit, Seiga Kaku
+	4 Maiden's Capriccio
+	4 Love-Colored Magic
+	4 Cosmic Mind
+	4 Cinderella Cage
+	4 Keine Kamishirasawa
+	4 Medicine Melancholy
+	4 Deaf to All but the Song
+	4 Nitori, Super Youkai Warhead
+	4 Momiji Inubashiri
+	4 Yoshika Miyako
+	4 Satori Komeiji
+	4 Hatate Himekaidou
+	4 Ichirin Kumoi
+	4 Captain Murasa
+	4 Kagerou, Bamboos Loup-Garou
+	4 Aunn, Guardian Beast
+	4 Narumi, Life Giver
+	4 Sagume, the Reversed Fortune
+	4 Kutaka, Hells Border Patrol
+	4 Yachie Kicchou
+	4 Sannyo Komakusa
+	4 Misumaru Tamatsukuri
+	4 YuugenMagan
+	4 Otherworld Defense Platform
+	4 Spellcard Declaration
+	4 Item Collection Border
+	4 Deep-Mountain Encounter
+	4 Ellen, Eternal Unknowing
+	4 Kana Anaberal
+	4 Kotohime, Maniacal Princess
+	4 Rikako Asakura
+	4 Elly, Guardian of Mugenkan
+	4 Yuki and Mai
+	4 Iku Nagae
+	4 Knight of Nights
+	4 Rinnosuke Morichika
+	4 Sunny Milk
+	4 Star Sapphire
+	4 Layla, the Last Prismriver
+	4 Lily Black
+	4 Ultimate Truth
+	4 Phantom Ensemble
+	4 Repurposed Rover
+	4 Fires of Hokkai
+	4 Get Ahead Of Yourself
+	4 Land of Faith and Fantasy
+	4 Exploitable Resources
+	4 Battle Bond
+	4 Homing Option
+	4 Aerodynamic Blades
+	4 Beloved Tomboyish Girl
+	4 Yuugi, Old Hell's Might
+	4 Body Enhancement Magic
+	4 Incorruptible Perfection
+	4 Parasol of the Flower Youkai
+	4 Doremy, Eternal Spring Dream
+	4 Peak Performance
+	4 100th Black Market
+	4 Guard Tiger
+	4 Take it Easy!
+	4 You, Get Bigger!
+	4 Laika, Lively Soul
+	4 A Dream More Scarlet
+	4 Where Flowers Reflect
+	4 Peaches of Paradise
+	4 Nareko, the Altar's Warden
+[common(7)]
+	8 Graze
+	8 Cirno, the Unnatural Chill
+	8 Daiyousei
+	8 Rumia, Apparition of Night
+	8 Letty Whiterock
+	8 Gouyoku Agent, Eagle
+	8 Goddesses of Autumn
+	8 Romantic Fall
+	8 Autumnal Waterfall
+	8 Yamame Kurodani
+	8 Curtain Fire
+	8 Zenki and Goki
+	8 Extra Healthbar
+	8 Wriggle Nightbug
+	8 Mystia Lorelei
+	8 Kosuzu, Curious Youth
+	8 Kitten of Great Fortune
+	8 Hina Kagiyama
+	8 Kisume
+	8 Parsee, Green-Eyed Monster
+	8 Safe Zone
+	8 Nazrin, Treasure Tracker
+	8 Kogasa, Forgotten Umbrella
+	8 Kyouko Kasodani
+	8 Wakasagihime
+	8 Dynamic Entrance
+	8 Scarlet Detonation
+	8 Shanghai Doll
+	8 Sekibanki
+	8 Eternity Larva, Birth and Rebirth
+	8 Seiran, Lunar Invader
+	8 Ringo, Tactical Coordinator
+	8 Fierce Fang, Wolf
+	8 Kiketsus Sneak, Otter
+	8 Eika Ebisu
+	8 Urumi Ushizaki
+	8 Kaguyas Impossible Request
+	8 Mike Goutokuji
+	8 Takane Yamashiro
+	8 Rika, the Tank Girl
+	8 Meira, Seeker of Dark Power
+	8 Unshou, the Fisherman
+	8 Orange
+	8 Kurumi, Keeper of the Lake
+	8 Sara, Gatekeeper of Makai
+	8 Louise, Visitor from Makai
+	8 Luna Child
+	8 Reisen, the Junior
+	8 This, Too, Is Yuri
+	8 Tokiko
+	8 Panic Bomb
+	8 Spellcard Capture
+	8 Full Power Up!!
+	8 Ferryboat of the Dead
+	8 Ghost Lead
+	8 Interdimensional Voyage
+	8 Drunk As I Like
+	8 Gensokyo Accepts All
+	8 Become Marketable
+	8 Vine of Wisteria
+	8 Persuasion Needle
+	8 Throwing Mt. Togakushi
+	8 Helpful Bunnies
+	8 Tsuchinoko
+	8 Ordinary Magician's Charm
+	8 Error-Prone Maid
+	8 Rowdy Drunkard
+	8 Chen, Servitor's Lackey
+	8 Blood Drive
+	8 Moonlit Pursuit
+	8 Lunar Reinforcements
+	8 The Fortune-Teller
+	8 Maiden's Bunraku
+	8 Pristine Lunacy
+	8 Devil's Recitation
+	8 Hanged Hourai Doll
+	8 Roving Orb
+	8 Magician's Grimoire
+	8 Tea Break
+	8 Bumper Crop
+	8 Mature Adult Discussion
+	8 Kyuu... BOOM~!
+	8 Miyoi, Geidontei's Poster Girl
+	8 Flower Youkai's Charm
+	8 Living God's Charm
+	8 Lucky Rabbit's Charm
+	8 Shrine Maiden's Charm
+	8 SinGyoku, the Gatekeeper
+	8 The Flower Tank
+	8 Go-Shintank
+	8 Vengeful Spirit
+	8 Bunbunmaru Newspaper
+	8 Ubame, Sanctuary's Protector
+	8 Chimi, Ancient Abomination
+	8 Nemuno, Sanctuary Keeper
+	8 Seed of Unknown Form
+	8 Obsolescent Industrial Remains
+	8 Wonder Stone
+[wildcard(2)]
+	6 Graze
+	4 Reimu Hakurei
+	4 Marisa Kirisame
+	4 Fantasy Nature
+	7 Sanae, Living God
+	7 Reisen, Lunatic Moon Rabbit
+	7 Eirin, Sage of Hourai
+	7 Kaguya, Lunatic Princess
+	4 Mokou, Immortal Smoke
+	15 God Forbid Women Do Anything
+	6 Cirno, the Unnatural Chill
+	6 Daiyousei
+	15 Hong Meiling, the Rainbow Gate
+	15 Koakuma
+	15 Patchouli, the Unmoving Library
+	7 Remilia, the Scarlet Devil
+	6 Rumia, Apparition of Night
+	4 Flandre Scarlet
+	15 Son Biten
+	15 Enoko Mitsugashira
+	15 Chiyari Tenkajin
+	4 Zanmu, the Unobstructed Light
+	7 Hisami, Hell's Invitation
+	15 Alice Margatroid
+	6 Letty Whiterock
+	15 Lily White
+	15 The Prismriver Sisters
+	4 Yukari Yakumo
+	15 Yatsuhashi and Benben
+	7 Charming Domination
+	15 Lullaby of a Deserted Hell
+	4 Mamizou, Tanuki Boss
+	4 Toutetsu, the Avaricious Beast
+	6 Gouyoku Agent, Eagle
+	7 Idolatrize World
+	15 Border of Life
+	7 Venerable Ancient Battlefield
+	15 The Gensokyo the Gods Loved
+	7 Lunatic Harlequin, Clownpiece
+	6 Goddesses of Autumn
+	15 Aya, Reporter of Fantasy
+	6 Romantic Fall
+	6 Autumnal Waterfall
+	6 Yamame Kurodani
+	4 Raiko, Pristine Beat
+	15 Wicked Hermit, Seiga Kaku
+	15 Maiden's Capriccio
+	15 Love-Colored Magic
+	7 Extend Ash
+	6 Curtain Fire
+	6 Zenki and Goki
+	4 Hecatia Lapislazuli
+	15 Cosmic Mind
+	15 Cinderella Cage
+	6 Extra Healthbar
+	6 Wriggle Nightbug
+	6 Mystia Lorelei
+	15 Keine Kamishirasawa
+	7 Tewi, White Rabbit of Inaba
+	15 Medicine Melancholy
+	7 Yuuka Kazami
+	7 Komachi, Ferrywoman
+	4 Eiki Shiki, Judge of Paradise
+	7 Judgement
+	6 Kosuzu, Curious Youth
+	4 Marisa and Alice
+	15 Deaf to All but the Song
+	7 Ore from the Age of the Gods
+	6 Kitten of Great Fortune
+	4 Reimu and Yukari
+	6 Hina Kagiyama
+	15 Nitori, Super Youkai Warhead
+	15 Momiji Inubashiri
+	7 Kanako, God of Progress
+	15 Yoshika Miyako
+	6 Kisume
+	6 Parsee, Green-Eyed Monster
+	6 Safe Zone
+	15 Satori Komeiji
+	4 Koishi Komeiji
+	7 Iizunamaru, Daitengu
+	6 Nazrin, Treasure Tracker
+	6 Kogasa, Forgotten Umbrella
+	15 Hatate Himekaidou
+	15 Ichirin Kumoi
+	7 Tenshi, Delinquent Celestial
+	15 Captain Murasa
+	7 Shou, Bishamonten's Light
+	6 Kyouko Kasodani
+	7 Tojiko, Thunder Soul
+	7 Mononobe no Futo
+	7 Miko, the Saint Reborn
+	6 Wakasagihime
+	6 Dynamic Entrance
+	4 Utsuho Reiuji
+	6 Scarlet Detonation
+	6 Shanghai Doll
+	7 Crazy Backup Dancers
+	6 Sekibanki
+	15 Kagerou, Bamboos Loup-Garou
+	7 Seija, Bane of Gensokyo
+	7 Sukuna of the Shining Needle
+	6 Eternity Larva, Birth and Rebirth
+	15 Aunn, Guardian Beast
+	15 Narumi, Life Giver
+	6 Seiran, Lunar Invader
+	6 Ringo, Tactical Coordinator
+	15 Sagume, the Reversed Fortune
+	6 Fierce Fang, Wolf
+	6 Kiketsus Sneak, Otter
+	6 Eika Ebisu
+	6 Urumi Ushizaki
+	15 Kutaka, Hells Border Patrol
+	15 Yachie Kicchou
+	6 Kaguyas Impossible Request
+	7 Mayumi Joutougu
+	7 Namazu
+	7 Keiki, the Sculptor God
+	4 Saki Kurokoma
+	6 Mike Goutokuji
+	6 Takane Yamashiro
+	15 Sannyo Komakusa
+	15 Misumaru Tamatsukuri
+	7 Tsukasa, Daitengu's Consultant
+	15 YuugenMagan
+	7 Kikuri, Hellish Moon
+	4 Konngara, Astral Knight
+	4 Sariel, Angel of Death
+	7 Genji, the Venerated
+	6 Rika, the Tank Girl
+	6 Meira, Seeker of Dark Power
+	15 Otherworld Defense Platform
+	7 Bad Apple
+	7 Iwakasa, Bearer of the Elixir
+	15 Spellcard Declaration
+	15 Item Collection Border
+	15 Deep-Mountain Encounter
+	15 Ellen, Eternal Unknowing
+	15 Kana Anaberal
+	15 Kotohime, Maniacal Princess
+	15 Rikako Asakura
+	4 Yumemi Okazaki
+	7 Memento of the Avaricious Beast
+	6 Unshou, the Fisherman
+	6 Orange
+	6 Kurumi, Keeper of the Lake
+	15 Elly, Guardian of Mugenkan
+	6 Sara, Gatekeeper of Makai
+	6 Louise, Visitor from Makai
+	15 Yuki and Mai
+	7 Yumeko, Blade of Makai
+	15 Iku Nagae
+	7 Joon, Avaricious Pestilence
+	7 Shion, Consuming Poverty
+	7 Suika Ibuki
+	7 Hieda no Akyuu
+	4 Ibaraki-Douji
+	6 Luna Child
+	7 Youmu, Netherworlds Blades
+	6 Reisen, the Junior
+	6 This, Too, Is Yuri
+	15 Knight of Nights
+	7 Kokoro, Noh Embodied
+	15 Rinnosuke Morichika
+	15 Sunny Milk
+	15 Star Sapphire
+	6 Tokiko
+	7 Junko, Pure Fury
+	4 Toyohime, Divine Ward
+	4 Yorihime, Divine Vessel
+	4 Hakurei Ancestor
+	7 Hisou Tensoku
+	15 Layla, the Last Prismriver
+	15 Lily Black
+	4 Lord Tenma
+	4 Nuclear Options
+	7 Priestess of Pseudo Paradise
+	7 The Coward Pierrot
+	7 Youki, Konpaku Ancestor
+	7 Choujuu Gigaku
+	6 Panic Bomb
+	6 Spellcard Capture
+	6 Full Power Up!!
+	7 Goliath Doll
+	7 Bloom Nobly, Ink-Black Blossoms
+	15 Ultimate Truth
+	15 Phantom Ensemble
+	6 Ferryboat of the Dead
+	7 Giga Flare
+	6 Ghost Lead
+	15 Repurposed Rover
+	6 Interdimensional Voyage
+	7 The Palanquin Ship
+	6 Drunk As I Like
+	15 Fires of Hokkai
+	15 Get Ahead Of Yourself
+	7 Cursed Decoy Doll
+	15 Land of Faith and Fantasy
+	6 Gensokyo Accepts All
+	6 Become Marketable
+	15 Exploitable Resources
+	4 Momoyo, Onyx Dragon-Eater
+	7 The Ground's Color is Yellow
+	6 Vine of Wisteria
+	7 Yuuka, Sleeping Terror
+	6 Persuasion Needle
+	15 Battle Bond
+	15 Homing Option
+	7 Let's Live in a Lovely Cemetery
+	15 Aerodynamic Blades
+	6 Throwing Mt. Togakushi
+	7 Hakurei Shrine Grounds
+	7 Myouren Temple Road
+	7 Kaian Passageway
+	7 Hellfire Mantle
+	7 Youkai Mountain Ravine
+	7 Human Village Streets
+	7 Lunar Capitol Thoroughfare
+	7 Nameless Hill
+	7 Moreya Shrine Path
+	7 Misty Lake Shores
+	6 Helpful Bunnies
+	7 The Jailbreak King
+	6 Tsuchinoko
+	7 Enigmatic Vestige
+	6 Ordinary Magician's Charm
+	4 Necrofantasia
+	4 Battlefield of Hanazama
+	7 Marisa of Scarlet Dreams
+	7 Reimu of Eastern Winds
+	15 Beloved Tomboyish Girl
+	6 Error-Prone Maid
+	7 Probability Collapse
+	7 Cheating Detective Satori
+	6 Rowdy Drunkard
+	4 Sumireko Usami
+	4 Okina, the Hidden God
+	7 Player 2
+	6 Chen, Servitor's Lackey
+	6 Blood Drive
+	7 Agatha ChrisQ
+	7 Chiyuri, Sailor of Time
+	7 Sakuya, Scarlet Guardian
+	6 Moonlit Pursuit
+	6 Lunar Reinforcements
+	6 The Fortune-Teller
+	6 Maiden's Bunraku
+	6 Pristine Lunacy
+	7 Purified
+	7 Sea of Petroleum
+	6 Devil's Recitation
+	15 Yuugi, Old Hell's Might
+	4 Kasen, Seeking Herself
+	7 Byakuren, Superhuman
+	15 Body Enhancement Magic
+	4 Sorcerer's Sutra Scroll
+	6 Hanged Hourai Doll
+	6 Roving Orb
+	6 Magician's Grimoire
+	6 Tea Break
+	6 Bumper Crop
+	15 Incorruptible Perfection
+	15 Parasol of the Flower Youkai
+	6 Mature Adult Discussion
+	7 Alice of Wonderland
+	15 Doremy, Eternal Spring Dream
+	6 Kyuu... BOOM~!
+	6 Miyoi, Geidontei's Poster Girl
+	7 Creation of Gensokyo
+	15 Peak Performance
+	15 100th Black Market
+	7 Great Frog of the Pond
+	15 Guard Tiger
+	15 Take it Easy!
+	15 You, Get Bigger!
+	6 Flower Youkai's Charm
+	6 Living God's Charm
+	6 Lucky Rabbit's Charm
+	6 Shrine Maiden's Charm
+	4 Youkai Sages' Charm
+	7 Rin, Hell's Traffic Accident
+	7 Yuyuko, Mistress of Death
+	6 SinGyoku, the Gatekeeper
+	4 The Saigyou Ayakashi
+	7 Elis, Innocence Devil
+	4 The Secret Sealing Club
+	4 Ran, Sage's Servitor
+	7 Stage Transition
+	4 Suwako, Native God
+	4 Shining Needle Rebellion
+	4 Master Spark
+	7 Phantasmagoria of Dimensions
+	7 Phantasmagoria of Flowers
+	15 Laika, Lively Soul
+	4 Mugetsu
+	4 Gengetsu
+	7 Mima, Complete Darkness
+	4 Nue, Heian Alien
+	4 Evil Eye Σ
+	6 The Flower Tank
+	6 Go-Shintank
+	6 Vengeful Spirit
+	15 A Dream More Scarlet
+	6 Bunbunmaru Newspaper
+	7 Unlocated Hell
+	15 Where Flowers Reflect
+	15 Peaches of Paradise
+	7 Mizuchi, Traitor to Humanity
+	7 Chimata, the Market God
+	6 Ubame, Sanctuary's Protector
+	6 Chimi, Ancient Abomination
+	15 Nareko, the Altar's Warden
+	6 Nemuno, Sanctuary Keeper
+	4 Shinki, Infinite Being
+	6 Seed of Unknown Form
+	6 Obsolescent Industrial Remains
+	6 Wonder Stone
