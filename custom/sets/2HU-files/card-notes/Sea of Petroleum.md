@@ -1,1 +1,1 @@
-[SFW Final Boss Phase 2 - Memento of All Organisms ~ Memory of Fossil Energy](https://www.youtube.com/watch?v=ZOczrPEtriU)
+[SFW Final Boss Phase 2 - Memento of All Organisms ~ Memory of Fossil Energy](https://www.youtube.com/watch?v=YENQ4c-Hg7o)

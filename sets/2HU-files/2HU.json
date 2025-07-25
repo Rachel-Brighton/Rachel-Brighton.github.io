@@ -85,7 +85,7 @@
             "number": 244,
             "color_identity": "UG",
             "cost": "{X}{X}{G}{G}{U}{U}",
-            "rules_text": "Flying, vigilance\n[i]Bumper Crop[/i] \u2014 When Sanae enters, you may shuffle your hand into your library, then exile the top X cards of your library. You may cast a card exiled this way without paying its mana cost. Put the rest into your hand.\nMiracle {X}{1}{G}{U} [i](You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)[/i]",
+            "rules_text": "Flying, vigilance\n[i]God's Wind[/i] \u2014 When Sanae enters, you may shuffle your hand into your library, then exile the top X cards of your library. You may cast a card exiled this way without paying its mana cost. Put the rest into your hand.\nMiracle {X}{1}{G}{U} [i](You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",
@@ -229,7 +229,7 @@
             "number": 187,
             "color_identity": "RG",
             "cost": "{R}{G}",
-            "rules_text": "{T}: Add {R} or {G}.\nCreatures blocking or blocked by Meiling have first strike.",
+            "rules_text": "{T}: Add one mana of any color.\nCreatures blocking or blocked by Meiling have first strike.",
             "flavor_text": "[i]A master of balance, qi, and the martial arts in a world of magic flying bullet maidens.[/i]",
             "pt": "4/3",
             "special_text": "",
@@ -490,24 +490,6 @@
             "loyalty": "",
             "artist": "\u5e02\u8449 \u8449\u5e02/Ichiba Youichi",
             "notes": "!tag PCB\n!tag Prismriver\n!tag Lyrica\n!tag Lunasa\n!tag Merlin\n!tag Stage4\n!tag Playable"
-        },
-        {
-            "card_name": "Yukari Yakumo",
-            "color": "URG",
-            "rarity": "mythic",
-            "type": "Legendary Planeswalker \u2014 Yukari",
-            "number": 266,
-            "color_identity": "URG",
-            "cost": "{2}{G}{U}{U}{R}",
-            "rules_text": "Return target nonland permanent to its owner's hand.\nExile the top three cards of your library, then choose one. Until end of turn, you may play that card without paying its mana cost.\nChoose any number of creature cards you own from outside the game and put them onto the battlefield.",
-            "flavor_text": "[i]\n[/i]",
-            "pt": "",
-            "special_text": "[+2]: Until your next turn, target nonland permanent phases out.\n[-3]: Exile the top three cards of your library, then choose one. Until end of turn, you may play that card without paying its mana cost.\n[-10]: Choose any number of creature cards you own from outside the game and put them onto the battlefield.",
-            "shape": "planeswalker",
-            "set": "2HU",
-            "loyalty": "5",
-            "artist": "\u5922\u904a\u6230\u58eb/MENGYOU ZHANSHI",
-            "notes": "!sort pw\n!tag PCB\n!tag Yukari\n!tag Yakumo\n!tag EX\n!tag Phantasm\n!tag StagePhantasm\n!tag Sage\n!tag Playable"
         },
         {
             "card_name": "Yatsuhashi and Benben",
@@ -950,7 +932,7 @@
             "color_identity": "U",
             "cost": "{1}{U}{U}",
             "rules_text": "Draw three cards, then discard a card unless you control a legendary creature or planeswalker.",
-            "flavor_text": "[i]Thus the Bodhisattva who hold to nothing, relying on this supreme wisdom, are unhindered by fear and transcend the illusion to perfect Nirvana.\n\u2014 [/i]The Heart Sutra[i][/i]",
+            "flavor_text": "[i]Thus the Bodhisattva who hold to nothing, relying on this supreme wisdom, are unhindered by fear and transcend the illusion to perfect Nirvana.\n\u2014[/i]The Heart Sutra[i][/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
@@ -1130,24 +1112,6 @@
             "loyalty": "",
             "artist": "\u304f\u308b\u80e1\u6843/Kulukulu3333",
             "notes": "!tag PoFV\n!tag Komachi\n!tag Phantasmagoria\n!tag Playable"
-        },
-        {
-            "card_name": "Eiki Shiki, Judge of Paradise",
-            "color": "WB",
-            "rarity": "mythic",
-            "type": "Legendary Creature \u2014 Golem Avatar",
-            "number": 176,
-            "color_identity": "WB",
-            "cost": "{2}{W}{B}",
-            "rules_text": "Defender, deathtouch\nWhenever a creature you control dies, you gain life equal to that creature's toughness.\nWhenever a creature an opponent controls dies, that player loses life equal to that creature's power.",
-            "flavor_text": "[i][/i]",
-            "pt": "1/5",
-            "special_text": "",
-            "shape": "normal",
-            "set": "2HU",
-            "loyalty": "",
-            "artist": "Ryosios",
-            "notes": "!tag PoFV\n!tag Eiki\n!tag Shikieiki\n!tag Phantasmagoria\n!tag Hell\n!tag Playable"
         },
         {
             "card_name": "Judgement",
@@ -1473,7 +1437,7 @@
             "number": 189,
             "color_identity": "WUB",
             "cost": "{3}{W}{U}{B}",
-            "rules_text": "Flying\nWard\u2014Discard two cards.\nWhenever Iizunamaru or another creature with flying enters the battlefield under your control, exile target card from a graveyard. If a creature card was exiled this way, create a Treasure token. You may cast noncreature cards exiled this way for as long as they remain exiled if you spend mana from a Treasure to cast them.",
+            "rules_text": "Flying\nWard\u2014Discard two cards.\nWhenever Iizunamaru or another creature with flying you control enters, exile target card from a graveyard. If a creature card was exiled this way, create a Treasure token. You may cast noncreature cards exiled this way for as long as they remain exiled if you spend mana from a Treasure to cast them.",
             "flavor_text": "[i][/i]",
             "pt": "5/5",
             "special_text": "",
@@ -1913,7 +1877,7 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "Ryosios",
-            "notes": "!addtoken LivingBullet;1\n!tag HSiFS\n!tag Narumi\n!tag Stage4"
+            "notes": "!addtoken LivingBullet\n!tag HSiFS\n!tag Narumi\n!tag Stage4"
         },
         {
             "card_name": "Seiran, Lunar Invader",
@@ -2715,7 +2679,7 @@
             "number": 267,
             "color_identity": "UR",
             "cost": "{4}{U}{R}",
-            "rules_text": "Flying, menace\nWhenever Yuki and Mai attacks, tap up to two target creatures and Yuki and Mai deals 3 damage to each of up to two target creatures.\nWhen Yuki and Mai dies, choose one \u2014\n\u2022 Tap up to four target creatures.\n\u2022 Yuki and Mai deals 3 damage to each of up to four target creatures",
+            "rules_text": "Flying, menace\nWhenever Yuki and Mai attacks, tap up to two target creatures and Yuki and Mai deals 3 damage to each of up to two target creatures.\nWhen Yuki and Mai dies, choose one \u2014\n\u2022 Tap up to four target creatures.\n\u2022 Yuki and Mai deals 3 damage to each of up to four target creatures.",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",
@@ -3273,7 +3237,7 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u662f\u6c34\u9b3c\u5417/Shishi Guima",
-            "notes": "!tag SoPM\n!tag Mystia\n!tag Kyouko\n!tag Kyoko\n!tag Print\n!tag Music\n!tag Fanon"
+            "notes": "!tag SoPM\n!tag Mystia\n!tag Kyouko\n!tag Kyoko\n!tag Print\n!tag Music\n!tag Fanon\n!tag Yuri\n!tag Gay"
         },
         {
             "card_name": "Panic Bomb",
@@ -3956,7 +3920,7 @@
             "shape": "normal",
             "set": "2HU",
             "loyalty": "",
-            "artist": "Justinas Vitkus",
+            "artist": "Kosi An",
             "notes": "!tag IN"
         },
         {
@@ -4443,7 +4407,7 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u30b9\u30a4\u30ab\u30ed\u30b9/suicarus",
-            "notes": "!exportname Manifest\n!related Narumi, Life Giver\n!tokentag LivingBullet"
+            "notes": "!tokentag LivingBullet"
         },
         {
             "card_name": "Insect",
@@ -4770,42 +4734,6 @@
             "notes": "!tag UB\n!tag Isami"
         },
         {
-            "card_name": "Sumireko Usami",
-            "color": "WUR",
-            "rarity": "mythic",
-            "type": "Legendary Planeswalker \u2014 Sumireko",
-            "number": 253,
-            "color_identity": "WUR",
-            "cost": "{1}{U}{R}{W}",
-            "rules_text": "Scry 4\nTarget artifact deals damage equal to its converted mana cost to target creature.\nTap up to ten target permanents. Each tapped permanent your opponents control deals 1 damage to its controller.",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "[+1]: Surveil 2, then draw a card.\n[-2]: Target artifact deals damage equal to its mana value to target creature.\n[-7]: Exile up to three target instant, sorcery, artifact, or enchantment cards from your graveyard. Copy them. You may cast the copies without paying their mana costs.",
-            "shape": "planeswalker",
-            "set": "2HU",
-            "loyalty": "4",
-            "artist": "2VioletDetector",
-            "notes": "!sort pw\n!tag ULiL\n!tag Sumireko\n!tag Fighter\n!tag Spinoff\n!tag Playable"
-        },
-        {
-            "card_name": "Okina, the Hidden God",
-            "color": "UBG",
-            "rarity": "mythic",
-            "type": "Legendary Planeswalker \u2014 Okina",
-            "number": 228,
-            "color_identity": "UBG",
-            "cost": "{3}{B}{G}{U}",
-            "rules_text": "Draw a card, add one mana of any color, and lose 1 life.\nTarget creature gets +1/+1 until end of turn and can't be blocked this turn.\nSacrifice a creature, then gain control of target creature and put four +1/+1 counters on it.",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "[+2]: Draw a card, add one mana of any color, and lose 1 life.\n[-1]: Target creature gets +1/+1 until end of turn and can't be blocked this turn.\n[-5]: Sacrifice a creature, then gain control of target creature and put four +1/+1 counters on it.",
-            "shape": "planeswalker",
-            "set": "2HU",
-            "loyalty": "6",
-            "artist": "\u3079\u3089\u307c\u3046/BELLA_BOW",
-            "notes": "!sort pw\n!tag HSiFS\n!tag Okina\n!tag Stage6\n!tag EX\n!tag StageEX\n!tag Sage"
-        },
-        {
             "card_name": "Player 2",
             "color": "U",
             "rarity": "rare",
@@ -5064,7 +4992,7 @@
             "type": "Sorcery",
             "number": 4,
             "color_identity": "C",
-            "cost": "{3}",
+            "cost": "{2}",
             "rules_text": "Create two 1/1 colorless Doll artifact creature tokens.",
             "flavor_text": "[i][/i]",
             "pt": "",
@@ -5108,7 +5036,7 @@
             "shape": "normal",
             "set": "2HU",
             "loyalty": "",
-            "artist": "Hippppo",
+            "artist": "Eico",
             "notes": "!tag LoLK\n!tag Junko"
         },
         {
@@ -5705,7 +5633,7 @@
             "number": 90,
             "color_identity": "B",
             "cost": "{1}{B}{B}",
-            "rules_text": "Menace\n[i]Corpse Voyage[/i] \u2014 Whenever Rin deals combat damage to a player, return up to one target creature card from your graveyard to your hand. If the returned card was legendary, create a 1/1 white Spirit creature token.",
+            "rules_text": "Menace\n[i]Corpse Voyage[/i] \u2014 Whenever Rin deals combat damage to a player, return up to one target creature card from your graveyard to your hand. If the returned card was legendary, create a 1/1 white Spirit creature token with flying.",
             "flavor_text": "[i][/i]",
             "pt": "3/2",
             "special_text": "",
@@ -6037,7 +5965,7 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u304b\u308f\u3084\u3070\u3050/Kawayabug",
-            "notes": "!exportname Manifest \n!related Nue, Heian Alien<2>\n!tokentag Unidentifiable"
+            "notes": "!exportname Manifest\n!tokentag Unidentifiable"
         },
         {
             "card_name": "Evil Eye \u03a3",
@@ -6271,7 +6199,7 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u30be\u30a6\u30ce\u30bb/ZOUNOSE",
-            "notes": "!tag Chimi\n!tag FW\n!tag Stage2\n!tag Music"
+            "notes": "!addtoken Unidentifiable;2\n!tag Chimi\n!tag FW\n!tag Stage2\n!tag Music"
         },
         {
             "card_name": "Nareko, the Altar's Warden",
@@ -6325,7 +6253,7 @@
             "set": "2HU",
             "loyalty": "6",
             "artist": "\u304f\u308a\u304a\u306d/KURIONE",
-            "notes": ""
+            "notes": "!sort pw\n!tag MS\n!tag Shikni\n!tag Stage6\n!tag Music\n!tag Makai"
         },
         {
             "card_name": "Seed of Unknown Form",
@@ -6398,7 +6326,79 @@
             "loyalty": "",
             "artist": "13\u53f7",
             "notes": "!tag FW"
+        },
+        {
+            "card_name": "Eiki, Final Judge of Fate",
+            "color": "WB",
+            "rarity": "mythic",
+            "type": "Legendary Creature \u2014 Golem Avatar",
+            "number": 176,
+            "color_identity": "WB",
+            "cost": "{1}{W}{B}",
+            "rules_text": "Whenever another legendary creature dies, exile it, then choose one that hasn't been chosen this turn \u2014\n\u2022 [i]Salvation[/i] \u2014 You gain 2 life and create a Treasure token.\n\u2022 [i]Damnation[/i] \u2014 Put it into its owner's graveyard, then each player loses 2 life.\n\u2022 [i]Reincarnation[/i] \u2014 Shuffle it into its owner's library, then draw a card.",
+            "flavor_text": "[i][/i]",
+            "pt": "3/3",
+            "special_text": "",
+            "shape": "normal",
+            "set": "2HU",
+            "loyalty": "",
+            "artist": "Xiirus",
+            "notes": "!tag PoFV\n!tag Eiki\n!tag Shikieiki\n!tag Phantasmagoria\n!tag Hell\n!tag Playable"
+        },
+        {
+            "card_name": "Okina, the Hidden God",
+            "color": "UBG",
+            "rarity": "mythic",
+            "type": "Legendary Planeswalker \u2014 Okina",
+            "number": 228,
+            "color_identity": "UBG",
+            "cost": "{3}{B}{G}{U}",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "[+2]: Draw a card, add one mana of any color, and lose 1 life.\n[-1]: Target creature gets +1/+1 until end of turn and can't be blocked this turn.\n[-5]: Sacrifice a creature, then gain control of target creature and put four +1/+1 counters on it.",
+            "shape": "planeswalker",
+            "set": "2HU",
+            "loyalty": "6",
+            "artist": "\u3079\u3089\u307c\u3046/BELLA_BOW",
+            "notes": "!sort pw\n!tag HSiFS\n!tag Okina\n!tag Stage6\n!tag EX\n!tag StageEX\n!tag Sage"
+        },
+        {
+            "card_name": "Sumireko Usami",
+            "color": "WUR",
+            "rarity": "mythic",
+            "type": "Legendary Planeswalker \u2014 Sumireko",
+            "number": 253,
+            "color_identity": "WUR",
+            "cost": "{1}{U}{R}{W}",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "[+1]: Surveil 2, then draw a card.\n[-2]: Target artifact deals damage equal to its mana value to target creature.\n[-7]: Exile up to three target instant, sorcery, artifact, or enchantment cards from your graveyard. Copy them. You may cast the copies without paying their mana costs.",
+            "shape": "planeswalker",
+            "set": "2HU",
+            "loyalty": "4",
+            "artist": "2VioletDetector",
+            "notes": "!sort pw\n!tag ULiL\n!tag Sumireko\n!tag Fighter\n!tag Spinoff\n!tag Playable"
+        },
+        {
+            "card_name": "Yukari Yakumo",
+            "color": "URG",
+            "rarity": "mythic",
+            "type": "Legendary Planeswalker \u2014 Yukari",
+            "number": 266,
+            "color_identity": "URG",
+            "cost": "{2}{G}{U}{U}{R}",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "[+2]: Until your next turn, target nonland permanent phases out.\n[-3]: Exile the top three cards of your library, then choose one. Until end of turn, you may play that card without paying its mana cost.\n[-10]: Choose any number of creature cards you own from outside the game and put them onto the battlefield.",
+            "shape": "planeswalker",
+            "set": "2HU",
+            "loyalty": "5",
+            "artist": "\u5922\u904a\u6230\u58eb/MENGYOU ZHANSHI",
+            "notes": "!sort pw\n!tag PCB\n!tag Yukari\n!tag Yakumo\n!tag EX\n!tag Phantasm\n!tag StagePhantasm\n!tag Sage\n!tag Playable"
         }
     ],
-    "version": 4
+    "version": 5
 }

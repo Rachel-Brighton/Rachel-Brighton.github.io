@@ -1,4 +1,83 @@
-﻿VERSION 4 CHANGELOG
+﻿VERSION 5 CHANGELOG
+====================
+
+Eiki, Final Judge of Fate added.
+
+Eiki Shiki, Judge of Paradise removed.
+
+Sanae, Living God
+rules_text: Flying, vigilance
+[i]Bumper Crop[/i] — When Sanae enters, you may shuffle your hand into your library, then exile the top X cards of your library. You may cast a card exiled this way without paying its mana cost. Put the rest into your hand.
+Miracle {X}{1}{G}{U} [i](You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)[/i] => Flying, vigilance
+[i]God's Wind[/i] — When Sanae enters, you may shuffle your hand into your library, then exile the top X cards of your library. You may cast a card exiled this way without paying its mana cost. Put the rest into your hand.
+Miracle {X}{1}{G}{U} [i](You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)[/i]
+
+Hong Meiling, the Rainbow Gate
+rules_text: {T}: Add {R} or {G}.
+Creatures blocking or blocked by Meiling have first strike. => {T}: Add one mana of any color.
+Creatures blocking or blocked by Meiling have first strike.
+
+Cosmic Mind
+
+Iizunamaru, Daitengu
+rules_text: Flying
+Ward—Discard two cards.
+Whenever Iizunamaru or another creature with flying enters the battlefield under your control, exile target card from a graveyard. If a creature card was exiled this way, create a Treasure token. You may cast noncreature cards exiled this way for as long as they remain exiled if you spend mana from a Treasure to cast them. => Flying
+Ward—Discard two cards.
+Whenever Iizunamaru or another creature with flying you control enters, exile target card from a graveyard. If a creature card was exiled this way, create a Treasure token. You may cast noncreature cards exiled this way for as long as they remain exiled if you spend mana from a Treasure to cast them.
+
+Narumi, Life Giver
+
+Yuki and Mai
+rules_text: Flying, menace
+Whenever Yuki and Mai attacks, tap up to two target creatures and Yuki and Mai deals 3 damage to each of up to two target creatures.
+When Yuki and Mai dies, choose one —
+• Tap up to four target creatures.
+• Yuki and Mai deals 3 damage to each of up to four target creatures => Flying, menace
+Whenever Yuki and Mai attacks, tap up to two target creatures and Yuki and Mai deals 3 damage to each of up to two target creatures.
+When Yuki and Mai dies, choose one —
+• Tap up to four target creatures.
+• Yuki and Mai deals 3 damage to each of up to four target creatures.
+
+Choujuu Gigaku
+
+Human Village Streets
+
+Manifest
+
+Maiden's Bunraku
+cost: {3} => {2}
+
+Purified
+
+Rin, Hell's Traffic Accident
+rules_text: Menace
+[i]Corpse Voyage[/i] — Whenever Rin deals combat damage to a player, return up to one target creature card from your graveyard to your hand. If the returned card was legendary, create a 1/1 white Spirit creature token. => Menace
+[i]Corpse Voyage[/i] — Whenever Rin deals combat damage to a player, return up to one target creature card from your graveyard to your hand. If the returned card was legendary, create a 1/1 white Spirit creature token with flying.
+
+Manifest
+
+Chimi, Ancient Abomination
+
+Shinki, Infinite Being
+
+Okina, the Hidden God
+rules_text: Draw a card, add one mana of any color, and lose 1 life.
+Target creature gets +1/+1 until end of turn and can't be blocked this turn.
+Sacrifice a creature, then gain control of target creature and put four +1/+1 counters on it. => 
+
+Sumireko Usami
+rules_text: Scry 4
+Target artifact deals damage equal to its converted mana cost to target creature.
+Tap up to ten target permanents. Each tapped permanent your opponents control deals 1 damage to its controller. => 
+
+Yukari Yakumo
+rules_text: Return target nonland permanent to its owner's hand.
+Exile the top three cards of your library, then choose one. Until end of turn, you may play that card without paying its mana cost.
+Choose any number of creature cards you own from outside the game and put them onto the battlefield. => 
+
+
+VERSION 4 CHANGELOG
 ====================
 
 Hong Meiling, the Rainbow Gate added.

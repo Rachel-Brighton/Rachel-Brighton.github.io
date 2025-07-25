@@ -1,4 +1,94 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+Spirit added.
+Tassha, the Snowfur added.
+
+
+Ranalie, the Mythril
+
+Avy, the Starry
+
+Shira, the Queen
+
+Tassha, the Snowfur
+
+Dancer Rabbit
+
+Assassin Rabbit
+
+Bruiser Rabbit
+
+Sniper Rabbit
+
+Defender Rabbit
+
+Ancient Rabbit
+
+Druid Rabbit
+
+Wizard Rabbit
+
+Spellsword Rabbit
+
+Karsi, the Ruby
+
+Blush, the Painter
+
+They Were Roommates
+
+Beast Mode
+
+Fullmoon Treasuresphere
+
+Churchmouse Streets
+
+The Scholar's Nest
+
+The King's Arsenal
+
+The Emerald Lakeside
+
+The Moonlit Pinnacle
+
+Kingdom Outskirts
+
+A Nice Hat
+
+Varmint
+
+The Red Darkhouse
+
+Treasure
+
+Mouse Knight
+
+Shira's Armory
+
+The Monarch
+
+Spirit
+
+Spirit
+
+Spirit
+
+Spirit
+
+Terribly Lonely
+
+Dodge This
+
+Just As Bright As You
+
+Heavyblade Rabbit
+cost: {2}{B}{R} => {1}{B}{R}
+rules_text: Afflict 2 [i](Whenever this creature becomes blocked, defending player loses 2 life.)[/i]
+[i]Shadow Barrier[/i] — This creature enters with a shield counter on it. [i](If it would be dealt damage or destroyed, remove a shield counter from it instead.)[/i] => [i]Shadow Barrier[/i] — This creature enters with a shield counter on it. [i](If it would be dealt damage or destroyed, remove a shield counter from it instead.)[/i]
+This creature must be blocked if able.
+
+
+VERSION 2 CHANGELOG
 ====================
 
 Spirit added.

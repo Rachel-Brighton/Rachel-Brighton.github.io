@@ -1,1 +1,1 @@
-[UDoALG Zanmu Nippaku's theme - The Deviants' Unobstructed Light ~ Kingdom of Nothingness](https://www.youtube.com/watch?v=YikgHSnYiFE)
+[UDoALG Zanmu Nippaku's theme - The Deviants' Unobstructed Light ~ Kingdom of Nothingness](https://www.youtube.com/watch?v=RtetL7x2bos)

@@ -1,1 +1,1 @@
-[UM Stage 4 Boss - Ore from the Age of the Gods](https://www.youtube.com/watch?v=p_3qCtF03bA)
+[UM Stage 4 Boss - Ore from the Age of the Gods](https://www.youtube.com/watch?v=yoJIaWke_d8)

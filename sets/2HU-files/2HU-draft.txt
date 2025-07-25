@@ -271,16 +271,6 @@
 			}
 		},
 		{
-			"name": "Yukari Yakumo",
-			"rarity": "mythic",
-			"mana_cost": "{2}{G}{U}{U}{R}",
-			"type": "Legendary Planeswalker — Yukari",
-			"collector_number": "266",
-			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/266_Yukari Yakumo.png"
-			}
-		},
-		{
 			"name": "Yatsuhashi and Benben",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{R}",
@@ -625,16 +615,6 @@
 			"collector_number": "199",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/199_Komachi, Ferrywoman.png"
-			}
-		},
-		{
-			"name": "Eiki Shiki, Judge of Paradise",
-			"rarity": "mythic",
-			"mana_cost": "{2}{W}{B}",
-			"type": "Legendary Creature — Golem Avatar",
-			"collector_number": "176",
-			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/176_Eiki Shiki, Judge of Paradise.png"
 			}
 		},
 		{
@@ -2645,26 +2625,6 @@
 			}
 		},
 		{
-			"name": "Sumireko Usami",
-			"rarity": "mythic",
-			"mana_cost": "{1}{U}{R}{W}",
-			"type": "Legendary Planeswalker — Sumireko",
-			"collector_number": "253",
-			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/253_Sumireko Usami.png"
-			}
-		},
-		{
-			"name": "Okina, the Hidden God",
-			"rarity": "mythic",
-			"mana_cost": "{3}{B}{G}{U}",
-			"type": "Legendary Planeswalker — Okina",
-			"collector_number": "228",
-			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/228_Okina, the Hidden God.png"
-			}
-		},
-		{
 			"name": "Player 2",
 			"rarity": "rare",
 			"mana_cost": "{2}{U}",
@@ -2807,7 +2767,7 @@
 		{
 			"name": "Maiden's Bunraku",
 			"rarity": "common",
-			"mana_cost": "{3}",
+			"mana_cost": "{2}",
 			"type": "Sorcery",
 			"collector_number": "4",
 			"image_uris": {
@@ -3551,6 +3511,46 @@
 				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/304_Wonder Stone.png"
 			}
 		},
+		{
+			"name": "Eiki, Final Judge of Fate",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Legendary Creature — Golem Avatar",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/176_Eiki, Final Judge of Fate.png"
+			}
+		},
+		{
+			"name": "Okina, the Hidden God",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}{G}{U}",
+			"type": "Legendary Planeswalker — Okina",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/228_Okina, the Hidden God.png"
+			}
+		},
+		{
+			"name": "Sumireko Usami",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}{R}{W}",
+			"type": "Legendary Planeswalker — Sumireko",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/253_Sumireko Usami.png"
+			}
+		},
+		{
+			"name": "Yukari Yakumo",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}{U}{U}{R}",
+			"type": "Legendary Planeswalker — Yukari",
+			"collector_number": "266",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/266_Yukari Yakumo.png"
+			}
+		}
 	]
 
 [rare(1)]
@@ -3566,7 +3566,6 @@
 	1 Flandre Scarlet
 	1 Zanmu, the Unobstructed Light
 	2 Hisami, Hell's Invitation
-	1 Yukari Yakumo
 	2 Charming Domination
 	1 Mamizou, Tanuki Boss
 	1 Toutetsu, the Avaricious Beast
@@ -3579,7 +3578,6 @@
 	2 Tewi, White Rabbit of Inaba
 	2 Yuuka Kazami
 	2 Komachi, Ferrywoman
-	1 Eiki Shiki, Judge of Paradise
 	2 Judgement
 	1 Marisa and Alice
 	2 Ore from the Age of the Gods
@@ -3655,8 +3653,6 @@
 	2 Reimu of Eastern Winds
 	2 Probability Collapse
 	2 Cheating Detective Satori
-	1 Sumireko Usami
-	1 Okina, the Hidden God
 	2 Player 2
 	2 Agatha ChrisQ
 	2 Chiyuri, Sailor of Time
@@ -3691,7 +3687,11 @@
 	2 Mizuchi, Traitor to Humanity
 	2 Chimata, the Market God
 	1 Shinki, Infinite Being
-[uncommon(4)]
+	1 Eiki, Final Judge of Fate
+	1 Okina, the Hidden God
+	1 Sumireko Usami
+	1 Yukari Yakumo
+[uncommon(3)]
 	4 God Forbid Women Do Anything
 	4 Hong Meiling, the Rainbow Gate
 	4 Koakuma
@@ -3873,7 +3873,325 @@
 	8 Seed of Unknown Form
 	8 Obsolescent Industrial Remains
 	8 Wonder Stone
-[wildcard(2)]
+[foil(1)]
+	12 Graze
+	1 Reimu Hakurei
+	1 Marisa Kirisame
+	1 Fantasy Nature
+	2 Sanae, Living God
+	2 Reisen, Lunatic Moon Rabbit
+	2 Eirin, Sage of Hourai
+	2 Kaguya, Lunatic Princess
+	1 Mokou, Immortal Smoke
+	6 God Forbid Women Do Anything
+	12 Cirno, the Unnatural Chill
+	12 Daiyousei
+	6 Hong Meiling, the Rainbow Gate
+	6 Koakuma
+	6 Patchouli, the Unmoving Library
+	2 Remilia, the Scarlet Devil
+	12 Rumia, Apparition of Night
+	1 Flandre Scarlet
+	6 Son Biten
+	6 Enoko Mitsugashira
+	6 Chiyari Tenkajin
+	1 Zanmu, the Unobstructed Light
+	2 Hisami, Hell's Invitation
+	6 Alice Margatroid
+	12 Letty Whiterock
+	6 Lily White
+	6 The Prismriver Sisters
+	6 Yatsuhashi and Benben
+	2 Charming Domination
+	6 Lullaby of a Deserted Hell
+	1 Mamizou, Tanuki Boss
+	1 Toutetsu, the Avaricious Beast
+	12 Gouyoku Agent, Eagle
+	2 Idolatrize World
+	6 Border of Life
+	2 Venerable Ancient Battlefield
+	6 The Gensokyo the Gods Loved
+	2 Lunatic Harlequin, Clownpiece
+	12 Goddesses of Autumn
+	6 Aya, Reporter of Fantasy
+	12 Romantic Fall
+	12 Autumnal Waterfall
+	12 Yamame Kurodani
+	1 Raiko, Pristine Beat
+	6 Wicked Hermit, Seiga Kaku
+	6 Maiden's Capriccio
+	6 Love-Colored Magic
+	2 Extend Ash
+	12 Curtain Fire
+	12 Zenki and Goki
+	1 Hecatia Lapislazuli
+	6 Cosmic Mind
+	6 Cinderella Cage
+	12 Extra Healthbar
+	12 Wriggle Nightbug
+	12 Mystia Lorelei
+	6 Keine Kamishirasawa
+	2 Tewi, White Rabbit of Inaba
+	6 Medicine Melancholy
+	2 Yuuka Kazami
+	2 Komachi, Ferrywoman
+	2 Judgement
+	12 Kosuzu, Curious Youth
+	1 Marisa and Alice
+	6 Deaf to All but the Song
+	2 Ore from the Age of the Gods
+	12 Kitten of Great Fortune
+	1 Reimu and Yukari
+	12 Hina Kagiyama
+	6 Nitori, Super Youkai Warhead
+	6 Momiji Inubashiri
+	2 Kanako, God of Progress
+	6 Yoshika Miyako
+	12 Kisume
+	12 Parsee, Green-Eyed Monster
+	12 Safe Zone
+	6 Satori Komeiji
+	1 Koishi Komeiji
+	2 Iizunamaru, Daitengu
+	12 Nazrin, Treasure Tracker
+	12 Kogasa, Forgotten Umbrella
+	6 Hatate Himekaidou
+	6 Ichirin Kumoi
+	2 Tenshi, Delinquent Celestial
+	6 Captain Murasa
+	2 Shou, Bishamonten's Light
+	12 Kyouko Kasodani
+	2 Tojiko, Thunder Soul
+	2 Mononobe no Futo
+	2 Miko, the Saint Reborn
+	12 Wakasagihime
+	12 Dynamic Entrance
+	1 Utsuho Reiuji
+	12 Scarlet Detonation
+	12 Shanghai Doll
+	2 Crazy Backup Dancers
+	12 Sekibanki
+	6 Kagerou, Bamboos Loup-Garou
+	2 Seija, Bane of Gensokyo
+	2 Sukuna of the Shining Needle
+	12 Eternity Larva, Birth and Rebirth
+	6 Aunn, Guardian Beast
+	6 Narumi, Life Giver
+	12 Seiran, Lunar Invader
+	12 Ringo, Tactical Coordinator
+	6 Sagume, the Reversed Fortune
+	12 Fierce Fang, Wolf
+	12 Kiketsus Sneak, Otter
+	12 Eika Ebisu
+	12 Urumi Ushizaki
+	6 Kutaka, Hells Border Patrol
+	6 Yachie Kicchou
+	12 Kaguyas Impossible Request
+	2 Mayumi Joutougu
+	2 Namazu
+	2 Keiki, the Sculptor God
+	1 Saki Kurokoma
+	12 Mike Goutokuji
+	12 Takane Yamashiro
+	6 Sannyo Komakusa
+	6 Misumaru Tamatsukuri
+	2 Tsukasa, Daitengu's Consultant
+	6 YuugenMagan
+	2 Kikuri, Hellish Moon
+	1 Konngara, Astral Knight
+	1 Sariel, Angel of Death
+	2 Genji, the Venerated
+	12 Rika, the Tank Girl
+	12 Meira, Seeker of Dark Power
+	6 Otherworld Defense Platform
+	2 Bad Apple
+	2 Iwakasa, Bearer of the Elixir
+	6 Spellcard Declaration
+	6 Item Collection Border
+	6 Deep-Mountain Encounter
+	6 Ellen, Eternal Unknowing
+	6 Kana Anaberal
+	6 Kotohime, Maniacal Princess
+	6 Rikako Asakura
+	1 Yumemi Okazaki
+	2 Memento of the Avaricious Beast
+	12 Unshou, the Fisherman
+	12 Orange
+	12 Kurumi, Keeper of the Lake
+	6 Elly, Guardian of Mugenkan
+	12 Sara, Gatekeeper of Makai
+	12 Louise, Visitor from Makai
+	6 Yuki and Mai
+	2 Yumeko, Blade of Makai
+	6 Iku Nagae
+	2 Joon, Avaricious Pestilence
+	2 Shion, Consuming Poverty
+	2 Suika Ibuki
+	2 Hieda no Akyuu
+	1 Ibaraki-Douji
+	12 Luna Child
+	2 Youmu, Netherworlds Blades
+	12 Reisen, the Junior
+	12 This, Too, Is Yuri
+	6 Knight of Nights
+	2 Kokoro, Noh Embodied
+	6 Rinnosuke Morichika
+	6 Sunny Milk
+	6 Star Sapphire
+	12 Tokiko
+	2 Junko, Pure Fury
+	1 Toyohime, Divine Ward
+	1 Yorihime, Divine Vessel
+	1 Hakurei Ancestor
+	2 Hisou Tensoku
+	6 Layla, the Last Prismriver
+	6 Lily Black
+	1 Lord Tenma
+	1 Nuclear Options
+	2 Priestess of Pseudo Paradise
+	2 The Coward Pierrot
+	2 Youki, Konpaku Ancestor
+	2 Choujuu Gigaku
+	12 Panic Bomb
+	12 Spellcard Capture
+	12 Full Power Up!!
+	2 Goliath Doll
+	2 Bloom Nobly, Ink-Black Blossoms
+	6 Ultimate Truth
+	6 Phantom Ensemble
+	12 Ferryboat of the Dead
+	2 Giga Flare
+	12 Ghost Lead
+	6 Repurposed Rover
+	12 Interdimensional Voyage
+	2 The Palanquin Ship
+	12 Drunk As I Like
+	6 Fires of Hokkai
+	6 Get Ahead Of Yourself
+	2 Cursed Decoy Doll
+	6 Land of Faith and Fantasy
+	12 Gensokyo Accepts All
+	12 Become Marketable
+	6 Exploitable Resources
+	1 Momoyo, Onyx Dragon-Eater
+	2 The Ground's Color is Yellow
+	12 Vine of Wisteria
+	2 Yuuka, Sleeping Terror
+	12 Persuasion Needle
+	6 Battle Bond
+	6 Homing Option
+	2 Let's Live in a Lovely Cemetery
+	6 Aerodynamic Blades
+	12 Throwing Mt. Togakushi
+	2 Hakurei Shrine Grounds
+	2 Myouren Temple Road
+	2 Kaian Passageway
+	2 Hellfire Mantle
+	2 Youkai Mountain Ravine
+	2 Human Village Streets
+	2 Lunar Capitol Thoroughfare
+	2 Nameless Hill
+	2 Moreya Shrine Path
+	2 Misty Lake Shores
+	12 Helpful Bunnies
+	2 The Jailbreak King
+	12 Tsuchinoko
+	2 Enigmatic Vestige
+	12 Ordinary Magician's Charm
+	1 Necrofantasia
+	1 Battlefield of Hanazama
+	2 Marisa of Scarlet Dreams
+	2 Reimu of Eastern Winds
+	6 Beloved Tomboyish Girl
+	12 Error-Prone Maid
+	2 Probability Collapse
+	2 Cheating Detective Satori
+	12 Rowdy Drunkard
+	2 Player 2
+	12 Chen, Servitor's Lackey
+	12 Blood Drive
+	2 Agatha ChrisQ
+	2 Chiyuri, Sailor of Time
+	2 Sakuya, Scarlet Guardian
+	12 Moonlit Pursuit
+	12 Lunar Reinforcements
+	12 The Fortune-Teller
+	12 Maiden's Bunraku
+	12 Pristine Lunacy
+	2 Purified
+	2 Sea of Petroleum
+	12 Devil's Recitation
+	6 Yuugi, Old Hell's Might
+	1 Kasen, Seeking Herself
+	2 Byakuren, Superhuman
+	6 Body Enhancement Magic
+	1 Sorcerer's Sutra Scroll
+	12 Hanged Hourai Doll
+	12 Roving Orb
+	12 Magician's Grimoire
+	12 Tea Break
+	12 Bumper Crop
+	6 Incorruptible Perfection
+	6 Parasol of the Flower Youkai
+	12 Mature Adult Discussion
+	2 Alice of Wonderland
+	6 Doremy, Eternal Spring Dream
+	12 Kyuu... BOOM~!
+	12 Miyoi, Geidontei's Poster Girl
+	2 Creation of Gensokyo
+	6 Peak Performance
+	6 100th Black Market
+	2 Great Frog of the Pond
+	6 Guard Tiger
+	6 Take it Easy!
+	6 You, Get Bigger!
+	12 Flower Youkai's Charm
+	12 Living God's Charm
+	12 Lucky Rabbit's Charm
+	12 Shrine Maiden's Charm
+	1 Youkai Sages' Charm
+	2 Rin, Hell's Traffic Accident
+	2 Yuyuko, Mistress of Death
+	12 SinGyoku, the Gatekeeper
+	1 The Saigyou Ayakashi
+	2 Elis, Innocence Devil
+	1 The Secret Sealing Club
+	1 Ran, Sage's Servitor
+	2 Stage Transition
+	1 Suwako, Native God
+	1 Shining Needle Rebellion
+	1 Master Spark
+	2 Phantasmagoria of Dimensions
+	2 Phantasmagoria of Flowers
+	6 Laika, Lively Soul
+	1 Mugetsu
+	1 Gengetsu
+	2 Mima, Complete Darkness
+	1 Nue, Heian Alien
+	1 Evil Eye Σ
+	12 The Flower Tank
+	12 Go-Shintank
+	12 Vengeful Spirit
+	6 A Dream More Scarlet
+	12 Bunbunmaru Newspaper
+	2 Unlocated Hell
+	6 Where Flowers Reflect
+	6 Peaches of Paradise
+	2 Mizuchi, Traitor to Humanity
+	2 Chimata, the Market God
+	12 Ubame, Sanctuary's Protector
+	12 Chimi, Ancient Abomination
+	6 Nareko, the Altar's Warden
+	12 Nemuno, Sanctuary Keeper
+	1 Shinki, Infinite Being
+	12 Seed of Unknown Form
+	12 Obsolescent Industrial Remains
+	12 Wonder Stone
+	1 Eiki, Final Judge of Fate
+	1 Okina, the Hidden God
+	1 Sumireko Usami
+	1 Yukari Yakumo
+[wildcard(1)]
 	6 Graze
 	4 Reimu Hakurei
 	4 Marisa Kirisame
@@ -3901,7 +4219,6 @@
 	6 Letty Whiterock
 	15 Lily White
 	15 The Prismriver Sisters
-	4 Yukari Yakumo
 	15 Yatsuhashi and Benben
 	7 Charming Domination
 	15 Lullaby of a Deserted Hell
@@ -3936,7 +4253,6 @@
 	15 Medicine Melancholy
 	7 Yuuka Kazami
 	7 Komachi, Ferrywoman
-	4 Eiki Shiki, Judge of Paradise
 	7 Judgement
 	6 Kosuzu, Curious Youth
 	4 Marisa and Alice
@@ -4109,8 +4425,6 @@
 	7 Probability Collapse
 	7 Cheating Detective Satori
 	6 Rowdy Drunkard
-	4 Sumireko Usami
-	4 Okina, the Hidden God
 	7 Player 2
 	6 Chen, Servitor's Lackey
 	6 Blood Drive
@@ -4191,3 +4505,7 @@
 	6 Seed of Unknown Form
 	6 Obsolescent Industrial Remains
 	6 Wonder Stone
+	4 Eiki, Final Judge of Fate
+	4 Okina, the Hidden God
+	4 Sumireko Usami
+	4 Yukari Yakumo

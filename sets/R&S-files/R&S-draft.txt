@@ -15,9 +15,9 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{R}{R}",
 			"type": "Legendary Creature — Dragon Noble",
-			"collector_number": "16",
+			"collector_number": "17",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/16_Ranalie, the Mythril.png"
+				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/17_Ranalie, the Mythril.png"
 			}
 		},
 		{
@@ -35,9 +35,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{G}",
 			"type": "Legendary Creature — Frog Bard",
-			"collector_number": "18",
+			"collector_number": "19",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/18_Avy, the Starry.png"
+				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/19_Avy, the Starry.png"
 			}
 		},
 		{
@@ -55,9 +55,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{W}{U}{B}{R}{G}",
 			"type": "Legendary Creature — Rabbit Noble",
-			"collector_number": "29",
+			"collector_number": "30",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/29_Shira, the Queen.png"
+				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/30_Shira, the Queen.png"
 			}
 		},
 		{
@@ -65,9 +65,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Legendary Creature — Wolf Assassin",
-			"collector_number": "12",
+			"collector_number": "13",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/12_Tassha, the Snowfur.png"
+				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/13_Tassha, the Snowfur.png"
 			}
 		},
 		{
@@ -85,9 +85,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}{U}",
 			"type": "Creature — Rabbit Performer",
-			"collector_number": "25",
+			"collector_number": "26",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/25_Dancer Rabbit.png"
+				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/26_Dancer Rabbit.png"
 			}
 		},
 		{
@@ -95,19 +95,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}{B}",
 			"type": "Creature — Rabbit Assassin",
-			"collector_number": "23",
+			"collector_number": "24",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/23_Assassin Rabbit.png"
-			}
-		},
-		{
-			"name": "Heavyblade Rabbit",
-			"rarity": "uncommon",
-			"mana_cost": "{2}{B}{R}",
-			"type": "Creature — Rabbit Warrior",
-			"collector_number": "28",
-			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/28_Heavyblade Rabbit.png"
+				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/24_Assassin Rabbit.png"
 			}
 		},
 		{
@@ -115,9 +105,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}{G}",
 			"type": "Creature — Rabbit Barbarian",
-			"collector_number": "24",
+			"collector_number": "25",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/24_Bruiser Rabbit.png"
+				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/25_Bruiser Rabbit.png"
 			}
 		},
 		{
@@ -125,9 +115,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}{W}",
 			"type": "Creature — Rabbit Archer",
-			"collector_number": "30",
+			"collector_number": "31",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/30_Sniper Rabbit.png"
+				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/31_Sniper Rabbit.png"
 			}
 		},
 		{
@@ -135,9 +125,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}{B}",
 			"type": "Creature — Rabbit Knight",
-			"collector_number": "26",
+			"collector_number": "27",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/26_Defender Rabbit.png"
+				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/27_Defender Rabbit.png"
 			}
 		},
 		{
@@ -145,9 +135,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}{G}",
 			"type": "Creature — Elder Rabbit",
-			"collector_number": "22",
+			"collector_number": "23",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/22_Ancient Rabbit.png"
+				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/23_Ancient Rabbit.png"
 			}
 		},
 		{
@@ -155,9 +145,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}{U}",
 			"type": "Creature — Rabbit Druid",
-			"collector_number": "27",
+			"collector_number": "28",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/27_Druid Rabbit.png"
+				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/28_Druid Rabbit.png"
 			}
 		},
 		{
@@ -165,9 +155,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{R}",
 			"type": "Creature — Rabbit Wizard",
-			"collector_number": "32",
+			"collector_number": "33",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/32_Wizard Rabbit.png"
+				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/33_Wizard Rabbit.png"
 			}
 		},
 		{
@@ -175,9 +165,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{W}",
 			"type": "Creature — Rabbit Spellshaper",
-			"collector_number": "31",
+			"collector_number": "32",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/31_Spellsword Rabbit.png"
+				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/32_Spellsword Rabbit.png"
 			}
 		},
 		{
@@ -215,9 +205,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Legendary Creature — Dragon Warrior",
-			"collector_number": "15",
+			"collector_number": "16",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/15_Karsi, the Ruby.png"
+				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/16_Karsi, the Ruby.png"
 			}
 		},
 		{
@@ -225,9 +215,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Legendary Creature — Frog",
-			"collector_number": "20",
+			"collector_number": "21",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/20_Blush, the Painter.png"
+				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/21_Blush, the Painter.png"
 			}
 		},
 		{
@@ -255,9 +245,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Sorcery",
-			"collector_number": "17",
+			"collector_number": "18",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/17_They Were Roommates.png"
+				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/18_They Were Roommates.png"
 			}
 		},
 		{
@@ -265,9 +255,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}",
 			"type": "Enchantment — Aura",
-			"collector_number": "19",
+			"collector_number": "20",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/19_Beast Mode.png"
+				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/20_Beast Mode.png"
 			}
 		},
 		{
@@ -275,9 +265,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}",
 			"type": "Artifact Creature — Orb",
-			"collector_number": "33",
+			"collector_number": "34",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/33_Fullmoon Treasuresphere.png"
+				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/34_Fullmoon Treasuresphere.png"
 			}
 		},
 		{
@@ -285,9 +275,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land — Plains",
-			"collector_number": "35",
+			"collector_number": "36",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/35_Churchmouse Streets.png"
+				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/36_Churchmouse Streets.png"
 			}
 		},
 		{
@@ -295,9 +285,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land — Island",
-			"collector_number": "41",
+			"collector_number": "42",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/41_The Scholar's Nest.png"
+				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/42_The Scholar's Nest.png"
 			}
 		},
 		{
@@ -305,9 +295,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land — Swamp",
-			"collector_number": "38",
+			"collector_number": "39",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/38_The King's Arsenal.png"
+				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/39_The King's Arsenal.png"
 			}
 		},
 		{
@@ -315,9 +305,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land — Forest",
-			"collector_number": "36",
+			"collector_number": "37",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/36_The Emerald Lakeside.png"
+				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/37_The Emerald Lakeside.png"
 			}
 		},
 		{
@@ -325,9 +315,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "39",
+			"collector_number": "40",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/39_The Moonlit Pinnacle.png"
+				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/40_The Moonlit Pinnacle.png"
 			}
 		},
 		{
@@ -335,9 +325,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "37",
+			"collector_number": "38",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/37_Kingdom Outskirts.png"
+				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/38_Kingdom Outskirts.png"
 			}
 		},
 		{
@@ -365,9 +355,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land — Mountain",
-			"collector_number": "40",
+			"collector_number": "41",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/40_The Red Darkhouse.png"
+				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/41_The Red Darkhouse.png"
 			}
 		},
 		{
@@ -375,9 +365,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Treasure",
-			"collector_number": "8",
+			"collector_number": "9",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/8_Treasure.png"
+				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/9_Treasure.png"
 			}
 		},
 		{
@@ -395,9 +385,9 @@
 			"rarity": "rare",
 			"mana_cost": "{5}",
 			"type": "Artifact — Equipment",
-			"collector_number": "34",
+			"collector_number": "35",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/34_Shira's Armory.png"
+				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/35_Shira's Armory.png"
 			}
 		},
 		{
@@ -475,9 +465,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Sorcery",
-			"collector_number": "13",
+			"collector_number": "14",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/13_Terribly Lonely.png"
+				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/14_Terribly Lonely.png"
 			}
 		},
 		{
@@ -485,9 +475,9 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{R}{R}",
 			"type": "Instant",
-			"collector_number": "14",
+			"collector_number": "15",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/14_Dodge This.png"
+				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/15_Dodge This.png"
 			}
 		},
 		{
@@ -495,11 +485,41 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{G}",
 			"type": "Sorcery",
-			"collector_number": "21",
+			"collector_number": "22",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/21_Just As Bright As You.png"
+				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/22_Just As Bright As You.png"
 			}
 		},
+		{
+			"name": "Spirit",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact Creature — Spirit",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/8_Spirit.png"
+			}
+		},
+		{
+			"name": "Heavyblade Rabbit",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Creature — Rabbit Warrior",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/29_Heavyblade Rabbit.png"
+			}
+		},
+		{
+			"name": "Tassha, the Snowfur",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Legendary Creature — Wolf Warrior",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/12_Tassha, the Snowfur.png"
+			}
+		}
 	]
 
 [rare(1)]
@@ -515,11 +535,10 @@
 	2 Shira's Armory
 	2 Dodge This
 	2 Just As Bright As You
-[uncommon(4)]
+[uncommon(3)]
 	4 Tassha, the Snowfur
 	4 Dancer Rabbit
 	4 Assassin Rabbit
-	4 Heavyblade Rabbit
 	4 Bruiser Rabbit
 	4 Sniper Rabbit
 	4 Defender Rabbit
@@ -535,6 +554,8 @@
 	4 Spread Out
 	4 Your Intellect Fails You
 	4 Terribly Lonely
+	4 Heavyblade Rabbit
+	4 Tassha, the Snowfur
 [common(7)]
 	8 Steel Yourself!
 	8 Stretch the Tether
@@ -546,7 +567,50 @@
 	8 The Emerald Lakeside
 	8 Kingdom Outskirts
 	8 The Red Darkhouse
-[wildcard(2)]
+[foil(1)]
+	2 Matti, the Paladin
+	2 Ranalie, the Mythril
+	2 Merran, the Steeltooth
+	2 Avy, the Starry
+	2 Twili, the Valedictorian
+	1 Shira, the Queen
+	6 Tassha, the Snowfur
+	12 Steel Yourself!
+	6 Dancer Rabbit
+	6 Assassin Rabbit
+	6 Bruiser Rabbit
+	6 Sniper Rabbit
+	6 Defender Rabbit
+	6 Ancient Rabbit
+	6 Druid Rabbit
+	6 Wizard Rabbit
+	6 Spellsword Rabbit
+	2 Asha, the Shopkeeper
+	6 Nimi, the Archer
+	6 Saya, the Archon
+	6 Karsi, the Ruby
+	6 Blush, the Painter
+	12 Stretch the Tether
+	2 Get In The Circle
+	12 They Were Roommates
+	6 Beast Mode
+	12 Fullmoon Treasuresphere
+	12 Churchmouse Streets
+	12 The Scholar's Nest
+	12 The King's Arsenal
+	12 The Emerald Lakeside
+	2 The Moonlit Pinnacle
+	12 Kingdom Outskirts
+	12 The Red Darkhouse
+	2 Shira's Armory
+	6 Spread Out
+	6 Your Intellect Fails You
+	6 Terribly Lonely
+	2 Dodge This
+	2 Just As Bright As You
+	6 Heavyblade Rabbit
+	6 Tassha, the Snowfur
+[wildcard(1)]
 	7 Matti, the Paladin
 	7 Ranalie, the Mythril
 	7 Merran, the Steeltooth
@@ -557,7 +621,6 @@
 	6 Steel Yourself!
 	15 Dancer Rabbit
 	15 Assassin Rabbit
-	15 Heavyblade Rabbit
 	15 Bruiser Rabbit
 	15 Sniper Rabbit
 	15 Defender Rabbit
@@ -588,3 +651,5 @@
 	15 Terribly Lonely
 	7 Dodge This
 	7 Just As Bright As You
+	15 Heavyblade Rabbit
+	15 Tassha, the Snowfur
