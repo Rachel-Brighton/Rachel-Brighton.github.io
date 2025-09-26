@@ -1,4 +1,19 @@
-﻿VERSION 6 CHANGELOG
+﻿VERSION 7 CHANGELOG
+====================
+
+Yuyuko, Night Sakura's Spirit added.
+Toyohime, System Administrator added.
+Aya, Bullet Photographer added.
+Sakuya and Remilia added.
+Youmu and Yuyuko added.
+
+
+Aya, Reporter of Fantasy
+
+Yuyuko, Mistress of Death
+
+
+VERSION 6 CHANGELOG
 ====================
 
 Yuiman, Data Purifier added.

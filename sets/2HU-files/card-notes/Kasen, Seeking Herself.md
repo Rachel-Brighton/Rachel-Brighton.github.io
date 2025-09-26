@@ -1,1 +1,1 @@
-Melds with [Ibaraki-Douji](https://rachel-brighton.github.io/card?set=2HU&num=79&name=Ibaraki-Douji)
+Melds with [Ibaraki-Douji](https://rachel-brighton.github.io/card?set=2HU&num=83&name=Ibaraki-Douji)
