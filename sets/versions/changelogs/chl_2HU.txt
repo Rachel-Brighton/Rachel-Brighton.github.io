@@ -1,4 +1,208 @@
-﻿VERSION 5 CHANGELOG
+﻿VERSION 6 CHANGELOG
+====================
+
+Yuiman, Data Purifier added.
+Ariya, Stone Goddess added.
+Nina, Newborn Apparition added.
+For the Glory of the Moon added.
+A Little Curse added.
+Child of Light added.
+Legend of the Eight-Foot Woman added.
+Legend of the Occult Balls added.
+Legend of the Haunted Well added.
+Legend of Spontaneous Combustion added.
+Legend of the Little Green Men added.
+Floating Fluffball added.
+Manzairaku added.
+Trump Card added.
+
+Mature Adult Discussion removed.
+
+Mokou, Immortal Smoke
+rules_text: You may cast Mokou, Immortal Smoke from your graveyard.
+Haste
+[i]Inextinguishable — [/i]Sacrifice Mokou: It deals 2 damage to any target and 2 damage to you. => You may cast Mokou, Immortal Smoke from your graveyard.
+Haste
+[i]Inextinguishable — [/i]Sacrifice Mokou: She deals 2 damage to any target and 2 damage to you.
+
+Koakuma
+rules_text: Whenever Koakuma enters, attacks, or dies, it deals 1 damage to target player. => Whenever Koakuma enters, attacks, or dies, she deals 1 damage to target player.
+
+Alice Margatroid
+rules_text: Dolls you control get +1/+1.
+[i]Shanghai and Hourai[/i] — {4}, {T}: Create two 1/1 colorless Doll artifact creature tokens.
+[i]Artful Sacrifice[/i] — {1}, Sacrifice a Doll: Exile Alice Margatroid, then return it to the battlefield under its owner's control. => Dolls you control get +1/+1.
+[i]Shanghai and Hourai[/i] — {4}, {T}: Create two 1/1 colorless Doll artifact creature tokens.
+[i]Artful Sacrifice[/i] — {1}, Sacrifice a Doll: Exile Alice Margatroid, then return her to the battlefield under her owner's control.
+
+The Prismriver Sisters
+rules_text: Flying
+When The Prismriver Sisters enters:
+• [i]Melancholy Violin[/i] — If {U} was spent to cast it, put a stun counter on each of up to three target creatures.
+• [i]Exuberant Trumpet[/i] — If {R} was spent to cast it, goad up to three target creatures.
+[i](Do both if {U}{R} was spent)[/i] => Flying
+When The Prismriver Sisters enters:
+• [i]Melancholy Violin[/i] — If {U} was spent to cast them, put a stun counter on each of up to three target creatures.
+• [i]Exuberant Trumpet[/i] — If {R} was spent to cast them, goad up to three target creatures.
+[i](Do both if {U}{R} was spent)[/i]
+
+Toutetsu, the Avaricious Beast
+rules_text: Trample
+Devour 3
+When Toutetsu enters, create a Blood token for each creature it devoured.
+{B}, Sacrifice a Blood token: Toutetsu gains indestructible until end of turn. Tap it.
+{U}, Sacrifice a Blood token: Draw a card. => Trample
+Devour 3
+When Toutetsu enters, create a Blood token for each creature she devoured.
+{B}, Sacrifice a Blood token: Toutetsu gains indestructible until end of turn. Tap her.
+{U}, Sacrifice a Blood token: Draw a card.
+
+Aya, Reporter of Fantasy
+rules_text: Flash
+Flying, haste
+[i]Candid Shot[/i] — When Aya enters, look at target player's hand and choose a card in it. That player reveals that card, and Aya deals damage to them equal to its mana value.
+{3}{U}{R}: Return Aya to its owner's hand. => Flash
+Flying, haste
+[i]Candid Shot[/i] — When Aya enters, look at target player's hand and choose a card in it. That player reveals that card, and Aya deals damage to them equal to its mana value.
+{3}{U}{R}: Return Aya to her owner's hand.
+
+Raiko, Pristine Beat
+rules_text: Flying, double strike
+[i]Phantasmal Percussion — [/i]Whenever Raiko deals combat damage to a player, it deals that much damage to each creature they control. => Flying, double strike
+[i]Phantasmal Percussion — [/i]Whenever Raiko deals combat damage to a player, she deals that much damage to each creature they control.
+
+Nitori, Super Youkai Warhead
+rules_text: [i]Extending AAAAAARM![/i] — {1}: Until end of turn, Nitori gains reach and “Whenever Nitori blocks, put a stun counter on each creature it's blocking.” Activate this ability only once each turn.
+[i]Hydraulic Power[/i] — {U}: The next ability of an artifact you activate this turn costs {3} less to activate. => [i]Extending AAAAAARM![/i] — {1}: Until end of turn, Nitori gains reach and “Whenever Nitori blocks, put a stun counter on each creature she's blocking.” Activate this ability only once each turn.
+[i]Hydraulic Power[/i] — {U}: The next ability of an artifact you activate this turn costs {3} less to activate.
+
+Hatate Himekaidou
+rules_text: Flash
+Flying
+[i]Thoughtography[/i] — When Hatate enters, you may exile target card from a graveyard. When you do, gain life equal to that card's mana value.
+{2}{W}{B}: Return Hatate to its owner's hand. => Flash
+Flying
+[i]Thoughtography[/i] — When Hatate enters, you may exile target card from a graveyard. When you do, gain life equal to that card's mana value.
+{2}{W}{B}: Return Hatate to her owner's hand.
+
+Kyouko Kasodani
+rules_text: Echo {R} [i](At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)[/i]
+Whenever Kyouko enters or its echo cost is paid, target creature can't block this turn. => Echo {R} [i](At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)[/i]
+Whenever Kyouko enters or her echo cost is paid, target creature can't block this turn.
+
+Utsuho Reiuji
+rules_text: Flying, haste
+Whenever Utsuho Reiuji attacks, it deals damage equal to its power to target creature defending player controls.
+☢ [i]CAUTION !![/i] ☢ — {1}{R}{R}, Discard three cards: Triple Utsuho Reiuji's power until end of turn. => Flying, haste
+Whenever Utsuho Reiuji attacks, she deals damage equal to her power to target creature defending player controls.
+☢ [i]CAUTION !![/i] ☢ — {1}{R}{R}, Discard three cards: Triple Utsuho Reiuji's power until end of turn.
+
+Crazy Backup Dancers
+rules_text: Menace
+When Crazy Backup Dancers enters, return a creature card from your graveyard to your hand if {G} was spent to cast it, and return an instant or sorcery card from your graveyard to your hand if {U} was spent to cast it. [i](Do both if {G}{U} was spent.)[/i] => Menace
+When Crazy Backup Dancers enters, return a creature card from your graveyard to your hand if {G} was spent to cast them, and return an instant or sorcery card from your graveyard to your hand if {U} was spent to cast them. [i](Do both if {G}{U} was spent.)[/i]
+
+Sariel, Angel of Death
+rules_text: Flying, Vigilance, Menace
+If Sariel would be put into a graveyard from anywhere but the battlefield, exile it instead.
+[i]Then let us die together[/i] — At the beginning of your end step, if Sariel is in your graveyard, each opponent loses 3 life and you gain 3 life. => Flying, Vigilance, Menace
+If Sariel would be put into a graveyard from anywhere but the battlefield, exile her instead.
+[i]Then let us die together[/i] — At the beginning of your end step, if Sariel is in your graveyard, each opponent loses 3 life and you gain 3 life.
+
+Kana Anaberal
+rules_text: Flying
+When Kana Anaberal enters, target opponent gains control of it.
+[i]Vanishing Dream[/i] — At the beginning of your upkeep, exile the top five cards of your library. => Flying
+When Kana Anaberal enters, target opponent gains control of her.
+[i]Vanishing Dream[/i] — At the beginning of your upkeep, exile the top five cards of your library.
+
+Elly, Guardian of Mugenkan
+rules_text: Vigilance
+Elly enters tapped with a +1/+1 counter on it for each basic land you control. => Vigilance
+Elly enters tapped with a +1/+1 counter on her for each basic land you control.
+
+Joon, Avaricious Pestilence
+rules_text: Cumulative upkeep {BR} [i](At the beginning of your upkeep, put an age counter on this creature, then sacrifice it unless you pay its upkeep cost for each age counter on it.)[/i]
+[i]Queen of the Bubble[/i] — Jo'on gets +1/+1 for each age counter on it.
+{BR}, Pay 1 life: Put an age counter on Jo'on. => Cumulative upkeep {BR} [i](At the beginning of your upkeep, put an age counter on this creature, then sacrifice it unless you pay its upkeep cost for each age counter on it.)[/i]
+[i]Queen of the Bubble[/i] — Jo'on gets +1/+1 for each age counter on her.
+{BR}, Pay 1 life: Put an age counter on Jo'on.
+
+Shion, Consuming Poverty
+rules_text: Bestow {3}{B}{B}
+Enchanted creature gets -2/-2 and has “Spells you cast cost {1} more to cast.”
+As long as Shion is a creature, spells you cast cost {1} more to cast.
+Discard two cards: Return Shion to its owner's hand. Any player may activate this ability. => Bestow {3}{B}{B}
+Enchanted creature gets -2/-2 and has “Spells you cast cost {1} more to cast.”
+As long as Shion is a creature, spells you cast cost {1} more to cast.
+Discard two cards: Return Shion to her owner's hand. Any player may activate this ability.
+
+Youmu, Netherworlds Blades
+rules_text: When Youmu enters, create a 1/1 white Spirit creature token with flying.
+[i]Roukanken[/i] — Youmu has first strike as long as it's attacking.
+[i]Hakurouken[/i] — Whenever you untap Youmu, exile target card in a graveyard. When you do, put a +1/+1 counter on each of up to two target creatures. => When Youmu enters, create a 1/1 white Spirit creature token with flying.
+[i]Roukanken[/i] — Youmu has first strike as long as she's attacking.
+[i]Hakurouken[/i] — Whenever you untap Youmu, exile target card in a graveyard. When you do, put a +1/+1 counter on each of up to two target creatures.
+
+Kokoro, Noh Embodied
+rules_text: Whenever Kokoro enters or attacks, create your choice of a Royal Role token, a Monster Role token, or a Sorcerer Role token attached to it. [i](If you control another role attached to it, put that one into the graveyard.)[/i]
+Auras attached to Kokoro have umbra armor. [i](If enchanted permanent would be destroyed, instead remove all damage from it and destroy this Aura.)[/i] => Whenever Kokoro enters or attacks, create your choice of a Royal Role token, a Monster Role token, or a Sorcerer Role token attached to her. [i](If you control another role attached to her, put that one into the graveyard.)[/i]
+Auras attached to Kokoro have umbra armor. [i](If enchanted permanent would be destroyed, instead remove all damage from it and destroy this Aura.)[/i]
+
+Hakurei Ancestor
+rules_text: Haste
+When Hakurei Ancestor enters, it gets +1/+1 until end of turn.
+{2}{R}{W}: Exile Hakurei Ancestor. At the beginning of the next combat, return it to the battlefield under its owner's control. => Haste
+When Hakurei Ancestor enters, she gets +1/+1 until end of turn.
+{2}{R}{W}: Exile Hakurei Ancestor. At the beginning of the next combat, return her to the battlefield under her owner's control.
+
+Lord Tenma
+rules_text: Convoke [i](Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)[/i]
+Flying, vigilance
+When Lord Tenma enters, create four 1/1 white Bird Youkai creature tokens with flying and vigilance.
+{U}{B}{R}: Return Lord Tenma to its owner's hand, then until end of turn creatures with flying you control get +2/+2 and gain menace and first strike. => Convoke [i](Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)[/i]
+Flying, vigilance
+When Lord Tenma enters, create four 1/1 white Bird Youkai creature tokens with flying and vigilance.
+{U}{B}{R}: Return Lord Tenma to her owner's hand, then until end of turn creatures with flying you control get +2/+2 and gain menace and first strike.
+
+The Coward Pierrot
+rules_text: At the beginning of your end step, sacrifice another creature. When you do, put two +1/+1 counters on The Coward Pierrot and draw a card.
+The Coward Pierrot has menace as long as it has four or more counters on it, first strike as long as it has six or more, and indestructible as long as it has ten or more. => At the beginning of your end step, sacrifice another creature. When you do, put two +1/+1 counters on The Coward Pierrot and draw a card.
+The Coward Pierrot has menace as long as she has four or more counters on her, first strike as long as she has six or more, and indestructible as long as she has ten or more.
+
+Yuuka, Sleeping Terror
+rules_text: Ward—Discard a card.
+[i]Slaughter is a game[/i] — Whenever Yuuka becomes blocked, defending player sacrifices a creature of their choice blocking it.
+[i]Land of Blood[/i] — Whenever a creature card is put into an opponent's graveyard from anywhere, return a creature or land card from your graveyard to your hand. This ability triggers only once each turn. => Ward—Discard a card.
+[i]Slaughter is a game[/i] — Whenever Yuuka becomes blocked, defending player sacrifices a creature of their choice blocking her.
+[i]Land of Blood[/i] — Whenever a creature card is put into an opponent's graveyard from anywhere, return a creature or land card from your graveyard to your hand. This ability triggers only once each turn.
+
+The Jailbreak King
+rules_text: Flying
+Haunt [i](When this creature dies, exile it haunting target creature.)[/i]
+As long as The Jailbreak King is in exile haunting a creature, you control that creature.
+{4}{U}{B}: If The Jailbreak King is in exile haunting a creature, return it to the battlefield under its owner's control. [i](That creature is no longer haunted)[/i] => Flying
+Haunt [i](When this creature dies, exile it haunting target creature.)[/i]
+As long as The Jailbreak King is in exile haunting a creature, you control that creature.
+{4}{U}{B}: If The Jailbreak King is in exile haunting a creature, return her to the battlefield under her owner's control. [i](That creature is no longer haunted)[/i]
+
+Nue, Heian Alien
+rules_text: As Nue enters, manifest it, then manifest dread, then shuffle your face-down cards. [i](To manifest dread, look at the top two cards of your library, then put one onto the battlefield face down as a 2/2 creature and the other into your graveyard. Turn it face up any time for its mana cost if it's a creature card.)[/i]
+Face-down creatures you control get +1/+1 and have “When this creature dies, draw a card.” => As Nue enters, manifest her, then manifest dread, then shuffle your face-down cards. [i](To manifest dread, look at the top two cards of your library, then put one onto the battlefield face down as a 2/2 creature and the other into your graveyard. Turn it face up any time for its mana cost if it's a creature card.)[/i]
+Face-down creatures you control get +1/+1 and have “When this creature dies, draw a card.”
+
+Ubame, Sanctuary's Protector
+
+Chimi, Ancient Abomination
+type: Legendary Creature — Elder Youkai => Legendary Creature — Youkai
+
+Nareko, the Altar's Warden
+
+Wonder Stone
+type: Artifact Creature — Prism => Artifact Creature — Stone Prism
+
+
+VERSION 5 CHANGELOG
 ====================
 
 Eiki, Final Judge of Fate added.
