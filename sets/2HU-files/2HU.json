@@ -3,10 +3,7 @@
     "formats": "",
     "trimmed": "y",
     "image_type": "png",
-    "draft_structure": "play booster",
-    "unpreviewed": "card back",
-    "image_name": "position",
-    "v_mana": "",
+    "draft_structure": "none",
     "cards": [
         {
             "card_name": "Graze",
@@ -24,8 +21,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u4f0a\u95a2/ISEKISAN",
-            "alias": "",
-            "position": "0",
             "notes": "!tag Gameplay"
         },
         {
@@ -44,8 +39,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u308a\u3072\u3068/RIHITO",
-            "alias": "",
-            "position": "1",
             "notes": "!tag IN\n!tag Reimu\n!tag Stage4\n!tag Hakurei\n!tag Playable"
         },
         {
@@ -64,8 +57,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u7ef4\u63d0\u5a1c/VETINARENSA",
-            "alias": "",
-            "position": "2",
             "notes": "!tag IN\n!tag Marisa\n!tag Stage4\n!tag Playable"
         },
         {
@@ -84,8 +75,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u9f13\u819c\u4f4f\u8077/Komaku Juushoku",
-            "alias": "",
-            "position": "3",
             "notes": "!tag Reimu"
         },
         {
@@ -104,8 +93,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u6728SHIYO",
-            "alias": "",
-            "position": "4",
             "notes": "!tag MoF\n!tag Sanae\n!tag Stage5\n!tag Moriya\n!tag Moreya\n!tag Playable"
         },
         {
@@ -124,8 +111,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u3044\u304a\u304d\u3079/1_OKIBE",
-            "alias": "",
-            "position": "5",
             "notes": "!tag IN\n!tag IN-all\n!tag Reisen\n!tag Stage5\n!tag Eientei\n!tag Moon\n!tag Playable"
         },
         {
@@ -144,8 +129,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u93e1_area/mirrorxilu4",
-            "alias": "",
-            "position": "6",
             "notes": "!tag IN\n!tag IN-all\n!tag Eirin\n!tag Stage6\n!tag Eientei\n!tag Moon"
         },
         {
@@ -164,8 +147,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u7fbd\u3005\u65ac/U_U_ZAN",
-            "alias": "",
-            "position": "7",
             "notes": "!tag IN\n!tag Kaguya\n!tag IN-all\n!tag Stage6\n!tag Eientei\n!tag Moon\n!tag Music"
         },
         {
@@ -184,8 +165,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u7fbd\u3005\u65ac/U_U_ZAN",
-            "alias": "",
-            "position": "8",
             "notes": "!tag IN\n!tag Mokou\n!tag EX\n!tag StageEX\n!tag Playable\n!tag Music"
         },
         {
@@ -204,8 +183,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "Peachems",
-            "alias": "",
-            "position": "9",
             "notes": "!tag Peak"
         },
         {
@@ -224,8 +201,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u56fd\u5bb6\u98ef/KOKKAHAN",
-            "alias": "",
-            "position": "10",
             "notes": "!tag EoSD\n!tag Cirno\n!tag Stage2\n!tag Playable"
         },
         {
@@ -244,8 +219,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u304b\u3063\u3053\u3046/KAKKOU",
-            "alias": "",
-            "position": "11",
             "notes": "!tag EoSD\n!tag Daiyousei\n!tag Stage2\n!tag Unnamed"
         },
         {
@@ -264,8 +237,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u30b8\u30e7\u30f3\u30c7\u30a3\u30fc/JOHNDEEEEEE",
-            "alias": "",
-            "position": "12",
             "notes": "!tag EoSD\n!tag Meiling\n!tag Stage3\n!tag SDM\n!tag Playable"
         },
         {
@@ -277,15 +248,13 @@
             "color_identity": "BR",
             "cost": "{1}{BR}",
             "rules_text": "Whenever Koakuma enters, attacks, or dies, she deals 1 damage to target player.",
-            "flavor_text": "[i]\u201c... And why do people keep calling me \u2018Koakuma', anyhow? That's not even [/i]close[i] to my actual name, my name is\u2014\u201c\n\u2014Koakuma, moments before the attack[/i]",
+            "flavor_text": "[i]\u201c... And why do people keep calling me \u2018Koakuma', anyhow? That's not even [/i]close[i] to my actual name, my name is\u2014\u201c\n\u2014 Koakuma, moments before the attack[/i]",
             "pt": "1/1",
             "special_text": "",
             "shape": "normal",
             "set": "2HU",
             "loyalty": "",
             "artist": "\u591a\u6708/K_RFS",
-            "alias": "",
-            "position": "13",
             "notes": "!tag EoSD\n!tag Koakuma\n!tag Stage4\n!tag Unnamed\n!tag SDM\n!tag Fanon"
         },
         {
@@ -304,8 +273,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u6c34\u30e9\u30d4/MIZURAPI",
-            "alias": "",
-            "position": "14",
             "notes": "!tag EoSD\n!tag Patchouli\n!tag Stage4\n!tag SDM\n!tag Playable"
         },
         {
@@ -324,8 +291,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u3053\u305e\u3046/KOZOUSAN",
-            "alias": "",
-            "position": "15",
             "notes": "!tag EoSD\n!tag Remilia\n!tag Scarlet\n!tag Stage6\n!tag SDM\n!tag Playable"
         },
         {
@@ -344,8 +309,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u84b2\u8c37\u30ab\u30d0\u30c2/KABADIKARA",
-            "alias": "",
-            "position": "16",
             "notes": "!tag EoSD\n!tag Rumia\n!tag Stage1\n!tag Music"
         },
         {
@@ -364,8 +327,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u30eb\u30d4\u30b926/CALPIS",
-            "alias": "",
-            "position": "17",
             "notes": "!tag EoSD\n!tag Flandre\n!tag Scarlet\n!tag EX\n!tag StageEX\n!tag SDM\n!tag Playable"
         },
         {
@@ -384,8 +345,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "Pisces_2355",
-            "alias": "",
-            "position": "18",
             "notes": "!tag UDoALG\n!tag Biten\n!tag Son\n!tag Phantasmagoria\n!tag Playable"
         },
         {
@@ -404,8 +363,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u7791\u4e38 \u30a4\u30cc\u30c1\u30e8/Meimaru Inuchiyo",
-            "alias": "",
-            "position": "19",
             "notes": "!tag UDoALG\n!tag Enoko\n!tag Phantasmagoria\n!tag Playable"
         },
         {
@@ -424,8 +381,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "13\u53f7",
-            "alias": "",
-            "position": "20",
             "notes": "!tag UDoALG\n!tag Chiyari\n!tag Phantasmagoria\n!tag Playable"
         },
         {
@@ -444,8 +399,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "Amibazh",
-            "alias": "",
-            "position": "21",
             "notes": "!tag UDoALG\n!tag Zanmu\n!tag Phantasmagoria\n!tag Playable\n!tag Music"
         },
         {
@@ -464,8 +417,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u3057\u304a\u3057\u304a/betabetarimocon",
-            "alias": "",
-            "position": "22",
             "notes": "!tag UDoALG\n!tag Hisami\n!tag Phantasmagoria\n!tag Playable\n!tag Gay\n!tag Yuri"
         },
         {
@@ -484,8 +435,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u3053\u305e\u3046/KOZOUSAN",
-            "alias": "",
-            "position": "23",
             "notes": "!tag PCB\n!tag Alice\n!tag Shanghai\n!tag Hourai\n!tag Stage3\n!tag Playable"
         },
         {
@@ -504,8 +453,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u8449\u6708 \u7d2b\u4e43/Hazuki Shino",
-            "alias": "",
-            "position": "24",
             "notes": "!tag PCB\n!tag Letty\n!tag Stage1"
         },
         {
@@ -524,8 +471,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u3086\u305f\u307e\u308d/YUTAMARO",
-            "alias": "",
-            "position": "25",
             "notes": "!tag PCB\n!tag Lily\n!tag Stage4"
         },
         {
@@ -544,8 +489,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u5e02\u8449 \u8449\u5e02/Ichiba Youichi",
-            "alias": "",
-            "position": "26",
             "notes": "!tag PCB\n!tag Prismriver\n!tag Lyrica\n!tag Lunasa\n!tag Merlin\n!tag Stage4\n!tag Playable"
         },
         {
@@ -564,8 +507,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "Sui.",
-            "alias": "",
-            "position": "27",
             "notes": "!tag DDC\n!tag Yatsuhashi\n!tag Benben\n!tag Stage4\n!tag Music"
         },
         {
@@ -584,8 +525,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u8b0e/MYSTERY",
-            "alias": "",
-            "position": "28",
             "notes": "!tag PCB\n!tag Yukari\n!tag Ran\n!tag Yakumo\n!tag Music"
         },
         {
@@ -604,8 +543,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "Sherry",
-            "alias": "",
-            "position": "29",
             "notes": "!tag SA\n!tag Music\n!tag Hell"
         },
         {
@@ -624,8 +561,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u7791\u4e38 \u30a4\u30cc\u30c1\u30e8/Meimaru Inuchiyo",
-            "alias": "",
-            "position": "30",
             "notes": "!addtoken Tanuki;2\n!tag TD\n!tag Mamizou\n!tag EX\n!tag StageEX\n!tag Music\n!tag Playable"
         },
         {
@@ -644,8 +579,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u7cf8\u9ea6\u304f\u3093/Itomugi-kun",
-            "alias": "",
-            "position": "31",
             "notes": "!tag SFW\n!tag Yuuma\n!tag Toutetsu\n!tag Spinoff\n!tag Hell\n!tag Playable"
         },
         {
@@ -664,8 +597,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "SunnySideUp524",
-            "alias": "",
-            "position": "32",
             "notes": "!tag WBaWC\n!tag Yuuma\n!tag Toutetsu\n!tag Playable"
         },
         {
@@ -684,8 +615,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u6d77\u6e90/KTx3rl8o",
-            "alias": "",
-            "position": "33",
             "notes": "!tag WBaWC\n!tag Keiki\n!tag Mayumi\n!tag Music"
         },
         {
@@ -704,8 +633,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "miririri/\u30df\u30ea\u30ea\u30ea",
-            "alias": "",
-            "position": "34",
             "notes": "!tag PCB\n!tag Yuyuko\n!tag Music"
         },
         {
@@ -724,8 +651,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u52d5\u304b\u306a\u3044\u5927\u56f3\u66f8\u9928/DZC_23",
-            "alias": "",
-            "position": "35",
             "notes": "!tag MoF\n!tag Music"
         },
         {
@@ -744,8 +669,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "Argentum_1211",
-            "alias": "",
-            "position": "36",
             "notes": "!tag MoF\n!tag Music"
         },
         {
@@ -764,8 +687,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "MegaBuBu",
-            "alias": "",
-            "position": "37",
             "notes": "!tag LoLK\n!tag Clownpiece\n!tag Kurapi\n!tag Stage5\n!tag Hell\n!tag Sangetsusei"
         },
         {
@@ -784,8 +705,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u3079\u3089\u307c\u3046/BELLA_BOW",
-            "alias": "",
-            "position": "38",
             "notes": "!tag MoF\n!tag Minoriko\n!tag Shizuha\n!tag Aki\n!tag Stage1"
         },
         {
@@ -804,8 +723,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u30be\u30a6\u30ce\u30bb/ZOUNOSE",
-            "alias": "",
-            "position": "39",
             "notes": "!tag PoFV\n!tag MoF\n!tag BAiJR\n!tag Aya\n!tag Stage4\n!tag Phantasmagoria\n!tag Playable\n!tag Tengu"
         },
         {
@@ -824,8 +741,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u4e03\u8272\u306e\u9ef4/NANAIRO NO KABI",
-            "alias": "",
-            "position": "40",
             "notes": "!tag MoF\n!tag Music"
         },
         {
@@ -844,8 +759,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "Cyasha Rain",
-            "alias": "",
-            "position": "41",
             "notes": "!tag MoF\n!tag Momiji\n!tag Music"
         },
         {
@@ -864,8 +777,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u96e8\u5bbf\u4ead/Amayadori-Tei",
-            "alias": "",
-            "position": "42",
             "notes": "!tag SA\n!tag Yamame\n!tag Stage1\n!tag Hell"
         },
         {
@@ -884,8 +795,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u3053\u305e\u3046/KOZOUSAN",
-            "alias": "",
-            "position": "43",
             "notes": "!tag DDC\n!tag Raiko\n!tag Music\n!tag EX\n!tag StageEX"
         },
         {
@@ -904,8 +813,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u6cb3CY/KAWANOCY",
-            "alias": "",
-            "position": "44",
             "notes": "!tag TD\n!tag Seiga\n!tag Stage4\n!tag Taoist"
         },
         {
@@ -924,8 +831,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u30d2\u30ac/GOMI_NA_MI",
-            "alias": "",
-            "position": "45",
             "notes": "!tag IN\n!tag Reimu\n!tag Music\n!tag Hakurei"
         },
         {
@@ -944,8 +849,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u7fbd\u3005\u65ac/U_U_ZAN",
-            "alias": "",
-            "position": "46",
             "notes": "!tag IN\n!tag Marisa\n!tag Alice\n!tag Gay\n!tag Yuri\n!tag Music"
         },
         {
@@ -964,8 +867,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u30d6\u30e9\u30c3\u30af\u8c46\u8150/BLACKTOFU",
-            "alias": "",
-            "position": "47",
             "notes": "!tag IN\n!tag Mokou\n!tag IN-all\n!tag Music"
         },
         {
@@ -984,8 +885,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u771f\u585a\u30b1\u30a4/Mazuka Kei",
-            "alias": "",
-            "position": "48",
             "notes": "!tag Gameplay"
         },
         {
@@ -1004,8 +903,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "Novawuff",
-            "alias": "",
-            "position": "49",
             "notes": "!tag SSiB\n!tag CiLR\n!tag Zenki\n!tag Goki\n!tag IN-extended\n!tag IN-all\n!tag Bougetsushou\n!tag Print\n!tag Male"
         },
         {
@@ -1024,8 +921,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u7791\u4e38 \u30a4\u30cc\u30c1\u30e8/Meimaru Inuchiyo",
-            "alias": "",
-            "position": "50",
             "notes": "!tag LoLK\n!tag Hecatia\n!tag Hecka\n!tag HotTopic\n!tag EX\n!tag StageEX\n!tag Hell"
         },
         {
@@ -1044,8 +939,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u30be\u30a6\u30ce\u30bb/ZOUNOSE",
-            "alias": "",
-            "position": "51",
             "notes": "!tag UFO\n!tag Byakuren\n!tag Music"
         },
         {
@@ -1064,8 +957,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u9cf4\u7a42\u30af\u30ed/IORINN",
-            "alias": "",
-            "position": "52",
             "notes": "!tag IN\n!tag Music"
         },
         {
@@ -1076,7 +967,7 @@
             "number": 1,
             "color_identity": "C",
             "cost": "{3}",
-            "rules_text": "Enchant creature\nUmbra armor [i](If enchanted permanent would be destroyed, instead remove all damage from it and destroy this Aura.)[/i]\nEnchanted creature has \u201cWhenever an Aura attached to this creature is put into a graveyard, untap this creature and put a +1/+1 counter on it.\u201d",
+            "rules_text": "Enchant creature\nUmbra armor [i](If enchanted permanent would be destroyed, instead remove all damage from it and destroy this Aura.)[/i]\nEnchanted creature has \u201cWhenever an Aura attached to this creature goes to the graveyard from the battlefield, untap this creature and put a +1/+1 counter on it.\u201d",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1084,8 +975,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u5348\u5f8c\u306ecochan",
-            "alias": "",
-            "position": "53",
             "notes": "!tag Gameplay"
         },
         {
@@ -1104,8 +993,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "Lukesaku",
-            "alias": "",
-            "position": "54",
             "notes": "!tag IN\n!tag Wriggle\n!tag Stage1"
         },
         {
@@ -1124,8 +1011,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "fjsmu",
-            "alias": "",
-            "position": "55",
             "notes": "!tag IN\n!tag Mystia\n!tag Stage2\n!tag Music\n!tag Playable"
         },
         {
@@ -1144,19 +1029,16 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "Ria",
-            "alias": "",
-            "position": "56",
             "card_name2": "Keine, Were-Hakutaku",
             "color2": "UG",
             "type2": "Legendary Creature \u2014 Human Youkai",
             "cost2": "",
-            "rules_text2": "Trample\nWhenever Keine transforms into Keine, Were-Hakutaku, put the bottom three cards of your library into your graveyard. When you do, you may return target card from your graveyard to your hand.\nAt the beginning of each upkeep, if a player cast two or more spells last turn, transform Keine.",
+            "rules_text2": "Trample\nWhenever Keine transforms into Keine, Were-Hakutaku, put the bottom three cards of your library into your graveyard. You may return target card from your graveyard to your hand.\nAt the beginning of each upkeep, if a player cast two or more spells last turn, transform Keine.",
             "flavor_text2": "[i][/i]",
             "pt2": "4/4",
             "special_text2": "",
             "loyalty2": "",
             "artist2": "Ria",
-            "alias2": "",
             "notes": "!tag IN\n!tag Keine\n!tag Stage3\n!tag EX\n!tag StageEX"
         },
         {
@@ -1175,8 +1057,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u30ce\u30d3\u30bf/Nobita_4",
-            "alias": "",
-            "position": "57",
             "notes": "!tag IN\n!tag Tewi\n!tag Tei\n!tag IN-all\n!tag Stage5\n!tag Eientei\n!tag Playable"
         },
         {
@@ -1195,8 +1075,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u3068\u308a/HASIBIL_TORIKO",
-            "alias": "",
-            "position": "58",
             "notes": "!tag PoFV\n!tag Medicine\n!tag Phantasmagoria"
         },
         {
@@ -1215,8 +1093,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "Ann606",
-            "alias": "",
-            "position": "59",
             "notes": "!tag PoFV\n!tag Yuuka\n!tag Phantasmagoria\n!tag Playable"
         },
         {
@@ -1235,8 +1111,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u304f\u308b\u80e1\u6843/Kulukulu3333",
-            "alias": "",
-            "position": "60",
             "notes": "!tag PoFV\n!tag Komachi\n!tag Phantasmagoria\n!tag Playable"
         },
         {
@@ -1255,8 +1129,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "Ryosios",
-            "alias": "",
-            "position": "61",
             "notes": "!tag Eiki\n!tag Shikieiki\n!tag PoFV"
         },
         {
@@ -1275,8 +1147,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "Thkani",
-            "alias": "",
-            "position": "62",
             "card_name2": "Night Parade",
             "color2": "B",
             "type2": "Sorcery \u2014 Adventure",
@@ -1287,7 +1157,6 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
-            "alias2": "",
             "notes": "!tag FS\n!tag Kosuzu\n!tag Print"
         },
         {
@@ -1306,8 +1175,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u3043\u3064\u307f(Izumi)",
-            "alias": "",
-            "position": "63",
             "notes": "!tag IN\n!tag Marisa\n!tag Alice\n!tag Gay\n!tag Yuri\n!tag Playable"
         },
         {
@@ -1326,8 +1193,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u767d\u94f6\u5929\u72fc\u661f/Silversirius",
-            "alias": "",
-            "position": "64",
             "notes": "!tag IN\n!tag Mystia\n!tag Music"
         },
         {
@@ -1346,8 +1211,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u6e05\u6dbc\u9280\u6cb3/sginga1",
-            "alias": "",
-            "position": "65",
             "notes": "!tag UM\n!tag Music"
         },
         {
@@ -1366,8 +1229,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "Sebastian Bonelli",
-            "alias": "",
-            "position": "66",
             "notes": "!tag UM\n!tag Mike\n!tag Music"
         },
         {
@@ -1386,8 +1247,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u3081\u3063\u3053/Mecco",
-            "alias": "",
-            "position": "67",
             "notes": "!tag IN\n!tag Reimu\n!tag Yukari\n!tag Yakumo\n!tag Gay\n!tag Yuri\n!tag Hakurei\n!tag Sage\n!tag Playable"
         },
         {
@@ -1406,8 +1265,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u306f\u308b\u3068\u304d\u304f\u308c/Harutoki Kure",
-            "alias": "",
-            "position": "68",
             "notes": "!tag MoF\n!tag Hina\n!tag Stage2"
         },
         {
@@ -1426,8 +1283,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u3042\u304b\u3044\u306e/akainoda",
-            "alias": "",
-            "position": "69",
             "notes": "!tag MoF\n!tag Nitori\n!tag Stage3\n!tag Playable"
         },
         {
@@ -1446,8 +1301,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u7fbd\u3005\u65ac/U_U_ZAN",
-            "alias": "",
-            "position": "70",
             "notes": "!tag MoF\n!tag Momiji\n!tag Stage4\n!tag Tengu"
         },
         {
@@ -1466,8 +1319,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u5e78\u5584/Yuki Zen",
-            "alias": "",
-            "position": "71",
             "notes": "!tag MoF\n!tag Kanako\n!tag Stage6\n!tag Moriya\n!tag Moreya\n!tag Playable"
         },
         {
@@ -1486,8 +1337,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u5e78\u5584/Yuki Zen",
-            "alias": "",
-            "position": "72",
             "notes": "!tag TD\n!tag Yoshika\n!tag Stage3"
         },
         {
@@ -1506,8 +1355,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u7791\u4e38 \u30a4\u30cc\u30c1\u30e8/Meimaru Inuchiyo",
-            "alias": "",
-            "position": "73",
             "notes": "!tag SA\n!tag Kisume\n!tag Stage1"
         },
         {
@@ -1526,8 +1373,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u7d05\u8449\u72e9/SphereSpirit",
-            "alias": "",
-            "position": "74",
             "notes": "!tag SA\n!tag Parsee\n!tag Stage2\n!tag Hell"
         },
         {
@@ -1546,8 +1391,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u3075\u3093\u307c/Fun Bo",
-            "alias": "",
-            "position": "75",
             "notes": "!tag EoSD\n!tag Cirno\n!tag Gameplay"
         },
         {
@@ -1566,8 +1409,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u6708\u672c\u8475/Tsukimoto Aoi",
-            "alias": "",
-            "position": "76",
             "notes": "!tag SA\n!tag Satori\n!tag Stage4\n!tag Chireiden\n!tag Hell"
         },
         {
@@ -1586,8 +1427,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "Sheya",
-            "alias": "",
-            "position": "77",
             "notes": "!tag SA\n!tag Koishi\n!tag StageEX\n!tag EX\n!tag Chireiden\n!tag Playable"
         },
         {
@@ -1606,8 +1445,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u30be\u30a6\u30ce\u30bb/ZOUNOSE",
-            "alias": "",
-            "position": "78",
             "notes": "!tag UM\n!tag Megumu\n!tag Iizunamaru\n!tag Stage5\n!tag Tengu"
         },
         {
@@ -1626,8 +1463,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u751c\u74dc\u5f10\u3005/MELON22",
-            "alias": "",
-            "position": "79",
             "notes": "!tag UFO\n!tag Nazrin\n!tag Stage1\n!tag Myouren\n!tag Playable"
         },
         {
@@ -1646,8 +1481,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u3082\u308a\u306e\u307b\u3093/Mori no Hon",
-            "alias": "",
-            "position": "80",
             "notes": "!tag UFO\n!tag Kogasa\n!tag Stage2\n!tag Fanon"
         },
         {
@@ -1666,8 +1499,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u30be\u30a6\u30ce\u30bb/ZOUNOSE",
-            "alias": "",
-            "position": "81",
             "notes": "!tag DS\n!tag Hatate\n!tag Tengu\n!tag Spinoff\n!tag Playable"
         },
         {
@@ -1686,8 +1517,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u30be\u30a6\u30ce\u30bb/ZOUNOSE",
-            "alias": "",
-            "position": "82",
             "notes": "!tag UFO\n!tag Ichirin\n!tag Unzan\n!tag Stage4\n!tag Myouren\n!tag Playable\n!tag Male"
         },
         {
@@ -1706,8 +1535,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u30be\u30a6\u30ce\u30bb/ZOUNOSE",
-            "alias": "",
-            "position": "83",
             "notes": "!tag SWR\n!tag Tenshi\n!tag Fighter\n!tag Spinoff\n!tag Heaven\n!tag Playable"
         },
         {
@@ -1726,8 +1553,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u307e\u3063\u3055\u304b\u3055\u307e/MA_SAKASAMA",
-            "alias": "",
-            "position": "84",
             "notes": "!tag UFO\n!tag SFW\n!tag Minamitsu\n!tag Murasa\n!tag Music\n!tag Stage4\n!tag Myouren\n!tag Playable"
         },
         {
@@ -1746,8 +1571,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u6b66\u7530\u307b\u305f\u308b/Takeda Hotaru",
-            "alias": "",
-            "position": "85",
             "notes": "!tag UFO\n!tag Shou\n!tag Stage5\n!tag Myouren"
         },
         {
@@ -1766,8 +1589,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u751c\u74dc\u5f10\u3005/MELON22",
-            "alias": "",
-            "position": "86",
             "notes": "!tag TD\n!tag Kyouko\n!tag Kyoko\n!tag Myouren\n!tag Stage2"
         },
         {
@@ -1786,8 +1607,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u3061\u3083\u307e\u308b\u304f/chamaruk",
-            "alias": "",
-            "position": "87",
             "notes": "!tag TD\n!tag Tojiko\n!tag Stage5\n!tag Taoist"
         },
         {
@@ -1806,8 +1625,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "Om (@P24818300)",
-            "alias": "",
-            "position": "88",
             "notes": "!tag TD\n!tag Futo\n!tag Stage5\n!tag Taoist\n!tag Playable"
         },
         {
@@ -1826,8 +1643,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u3042\u3084\u3072\u308d\u308a/hirori5",
-            "alias": "",
-            "position": "89",
             "notes": "!tag TD\n!tag Miko\n!tag Shotoku\n!tag Stage 6\n!tag Taoist\n!tag Playable"
         },
         {
@@ -1846,8 +1661,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u725b\u571f/ushitsuchi",
-            "alias": "",
-            "position": "90",
             "notes": "!tag DDC\n!tag Wakasagi\n!tag Wakasagihime\n!tag Waggysaggy\n!tag Grassroots\n!tag Stage1"
         },
         {
@@ -1866,8 +1679,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u304f\u308d\u3076\u305f/Kurobuta",
-            "alias": "",
-            "position": "91",
             "notes": "!tag IN\n!tag Wriggle"
         },
         {
@@ -1886,8 +1697,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u304e\u30f4\u3061\u3087\u3053/gibuchoko",
-            "alias": "",
-            "position": "92",
             "notes": "!tag SA\n!tag Utsuho\n!tag Okuu\n!tag Stage6\n!tag Chireiden\n!tag Hell\n!tag Playable"
         },
         {
@@ -1906,8 +1715,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u7530\u6751\u30a2\u30d0\u30ba\u30ec/Tamura Abazure",
-            "alias": "",
-            "position": "93",
             "notes": "!tag EoSD\n!tag SDM"
         },
         {
@@ -1926,8 +1733,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u4ed9\u72d0/||senko||",
-            "alias": "",
-            "position": "94",
             "notes": "!tag PCB\n!tag Alice\n!tag Shanghai"
         },
         {
@@ -1946,8 +1751,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u5c0f\u9b3c/l0",
-            "alias": "",
-            "position": "95",
             "notes": "!tag HSiFS\n!tag Mai\n!tag Mai2\n!tag Satono\n!tag Stage5\n!tag Okina\n!tag Music"
         },
         {
@@ -1966,8 +1769,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u7791\u4e38 \u30a4\u30cc\u30c1\u30e8/Meimaru Inuchiyo",
-            "alias": "",
-            "position": "96",
             "notes": "!addtoken BankiHead;X\n!tag DDC\n!tag Sekibanki\n!tag Saggybaggy\n!tag Grassroots\n!tag Stage2"
         },
         {
@@ -1986,8 +1787,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u3079\u3089\u307c\u3046/BELLA_BOW",
-            "alias": "",
-            "position": "97",
             "notes": "!exportname Kagerou, Bamboos Loup-Garou\n!tag DDC\n!tag Kagerou\n!tag Kaggywaggy\n!tag Grassroots\n!tag Stage3"
         },
         {
@@ -2006,8 +1805,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u30be\u30a6\u30ce\u30bb/ZOUNOSE",
-            "alias": "",
-            "position": "98",
             "notes": "!tag DDC\n!tag Seija\n!tag ajieS\n!tag Stage5\n!tag Playable"
         },
         {
@@ -2026,8 +1823,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u3068\u3081\u304c\u306d/tukumo_kuro",
-            "alias": "",
-            "position": "99",
             "notes": "!tag DDC\n!tag Shinmyoumaru\n!tag Sukuna\n!tag Stage6\n!tag Playable\n!tag Music"
         },
         {
@@ -2046,8 +1841,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u7cf8\u9ea6\u304f\u3093/Itomugi-kun",
-            "alias": "",
-            "position": "100",
             "notes": "!tag HSiFS\n!tag Eternity\n!tag Larva\n!tag Stage1"
         },
         {
@@ -2066,8 +1859,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "MegaBuBu",
-            "alias": "",
-            "position": "101",
             "notes": "!tag HSiFS\n!tag Aunn\n!tag Komano\n!tag Stage3\n!tag Hakurei\n!tag Playable"
         },
         {
@@ -2086,8 +1877,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "Ryosios",
-            "alias": "",
-            "position": "102",
             "notes": "!addtoken LivingBullet\n!tag HSiFS\n!tag Narumi\n!tag Stage4"
         },
         {
@@ -2106,8 +1895,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u30ab\u30e8\u30f3/Kayon",
-            "alias": "",
-            "position": "103",
             "notes": "!tag LoLK\n!tag Seiran\n!tag Stage1\n!tag Moon\n!tag Playable"
         },
         {
@@ -2126,8 +1913,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u30d4\u30e8/PIYOATTOMARK",
-            "alias": "",
-            "position": "104",
             "notes": "!tag LoLK\n!tag Ringo\n!tag Stage2\n!tag Moon"
         },
         {
@@ -2146,8 +1931,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "Sheya",
-            "alias": "",
-            "position": "105",
             "notes": "!tag LoLK\n!tag Sagume\n!tag Stage4\n!tag Moon"
         },
         {
@@ -2166,8 +1949,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "SunnySideUp524",
-            "alias": "",
-            "position": "106",
             "notes": "!tag WBaWC\n!tag Saki\n!tag Playable"
         },
         {
@@ -2186,8 +1967,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "SunnySideUp524",
-            "alias": "",
-            "position": "107",
             "notes": "!exportname Kiketsus Sneak, Otter\n!tag WBaWC\n!tag Yachie\n!tag Playable"
         },
         {
@@ -2206,8 +1985,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u79cb\u30ce\u5bae \u98db\u9ce5/Akinomiya Asuka",
-            "alias": "",
-            "position": "108",
             "notes": "!tag WBaWC\n!tag Eika\n!tag Stage1"
         },
         {
@@ -2226,8 +2003,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "TimeSkye",
-            "alias": "",
-            "position": "109",
             "notes": "!tag WbaWC\n!tag Urumi\n!tag Stage2"
         },
         {
@@ -2246,8 +2021,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u82a6\u5c71 \u53d4\u4f2f/Ashiyama Yoshinori",
-            "alias": "",
-            "position": "110",
             "notes": "!exportname Kutaka, Hells Border Patrol\n!tag WBaWC\n!tag Kutaka\n!tag Stage3\n!tag Hell"
         },
         {
@@ -2266,8 +2039,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u3072\u305d\u306a/Hisona",
-            "alias": "",
-            "position": "111",
             "notes": "!tag WbaWC\n!tag Yachie\n!tag Stage4\n!tag Hell\n!tag Playable"
         },
         {
@@ -2286,8 +2057,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u30dd\u30c6\u30c8\u30eb\u30b9/kankan33333",
-            "alias": "",
-            "position": "112",
             "notes": "!exportname Kaguyas Impossible Request\n!tag IN\n!tag Kaguya\n!tag IN-all"
         },
         {
@@ -2306,8 +2075,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "O\u7d43/bowstringsmall",
-            "alias": "",
-            "position": "113",
             "notes": "!tag WBaWC\n!tag Mayumi\n!tag Stage5"
         },
         {
@@ -2326,8 +2093,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u5fc3\u592a/Tokoroten",
-            "alias": "",
-            "position": "114",
             "notes": "!tag SWR\n!tag Hisoutensoku\n!tag Namazu\n!tag Meiling\n!tag Fighter\n!tag Spinoff"
         },
         {
@@ -2346,8 +2111,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u3086\u3063\u304d\u3087\u3093/YUKKYON",
-            "alias": "",
-            "position": "115",
             "notes": "!tag WBaWC\n!tag Keiki\n!tag Stage6"
         },
         {
@@ -2358,7 +2121,7 @@
             "number": 254,
             "color_identity": "BRG",
             "cost": "{4}{B}{R}{G}",
-            "rules_text": "Flying, trample, haste\nOther creatures you control have trample.\nAt the beginning of combat on your turn, create two 3/1 red Wolf Spirit creature tokens with haste and \u201cThis creature must attack each combat if able.\u201d",
+            "rules_text": "Flying, haste, trample\nOther creatures you control have trample.\nAt the beginning of combat on your turn, create two 3/1 red Wolf Spirit creature tokens with haste and \u201cThis creature must attack each combat if able.\u201d",
             "flavor_text": "[i]\u201cSoon, the Animal Realm will come under our control. Perhaps not just the Animal Realm, but Hell and the Human Realm too...!\u201d[/i]",
             "pt": "4/4",
             "special_text": "",
@@ -2366,8 +2129,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "Syuri22",
-            "alias": "",
-            "position": "116",
             "notes": "!tag WBaWC\n!tag Saki\n!tag EX\n!tag StageEX\n!tag Hell\n!tag Shotoku\n!tag Playable"
         },
         {
@@ -2386,8 +2147,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u7791\u4e38 \u30a4\u30cc\u30c1\u30e8/Meimaru Inuchiyo",
-            "alias": "",
-            "position": "117",
             "notes": "Treasure mode a pie issue for white. catchup version works for some people, but Emily makes good point that this can be played for the token and then a land played after, still making it net ramp. Needs to produce artifact token for slot role. Food is sideways option for ludonarrative but pie functions well enough. Grapple suggests possible route of making new bespoke token, in particular suggests something evoking OTJ Mercenaries. Viable but I would want it to be made a bigger deal than just Mike's, flavoring could be tricky but it's worth investigating.\n\n!tag UM\n!tag Mike\n!tag Stage1"
         },
         {
@@ -2406,8 +2165,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "Naufaldreamer",
-            "alias": "",
-            "position": "118",
             "notes": "!tag UM\n!tag Takane\n!tag Kappa\n!tag Stage2"
         },
         {
@@ -2426,8 +2183,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u662f\u6c34\u9b3c\u5417/Shishi Guima",
-            "alias": "",
-            "position": "119",
             "notes": "!tag UM\n!tag Sannyo\n!tag Stage3"
         },
         {
@@ -2446,8 +2201,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u6d77\u6e90/KTx3rl8o",
-            "alias": "",
-            "position": "120",
             "notes": "!tag UM\n!tag Misumaru\n!tag Stage4\n!tag Hakurei"
         },
         {
@@ -2466,8 +2219,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u3044\u3051\u3060\u308b\u308a\u3053/Ikeda Ruriko",
-            "alias": "",
-            "position": "121",
             "notes": "!tag UM\n!tag Tsukasa\n!tag Stage5\n!tag Tengu\n!tag Playable"
         },
         {
@@ -2486,8 +2237,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u6d77\u6e90/KTx3rl8o",
-            "alias": "",
-            "position": "122",
             "notes": "!tag HRtP\n!tag YuugenMagan\n!tag Makai\n!tag PC-98"
         },
         {
@@ -2506,8 +2255,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u30ab\u30a4\u30b6/Kaiza",
-            "alias": "",
-            "position": "123",
             "notes": "!tag HRtP\n!tag Kikuri\n!tag Hell\n!tag PC-98"
         },
         {
@@ -2526,8 +2273,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u706f\u8de1/Hiseki",
-            "alias": "",
-            "position": "124",
             "notes": "!tag HRtP\n!tag Konngara\n!tag Hell\n!tag PC-98\n!tag Music"
         },
         {
@@ -2538,7 +2283,7 @@
             "number": 259,
             "color_identity": "WUB",
             "cost": "{5}{W}{U}{B}",
-            "rules_text": "Flying, vigilance, menace\nIf Sariel would be put into a graveyard from anywhere but the battlefield, exile her instead.\n[i]Then let us die together[/i] \u2014 At the beginning of your end step, if Sariel is in your graveyard, each opponent loses 3 life and you gain 3 life.",
+            "rules_text": "Flying, Vigilance, Menace\nIf Sariel would be put into a graveyard from anywhere but the battlefield, exile her instead.\n[i]Then let us die together[/i] \u2014 At the beginning of your end step, if Sariel is in your graveyard, each opponent loses 3 life and you gain 3 life.",
             "flavor_text": "[i][/i]",
             "pt": "7/7",
             "special_text": "",
@@ -2546,15 +2291,13 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "HaryuDanto",
-            "alias": "",
-            "position": "125",
             "notes": "!tag HRtP\n!tag Sariel\n!tag Makai\n!tag Music\n!tag PC-98"
         },
         {
             "card_name": "Genji, the Venerated",
             "color": "UG",
             "rarity": "rare",
-            "type": "Legendary Creature \u2014 Turtle Advisor",
+            "type": "Legendary Creature \u2014 Elder Turtle",
             "number": 193,
             "color_identity": "UG",
             "cost": "{G}{U}",
@@ -2566,8 +2309,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "Memefo",
-            "alias": "",
-            "position": "126",
             "notes": "!tag SoEW\n!tag Genji\n!tag Hakurei\n!tag PC-98\n!tag Playable\n!tag Male"
         },
         {
@@ -2586,8 +2327,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u30a6\u30a7\u30eb\u30c8/Welt",
-            "alias": "",
-            "position": "127",
             "notes": "!tag SoEW\n!tag Rika\n!tag Music\n!tag Stage1\n!tag EX\n!tag StageEX"
         },
         {
@@ -2606,8 +2345,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u6d77\u6e90/KTx3rl8o",
-            "alias": "",
-            "position": "128",
             "notes": "!tag SoEW\n!tag Meira\n!tag Stage2\n!tag Gay\n!tag Yuri\n!tag PC-98"
         },
         {
@@ -2626,8 +2363,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "UFO No.XI",
-            "alias": "",
-            "position": "129",
             "notes": "!tag SoEW\n!tag FiveMagicStones\n!tag Stage3\n!tag Music\n!tag PC-98"
         },
         {
@@ -2646,8 +2381,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u661f\u307f\u9149/kirikuma_y2",
-            "alias": "",
-            "position": "130",
             "notes": "!tag LLS\n!tag Ellen\n!tag Bapple\n!tag Music\n!tag PC-98"
         },
         {
@@ -2666,8 +2399,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u9d09\u7fbd\u51db\u71c8/Rindo Karasuba",
-            "alias": "",
-            "position": "131",
             "notes": "!tag CiLR\n!tag IN-extended\n!tag IN-all\n!tag Bougetsushou\n!tag Iwakasa\n!tag Male\n!tag Fanon"
         },
         {
@@ -2686,8 +2417,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u30e6\u30a6\u30ba\u30a3/Yuuzii",
-            "alias": "",
-            "position": "132",
             "notes": "!tag Gameplay"
         },
         {
@@ -2706,8 +2435,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u72ac\u91ce\u30e9\u30af\u30ac\u30ad/rakugakiinuno",
-            "alias": "",
-            "position": "133",
             "notes": "!tag Gameplay"
         },
         {
@@ -2726,8 +2453,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u306d\u308b\u305e\u3046/_neruzou",
-            "alias": "",
-            "position": "134",
             "notes": "!tag HSiFS\n!tag Nemuno\n!tag Music"
         },
         {
@@ -2746,8 +2471,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u3079\u3089\u307c\u3046/BELLA_BOW",
-            "alias": "",
-            "position": "135",
             "notes": "!tag PoDD\n!tag Ellen\n!tag Music\n!tag Phantasmagoria\n!tag PC-98\n!tag Playable\n!Fanon"
         },
         {
@@ -2766,8 +2489,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u3044\u3058\u3047\u3093/IjenejI",
-            "alias": "",
-            "position": "136",
             "notes": "!tag PoDD\n!tag Kana\n!tag Music\n!tag Phantasmagoria\n!tag PC-98\n!tag Playable\n!tag Fanon"
         },
         {
@@ -2786,8 +2507,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "BLAST-7",
-            "alias": "",
-            "position": "137",
             "notes": "!tag PoDD\n!tag Kotohime\n!tag Phantasmagoria\n!tag Music\n!tag PC-98\n!tag Playable\n!tag Fanon"
         },
         {
@@ -2806,8 +2525,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "David Hrusa",
-            "alias": "",
-            "position": "138",
             "notes": "!tag PoDD\n!tag Rikako\n!tag Phantasmagoria\n!tag Music\n!tag PC-98\n!tag Playable\n!tag Fanon"
         },
         {
@@ -2826,8 +2543,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u30b1\u30c4\u30ac\u30d0\u30ac\u30d0/Tepuya",
-            "alias": "",
-            "position": "139",
             "notes": "!tag PoDD\n!tag Yumemi\n!tag Phantasmagoria\n!tag Music\n!tag PC-98\n!tag Playable\n!tag Fanon"
         },
         {
@@ -2846,8 +2561,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "Tokiame",
-            "alias": "",
-            "position": "140",
             "notes": "!tag SFW\n!tag Yuuma\n!tag Toutetsu\n!tag Music"
         },
         {
@@ -2866,8 +2579,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u8449\u8449\u6ce2/hahaha3",
-            "alias": "",
-            "position": "141",
             "notes": "!tag WaHH\n!tag Print\n!tag Male"
         },
         {
@@ -2886,8 +2597,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u30ab\u30a4\u30b6/Kaiza",
-            "alias": "",
-            "position": "142",
             "notes": "!tag LLS\n!tag Orange\n!tag Stage1\n!tag PC-98"
         },
         {
@@ -2906,8 +2615,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u7fbd\u3005\u65ac/U_U_ZAN",
-            "alias": "",
-            "position": "143",
             "notes": "!tag LLS\n!tag Kurumi\n!tag Stage2\n!tag PC-98"
         },
         {
@@ -2926,8 +2633,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u795e\u8c37\u30a6\u30a8\u30b7/Kamiya Ueshi",
-            "alias": "",
-            "position": "144",
             "notes": "!tag LLS\n!tag Elly\n!tag Bapple\n!tag Stage3\n!tag PC-98"
         },
         {
@@ -2946,8 +2651,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u6d77\u6e90/KTx3rl8o",
-            "alias": "",
-            "position": "145",
             "notes": "!tag MS\n!tag Sara\n!tag Stage1\n!tag Makai\n!tag PC-98"
         },
         {
@@ -2966,8 +2669,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "TomatoEtM",
-            "alias": "",
-            "position": "146",
             "notes": "!tag MS\n!tag Louise\n!tag Luize\n!tag Stage2\n!tag Makai\n!tag PC-98"
         },
         {
@@ -2986,8 +2687,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "kuzudong",
-            "alias": "",
-            "position": "147",
             "notes": "!tag MS\n!tag Yuki\n!tag Mai\n!tag Mai1\n!tag Stage4\n!tag Makai\n!tag PC-98"
         },
         {
@@ -3006,8 +2705,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u3044\u3061\u306e\u305b/Ichinose",
-            "alias": "",
-            "position": "148",
             "notes": "!tag MS\n!tag Yumeko\n!tag Stage5\n!tag Makai\n!tag PC-98"
         },
         {
@@ -3026,8 +2723,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u30ce\u9593/MDM",
-            "alias": "",
-            "position": "149",
             "notes": "!tag SWR\n!tag Iku\n!tag Fighter\n!tag Spinoff\n!tag Heaven\n!tag Playable"
         },
         {
@@ -3046,8 +2741,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "2B\u54e5",
-            "alias": "",
-            "position": "150",
             "notes": "!exportname Joon, Avaricious Pestilence\n!tag AoCF\n!tag Joon\n!tag Yorigami\n!tag Fighter\n!tag Spinoff\n!tag Playable"
         },
         {
@@ -3066,8 +2759,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u307e\u3042\u3061/marchone_i",
-            "alias": "",
-            "position": "151",
             "notes": "!tag AoCF\n!tag Shion\n!tag Yorigami\n!tag Fighter\n!tag Spinoff\n!tag Playable"
         },
         {
@@ -3086,8 +2777,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "Kajatony",
-            "alias": "",
-            "position": "152",
             "notes": "!tag IaMP\n!tag Suika\n!tag Fighter\n!tag Spinoff\n!tag Hell\n!tag Playable"
         },
         {
@@ -3106,8 +2795,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u3044\u3065\u307f\u307f\u306a\u307f/Izumi Minami",
-            "alias": "",
-            "position": "153",
             "notes": "!tag PMiSS\n!tag Akyuu\n!tag Print\n!tag CD"
         },
         {
@@ -3126,19 +2813,16 @@
             "set": "2HU",
             "loyalty": "4",
             "artist": "\u6731\u5d0e \u7d2b\u7ae5/INSANITYFACTOR",
-            "alias": "",
-            "position": "154",
             "card_name2": "Ibaraki Kasen, Complete",
             "color2": "WBG",
             "type2": "Legendary Planeswalker \u2014 Kasen",
             "cost2": "",
-            "rules_text2": "\n[-1]: Exile target permanent.\n[-13]: Target opponent chooses up to one creature they control, then sacrifices all other nonland permanents they control.",
+            "rules_text2": "",
             "flavor_text2": "[i][/i]",
             "pt2": "",
             "special_text2": "\n[-1]: Exile target permanent.\n[-13]: Target opponent chooses up to one creature they control, then sacrifices all other nonland permanents they control.",
             "loyalty2": "8",
             "artist2": "\u6731\u5d0e \u7d2b\u7ae5/INSANITYFACTOR",
-            "alias2": "",
             "notes": "!tag WaHH\n!tag Kasen\n!tag Print\n!tag Hell"
         },
         {
@@ -3157,8 +2841,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u93e1_area/mirrorxilu4",
-            "alias": "",
-            "position": "155",
             "notes": "!tag Luna\n!tag GFW\n!tag EaLND\n!tag SaBND\n!tag OSP\n!tag Spinoff\n!tag Print\n!tag Sangetsusei"
         },
         {
@@ -3177,8 +2859,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u3053\u305e\u3046/KOZOUSAN",
-            "alias": "",
-            "position": "156",
             "notes": "!exportname Youmu, Netherworlds Blades\n!tag PCB\n!tag Youmu\n!tag Stage5\n!tag Playable"
         },
         {
@@ -3197,8 +2877,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u5e02\u8449 \u8449\u5e02/Ichiba Youichi",
-            "alias": "",
-            "position": "157",
             "notes": "!tag SSiB\n!tag Reisen\n!tag IN-extended\n!tag IN-all\n!tag Bougetsushou\n!tag Print\n!tag Moon"
         },
         {
@@ -3217,8 +2895,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u6cb3CY/KAWANOCY",
-            "alias": "",
-            "position": "158",
             "notes": "!tag Peak\n!tag Mokou\n!tag Kaguya\n!tag Gay\n!tag Yuri\n!tag Yaoi"
         },
         {
@@ -3237,8 +2913,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "3books",
-            "alias": "",
-            "position": "159",
             "notes": "!tag Sakuya\n!tag Music"
         },
         {
@@ -3257,8 +2931,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u96e8\u5bbf\u4ead/Amayadori-Tei",
-            "alias": "",
-            "position": "160",
             "notes": "!replacetoken RoyalMask;1;MonsterMask;1;SorcererMask;1\n!tag HM\n!tag Kokoro\n!tag Fighter\n!tag Spinoff\n!tag Taoist\n!tag Playable"
         },
         {
@@ -3277,8 +2949,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u4f1a\u5e06/ehokun",
-            "alias": "",
-            "position": "161",
             "notes": "!tag CoLA\n!tag Rinnosuke\n!tag Print\n!tag Male"
         },
         {
@@ -3297,8 +2967,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u93e1_area/mirrorxilu4",
-            "alias": "",
-            "position": "162",
             "notes": "!tag Sunny\n!tag EaLND\n!tag SaBND\n!tag OSP\n!tag GFW\n!tag Spinoff\n!tag Print\n!tag Sangetsusei"
         },
         {
@@ -3317,8 +2985,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u93e1_area/mirrorxilu4",
-            "alias": "",
-            "position": "163",
             "notes": "!tag Star\n!tag EaLND\n!tag SaBND\n!tag OSP\n!tag GFW\n!tag Spinoff\n!tag Print\n!tag Sangetsusei"
         },
         {
@@ -3337,8 +3003,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u4f1a\u5e06/ehokun",
-            "alias": "",
-            "position": "164",
             "notes": "!tag CoLA\n!tag Tokiko\n!tag Print"
         },
         {
@@ -3357,8 +3021,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u5148\u4ee3/@Xan6spB",
-            "alias": "",
-            "position": "165",
             "notes": "!tag LoLK\n!tag Junko\n!tag Stage6\n!tag Music"
         },
         {
@@ -3377,8 +3039,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u7d05\u8863\u304d\u3064\u306d/AKAI KITSUNE",
-            "alias": "",
-            "position": "166",
             "notes": "!tag SSiB\n!tag CiLR\n!tag Toyohime\n!tag Watatsuki\n!tag IN-extended\n!tag IN-all\n!tag Bougetsushou\n!tag Print\n!tag Moon"
         },
         {
@@ -3397,8 +3057,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u7d05\u8863\u304d\u3064\u306d/AKAI KITSUNE",
-            "alias": "",
-            "position": "167",
             "notes": "!tag SSiB\n!tag CiLR\n!tag Yorihime\n!tag Watatsuki\n!tag IN-extended\n!tag IN-all\n!tag Bougetsushou\n!tag Print\n!tag Moon"
         },
         {
@@ -3417,8 +3075,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u305d\u307c\u90ce/@soboro_art",
-            "alias": "",
-            "position": "168",
             "notes": "!tag Print\n!tag CDS\n!tag FDS\n!tag Hakurei"
         },
         {
@@ -3437,8 +3093,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "YU-TA",
-            "alias": "",
-            "position": "169",
             "notes": "!tag Hisoutensoku\n!tag Music\n!tag Fanon"
         },
         {
@@ -3457,8 +3111,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "Jenevan",
-            "alias": "",
-            "position": "170",
             "notes": "!tag Prismriver\n!tag Layla\n!tag Fanon"
         },
         {
@@ -3477,8 +3129,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u3086\u305f\u307e\u308d/YUTAMARO",
-            "alias": "",
-            "position": "171",
             "notes": "!tag PoFV\n!tag Lily\n!tag Phantasmagoria"
         },
         {
@@ -3497,8 +3147,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u3078\u3082\u3050\u308d\u3073\u3093\uff21\uff11\uff23/Hemogurobin A1C",
-            "alias": "",
-            "position": "172",
             "notes": "!tag Tengu\n!tag Fanon"
         },
         {
@@ -3517,8 +3165,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u30ab\u30bf\u30b1\u30a4/wagocolo",
-            "alias": "",
-            "position": "173",
             "notes": "!tag PoDD\n!tag Ruukoto\n!tag Mimi-chan\n!tag Mimichan\n!tag Phantasmagoria\n!tag Music\n!tag Fanon"
         },
         {
@@ -3537,8 +3183,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u6d77\u6e90/KTx3rl8o",
-            "alias": "",
-            "position": "174",
             "notes": "!tag DiPP\n!tag CD\n!tag Hakurei\n!tag Unnamed"
         },
         {
@@ -3557,8 +3201,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "Nekolina",
-            "alias": "",
-            "position": "175",
             "notes": "!tag DiPP\n!tag CD\n!tag Unnamed"
         },
         {
@@ -3577,8 +3219,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "E.O.",
-            "alias": "",
-            "position": "176",
             "notes": "!tag PCB\n!tag Youki\n!tag Youmu\n!tag Male"
         },
         {
@@ -3597,8 +3237,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u662f\u6c34\u9b3c\u5417/Shishi Guima",
-            "alias": "",
-            "position": "177",
             "notes": "!tag SoPM\n!tag Mystia\n!tag Kyouko\n!tag Kyoko\n!tag Print\n!tag Music\n!tag Fanon\n!tag Yuri\n!tag Gay"
         },
         {
@@ -3617,8 +3255,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u30af\u30ed\u30ce\u30a8\u30eb/chronoel",
-            "alias": "",
-            "position": "178",
             "notes": "!tag Gameplay"
         },
         {
@@ -3637,8 +3273,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u5fb3\u5ddd\u307b\u304a\u305a\u304d/@hotondo",
-            "alias": "",
-            "position": "179",
             "notes": "!tag Gameplay"
         },
         {
@@ -3657,8 +3291,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u30b9\u30dd\u30f3/spon_",
-            "alias": "",
-            "position": "180",
             "notes": "!tag Gameplay"
         },
         {
@@ -3677,8 +3309,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u3060\u3044\u305f\u3044\u3053\u3093\u306a\u304b\u3093\u3058/Daitai Konna Kanji",
-            "alias": "",
-            "position": "181",
             "notes": "!tag Alice\n!tag Hisoutensoku"
         },
         {
@@ -3697,8 +3327,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u306d\u3053/Sakuraba Yuki",
-            "alias": "",
-            "position": "182",
             "notes": "!tag PCB\n!tag Yuyuko\n!tag Music"
         },
         {
@@ -3717,8 +3345,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u30be\u30a6\u30ce\u30bb/ZOUNOSE",
-            "alias": "",
-            "position": "183",
             "notes": "!tag PCB\n!tag Yuyuko\n!tag Music"
         },
         {
@@ -3737,8 +3363,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "Lukesaku",
-            "alias": "",
-            "position": "184",
             "notes": "!tag PCB\n!tag Prismriver\n!tag Lyrica\n!tag Lunasa\n!tag Merlin\n!tag Music"
         },
         {
@@ -3757,8 +3381,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u3053\u3068\u30a4\u30ca\u30ea/Koto Inari",
-            "alias": "",
-            "position": "185",
             "notes": "!tag PoFV\n!tag Komachi"
         },
         {
@@ -3777,8 +3399,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "Y.mato",
-            "alias": "",
-            "position": "186",
             "notes": "!tag SA\n!tag Utsuho\n!tag Okuu"
         },
         {
@@ -3797,8 +3417,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u304a\u3084\u3059\u307fMN/munihagi",
-            "alias": "",
-            "position": "187",
             "notes": "!tag TD\n!tag Music\n!tag Stage1"
         },
         {
@@ -3817,8 +3435,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u6d77\u6e90/KTx3rl8o",
-            "alias": "",
-            "position": "188",
             "notes": "!tag LoLK"
         },
         {
@@ -3837,8 +3453,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u30be\u30a6\u30ce\u30bb/ZOUNOSE",
-            "alias": "",
-            "position": "189",
             "notes": "!tag UFO\n!tag Music"
         },
         {
@@ -3857,8 +3471,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u3072\u305d\u306a/Hisona",
-            "alias": "",
-            "position": "190",
             "notes": "!tag UFO"
         },
         {
@@ -3877,8 +3489,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u305f\u3044\u3089\u30fc/Tyler_69man",
-            "alias": "",
-            "position": "191",
             "notes": "!tag SWR\n!tag Suika\n!tag Fighter\n!tag Spinoff\n!tag Music"
         },
         {
@@ -3897,8 +3507,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u306f\u304f\u88fd\u98a8\u9053\u5316\u5e2b/stufquin",
-            "alias": "",
-            "position": "192",
             "notes": "!tag UFO\n!tag Byakuren\n!tag Music\n!tag Makai"
         },
         {
@@ -3917,8 +3525,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "Stu Pidface",
-            "alias": "",
-            "position": "193",
             "notes": "!tag Peak"
         },
         {
@@ -3937,8 +3543,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u86cd\u5149\u6d41\u52d5/flourescentflow",
-            "alias": "",
-            "position": "194",
             "notes": "!tag ISC\n!tag Seija\n!tag ajieS"
         },
         {
@@ -3957,8 +3561,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u5927\u8ce2\u8005\u6885\u6797/MerlinAmbrosuis",
-            "alias": "",
-            "position": "195",
             "notes": ""
         },
         {
@@ -3977,8 +3579,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "Lanana_illust",
-            "alias": "",
-            "position": "196",
             "notes": ""
         },
         {
@@ -3997,8 +3597,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u662f\u6c34\u9b3c\u5417/Shishi Guima",
-            "alias": "",
-            "position": "197",
             "notes": "!tag Peak"
         },
         {
@@ -4017,8 +3615,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u3053\u305e\u3046/KOZOUSAN",
-            "alias": "",
-            "position": "198",
             "notes": "!related Medicine Melancholy\n!related Alice Margatroid<2>\n!related Marisa and Alice\n!related Hina Kagiyama\n!related Ordinary Magicians Charm"
         },
         {
@@ -4037,8 +3633,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u2622\u6838\u71c3\u9ed1\u732b\u2622/Blackcat",
-            "alias": "",
-            "position": "199",
             "notes": "!tag UM"
         },
         {
@@ -4057,8 +3651,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u7791\u4e38 \u30a4\u30cc\u30c1\u30e8/Meimaru Inuchiyo",
-            "alias": "",
-            "position": "200",
             "notes": "!tag UM\n!tag Momoyo\n!tag Music\n!tag EX\n!tag StageEX"
         },
         {
@@ -4077,8 +3669,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u2622\u6838\u71c3\u9ed1\u732b\u2622/Blackcat",
-            "alias": "",
-            "position": "201",
             "notes": "!tag SWR\n!tag Fighter\n!tag Spinoff\n!tag Music"
         },
         {
@@ -4097,8 +3687,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u30be\u30a6\u30ce\u30bb/ZOUNOSE",
-            "alias": "",
-            "position": "202",
             "notes": "!tag MoF"
         },
         {
@@ -4117,8 +3705,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u30d2\u30ce\u30d2\u30ab\u30ea/HinohikariPP",
-            "alias": "",
-            "position": "203",
             "notes": "!tag LLS\n!tag Yuuka\n!tag Stage5\n!tag Stage6\n!tag Music\n!tag PC-98\n!tag Playable"
         },
         {
@@ -4137,8 +3723,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "BmkRo",
-            "alias": "",
-            "position": "204",
             "notes": "!tag Reimu\n!tag Hakurei"
         },
         {
@@ -4157,8 +3741,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u3053\u305e\u3046/KOZOUSAN",
-            "alias": "",
-            "position": "205",
             "notes": "!tag Reimu\n!tag Marisa\n!tag Yuri\n!tag Gay"
         },
         {
@@ -4177,8 +3759,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "Atkdog",
-            "alias": "",
-            "position": "206",
             "notes": "!tag Reimu\n!tag Hakurei"
         },
         {
@@ -4197,8 +3777,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u62b9\u8336\u30ec\u30e2\u30f3/Matcha Lemon",
-            "alias": "",
-            "position": "207",
             "notes": "!tag TD\n!tag Yoshika\n!tag Music"
         },
         {
@@ -4217,8 +3795,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "Jan Husaren (Lightdragon)",
-            "alias": "",
-            "position": "208",
             "notes": "!tag Sakuya"
         },
         {
@@ -4237,8 +3813,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "SunnySideUp524",
-            "alias": "",
-            "position": "209",
             "notes": "!tag IaMP\n!tag Suika\n!tag Fighter\n!tag Spinoff"
         },
         {
@@ -4257,8 +3831,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u3079\u306b\u305f\u307e/benitama",
-            "alias": "",
-            "position": "210",
             "notes": "!tag Hakurei\n!tag Music"
         },
         {
@@ -4277,8 +3849,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u9752\u8449 HAL/aoHA",
-            "alias": "",
-            "position": "211",
             "notes": "!tag UFO\n!tag Myouren"
         },
         {
@@ -4297,8 +3867,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u9752\u8449 HAL/aoHA",
-            "alias": "",
-            "position": "212",
             "notes": "!tag LoLK"
         },
         {
@@ -4317,8 +3885,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u9752\u8449 HAL/aoHA",
-            "alias": "",
-            "position": "213",
             "notes": "!tag SA\n!tag Hell\n!tag Music"
         },
         {
@@ -4337,8 +3903,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "Justinas Vitkus",
-            "alias": "",
-            "position": "214",
             "notes": "!tag MoF"
         },
         {
@@ -4357,8 +3921,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "Kosi An",
-            "alias": "",
-            "position": "215",
             "notes": "!tag IN"
         },
         {
@@ -4377,8 +3939,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u5e02\u8449 \u8449\u5e02/Ichiba Youichi",
-            "alias": "",
-            "position": "216",
             "notes": "!tag LoLK\n!tag SSiB\n!tag CiLR\n!tag IN-extended\n!tag IN-all\n!tag Bougetsushou\n!tag Print\n!tag Moon"
         },
         {
@@ -4397,8 +3957,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "Kosi An",
-            "alias": "",
-            "position": "217",
             "notes": "!tag PoFV"
         },
         {
@@ -4417,8 +3975,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "U-Joe",
-            "alias": "",
-            "position": "218",
             "notes": "!tag MoF\n!tag Moriya\n!tag Moreya"
         },
         {
@@ -4437,8 +3993,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u30be\u30a6\u30ce\u30bb/ZOUNOSE",
-            "alias": "",
-            "position": "219",
             "notes": "!tag EoSD"
         },
         {
@@ -4457,8 +4011,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u3053\u305e\u3046/KOZOUSAN",
-            "alias": "",
-            "position": "220",
             "notes": "!exportname Unzan token\n!related Ichirin Kumoi"
         },
         {
@@ -4477,8 +4029,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u3080\u3089\u3061\u304d/purqleclair",
-            "alias": "",
-            "position": "221",
             "notes": "!tag IotMaIotE\n!tag IN-extended\n!tag IN-all\n!tag Bougetsushou\n!tag Eientei"
         },
         {
@@ -4497,8 +4047,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u30ab\u30e9\u30b9\u30de/humohumoelmo",
-            "alias": "",
-            "position": "222",
             "notes": "!related Tewi, White Rabbit of Inaba\n!related Helpful Bunnies\n!related Minoriko of Harvest Fruit\n!related Miyoi Okunoda"
         },
         {
@@ -4517,8 +4065,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u6adb\u7389\u30df\u30ca\u30ab/conceptxsystemturna",
-            "alias": "",
-            "position": "223",
             "notes": "!related Tewi, White Rabbit of Inaba"
         },
         {
@@ -4537,8 +4083,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u62bd\u98ce\u7537/Goingtobemad",
-            "alias": "",
-            "position": "224",
             "notes": "!tag CDS\n!tag FDS\n!tag Mizuchi\n!tag Print\n!tag Hell"
         },
         {
@@ -4557,8 +4101,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "Kappce & U-Joe",
-            "alias": "",
-            "position": "225",
             "notes": "!tag Print\n!tag Sangetsusei\n!tag SaBND"
         },
         {
@@ -4577,8 +4119,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u6d77\u6e90/KTx3rl8o",
-            "alias": "",
-            "position": "226",
             "notes": "!tag Satsuki"
         },
         {
@@ -4597,8 +4137,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u3048\u308d\u8c46/Eromame",
-            "alias": "",
-            "position": "227",
             "notes": "!tag Marisa\n!tag Charm"
         },
         {
@@ -4617,8 +4155,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "Shan",
-            "alias": "",
-            "position": "228",
             "notes": "!tag PCB\n!tag Yukari\n!tag Yakumo\n!tag Music"
         },
         {
@@ -4637,8 +4173,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u7cf8\u9ea6\u304f\u3093/Itomugi-kun",
-            "alias": "",
-            "position": "229",
             "notes": "!tag ULiL\n!tag Kasen\n!tag Spinoff\n!tag Music"
         },
         {
@@ -4657,8 +4191,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "shinigamiwyvern",
-            "alias": "",
-            "position": "230",
             "notes": "!tag SoEW\n!tag Marisa\n!tag Stage4\n!tag Music\n!tag PC-98\n!tag Playable"
         },
         {
@@ -4677,8 +4209,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u6d77\u6e90/KTx3rl8o",
-            "alias": "",
-            "position": "231",
             "notes": "!tag HRtP\n!tag Reimu\n!tag Hakurei\n!tag PC-98\n!tag Playable\n!tag Music"
         },
         {
@@ -4697,8 +4227,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u306e\u3070\u3082\u2606\u30d4\u30a8\u30eb\u30c0/Nobamo Pieruda",
-            "alias": "",
-            "position": "232",
             "notes": "!tag EoSD\n!tag Cirno\n!tag Music"
         },
         {
@@ -4717,8 +4245,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "ArikanRobo",
-            "alias": "",
-            "position": "233",
             "notes": "!related Exploitable Resources\n!related Hisami, Hells Invitation<2>\n!related Nazrin, Treasure Tracker\n!related Mike Goutokuji\n!related Iizunamaru, Daitengu\n!related Momoyo, Onyx Dragon-Eater<4>\n!related Sannyo Komakusa\n!related Sannyo Komakusa<2>\n!related Takane Yamashiro\n!related Kitten of Great Fortune"
         },
         {
@@ -4737,8 +4263,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u30b8\u30e7\u30a4\u30d5\u30eb/Joyfull",
-            "alias": "",
-            "position": "234",
             "notes": "!related Ibaraki-Douji\n!related Ibaraki Kasen, Complete<2>"
         },
         {
@@ -4757,8 +4281,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "Dilaih",
-            "alias": "",
-            "position": "235",
             "notes": "!related Shinki, Creator Goddess<2>"
         },
         {
@@ -4777,8 +4299,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u7791\u4e38 \u30a4\u30cc\u30c1\u30e8/Meimaru Inuchiyo",
-            "alias": "",
-            "position": "236",
             "notes": "!exportname Youkai \n!related Sekibanki<X>\n!tokentag BankiHead"
         },
         {
@@ -4797,8 +4317,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u30eb\u30d4\u30b926/CALPIS",
-            "alias": "",
-            "position": "237",
             "notes": "!related Flandre Scarlet<3>"
         },
         {
@@ -4817,8 +4335,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u307f\u306a\u307f \u3053\u3088\u304e/Minami Koyogi",
-            "alias": "",
-            "position": "238",
             "notes": "!related Lord Tenma<4>"
         },
         {
@@ -4837,8 +4353,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u3046\u3086\u304d/kupo_yuki",
-            "alias": "",
-            "position": "239",
             "notes": "!related Kikuri, Hellish Moon<2>\n!related Youmu, Netherworlds Blades\n!related Yuyuko, Mistress of Death<X>\n!related Border of Life<2>\n!related Phantom Ensemble<3>\n!related Ultimate Truth\n!related Komachi, Ferrywoman\n!related Ferryboat of the Dead\n!related Rin Kaenbyou\n!related Ghost Lead"
         },
         {
@@ -4857,8 +4371,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "0-DEN",
-            "alias": "",
-            "position": "240",
             "notes": "!related Reimu of Eastern Winds\n!related Maidens Capriccio<2>"
         },
         {
@@ -4877,8 +4389,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u6d77\u6e90/KTx3rl8o",
-            "alias": "",
-            "position": "241",
             "notes": "!related YuugenMagan<5>"
         },
         {
@@ -4897,8 +4407,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u30b9\u30a4\u30ab\u30ed\u30b9/suicarus",
-            "alias": "",
-            "position": "242",
             "notes": "!tokentag LivingBullet"
         },
         {
@@ -4917,8 +4425,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "Lorenzo Lanfranconi",
-            "alias": "",
-            "position": "243",
             "notes": "!related Wriggle Nightbug<2>"
         },
         {
@@ -4937,8 +4443,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u9ec4\u74dc/CetrioloCetos",
-            "alias": "",
-            "position": "244",
             "notes": "!related Love-Colored Magic<2>"
         },
         {
@@ -4957,8 +4461,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u3080\u3057\u3087\u304f53/musyoku666",
-            "alias": "",
-            "position": "245",
             "notes": "!related Maidens Capriccio"
         },
         {
@@ -4977,8 +4479,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u3053\u3068\u30a4\u30ca\u30ea/Koto Inari",
-            "alias": "",
-            "position": "246",
             "notes": "!related Suwako, Native God"
         },
         {
@@ -4997,8 +4497,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u304b\u3052\u304a/kagei_yu",
-            "alias": "",
-            "position": "247",
             "notes": "!related Iwakasa, Bearer of the Elixir<2>"
         },
         {
@@ -5017,8 +4515,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "Tushar Bhatnagar",
-            "alias": "",
-            "position": "248",
             "notes": "!related Zenki and Goki"
         },
         {
@@ -5037,8 +4533,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "RECARE1125",
-            "alias": "",
-            "position": "249",
             "notes": "!related Kokoro, Noh Embodied\n!tokentag RoyalMask"
         },
         {
@@ -5057,8 +4551,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u3042\u3068\u308a/yuriattribute",
-            "alias": "",
-            "position": "250",
             "notes": "!related Kokoro, Noh Embodied\n!tokentag MonsterMask"
         },
         {
@@ -5077,8 +4569,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u4e45\u84bc\u7a79/kyusoukyu",
-            "alias": "",
-            "position": "251",
             "notes": "!related Kokoro, Noh Embodied\n!tokentag SorcererMask"
         },
         {
@@ -5097,8 +4587,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u6d77\u6e90/KTx3rl8o",
-            "alias": "",
-            "position": "252",
             "notes": "!related Toutetsu, the Avaricious Beast<X>"
         },
         {
@@ -5117,8 +4605,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u7791\u4e38 \u30a4\u30cc\u30c1\u30e8/Meimaru Inuchiyo",
-            "alias": "",
-            "position": "253",
             "notes": "!related Mamizou, Tanuki Boss<2>\n!tokentag Tanuki"
         },
         {
@@ -5137,8 +4623,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u30c1\u30fc\u30ba\u30ed\u30eb/Cheese-roll",
-            "alias": "",
-            "position": "254",
             "notes": "!related Nazrin, Treasure Tracker\n!related Cheating Detective Satori<X>"
         },
         {
@@ -5157,8 +4641,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "Syuri22",
-            "alias": "",
-            "position": "255",
             "notes": "!related Saki Kurokoma<2>"
         },
         {
@@ -5177,8 +4659,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u3057\u3046\u3093/siun_5513",
-            "alias": "",
-            "position": "256",
             "notes": "!related Kosuzu, Curious Youth<3>\n!related Land of Faith and Fantasy\n!related Nemuno Sakata\n!related Mike Goutokuji"
         },
         {
@@ -5197,8 +4677,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u3059\u3044\u305b\u3064/suisetu10",
-            "alias": "",
-            "position": "257",
             "notes": "!tag EoSD"
         },
         {
@@ -5217,8 +4695,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "Muraryo",
-            "alias": "",
-            "position": "258",
             "notes": "!tag PoDD\n!tag Yumemi"
         },
         {
@@ -5237,8 +4713,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u79cb\u5dfb\u3086\u3046/Akimaki Yuu",
-            "alias": "",
-            "position": "259",
             "notes": "!tag CDS\n!tag FDS\n!tag Satori\n!tag Print\n!tag Chireiden\n!tag Hell"
         },
         {
@@ -5257,8 +4731,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u6d77\u6e90/KTx3rl8o",
-            "alias": "",
-            "position": "260",
             "notes": "!tag UB\n!tag Isami"
         },
         {
@@ -5277,8 +4749,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u672b\u6210/Suenari",
-            "alias": "",
-            "position": "261",
             "notes": "!tag Fighter\n!tag PoFV\n!tag Gameplay"
         },
         {
@@ -5297,8 +4767,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "Allcy49",
-            "alias": "",
-            "position": "262",
             "notes": "!tag PCB\n!tag Chen\n!tag Yakumo\n!tag Stage2"
         },
         {
@@ -5317,8 +4785,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u5fc3\u592a/Tokoroten",
-            "alias": "",
-            "position": "263",
             "notes": "!tag Gay\n!tag Yuri"
         },
         {
@@ -5337,8 +4803,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u5fc3\u592a/Tokoroten",
-            "alias": "",
-            "position": "264",
             "notes": "!tag Gay\n!tag Yuri"
         },
         {
@@ -5357,8 +4821,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u5fc3\u592a/Tokoroten",
-            "alias": "",
-            "position": "265",
             "notes": "!tag Gay\n!tag Yuri"
         },
         {
@@ -5377,8 +4839,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u5fc3\u592a/Tokoroten",
-            "alias": "",
-            "position": "266",
             "notes": "!tag Gay\n!tag Yuri"
         },
         {
@@ -5397,8 +4857,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u5fc3\u592a/Tokoroten",
-            "alias": "",
-            "position": "267",
             "notes": "!tag Gay\n!tag Yuri"
         },
         {
@@ -5417,8 +4875,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u6d77\u6e90/KTx3rl8o",
-            "alias": "",
-            "position": "268",
             "notes": ""
         },
         {
@@ -5437,8 +4893,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u30be\u30a6\u30ce\u30bb/ZOUNOSE",
-            "alias": "",
-            "position": "269",
             "notes": "!subname Agatha ChrisQ\n!exportname Agatha ChrisQ\n\n!tag FS\n!tag Akyuu\n!tag Print"
         },
         {
@@ -5457,8 +4911,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "zsefvgy",
-            "alias": "",
-            "position": "270",
             "notes": "!tag PoDD\n!tag Chiyuri\n!tag Phantasmagoria\n!tag PC-98\n!tag Playable\n!tag Music\n!tag Fanon"
         },
         {
@@ -5477,8 +4929,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "sakuremi",
-            "alias": "",
-            "position": "271",
             "notes": "!tag EoSD\n!tag Sakuya\n!tag Stage5\n!tag SDM\n!tag Playable"
         },
         {
@@ -5497,8 +4947,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u30af\u30ed\u30b9/Cross",
-            "alias": "",
-            "position": "272",
             "notes": "!tag IN"
         },
         {
@@ -5517,8 +4965,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u84b2\u8c37\u30ab\u30d0\u30c2/KABADIKARA",
-            "alias": "",
-            "position": "273",
             "notes": "!tag LoLK"
         },
         {
@@ -5537,8 +4983,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u3074\u3088\u5409/Piyokichi",
-            "alias": "",
-            "position": "274",
             "notes": "!tag FS\n!tag Print\n!tag Male"
         },
         {
@@ -5557,8 +5001,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u3053\u305e\u3046/KOZOUSAN",
-            "alias": "",
-            "position": "275",
             "notes": "!tag PCB\n!tag Alice\n!tag Shanghai\n!tag Hourai"
         },
         {
@@ -5577,8 +5019,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "there2007",
-            "alias": "",
-            "position": "276",
             "notes": "!tag Junko\n!tag LoLK\n!tag Music\n!tag Fanon"
         },
         {
@@ -5597,8 +5037,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "Eico",
-            "alias": "",
-            "position": "277",
             "notes": "!tag LoLK\n!tag Junko"
         },
         {
@@ -5617,8 +5055,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u3084\u3093\u30d1\u30a4/yanpai0",
-            "alias": "",
-            "position": "278",
             "notes": "!tag SFW\n!tag Spinoff\n!tag Hell\n!tag Music"
         },
         {
@@ -5637,8 +5073,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "Venomousblaze",
-            "alias": "",
-            "position": "279",
             "notes": "!tag MS\n!tag Shinki\n!tag PC-98"
         },
         {
@@ -5657,8 +5091,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u3042\u305a\u304d/Azuki_taste",
-            "alias": "",
-            "position": "280",
             "notes": "!tag SA\n!tag Yuugi\n!tag Stage4\n!tag Hell"
         },
         {
@@ -5669,7 +5101,7 @@
             "number": 206,
             "color_identity": "WBG",
             "cost": "{1}{W}{B}{G}",
-            "rules_text": "[+2]: Look at the top five cards of your library. You may reveal a creature card from among them and put it into your hand. Put the rest on the bottom of your library in any order.\n[0]: Kasen deals damage equal to her loyalty to target creature an opponent controls. That creature deals damage equal to its power to Kasen.\n[0]: If you both own and control Kasen, Seeking Herself and a creature named Ibaraki-Douji, exile them, then meld them into Ibaraki Kasen, Complete.",
+            "rules_text": "",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "[+2]: Look at the top five cards of your library. You may reveal a creature card from among them and put it into your hand. Put the rest on the bottom of your library in any order.\n[0]: Kasen deals damage equal to her loyalty to target creature an opponent controls. That creature deals damage equal to its power to Kasen.\n[0]: If you both own and control Kasen, Seeking Herself and a creature named Ibaraki-Douji, exile them, then meld them into Ibaraki Kasen, Complete.",
@@ -5677,19 +5109,16 @@
             "set": "2HU",
             "loyalty": "4",
             "artist": "\u6731\u5d0e \u7d2b\u7ae5/INSANITYFACTOR",
-            "alias": "",
-            "position": "281",
             "card_name2": "Ibaraki Kasen, Complete",
             "color2": "WBG",
             "type2": "Legendary Planeswalker \u2014 Kasen",
             "cost2": "",
-            "rules_text2": "\n[-1]: Exile target permanent.\n[-13]: Target opponent chooses up to one creature they control, then sacrifices all other nonland permanents they control.",
+            "rules_text2": "",
             "flavor_text2": "[i][/i]",
             "pt2": "",
             "special_text2": "\n[-1]: Exile target permanent.\n[-13]: Target opponent chooses up to one creature they control, then sacrifices all other nonland permanents they control.",
             "loyalty2": "8",
             "artist2": "\u6731\u5d0e \u7d2b\u7ae5/INSANITYFACTOR",
-            "alias2": "",
             "notes": "!sort pw\n!tag WaHH\n!tag ULiL\n!tag Kasen\n!tag Print\n!tag Fighter\n!tag Spinoff\n!tag Playable\n!tag Sage"
         },
         {
@@ -5708,8 +5137,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u2462\u89d2\u4ed9\u513f/Jiao xian er",
-            "alias": "",
-            "position": "282",
             "notes": "!tag UFO\n!tag Byakuren\n!tag Stage6\n!tag Myouren\n!tag Playable"
         },
         {
@@ -5728,8 +5155,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "ngra",
-            "alias": "",
-            "position": "283",
             "notes": "!tag UFO\n!tag Byakuren"
         },
         {
@@ -5748,8 +5173,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u30dc\u30fc\u30a4\u30d5\u30ec\u30f3\u30c9/exsul",
-            "alias": "",
-            "position": "284",
             "notes": "!tag Byakuren\n!tag UFO"
         },
         {
@@ -5768,8 +5191,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\uc544\ub530\ucabc\uae4c/ADDANOM",
-            "alias": "",
-            "position": "285",
             "notes": "!tag PCB\n!tag Alice\n!tag Hourai"
         },
         {
@@ -5788,8 +5209,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "Sachisu",
-            "alias": "",
-            "position": "286",
             "notes": "!tag Misumaru"
         },
         {
@@ -5808,8 +5227,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "Sachisu",
-            "alias": "",
-            "position": "287",
             "notes": ""
         },
         {
@@ -5828,8 +5245,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u30b7\u30f3\u30b4/Shingo",
-            "alias": "",
-            "position": "288",
             "notes": "!tag Meiling"
         },
         {
@@ -5848,8 +5263,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u7fbd\u3005\u65ac/U_U_ZAN",
-            "alias": "",
-            "position": "289",
             "notes": "!tag Minoriko\n!tag Aki"
         },
         {
@@ -5868,8 +5281,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u7cf8\u9ea6\u304f\u3093/Itomugi-kun",
-            "alias": "",
-            "position": "290",
             "notes": "!tag LoLK\n!tag Sagume"
         },
         {
@@ -5888,8 +5299,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "tojorin",
-            "alias": "",
-            "position": "291",
             "notes": "!tag Yuuka\n!tag PoFV"
         },
         {
@@ -5908,8 +5317,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u663c\u9593\u884c\u71c8/Hiruma Andon",
-            "alias": "",
-            "position": "292",
             "notes": "!tag MS\n!tag Alice\n!tag Music\n!tag Stage3\n!tag EX\n!tag StageEX\n!tag Makai\n!tag PC-98"
         },
         {
@@ -5928,8 +5335,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u3044\u3051\u3060\u308b\u308a\u3053/Ikeda Ruriko",
-            "alias": "",
-            "position": "293",
             "notes": "!tag LoLK\n!tag Doremy\n!tag Stage3\n!tag Playable\n!tag Music"
         },
         {
@@ -5948,9 +5353,7 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u3068\u3093\u3073/Tonbi",
-            "alias": "",
-            "position": "294",
-            "notes": "!tag EoSD\n!tag Flandre"
+            "notes": ""
         },
         {
             "card_name": "Miyoi, Geidontei's Poster Girl",
@@ -5968,8 +5371,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u4e03\u8272\u306e\u9ef4/NANAIRO NO KABI",
-            "alias": "",
-            "position": "295",
             "notes": "Onboard mulligan on combat, if troublesome consider Flash and gains this ability UEOT as per Grapple's advice\n\n!tag LE\n!tag Miyoi\n!tag Print"
         },
         {
@@ -5988,8 +5389,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "Arbizozoren",
-            "alias": "",
-            "position": "296",
             "notes": "!tag PMiSS\n!tag Yukari\n!tag Kasen\n!tag Okina\n!tag Sage"
         },
         {
@@ -6008,8 +5407,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u30c1\u30de\uff31/Chima Q",
-            "alias": "",
-            "position": "297",
             "notes": "!tag AoCF\n!tag Doremy"
         },
         {
@@ -6028,8 +5425,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u3057\u3087\u307a/Shope",
-            "alias": "",
-            "position": "298",
             "notes": "!tag Music"
         },
         {
@@ -6048,8 +5443,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "DennisDMenace",
-            "alias": "",
-            "position": "299",
             "notes": "!tag Cirno\n!tag Print\n!tag BAiJR"
         },
         {
@@ -6068,8 +5461,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "BEARLUXE",
-            "alias": "",
-            "position": "300",
             "notes": "!tag Kasen\n!tag Print\n!tag WaHH\n!tag Male"
         },
         {
@@ -6088,8 +5479,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "sun-3",
-            "alias": "",
-            "position": "301",
             "notes": ""
         },
         {
@@ -6108,8 +5497,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u9db4\u4e80/Tsurukame",
-            "alias": "",
-            "position": "302",
             "notes": "!tag DDC\n!tag Shinmyoumaru\n!tag Sukuna"
         },
         {
@@ -6128,8 +5515,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u304f\u3058\u3089\u30ed\u30fc\u30e9\u30f3/Kujira Lorant",
-            "alias": "",
-            "position": "303",
             "notes": "!tag Yuuka\n!tag Charm"
         },
         {
@@ -6148,8 +5533,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u897f\u5854\u9f0e/Saitou Kanae",
-            "alias": "",
-            "position": "304",
             "notes": "!tag Sanae\n!tag Charm"
         },
         {
@@ -6168,8 +5551,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "Amibazh",
-            "alias": "",
-            "position": "305",
             "notes": "!tag Tewi\n!tag Charm"
         },
         {
@@ -6188,8 +5569,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "Tojorin",
-            "alias": "",
-            "position": "306",
             "notes": "Buff mode 3?\n\n!tag Reimu\n!tag Hakurei\n!tag Charm"
         },
         {
@@ -6208,8 +5587,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u672b\u6210/SUENARI",
-            "alias": "",
-            "position": "307",
             "notes": "!tag Sage\n!tag Yukari\n!tag Okina\n!tag Kasen\n!tag Charm"
         },
         {
@@ -6228,8 +5605,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u5fc3\u592a/Tokoroten",
-            "alias": "",
-            "position": "308",
             "notes": "!tag Gay\n!tag Yuri"
         },
         {
@@ -6248,8 +5623,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u7791\u4e38 \u30a4\u30cc\u30c1\u30e8/Meimaru Inuchiyo",
-            "alias": "",
-            "position": "309",
             "notes": "!tag SA\n!tag Rin\n!tag Orin\n!tag Stage5\n!tag Chireiden\n!tag Hell\n!tag Playable\n!tag Music"
         },
         {
@@ -6268,8 +5641,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u3053\u305e\u3046/KOZOUSAN",
-            "alias": "",
-            "position": "310",
             "notes": "!tag PCB\n!tag Yuyuko\n!tag Stage6\n!tag Playable"
         },
         {
@@ -6288,8 +5659,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u6d77\u6e90/KTx3rl8o",
-            "alias": "",
-            "position": "311",
             "notes": "!tag HRtP\n!tag SinGyoku\n!tag PC-98\n!tag Music\n!tag Male"
         },
         {
@@ -6308,8 +5677,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u9b3c\u83cc/googerm",
-            "alias": "",
-            "position": "312",
             "notes": "!tag PCB\n!tag Yuyuko\n!tag Stage6"
         },
         {
@@ -6328,8 +5695,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u6d77\u6e90/KTx3rl8o",
-            "alias": "",
-            "position": "313",
             "notes": "!tag HRtP\n!tag Elis\n!tag Makai\n!tag PC-98"
         },
         {
@@ -6348,8 +5713,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u3046\u308f\u305a\u307f/Uwazumi",
-            "alias": "",
-            "position": "314",
             "notes": "!tag Hifuu\n!tag Maribel\n!tag Renko\n!tag CD\n!tag Gay\n!tag Yuri"
         },
         {
@@ -6368,8 +5731,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u3059\u308b\u3081\u308a/SURUMERI",
-            "alias": "",
-            "position": "315",
             "notes": "!tag PCB\n!tag Ran\n!tag Yakumo\n!tag EX\n!tag StageEX\n!tag Playable"
         },
         {
@@ -6388,8 +5749,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u30a4\u30c1\u30eb\u30ae/Ichirugi",
-            "alias": "",
-            "position": "316",
             "notes": "!tag Gameplay"
         },
         {
@@ -6408,8 +5767,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u30eb\u30ea\u30a2/MIYUKIRURIA",
-            "alias": "",
-            "position": "317",
             "notes": "!tag MoF\n!tag Suwako\n!tag EX\n!tag StageEX\n!tag Moriya\n!tag Moreya\n!tag Music\n!tag Playable"
         },
         {
@@ -6428,8 +5785,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u3086\u3046\u3084\u3051/@gyoniku0619",
-            "alias": "",
-            "position": "318",
             "notes": "!tag DDC"
         },
         {
@@ -6448,8 +5803,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "Sharp+",
-            "alias": "",
-            "position": "319",
             "notes": "!tag Marisa"
         },
         {
@@ -6468,8 +5821,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "Eico",
-            "alias": "",
-            "position": "320",
             "notes": "!tag PoDD\n!tag Phantasmagoria"
         },
         {
@@ -6488,8 +5839,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "Eico",
-            "alias": "",
-            "position": "321",
             "notes": "!tag PoFV\n!tag Phantasmagoria"
         },
         {
@@ -6508,8 +5857,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "speargsun",
-            "alias": "",
-            "position": "322",
             "notes": "!tag CoLA\n!tag Laika\n!tag Print"
         },
         {
@@ -6528,8 +5875,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u30ab\u30bf\u30b1\u30a4/wagocolo",
-            "alias": "",
-            "position": "323",
             "notes": "!tag LLS\n!tag Mugetsu\n!tag Music\n!tag EX\n!tag StageEX"
         },
         {
@@ -6548,8 +5893,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u305f\u3093\u305d/tanso_carbon",
-            "alias": "",
-            "position": "324",
             "notes": "!tag LLS\n!tag Gengetsu\n!tag Music\n!tag EX\n!tag StageEX"
         },
         {
@@ -6568,8 +5911,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "Nagihito",
-            "alias": "",
-            "position": "325",
             "notes": "!tag HRtP\n!tag SoEW\n!tag Mima\n!tag Stage6\n!tag Hell\n!tag PC-98\n!tag Playable"
         },
         {
@@ -6588,8 +5929,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "Lack",
-            "alias": "",
-            "position": "326",
             "notes": "!addtoken Unidentifiable;2\n!tag UFO\n!tag Nue\n!tag EX\n!tag StageEX\n!tag Music"
         },
         {
@@ -6608,8 +5947,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u304b\u308f\u3084\u3070\u3050/Kawayabug",
-            "alias": "",
-            "position": "327",
             "notes": "!exportname Manifest\n!tokentag Unidentifiable"
         },
         {
@@ -6628,8 +5965,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "Yeobi",
-            "alias": "",
-            "position": "328",
             "notes": "!tag SoEW\n!tag Rika\n!tag EX\n!tag StageEX"
         },
         {
@@ -6648,8 +5983,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u3051\u30fc\u305c/kezeyura",
-            "alias": "",
-            "position": "329",
             "notes": "!tag SoEW\n!tag Rika\n!tag Stage1"
         },
         {
@@ -6668,8 +6001,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "Y & M",
-            "alias": "",
-            "position": "330",
             "notes": "!tag SoEW\n!tag Rika\n!tag Stage1"
         },
         {
@@ -6688,8 +6019,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u8272\u622f\u5f69/Cotton",
-            "alias": "",
-            "position": "331",
             "notes": "!tag Hell"
         },
         {
@@ -6708,8 +6037,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u5e7b\u51cc_\u661f\u7fbd/@AyaRinSnow",
-            "alias": "",
-            "position": "332",
             "notes": "!tag EoSD\n!tag Music"
         },
         {
@@ -6728,8 +6055,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u3057\u306a\u3077\u3046/Shinapuu",
-            "alias": "",
-            "position": "333",
             "notes": "!tag Aya\n!tag Print\n!tag BAiJR"
         },
         {
@@ -6748,8 +6073,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u3072\u3060\u308a\u1240\u1325\u120e/@Lfracas",
-            "alias": "",
-            "position": "334",
             "notes": "!tag WbaWC\n!tag Music"
         },
         {
@@ -6768,8 +6091,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u3072\u3060\u308a\u1240\u1325\u120e/@Lfracas",
-            "alias": "",
-            "position": "335",
             "notes": "!tag PoFV\n!tag Music"
         },
         {
@@ -6788,8 +6109,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u30bf\u30fc\u30c8\u30eb\u541b/turtle-kun",
-            "alias": "",
-            "position": "336",
             "notes": "!tag SWR\n!tag Tenshi\n!tag Spinoff\n!tag Heaven"
         },
         {
@@ -6808,8 +6127,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u304d\u3083\u3079\u3063\u3053/Kyabemother",
-            "alias": "",
-            "position": "337",
             "notes": "!tag CDS\n!tag FDS\n!tag Mizuchi\n!tag Print"
         },
         {
@@ -6828,8 +6145,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u666e\u900f\u660e\u5ea6/Futoumeido",
-            "alias": "",
-            "position": "338",
             "notes": "!tag UM\n!tag Chimata\n!tag Stage6"
         },
         {
@@ -6848,8 +6163,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u6d77\u6e90/KTx3rl8o",
-            "alias": "",
-            "position": "339",
             "notes": "!tag FW\n!tag Ubame\n!tag Stage1"
         },
         {
@@ -6868,8 +6181,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u30be\u30a6\u30ce\u30bb/ZOUNOSE",
-            "alias": "",
-            "position": "340",
             "notes": "!addtoken Unidentifiable;2\n!tag FW\n!tag Chimi\n!tag Stage2\n!tag Music"
         },
         {
@@ -6888,8 +6199,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "Maisuiren",
-            "alias": "",
-            "position": "341",
             "notes": "!tag FW\n!tag Nareko\n!tag Stage3"
         },
         {
@@ -6908,8 +6217,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u30ce\u9593/MDM",
-            "alias": "",
-            "position": "342",
             "notes": "!tag HSiFS\n!tag Nemuno\n!tag Stage2"
         },
         {
@@ -6920,7 +6227,7 @@
             "number": 262,
             "color_identity": "WBR",
             "cost": "{3}{R}{W}{B}",
-            "rules_text": "[+2]: Choose a nonland card in your graveyard. Until end of turn, you may cast that card.\n[0]: Create two 2/2 black Demon creature tokens with menace.\n[-2]: Sacrifice a nonland permanent. Reveal cards from the top of your library until a nonland permanent card is revealed. Put that card onto the battlefield, then shuffle.\n[-12]: Each player chooses up to three lands they control and sacrifices the rest. Shinki deals 6 damage to each opponent and each non-Demon creature.",
+            "rules_text": "",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "[+2]: Choose a nonland card in your graveyard. Until end of turn, you may cast that card.\n[0]: Create two 2/2 black Demon creature tokens with menace.\n[-2]: Sacrifice a nonland permanent. Reveal cards from the top of your library until a nonland permanent card is revealed. Put that card onto the battlefield, then shuffle.\n[-12]: Each player chooses up to three lands they control and sacrifices the rest. Shinki deals 6 damage to each opponent and each non-Demon creature.",
@@ -6928,8 +6235,6 @@
             "set": "2HU",
             "loyalty": "6",
             "artist": "\u304f\u308a\u304a\u306d/KURIONE",
-            "alias": "",
-            "position": "343",
             "notes": "!sort pw\n!tag MS\n!tag Shikni\n!tag Stage6\n!tag Music\n!tag Makai"
         },
         {
@@ -6948,8 +6253,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "shiri fusang",
-            "alias": "",
-            "position": "344",
             "notes": "!tag UFO\n!tag Nue"
         },
         {
@@ -6968,8 +6271,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "13\u53f7",
-            "alias": "",
-            "position": "345",
             "notes": ""
         },
         {
@@ -6988,8 +6289,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u3072\u3060\u308a\u1240\u1325\u120e/@Lfracas",
-            "alias": "",
-            "position": "346",
             "notes": "!tag UM\n!tag Music"
         },
         {
@@ -7008,8 +6307,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "13\u53f7",
-            "alias": "",
-            "position": "347",
             "notes": "!tag FW"
         },
         {
@@ -7028,8 +6325,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "Xiirus",
-            "alias": "",
-            "position": "348",
             "notes": "!tag PoFV\n!tag Eiki\n!tag Shikieiki\n!tag Phantasmagoria\n!tag Hell\n!tag Playable"
         },
         {
@@ -7040,7 +6335,7 @@
             "number": 240,
             "color_identity": "UBG",
             "cost": "{3}{B}{G}{U}",
-            "rules_text": "[+2]: Draw a card, add one mana of any color, and lose 1 life.\n[-1]: Target creature gets +1/+1 until end of turn and can't be blocked this turn.\n[-5]: Sacrifice a creature, then gain control of target creature and put four +1/+1 counters on it.",
+            "rules_text": "",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "[+2]: Draw a card, add one mana of any color, and lose 1 life.\n[-1]: Target creature gets +1/+1 until end of turn and can't be blocked this turn.\n[-5]: Sacrifice a creature, then gain control of target creature and put four +1/+1 counters on it.",
@@ -7048,8 +6343,6 @@
             "set": "2HU",
             "loyalty": "6",
             "artist": "\u3079\u3089\u307c\u3046/BELLA_BOW",
-            "alias": "",
-            "position": "349",
             "notes": "!sort pw\n!tag HSiFS\n!tag Okina\n!tag Stage6\n!tag EX\n!tag StageEX\n!tag Sage"
         },
         {
@@ -7060,7 +6353,7 @@
             "number": 266,
             "color_identity": "WUR",
             "cost": "{1}{U}{R}{W}",
-            "rules_text": "[+1]: Surveil 2, then draw a card.\n[-2]: Target artifact deals damage equal to its mana value to target creature.\n[-7]: Exile up to three target instant, sorcery, artifact, or enchantment cards from your graveyard. Copy them. You may cast the copies without paying their mana costs.",
+            "rules_text": "",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "[+1]: Surveil 2, then draw a card.\n[-2]: Target artifact deals damage equal to its mana value to target creature.\n[-7]: Exile up to three target instant, sorcery, artifact, or enchantment cards from your graveyard. Copy them. You may cast the copies without paying their mana costs.",
@@ -7068,8 +6361,6 @@
             "set": "2HU",
             "loyalty": "4",
             "artist": "2VioletDetector",
-            "alias": "",
-            "position": "350",
             "notes": "!sort pw\n!tag ULiL\n!tag Sumireko\n!tag Fighter\n!tag Spinoff\n!tag Playable"
         },
         {
@@ -7080,16 +6371,14 @@
             "number": 281,
             "color_identity": "URG",
             "cost": "{2}{G}{U}{U}{R}",
-            "rules_text": "[+2]: Until your next turn, another target nonland permanent phases out.\n[-3]: Exile the top three cards of your library, then choose one. Until end of turn, you may play that card without paying its mana cost.\n[-10]: Choose any number of creature cards you own from outside the game and put them onto the battlefield.",
+            "rules_text": "",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[+2]: Until your next turn, another target nonland permanent phases out.\n[-3]: Exile the top three cards of your library, then choose one. Until end of turn, you may play that card without paying its mana cost.\n[-10]: Choose any number of creature cards you own from outside the game and put them onto the battlefield.",
+            "special_text": "[+2]: Until your next turn, target nonland permanent phases out.\n[-3]: Exile the top three cards of your library, then choose one. Until end of turn, you may play that card without paying its mana cost.\n[-10]: Choose any number of creature cards you own from outside the game and put them onto the battlefield.",
             "shape": "planeswalker",
             "set": "2HU",
             "loyalty": "5",
             "artist": "\u5922\u904a\u6230\u58eb/MENGYOU ZHANSHI",
-            "alias": "",
-            "position": "351",
             "notes": "!sort pw\n!tag PCB\n!tag Yukari\n!tag Yakumo\n!tag EX\n!tag Phantasm\n!tag StagePhantasm\n!tag Sage\n!tag Playable"
         },
         {
@@ -7100,7 +6389,7 @@
             "number": 280,
             "color_identity": "WU",
             "cost": "{W}{U}",
-            "rules_text": "Vigilance\nYuiman can't attack or block unless you have seven or more cards in your graveyard.\n{T}: Draw a card, then discard a card.",
+            "rules_text": "Vigilance\nYuiman can't attack or block unless you have seven or more cards in our graveyard.\n{T}: Draw a card, then discard a card.",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",
@@ -7108,8 +6397,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "rylu",
-            "alias": "",
-            "position": "352",
             "notes": "!tag FW\n!tag Yuiman\n!tag Stage4"
         },
         {
@@ -7128,8 +6415,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "cheeseroll8443",
-            "alias": "",
-            "position": "353",
             "notes": "!tag Ariya\n!tag FW\n!tag Stage6\n!tag Music"
         },
         {
@@ -7148,8 +6433,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u5e7b\u9a12\u30a2\u307d\u308d/Gensou Apollo",
-            "alias": "",
-            "position": "354",
             "notes": "!tag FW\n!tag Nina\n!tag EX\n!tag StageEX"
         },
         {
@@ -7168,8 +6451,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u6d77\u6e90/KTx3rl8o",
-            "alias": "",
-            "position": "355",
             "notes": "!tag FW\n!tag Yuiman"
         },
         {
@@ -7180,7 +6461,7 @@
             "number": 294,
             "color_identity": "WB",
             "cost": "{WB}",
-            "rules_text": "Flying\nWhenever an opponent loses life, you gain 1 life. This ability triggers only once each turn.",
+            "rules_text": "Flying\nWhenever an opponent loses life, you gain 1 life.",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
@@ -7188,8 +6469,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u6d77\u6e90/KTx3rl8o",
-            "alias": "",
-            "position": "356",
             "notes": "!tag SoEW\n!tag Stage2"
         },
         {
@@ -7208,8 +6487,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u6d77\u6e90/KTx3rl8o",
-            "alias": "",
-            "position": "357",
             "notes": "!tag LLS\n!tag Stage4"
         },
         {
@@ -7228,8 +6505,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u3053\u3086\u3073/Kyoubi",
-            "alias": "",
-            "position": "358",
             "notes": "!tag ULiL\n!tag Ichirin\n!tag Fighter\n!tag Spinoff"
         },
         {
@@ -7248,8 +6523,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "rasa",
-            "alias": "",
-            "position": "359",
             "notes": "!tag ULiL\n!tag Sumireko\n!tag Fighter\n!tag Spinoff"
         },
         {
@@ -7268,8 +6541,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u307e\u308b\u305f/min1223",
-            "alias": "",
-            "position": "360",
             "notes": "!tag ULiL\n!tag Futo\n!tag Fighter\n!tag Spinoff"
         },
         {
@@ -7288,8 +6559,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "RIN_reycamoy",
-            "alias": "",
-            "position": "361",
             "notes": "!tag ULiL\n!tag Mokou\n!tag Fighter\n!tag Spinoff"
         },
         {
@@ -7308,8 +6577,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u3053\u3068\u30a4\u30ca\u30ea/Koto Inari",
-            "alias": "",
-            "position": "362",
             "notes": "!tag ULiL\n!tag Shinmyoumaru\n!tag Sukuna\n!tag Fighter\n!tag Spinoff"
         },
         {
@@ -7328,9 +6595,7 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u5e7b\u51cc\u661f\u7fbd/AyaRinSnow",
-            "alias": "",
-            "position": "363",
-            "notes": "!tag PCB"
+            "notes": ""
         },
         {
             "card_name": "Manzairaku",
@@ -7348,9 +6613,7 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u30d4\u30e8/PIYOATTOMARK",
-            "alias": "",
-            "position": "364",
-            "notes": "!tag WaHH\n!tag Print\n!tag Male"
+            "notes": ""
         },
         {
             "card_name": "Trump Card",
@@ -7368,8 +6631,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "Mrs. GrimReaper",
-            "alias": "",
-            "position": "365",
             "notes": "!tag MS\n!tag EX\n!tag StageEX"
         },
         {
@@ -7380,7 +6641,7 @@
             "number": 104,
             "color_identity": "B",
             "cost": "{B}{B}",
-            "rules_text": "If one or more tokens would be created under your control, you may create that many 1/1 white Spirit creature tokens with flying instead.",
+            "rules_text": "Whenever you would create one or more tokens, you may create that many 1/1 white Spirit creature tokens with flying instead.",
             "flavor_text": "[i][/i]",
             "pt": "2/3",
             "special_text": "",
@@ -7388,8 +6649,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u65e6\u9ce5/akidori_yoku",
-            "alias": "",
-            "position": "366",
             "notes": "!tag TD\n!tag Yuyuko\n!tag Stage1\n!tag Music"
         },
         {
@@ -7408,8 +6667,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u6d77\u6e90/KTx3rl8o",
-            "alias": "",
-            "position": "367",
             "notes": "!tag FW\n!tag Toyohime\n!tag Stage5\n!tag Moon"
         },
         {
@@ -7428,8 +6685,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u306a\u305a\u306a\u3063\u304f/Nadrs Knack",
-            "alias": "",
-            "position": "368",
             "notes": "!tag StB\n!tag Aya\n!tag Playable\n!tag Tengu"
         },
         {
@@ -7448,8 +6703,6 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "\u6d77\u6e90/KTx3rl8o",
-            "alias": "",
-            "position": "369",
             "notes": "!tag IN\n!tag IN-all\n!tag Sakuya\n!tag Remilia\n!tag Playable\n!tag SDM"
         },
         {
@@ -7468,10 +6721,8 @@
             "set": "2HU",
             "loyalty": "",
             "artist": "jan_husaren",
-            "alias": "",
-            "position": "370",
             "notes": "!tag IN\n!tag IN-all\n!tag Youmu\n!tag Yuyuko\n!tag Playable"
         }
     ],
-    "version": 8
+    "version": 7
 }
