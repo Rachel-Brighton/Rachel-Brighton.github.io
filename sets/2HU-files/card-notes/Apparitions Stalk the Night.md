@@ -1,1 +1,0 @@
-[EoSD Stage 1 Boss - Apparitions Stalk the Night](https://www.youtube.com/watch?v=fd8IHH4Tz20)

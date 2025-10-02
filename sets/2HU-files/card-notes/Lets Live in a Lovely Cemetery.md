@@ -1,1 +1,0 @@
-[TD Stage 3 - Let's Live in a Lovely Cemetery](https://www.youtube.com/watch?v=GCNkLgRlgmQ)
