@@ -1,0 +1,1 @@
+[FW Final Boss - Because The Last One Is Used To It ~ Stone Goddess](https://www.youtube.com/watch?v=JVdPazb_ufs)
