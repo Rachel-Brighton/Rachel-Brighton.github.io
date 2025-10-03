@@ -1,4 +1,791 @@
-﻿VERSION 7 CHANGELOG
+﻿VERSION 9 CHANGELOG
+====================
+
+No changes.
+
+VERSION 8 CHANGELOG
+====================
+
+
+
+Graze
+
+Reimu Hakurei
+
+Marisa Kirisame
+
+Fantasy Nature
+
+Sanae, Living God
+
+Reisen, Lunatic Moon Rabbit
+
+Eirin, Sage of Hourai
+
+Kaguya, Lunatic Princess
+
+Mokou, Immortal Smoke
+
+God Forbid Women Do Anything
+
+Cirno, the Unnatural Chill
+
+Daiyousei
+
+Hong Meiling, the Rainbow Gate
+
+Koakuma
+
+Patchouli, the Unmoving Library
+
+Remilia, the Scarlet Devil
+
+Rumia, Apparition of Night
+
+Flandre Scarlet
+
+Son Biten
+
+Enoko Mitsugashira
+
+Chiyari Tenkajin
+
+Zanmu, the Unobstructed Light
+
+Hisami, Hell's Invitation
+
+Alice Margatroid
+
+Letty Whiterock
+
+Lily White
+
+The Prismriver Sisters
+
+Yatsuhashi and Benben
+
+Charming Domination
+
+Lullaby of a Deserted Hell
+
+Mamizou, Tanuki Boss
+
+Toutetsu, the Avaricious Beast
+
+Gouyoku Agent, Eagle
+
+Idolatrize World
+
+Border of Life
+
+Venerable Ancient Battlefield
+
+The Gensokyo the Gods Loved
+
+Lunatic Harlequin, Clownpiece
+
+Goddesses of Autumn
+
+Aya, Reporter of Fantasy
+
+Romantic Fall
+
+Autumnal Waterfall
+
+Yamame Kurodani
+
+Raiko, Pristine Beat
+
+Wicked Hermit, Seiga Kaku
+
+Maiden's Capriccio
+
+Love-Colored Magic
+
+Extend Ash
+
+Curtain Fire
+
+Zenki and Goki
+
+Hecatia Lapislazuli
+
+Cosmic Mind
+
+Cinderella Cage
+
+Extra Healthbar
+rules_text: Enchant creature
+Umbra armor [i](If enchanted permanent would be destroyed, instead remove all damage from it and destroy this Aura.)[/i]
+Enchanted creature has “Whenever an Aura attached to this creature goes to the graveyard from the battlefield, untap this creature and put a +1/+1 counter on it.” => Enchant creature
+Umbra armor [i](If enchanted permanent would be destroyed, instead remove all damage from it and destroy this Aura.)[/i]
+Enchanted creature has “Whenever an Aura attached to this creature is put into a graveyard, untap this creature and put a +1/+1 counter on it.”
+
+Wriggle Nightbug
+
+Mystia Lorelei
+
+Keine Kamishirasawa
+
+Tewi, White Rabbit of Inaba
+
+Medicine Melancholy
+
+Yuuka Kazami
+
+Komachi, Ferrywoman
+
+Judgement
+
+Kosuzu, Curious Youth
+
+Marisa and Alice
+
+Deaf to All but the Song
+
+Ore from the Age of the Gods
+
+Kitten of Great Fortune
+
+Reimu and Yukari
+
+Hina Kagiyama
+
+Nitori, Super Youkai Warhead
+
+Momiji Inubashiri
+
+Kanako, God of Progress
+
+Yoshika Miyako
+
+Kisume
+
+Parsee, Green-Eyed Monster
+
+Safe Zone
+
+Satori Komeiji
+
+Koishi Komeiji
+
+Iizunamaru, Daitengu
+
+Nazrin, Treasure Tracker
+
+Kogasa, Forgotten Umbrella
+
+Hatate Himekaidou
+
+Ichirin Kumoi
+
+Tenshi, Delinquent Celestial
+
+Captain Murasa
+
+Shou, Bishamonten's Light
+
+Kyouko Kasodani
+
+Tojiko, Thunder Soul
+
+Mononobe no Futo
+
+Miko, the Saint Reborn
+
+Wakasagihime
+
+Dynamic Entrance
+
+Utsuho Reiuji
+
+Scarlet Detonation
+
+Shanghai Doll
+
+Crazy Backup Dancers
+
+Sekibanki
+
+Kagerou, Bamboos Loup-Garou
+
+Seija, Bane of Gensokyo
+
+Sukuna of the Shining Needle
+
+Eternity Larva, Birth and Rebirth
+
+Aunn, Guardian Beast
+
+Narumi, Life Giver
+
+Seiran, Lunar Invader
+
+Ringo, Tactical Coordinator
+
+Sagume, the Reversed Fortune
+
+Fierce Fang, Wolf
+
+Kiketsus Sneak, Otter
+
+Eika Ebisu
+
+Urumi Ushizaki
+
+Kutaka, Hells Border Patrol
+
+Yachie Kicchou
+
+Kaguyas Impossible Request
+
+Mayumi Joutougu
+
+Namazu
+
+Keiki, the Sculptor God
+
+Saki Kurokoma
+rules_text: Flying, haste, trample
+Other creatures you control have trample.
+At the beginning of combat on your turn, create two 3/1 red Wolf Spirit creature tokens with haste and “This creature must attack each combat if able.” => Flying, trample, haste
+Other creatures you control have trample.
+At the beginning of combat on your turn, create two 3/1 red Wolf Spirit creature tokens with haste and “This creature must attack each combat if able.”
+
+Mike Goutokuji
+
+Takane Yamashiro
+
+Sannyo Komakusa
+
+Misumaru Tamatsukuri
+
+Tsukasa, Daitengu's Consultant
+
+YuugenMagan
+
+Kikuri, Hellish Moon
+
+Konngara, Astral Knight
+
+Sariel, Angel of Death
+rules_text: Flying, Vigilance, Menace
+If Sariel would be put into a graveyard from anywhere but the battlefield, exile her instead.
+[i]Then let us die together[/i] — At the beginning of your end step, if Sariel is in your graveyard, each opponent loses 3 life and you gain 3 life. => Flying, vigilance, menace
+If Sariel would be put into a graveyard from anywhere but the battlefield, exile her instead.
+[i]Then let us die together[/i] — At the beginning of your end step, if Sariel is in your graveyard, each opponent loses 3 life and you gain 3 life.
+
+Genji, the Venerated
+type: Legendary Creature — Elder Turtle => Legendary Creature — Turtle Advisor
+
+Rika, the Tank Girl
+
+Meira, Seeker of Dark Power
+
+Otherworld Defense Platform
+
+Bad Apple
+
+Iwakasa, Bearer of the Elixir
+
+Spellcard Declaration
+
+Item Collection Border
+
+Deep-Mountain Encounter
+
+Ellen, Eternal Unknowing
+
+Kana Anaberal
+
+Kotohime, Maniacal Princess
+
+Rikako Asakura
+
+Yumemi Okazaki
+
+Memento of the Avaricious Beast
+
+Unshou, the Fisherman
+
+Orange
+
+Kurumi, Keeper of the Lake
+
+Elly, Guardian of Mugenkan
+
+Sara, Gatekeeper of Makai
+
+Louise, Visitor from Makai
+
+Yuki and Mai
+
+Yumeko, Blade of Makai
+
+Iku Nagae
+
+Joon, Avaricious Pestilence
+
+Shion, Consuming Poverty
+
+Suika Ibuki
+
+Hieda no Akyuu
+
+Ibaraki-Douji
+
+Luna Child
+
+Youmu, Netherworlds Blades
+
+Reisen, the Junior
+
+This, Too, Is Yuri
+
+Knight of Nights
+
+Kokoro, Noh Embodied
+
+Rinnosuke Morichika
+
+Sunny Milk
+
+Star Sapphire
+
+Tokiko
+
+Junko, Pure Fury
+
+Toyohime, Divine Ward
+
+Yorihime, Divine Vessel
+
+Hakurei Ancestor
+
+Hisou Tensoku
+
+Layla, the Last Prismriver
+
+Lily Black
+
+Lord Tenma
+
+Nuclear Options
+
+Priestess of Pseudo Paradise
+
+The Coward Pierrot
+
+Youki, Konpaku Ancestor
+
+Choujuu Gigaku
+
+Panic Bomb
+
+Spellcard Capture
+
+Full Power Up!!
+
+Goliath Doll
+
+Bloom Nobly, Ink-Black Blossoms
+
+Ultimate Truth
+
+Phantom Ensemble
+
+Ferryboat of the Dead
+
+Giga Flare
+
+Ghost Lead
+
+Repurposed Rover
+
+Interdimensional Voyage
+
+The Palanquin Ship
+
+Drunk As I Like
+
+Fires of Hokkai
+
+Get Ahead Of Yourself
+
+Cursed Decoy Doll
+
+Land of Faith and Fantasy
+
+Gensokyo Accepts All
+
+Become Marketable
+
+Doll
+
+Exploitable Resources
+
+Momoyo, Onyx Dragon-Eater
+
+The Ground's Color is Yellow
+
+Vine of Wisteria
+
+Yuuka, Sleeping Terror
+
+Persuasion Needle
+
+Battle Bond
+
+Homing Option
+
+Let's Live in a Lovely Cemetery
+
+Aerodynamic Blades
+
+Throwing Mt. Togakushi
+
+Hakurei Shrine Grounds
+
+Myouren Temple Road
+
+Kaian Passageway
+
+Hellfire Mantle
+
+Youkai Mountain Ravine
+
+Human Village Streets
+
+Lunar Capitol Thoroughfare
+
+Nameless Hill
+
+Moreya Shrine Path
+
+Misty Lake Shores
+
+Unzan token
+
+Helpful Bunnies
+
+Food
+
+Rabbit
+
+The Jailbreak King
+
+Tsuchinoko
+
+Enigmatic Vestige
+
+Ordinary Magician's Charm
+
+Necrofantasia
+
+Battlefield of Hanazama
+
+Marisa of Scarlet Dreams
+
+Reimu of Eastern Winds
+
+Beloved Tomboyish Girl
+
+Treasure
+
+Skeleton
+
+Demon
+
+Youkai
+
+Vampire Noble
+
+Bird Youkai
+
+Spirit
+
+Orb
+
+Eye
+
+Manifest
+
+Insect
+
+Wizard
+
+Human Monk
+
+Mishaguji
+
+Soldier
+
+Bird
+
+Royal Role
+
+Monster Role
+
+Sorcerer Role
+
+Blood
+
+Dog
+
+Clue
+
+Wolf Spirit
+
+Youkai
+
+Error-Prone Maid
+
+Probability Collapse
+
+Cheating Detective Satori
+
+Rowdy Drunkard
+
+Player 2
+
+Chen, Servitor's Lackey
+
+Blood Drive
+
+Agatha ChrisQ
+
+Chiyuri, Sailor of Time
+
+Sakuya, Scarlet Guardian
+
+Moonlit Pursuit
+
+Lunar Reinforcements
+
+The Fortune-Teller
+
+Maiden's Bunraku
+
+Pristine Lunacy
+
+Purified
+
+Sea of Petroleum
+
+Devil's Recitation
+
+Yuugi, Old Hell's Might
+
+Kasen, Seeking Herself
+rules_text:  => [+2]: Look at the top five cards of your library. You may reveal a creature card from among them and put it into your hand. Put the rest on the bottom of your library in any order.
+[0]: Kasen deals damage equal to her loyalty to target creature an opponent controls. That creature deals damage equal to its power to Kasen.
+[0]: If you both own and control Kasen, Seeking Herself and a creature named Ibaraki-Douji, exile them, then meld them into Ibaraki Kasen, Complete.
+
+Byakuren, Superhuman
+
+Body Enhancement Magic
+
+Sorcerer's Sutra Scroll
+
+Hanged Hourai Doll
+
+Roving Orb
+
+Magician's Grimoire
+
+Tea Break
+
+Bumper Crop
+
+Incorruptible Perfection
+
+Parasol of the Flower Youkai
+
+Alice of Wonderland
+
+Doremy, Eternal Spring Dream
+
+Kyuu... BOOM~!
+
+Miyoi, Geidontei's Poster Girl
+
+Creation of Gensokyo
+
+Peak Performance
+
+100th Black Market
+
+Great Frog of the Pond
+
+Guard Tiger
+
+Take it Easy!
+
+You, Get Bigger!
+
+Flower Youkai's Charm
+
+Living God's Charm
+
+Lucky Rabbit's Charm
+
+Shrine Maiden's Charm
+
+Youkai Sages' Charm
+
+Rin, Hell's Traffic Accident
+
+Yuyuko, Mistress of Death
+
+SinGyoku, the Gatekeeper
+
+The Saigyou Ayakashi
+
+Elis, Innocence Devil
+
+The Secret Sealing Club
+
+Ran, Sage's Servitor
+
+Stage Transition
+
+Suwako, Native God
+
+Shining Needle Rebellion
+
+Master Spark
+
+Phantasmagoria of Dimensions
+
+Phantasmagoria of Flowers
+
+Laika, Lively Soul
+
+Mugetsu
+
+Gengetsu
+
+Mima, Complete Darkness
+
+Nue, Heian Alien
+
+Manifest
+
+Evil Eye Σ
+
+The Flower Tank
+
+Go-Shintank
+
+Vengeful Spirit
+
+A Dream More Scarlet
+
+Bunbunmaru Newspaper
+
+Unlocated Hell
+
+Where Flowers Reflect
+
+Peaches of Paradise
+
+Mizuchi, Traitor to Humanity
+
+Chimata, the Market God
+
+Ubame, Sanctuary's Protector
+
+Chimi, Ancient Abomination
+
+Nareko, the Altar's Warden
+
+Nemuno, Sanctuary Keeper
+
+Shinki, Infinite Being
+rules_text:  => [+2]: Choose a nonland card in your graveyard. Until end of turn, you may cast that card.
+[0]: Create two 2/2 black Demon creature tokens with menace.
+[-2]: Sacrifice a nonland permanent. Reveal cards from the top of your library until a nonland permanent card is revealed. Put that card onto the battlefield, then shuffle.
+[-12]: Each player chooses up to three lands they control and sacrifices the rest. Shinki deals 6 damage to each opponent and each non-Demon creature.
+
+Seed of Unknown Form
+
+Copy
+
+Obsolescent Industrial Remains
+
+Wonder Stone
+
+Eiki, Final Judge of Fate
+
+Okina, the Hidden God
+rules_text:  => [+2]: Draw a card, add one mana of any color, and lose 1 life.
+[-1]: Target creature gets +1/+1 until end of turn and can't be blocked this turn.
+[-5]: Sacrifice a creature, then gain control of target creature and put four +1/+1 counters on it.
+
+Sumireko Usami
+rules_text:  => [+1]: Surveil 2, then draw a card.
+[-2]: Target artifact deals damage equal to its mana value to target creature.
+[-7]: Exile up to three target instant, sorcery, artifact, or enchantment cards from your graveyard. Copy them. You may cast the copies without paying their mana costs.
+
+Yukari Yakumo
+rules_text:  => [+2]: Until your next turn, another target nonland permanent phases out.
+[-3]: Exile the top three cards of your library, then choose one. Until end of turn, you may play that card without paying its mana cost.
+[-10]: Choose any number of creature cards you own from outside the game and put them onto the battlefield.
+special_text: [+2]: Until your next turn, target nonland permanent phases out.
+[-3]: Exile the top three cards of your library, then choose one. Until end of turn, you may play that card without paying its mana cost.
+[-10]: Choose any number of creature cards you own from outside the game and put them onto the battlefield. => [+2]: Until your next turn, another target nonland permanent phases out.
+[-3]: Exile the top three cards of your library, then choose one. Until end of turn, you may play that card without paying its mana cost.
+[-10]: Choose any number of creature cards you own from outside the game and put them onto the battlefield.
+
+Yuiman, Data Purifier
+rules_text: Vigilance
+Yuiman can't attack or block unless you have seven or more cards in our graveyard.
+{T}: Draw a card, then discard a card. => Vigilance
+Yuiman can't attack or block unless you have seven or more cards in your graveyard.
+{T}: Draw a card, then discard a card.
+
+Ariya, Stone Goddess
+
+Nina, Newborn Apparition
+
+For the Glory of the Moon
+
+A Little Curse
+rules_text: Flying
+Whenever an opponent loses life, you gain 1 life. => Flying
+Whenever an opponent loses life, you gain 1 life. This ability triggers only once each turn.
+
+Child of Light
+
+Legend of the Eight-Foot Woman
+
+Legend of the Occult Balls
+
+Legend of the Haunted Well
+
+Legend of Spontaneous Combustion
+
+Legend of the Little Green Men
+
+Floating Fluffball
+
+Manzairaku
+
+Trump Card
+
+Yuyuko, Night Sakura's Spirit
+rules_text: Whenever you would create one or more tokens, you may create that many 1/1 white Spirit creature tokens with flying instead. => If one or more tokens would be created under your control, you may create that many 1/1 white Spirit creature tokens with flying instead.
+
+Toyohime, System Administrator
+
+Aya, Bullet Photographer
+
+Sakuya and Remilia
+
+Youmu and Yuyuko
+
+
+VERSION 7 CHANGELOG
 ====================
 
 Yuyuko, Night Sakura's Spirit added.
