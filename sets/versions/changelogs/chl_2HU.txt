@@ -1,4 +1,639 @@
-﻿VERSION 9 CHANGELOG
+﻿VERSION 10 CHANGELOG
+====================
+
+Yuuka of Dreamland added.
+Bewitching Lotus Flower added.
+
+Yuuka, Sleeping Terror removed.
+Necrofantasia removed.
+Battlefield of Hanazama removed.
+
+Komachi, Ferrywoman
+
+Judgement
+
+Kosuzu, Curious Youth
+
+Marisa and Alice
+
+Deaf to All but the Song
+
+Ore from the Age of the Gods
+
+Kitten of Great Fortune
+
+Reimu and Yukari
+
+Hina Kagiyama
+
+Nitori, Super Youkai Warhead
+
+Momiji Inubashiri
+
+Kanako, God of Progress
+
+Yoshika Miyako
+
+Kisume
+
+Parsee, Green-Eyed Monster
+
+Safe Zone
+
+Satori Komeiji
+
+Koishi Komeiji
+
+Iizunamaru, Daitengu
+
+Nazrin, Treasure Tracker
+
+Kogasa, Forgotten Umbrella
+
+Hatate Himekaidou
+
+Ichirin Kumoi
+
+Tenshi, Delinquent Celestial
+
+Captain Murasa
+
+Shou, Bishamonten's Light
+
+Kyouko Kasodani
+
+Tojiko, Thunder Soul
+
+Mononobe no Futo
+
+Miko, the Saint Reborn
+
+Wakasagihime
+
+Dynamic Entrance
+
+Utsuho Reiuji
+
+Scarlet Detonation
+
+Shanghai Doll
+
+Crazy Backup Dancers
+
+Sekibanki
+
+Kagerou, Bamboos Loup-Garou
+
+Seija, Bane of Gensokyo
+
+Sukuna of the Shining Needle
+
+Eternity Larva, Birth and Rebirth
+
+Aunn, Guardian Beast
+
+Narumi, Life Giver
+
+Seiran, Lunar Invader
+
+Ringo, Tactical Coordinator
+
+Sagume, the Reversed Fortune
+
+Fierce Fang, Wolf
+
+Kiketsus Sneak, Otter
+
+Eika Ebisu
+
+Urumi Ushizaki
+
+Kutaka, Hells Border Patrol
+
+Yachie Kicchou
+
+Kaguyas Impossible Request
+
+Mayumi Joutougu
+
+Namazu
+
+Keiki, the Sculptor God
+
+Saki Kurokoma
+
+Mike Goutokuji
+
+Takane Yamashiro
+
+Sannyo Komakusa
+
+Misumaru Tamatsukuri
+
+Tsukasa, Daitengu's Consultant
+
+YuugenMagan
+
+Kikuri, Hellish Moon
+
+Konngara, Astral Knight
+
+Sariel, Angel of Death
+
+Genji, the Venerated
+
+Rika, the Tank Girl
+
+Meira, Seeker of Dark Power
+
+Otherworld Defense Platform
+
+Bad Apple
+
+Iwakasa, Bearer of the Elixir
+
+Spellcard Declaration
+
+Item Collection Border
+
+Deep-Mountain Encounter
+
+Ellen, Eternal Unknowing
+
+Kana Anaberal
+
+Kotohime, Maniacal Princess
+
+Rikako Asakura
+
+Yumemi Okazaki
+
+Memento of the Avaricious Beast
+
+Unshou, the Fisherman
+
+Orange
+
+Kurumi, Keeper of the Lake
+
+Elly, Guardian of Mugenkan
+
+Sara, Gatekeeper of Makai
+
+Louise, Visitor from Makai
+
+Yuki and Mai
+
+Yumeko, Blade of Makai
+
+Iku Nagae
+
+Joon, Avaricious Pestilence
+
+Shion, Consuming Poverty
+
+Suika Ibuki
+
+Hieda no Akyuu
+
+Ibaraki-Douji
+
+Luna Child
+
+Youmu, Netherworlds Blades
+
+Reisen, the Junior
+
+This, Too, Is Yuri
+
+Knight of Nights
+
+Kokoro, Noh Embodied
+
+Rinnosuke Morichika
+
+Sunny Milk
+
+Star Sapphire
+
+Junko, Pure Fury
+
+Toyohime, Divine Ward
+
+Yorihime, Divine Vessel
+
+Hakurei Ancestor
+
+Hisou Tensoku
+
+Layla, the Last Prismriver
+
+Lily Black
+
+Lord Tenma
+
+Nuclear Options
+
+Priestess of Pseudo Paradise
+
+The Coward Pierrot
+rules_text: At the beginning of your end step, sacrifice another creature. When you do, put two +1/+1 counters on The Coward Pierrot and draw a card.
+The Coward Pierrot has menace as long as she has four or more counters on her, first strike as long as she has six or more, and indestructible as long as she has ten or more. => At the beginning of your end step, sacrifice another creature. When you do, put a +1/+1 counter on The Coward Pierrot and draw a card.
+The Coward Pierrot has menace as long as she has two or more counters on her, first strike as long as she has four or more, and indestructible as long as she has six or more.
+
+Youki, Konpaku Ancestor
+
+Choujuu Gigaku
+
+Panic Bomb
+
+Spellcard Capture
+
+Full Power Up!!
+
+Goliath Doll
+
+Bloom Nobly, Ink-Black Blossoms
+
+Ultimate Truth
+
+Phantom Ensemble
+
+Ferryboat of the Dead
+
+Giga Flare
+
+Ghost Lead
+
+Repurposed Rover
+
+Interdimensional Voyage
+
+The Palanquin Ship
+
+Drunk As I Like
+
+Fires of Hokkai
+
+Get Ahead Of Yourself
+
+Cursed Decoy Doll
+
+Land of Faith and Fantasy
+
+Gensokyo Accepts All
+
+Become Marketable
+
+Doll
+
+Exploitable Resources
+
+Momoyo, Onyx Dragon-Eater
+
+The Ground's Color is Yellow
+
+Vine of Wisteria
+
+Persuasion Needle
+
+Battle Bond
+
+Homing Option
+
+Let's Live in a Lovely Cemetery
+
+Aerodynamic Blades
+
+Throwing Mt. Togakushi
+
+Hakurei Shrine Grounds
+
+Myouren Temple Road
+
+Kaian Passageway
+
+Hellfire Mantle
+
+Youkai Mountain Ravine
+
+Human Village Streets
+
+Lunar Capitol Thoroughfare
+
+Nameless Hill
+
+Moreya Shrine Path
+
+Misty Lake Shores
+
+Unzan token
+
+Helpful Bunnies
+
+Food
+
+Rabbit
+
+The Jailbreak King
+
+Tsuchinoko
+
+Enigmatic Vestige
+
+Ordinary Magician's Charm
+
+Marisa of Scarlet Dreams
+
+Reimu of Eastern Winds
+
+Beloved Tomboyish Girl
+
+Treasure
+
+Skeleton
+
+Demon
+
+Youkai
+
+Vampire Noble
+
+Bird Youkai
+
+Spirit
+
+Orb
+
+Eye
+
+Manifest
+
+Insect
+
+Wizard
+
+Human Monk
+
+Mishaguji
+
+Soldier
+
+Bird
+
+Royal Role
+
+Monster Role
+
+Sorcerer Role
+
+Blood
+
+Dog
+
+Clue
+
+Wolf Spirit
+
+Youkai
+
+Error-Prone Maid
+
+Probability Collapse
+
+Cheating Detective Satori
+
+Rowdy Drunkard
+
+Player 2
+
+Chen, Servitor's Lackey
+
+Blood Drive
+type: Instant => Sorcery
+
+Agatha ChrisQ
+
+Chiyuri, Sailor of Time
+
+Sakuya, Scarlet Guardian
+
+Moonlit Pursuit
+
+Lunar Reinforcements
+
+The Fortune-Teller
+
+Maiden's Bunraku
+
+Pristine Lunacy
+
+Purified
+
+Sea of Petroleum
+
+Devil's Recitation
+
+Yuugi, Old Hell's Might
+
+Kasen, Seeking Herself
+
+Byakuren, Superhuman
+
+Body Enhancement Magic
+
+Sorcerer's Sutra Scroll
+
+Hanged Hourai Doll
+
+Roving Orb
+
+Magician's Grimoire
+
+Tea Break
+
+Bumper Crop
+
+Incorruptible Perfection
+
+Parasol of the Flower Youkai
+
+Alice of Wonderland
+
+Doremy, Eternal Spring Dream
+
+Kyuu... BOOM~!
+
+Miyoi, Geidontei's Poster Girl
+
+Creation of Gensokyo
+
+Peak Performance
+
+100th Black Market
+
+Great Frog of the Pond
+
+Guard Tiger
+
+Take it Easy!
+
+You, Get Bigger!
+
+Flower Youkai's Charm
+
+Living God's Charm
+
+Lucky Rabbit's Charm
+
+Shrine Maiden's Charm
+
+Youkai Sages' Charm
+
+Rin, Hell's Traffic Accident
+
+Yuyuko, Mistress of Death
+
+SinGyoku, the Gatekeeper
+
+The Saigyou Ayakashi
+
+Elis, Innocence Devil
+
+The Secret Sealing Club
+
+Ran, Sage's Servitor
+
+Stage Transition
+
+Suwako, Native God
+rules_text: Vigilance
+[i]Native Faith[/i] — Whenever Suwako enters or attacks, create a black Aura Curse enchantment token named Mishaguji attached to target opponent. It has enchant player and “At the beginning of your upkeep, enchanted player loses 1 life.” => Vigilance
+[i]Native Faith[/i] — Whenever Suwako enters or attacks, create a black Aura Curse enchantment token named Mishaguji attached to target opponent. It has enchant player and “At the beginning of enchanted player's upkeep, they lose 1 life.”
+
+Shining Needle Rebellion
+
+Master Spark
+
+Phantasmagoria of Dimensions
+
+Phantasmagoria of Flowers
+
+Laika, Lively Soul
+
+Mugetsu
+
+Gengetsu
+
+Mima, Complete Darkness
+
+Nue, Heian Alien
+
+Manifest
+
+Evil Eye Σ
+
+The Flower Tank
+
+Go-Shintank
+
+Vengeful Spirit
+
+A Dream More Scarlet
+
+Bunbunmaru Newspaper
+
+Unlocated Hell
+
+Where Flowers Reflect
+
+Peaches of Paradise
+
+Mizuchi, Traitor to Humanity
+
+Chimata, the Market God
+
+Ubame, Sanctuary's Protector
+
+Chimi, Ancient Abomination
+
+Nareko, the Altar's Warden
+
+Nemuno, Sanctuary Keeper
+
+Shinki, Infinite Being
+
+Seed of Unknown Form
+
+Copy
+
+Obsolescent Industrial Remains
+
+Wonder Stone
+
+Eiki, Final Judge of Fate
+
+Okina, the Hidden God
+
+Sumireko Usami
+
+Yukari Yakumo
+
+Yuiman, Data Purifier
+
+Ariya, Stone Goddess
+
+Nina, Newborn Apparition
+
+For the Glory of the Moon
+rules_text: Enchant creature
+Enchanted creature doesn't untap during its controller's untap step.
+Enchanted creature has “At the beginning of your upkeep, each opponent may surveil 1.” => Enchant creature
+Enchanted creature doesn't untap during its controller's untap step.
+Enchanted creature has “At the beginning of each opponent's upkeep, that player may surveil 1.”
+
+A Little Curse
+
+Child of Light
+
+Legend of the Eight-Foot Woman
+
+Legend of the Occult Balls
+
+Legend of the Haunted Well
+
+Legend of Spontaneous Combustion
+
+Legend of the Little Green Men
+
+Floating Fluffball
+
+Manzairaku
+
+Trump Card
+
+Yuyuko, Night Sakura's Spirit
+
+Toyohime, System Administrator
+
+Aya, Bullet Photographer
+
+Sakuya and Remilia
+
+Youmu and Yuyuko
+
+Yuuka Kazami
+cost: {1}{B}{G} => {1}{G}{G}{G}
+rules_text: Defender
+Yuuka may block an additional creature each combat.
+[i]Lovely Spark[/i] — {X}{B}{B}{G}{G}: Destroy target nonland permanent with mana value X. Activate only once. => [i]Gensokyo, Past and Present — [/i][i][/i]Whenever Yuuka enters or attacks, you may sacrifice a land. When you do, search your library for a land card and put it onto the battlefield, then shuffle.
+Yuuka gets +3/+3 as long as you control three or more basic lands and gets vigilance, trample, and reach as long as you control three or more nonbasic lands.
+
+Tokiko
+cost: {U} => {WU}
+
+
+VERSION 9 CHANGELOG
 ====================
 
 No changes.
