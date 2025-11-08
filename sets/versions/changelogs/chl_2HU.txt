@@ -1,4 +1,725 @@
-﻿VERSION 10 CHANGELOG
+﻿VERSION 11 CHANGELOG
+====================
+
+Primate Garden Depths added.
+Nameless Hillside added.
+Spread Shot added.
+Divine Spirits' Macrocosm added.
+Grassroots Youkai Networking added.
+Underworld Palace Halls added.
+Bakebake added.
+Rainfall Fairy added.
+Imperishable Night added.
+
+Aya, Reporter of Fantasy removed.
+Choujuu Gigaku removed.
+Hellfire Mantle removed.
+Youkai Mountain Ravine removed.
+Nameless Hill removed.
+Beloved Tomboyish Girl removed.
+Cheating Detective Satori removed.
+Mizuchi, Traitor to Humanity removed.
+
+Zanmu, the Unobstructed Light
+rules_text: Ward—Pay half your life, rounded down.
+[i]Accounted For[/i] — When Zanmu enters, until end of turn, all permanents and players lose protection and can't have or gain protection.
+[i]Manipulate Void[/i] — Whenever a player casts a spell without paying its mana cost, that player discards a card, then you draw a card. => Ward—Pay half your life, rounded down.
+[i]Accounted For[/i] — When Zanmu enters, until end of turn, all permanents and players lose protection and can't have or gain protection.
+[i]Manipulate [i]Void[/i][/i] — Whenever a player casts a spell without paying its mana cost, that player discards a card, then you draw a card.
+
+Romantic Fall
+
+Autumnal Waterfall
+
+Yamame Kurodani
+
+Raiko, Pristine Beat
+
+Wicked Hermit, Seiga Kaku
+
+Maiden's Capriccio
+
+Love-Colored Magic
+
+Extend Ash
+
+Curtain Fire
+
+Zenki and Goki
+
+Hecatia Lapislazuli
+
+Cosmic Mind
+rules_text: Draw three cards, then discard a card unless you control a legendary creature or planeswalker. => Draw three cards. Then discard a card unless you control a legendary creature or planeswalker.
+
+Cinderella Cage
+
+Extra Healthbar
+
+Wriggle Nightbug
+
+Mystia Lorelei
+
+Keine Kamishirasawa
+
+Tewi, White Rabbit of Inaba
+
+Medicine Melancholy
+
+Komachi, Ferrywoman
+
+Judgement
+
+Kosuzu, Curious Youth
+
+Marisa and Alice
+
+Deaf to All but the Song
+
+Ore from the Age of the Gods
+
+Kitten of Great Fortune
+
+Reimu and Yukari
+
+Hina Kagiyama
+
+Nitori, Super Youkai Warhead
+
+Momiji Inubashiri
+
+Kanako, God of Progress
+
+Yoshika Miyako
+
+Kisume
+
+Parsee, Green-Eyed Monster
+
+Safe Zone
+
+Satori Komeiji
+
+Koishi Komeiji
+
+Iizunamaru, Daitengu
+
+Nazrin, Treasure Tracker
+rules_text: Vigilance
+[i]Little Dowser General[/i] — Whenever Nazrin enters or attacks, investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this artifact: Draw a card.”)[/i]
+[i]Gold Detector[/i] — {T}, Sacrifice a Clue: Create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i] => Vigilance
+[i]Little Dowser General[/i] — Whenever Nazrin enters or attacks, investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i]
+[i]Gold Detector[/i] — {T}, Sacrifice a Clue: Create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+
+Kogasa, Forgotten Umbrella
+
+Hatate Himekaidou
+
+Ichirin Kumoi
+
+Tenshi, Delinquent Celestial
+
+Captain Murasa
+
+Shou, Bishamonten's Light
+
+Kyouko Kasodani
+
+Tojiko, Thunder Soul
+
+Mononobe no Futo
+
+Miko, the Saint Reborn
+
+Wakasagihime
+
+Dynamic Entrance
+
+Utsuho Reiuji
+
+Scarlet Detonation
+
+Shanghai Doll
+
+Crazy Backup Dancers
+
+Sekibanki
+
+Kagerou, Bamboos Loup-Garou
+
+Seija, Bane of Gensokyo
+
+Sukuna of the Shining Needle
+
+Eternity Larva, Birth and Rebirth
+
+Aunn, Guardian Beast
+
+Narumi, Life Giver
+
+Seiran, Lunar Invader
+
+Ringo, Tactical Coordinator
+
+Sagume, the Reversed Fortune
+
+Fierce Fang, Wolf
+
+Kiketsus Sneak, Otter
+
+Eika Ebisu
+
+Urumi Ushizaki
+
+Kutaka, Hells Border Patrol
+
+Yachie Kicchou
+
+Kaguyas Impossible Request
+
+Mayumi Joutougu
+
+Namazu
+
+Keiki, the Sculptor God
+
+Saki Kurokoma
+
+Mike Goutokuji
+rules_text: When Mike enters, choose one—
+• [i]Beckon Customers[/i] — Create a 1/1 black and red Youkai creature token.
+• [i]Beckon Wealth[/i] — If an opponent controls more lands than you, create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i] => When Mike enters, choose one—
+• [i]Beckon Customers[/i] — Create a 1/1 black and red Youkai creature token.
+• [i]Beckon Wealth[/i] — If an opponent controls more lands than you, create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+
+Takane Yamashiro
+
+Sannyo Komakusa
+
+Misumaru Tamatsukuri
+
+Tsukasa, Daitengu's Consultant
+
+YuugenMagan
+
+Kikuri, Hellish Moon
+
+Konngara, Astral Knight
+
+Sariel, Angel of Death
+
+Genji, the Venerated
+
+Rika, the Tank Girl
+type: Legendary Creature — Human Pilot => Legendary Creature — Human Pilot Artificer
+
+Meira, Seeker of Dark Power
+
+Otherworld Defense Platform
+
+Bad Apple
+
+Iwakasa, Bearer of the Elixir
+
+Spellcard Declaration
+
+Item Collection Border
+
+Deep-Mountain Encounter
+
+Ellen, Eternal Unknowing
+
+Kana Anaberal
+
+Kotohime, Maniacal Princess
+
+Rikako Asakura
+
+Yumemi Okazaki
+
+Memento of the Avaricious Beast
+
+Unshou, the Fisherman
+
+Orange
+rules_text: Reach => Reach
+{T}: Add {C}.
+pt: 2/3 => 2/2
+
+Kurumi, Keeper of the Lake
+
+Elly, Guardian of Mugenkan
+
+Sara, Gatekeeper of Makai
+
+Louise, Visitor from Makai
+
+Yuki and Mai
+
+Yumeko, Blade of Makai
+
+Iku Nagae
+
+Joon, Avaricious Pestilence
+
+Shion, Consuming Poverty
+
+Suika Ibuki
+
+Hieda no Akyuu
+
+Ibaraki-Douji
+
+Luna Child
+
+Youmu, Netherworlds Blades
+
+Reisen, the Junior
+
+This, Too, Is Yuri
+
+Knight of Nights
+
+Kokoro, Noh Embodied
+
+Rinnosuke Morichika
+
+Sunny Milk
+
+Star Sapphire
+
+Junko, Pure Fury
+
+Toyohime, Divine Ward
+
+Yorihime, Divine Vessel
+
+Hakurei Ancestor
+
+Hisou Tensoku
+
+Layla, the Last Prismriver
+
+Lily Black
+
+Lord Tenma
+
+Nuclear Options
+
+Priestess of Pseudo Paradise
+
+The Coward Pierrot
+
+Youki, Konpaku Ancestor
+
+Panic Bomb
+
+Spellcard Capture
+
+Full Power Up!!
+
+Goliath Doll
+
+Bloom Nobly, Ink-Black Blossoms
+
+Ultimate Truth
+
+Phantom Ensemble
+
+Ferryboat of the Dead
+
+Giga Flare
+
+Ghost Lead
+
+Repurposed Rover
+
+Interdimensional Voyage
+
+The Palanquin Ship
+
+Drunk As I Like
+
+Fires of Hokkai
+
+Get Ahead Of Yourself
+rules_text: As an additional cost to cast this spell, sacrifice a creature.
+Exile the top three cards of your library. Until the end of your next turn, you may play those cards. => As an additional cost to cast this spell, sacrifice a creature.
+Exile the top three cards of your library. Until your next turn, you may play those cards.
+
+Cursed Decoy Doll
+
+Land of Faith and Fantasy
+
+Gensokyo Accepts All
+
+Become Marketable
+
+Doll
+
+Exploitable Resources
+
+Momoyo, Onyx Dragon-Eater
+
+The Ground's Color is Yellow
+
+Vine of Wisteria
+
+Yuuka of Dreamland
+
+Persuasion Needle
+
+Battle Bond
+
+Homing Option
+
+Let's Live in a Lovely Cemetery
+
+Aerodynamic Blades
+
+Throwing Mt. Togakushi
+
+Hakurei Shrine Grounds
+
+Myouren Temple Road
+
+Kaian Passageway
+
+Human Village Streets
+
+Lunar Capitol Thoroughfare
+
+Moreya Shrine Path
+
+Misty Lake Shores
+
+Unzan token
+
+Helpful Bunnies
+rules_text: When this creature enters, tap up to one target creature.
+Whenever this creature becomes tapped, create a Food token. [i](It's an artifact with “{2}, {T}, Sacrifice this artifact: You gain 3 life.”)[/i] => When this creature enters, tap up to one target creature.
+Whenever this creature becomes tapped, create a Food token. [i](It's an artifact with “{2}, {T}, Sacrifice this token: You gain 3 life.”)[/i]
+
+Food
+
+Rabbit
+
+The Jailbreak King
+
+Tsuchinoko
+rules_text: When this creature enters, you may sacrifice a noncreature permanent. When you do, search your library for a basic land and put it onto the battlefield tapped, then shuffle. => When this creature enters, you may sacrifice a noncreature permanent. If you do, search your library for a basic land card and put it onto the battlefield tapped, then shuffle.
+
+Enigmatic Vestige
+
+Ordinary Magician's Charm
+
+Marisa of Scarlet Dreams
+
+Reimu of Eastern Winds
+
+Treasure
+
+Skeleton
+
+Demon
+
+Youkai
+
+Vampire Noble
+
+Bird Youkai
+
+Spirit
+
+Orb
+
+Eye
+
+Manifest
+
+Insect
+
+Wizard
+
+Human Monk
+
+Mishaguji
+
+Soldier
+
+Bird
+
+Royal Role
+
+Monster Role
+
+Sorcerer Role
+
+Blood
+
+Dog
+
+Clue
+
+Wolf Spirit
+
+Youkai
+
+Error-Prone Maid
+
+Probability Collapse
+
+Rowdy Drunkard
+
+Player 2
+
+Chen, Servitor's Lackey
+
+Blood Drive
+
+Agatha ChrisQ
+rules_text: When Agatha Chris”Q” enters, investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this artifact: Draw a card.”)[/i]
+{U}, Sacrifice Agatha Chris”Q”: Scry 2. => When Agatha Chris”Q” enters, investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i]
+{U}, Sacrifice Agatha Chris”Q”: Scry 2.
+
+Chiyuri, Sailor of Time
+
+Sakuya, Scarlet Guardian
+
+Moonlit Pursuit
+
+Lunar Reinforcements
+
+The Fortune-Teller
+
+Maiden's Bunraku
+
+Pristine Lunacy
+
+Purified
+
+Sea of Petroleum
+rules_text: This land enters tapped with two oil counters on it.
+{T}: Add {C}.
+[i]Memory of Fossil Energy — [/i]{T}, Remove an oil counter from this land: Add one mana of any color.
+[i]Memento of All Organisms[/i] — {1}, {T}, Remove an oil counter from this land: Create a Blood token. [i](It's an artifact with “{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.”)[/i] => This land enters tapped with two oil counters on it.
+{T}: Add {C}.
+[i]Memory of Fossil Energy — [/i]{T}, Remove an oil counter from this land: Add one mana of any color.
+[i]Memento of All Organisms[/i] — {1}, {T}, Remove an oil counter from this land: Create a Blood token. [i](It's an artifact with “{1}, {T}, Discard a card, Sacrifice this token: Draw a card.”)[/i]
+
+Devil's Recitation
+
+Yuugi, Old Hell's Might
+
+Kasen, Seeking Herself
+
+Byakuren, Superhuman
+
+Body Enhancement Magic
+
+Sorcerer's Sutra Scroll
+
+Hanged Hourai Doll
+
+Roving Orb
+
+Magician's Grimoire
+
+Tea Break
+rules_text: Target creature gains hexproof until end of turn.
+Create a Food token. [i](It's an artifact with “{2}, {T}, Sacrifice this artifact: You gain 3 life.”)[/i] => Target creature gains hexproof until end of turn.
+Create a Food token. [i](It's an artifact with “{2}, {T}, Sacrifice this token: You gain 3 life.”)[/i]
+
+Bumper Crop
+rules_text: Search your library for a land card, put that card onto the battlefield tapped, then shuffle.
+Then if you control three or more basic lands, create two Food tokens. [i](They're artifacts with “{2}, {T}, Sacrifice this artifact: You gain 3 life.”)[/i] => Search your library for a land card, put that card onto the battlefield tapped, then shuffle.
+Then if you control three or more basic lands, create two Food tokens. [i](They're artifacts with “{2}, {T}, Sacrifice this token: You gain 3 life.”)[/i]
+
+Incorruptible Perfection
+
+Parasol of the Flower Youkai
+
+Alice of Wonderland
+
+Doremy, Eternal Spring Dream
+
+Kyuu... BOOM~!
+
+Miyoi, Geidontei's Poster Girl
+type: Legendary Creature — Youkai => Legendary Creature — Youkai Spirit
+rules_text: When Miyoi enters, create two Food tokens. [i](They're artifacts with “{2}, {T}, Sacrifice this artifact: You gain 3 life.”)[/i]
+Foods you control have “{2}, {T}, Sacrifice this artifact: Prevent all damage that would be dealt to or by target creature this turn. Put a +1/+1 counter on it.” => When Miyoi enters, create two Food tokens. [i](They're artifacts with “{2}, {T}, Sacrifice this token: You gain 3 life.”)[/i]
+Foods you control have “{2}, {T}, Sacrifice this artifact: Prevent all damage that would be dealt to or by target creature this turn. Put a +1/+1 counter on it.”
+
+Creation of Gensokyo
+
+Peak Performance
+
+100th Black Market
+
+Great Frog of the Pond
+
+Guard Tiger
+
+Take it Easy!
+
+You, Get Bigger!
+
+Flower Youkai's Charm
+
+Living God's Charm
+
+Lucky Rabbit's Charm
+
+Shrine Maiden's Charm
+
+Youkai Sages' Charm
+
+Rin, Hell's Traffic Accident
+
+Yuyuko, Mistress of Death
+
+SinGyoku, the Gatekeeper
+
+The Saigyou Ayakashi
+
+Elis, Innocence Devil
+
+The Secret Sealing Club
+
+Ran, Sage's Servitor
+
+Stage Transition
+
+Suwako, Native God
+
+Shining Needle Rebellion
+
+Master Spark
+
+Phantasmagoria of Dimensions
+
+Phantasmagoria of Flowers
+
+Laika, Lively Soul
+
+Mugetsu
+
+Gengetsu
+
+Mima, Complete Darkness
+
+Nue, Heian Alien
+
+Manifest
+
+Evil Eye Σ
+
+The Flower Tank
+
+Go-Shintank
+
+Vengeful Spirit
+rules_text: This creature can't block.
+Whenever a non-Spirit creature you control dies, you may pay 2 life. When you do, return this creature from your graveyard to the battlefield. => This creature can't block.
+Whenever a non-Spirit creature you control dies, you may pay {B} and 2 life. If you do, return this creature from your graveyard to the battlefield.
+
+A Dream More Scarlet
+
+Bunbunmaru Newspaper
+
+Unlocated Hell
+
+Where Flowers Reflect
+
+Peaches of Paradise
+
+Chimata, the Market God
+rules_text: [i]Return Everything to Nothing — [/i]When Chimata enters, if it was cast, exile all other nonland permanents. Starting with you, each player may put a card exiled this way onto the battlefield under their control. => [i]Return Everything to Nothing — [/i]When Chimata enters, if she was cast, exile all other nonland permanents. Starting with you, each player may put a card exiled this way onto the battlefield under their control.
+
+Ubame, Sanctuary's Protector
+
+Chimi, Ancient Abomination
+
+Nareko, the Altar's Warden
+
+Nemuno, Sanctuary Keeper
+
+Shinki, Infinite Being
+
+Seed of Unknown Form
+
+Copy
+
+Obsolescent Industrial Remains
+
+Wonder Stone
+
+Eiki, Final Judge of Fate
+
+Okina, the Hidden God
+
+Sumireko Usami
+
+Yukari Yakumo
+
+Yuiman, Data Purifier
+
+Ariya, Stone Goddess
+
+Nina, Newborn Apparition
+
+For the Glory of the Moon
+
+A Little Curse
+
+Child of Light
+
+Legend of the Eight-Foot Woman
+
+Legend of the Occult Balls
+
+Legend of the Haunted Well
+
+Legend of Spontaneous Combustion
+
+Legend of the Little Green Men
+rules_text: When this creature enters, if it was cast, choose one for each basic land you control. You may choose the same mode more than once.
+• Untap target creature.
+• Put a +1/+1 counter on target creature.
+• Create a token that's a copy of this creature. => When this creature enters, if it was cast, choose one. If you control three or more basic lands, choose any number.
+• Untap target creature.
+• Put a +1/+1 counter on target creature.
+• Create a token that's a copy of this creature.
+
+Floating Fluffball
+
+Manzairaku
+
+Trump Card
+rules_text: Whenever this creature enters or dies, look at the top three cards of your library. Put one into your hand and the others into your graveyard. => Whenever this creature dies, look at the top three cards of your library. Put one into your hand and the others into your graveyard.
+
+Yuyuko, Night Sakura's Spirit
+
+Toyohime, System Administrator
+
+Aya, Bullet Photographer
+
+Sakuya and Remilia
+
+Youmu and Yuyuko
+
+Bewitching Lotus Flower
+
+Yuuka Kazami
+rules_text: [i]Gensokyo, Past and Present — [/i][i][/i]Whenever Yuuka enters or attacks, you may sacrifice a land. When you do, search your library for a land card and put it onto the battlefield, then shuffle.
+Yuuka gets +3/+3 as long as you control three or more basic lands and gets vigilance, trample, and reach as long as you control three or more nonbasic lands. => [i]Gensokyo, Past and Present[/i] — Whenever Yuuka enters or attacks, you may sacrifice a land. When you do, search your library for a land card and put it onto the battlefield, then shuffle.
+Yuuka gets +3/+3 as long as you control three or more basic lands and gets vigilance, trample, and reach as long as you control three or more nonbasic lands.
+
+Tokiko
+
+
+VERSION 10 CHANGELOG
 ====================
 
 Yuuka of Dreamland added.
