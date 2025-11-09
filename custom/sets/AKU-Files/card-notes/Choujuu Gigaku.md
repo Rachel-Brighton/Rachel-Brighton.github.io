@@ -1,0 +1,1 @@
+[Translated lyrics from Shout It Out Loud!!! by Akatsuki Records](https://www.youtube.com/watch?v=cR4ea7fcbG0)

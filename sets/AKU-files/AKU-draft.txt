@@ -1,0 +1,552 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Sea of Tranquility",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Plains Island",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/0.png"
+			}
+		},
+		{
+			"name": "Genbu Ravine",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Forest Island",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/1.png"
+			}
+		},
+		{
+			"name": "Wonderful Heaven",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Mountain Plains",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/2.png"
+			}
+		},
+		{
+			"name": "Land of the Backdoor",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Island Swamp",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/3.png"
+			}
+		},
+		{
+			"name": "Probability Space Hypervessel",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Island Mountain",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/4.png"
+			}
+		},
+		{
+			"name": "Now, Until Your Final Breath",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/5.png"
+			}
+		},
+		{
+			"name": "Apparitions Stalk the Night",
+			"rarity": "common",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/6.png"
+			}
+		},
+		{
+			"name": "Nightstalker",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Nightstalker",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/7.png"
+			}
+		},
+		{
+			"name": "The White Rabbit's Trick",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/8.png"
+			}
+		},
+		{
+			"name": "The Purest Sky and Sea",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/9.png"
+			}
+		},
+		{
+			"name": "Ancient Sanctuary",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Swamp Forest",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/10.png"
+			}
+		},
+		{
+			"name": "Silent Sinner in Blue",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Saga",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/11.png"
+			}
+		},
+		{
+			"name": "Curiosities of Lotus Asia",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment — Saga",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/12.png"
+			}
+		},
+		{
+			"name": "Forbidden Scrollery",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Enchantment — Saga",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/13.png"
+			}
+		},
+		{
+			"name": "Visionary Fairies in Shrine",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Enchantment — Saga",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/14.png"
+			}
+		},
+		{
+			"name": "Wild and Horned Hermit",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Enchantment — Saga",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/15.png"
+			}
+		},
+		{
+			"name": "Magic is All About Power",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/16.png"
+			}
+		},
+		{
+			"name": "Hellfire Mantle",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Swamp Mountain",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/17.png"
+			}
+		},
+		{
+			"name": "Netherworld Gates",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Plains Swamp",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/18.png"
+			}
+		},
+		{
+			"name": "Garden of the Sun",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Forest Plains",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/19.png"
+			}
+		},
+		{
+			"name": "Youkai Mountain",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Mountain Forest",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/20.png"
+			}
+		},
+		{
+			"name": "Yuuma, Blood Titan",
+			"rarity": "mythic",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Legendary Creature — Giant Goat Spirit",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/21.png"
+			}
+		},
+		{
+			"name": "Immemorial Marketeer",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Enchantment",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/22.png"
+			}
+		},
+		{
+			"name": "Hidden Star in All Seasons",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Enchantment",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/23.png"
+			}
+		},
+		{
+			"name": "Solar Sect of Mystic Wisdom",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Enchantment",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/24.png"
+			}
+		},
+		{
+			"name": "Grave of Being",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Enchantment",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/25.png"
+			}
+		},
+		{
+			"name": "The Gensokyo Chronicle",
+			"rarity": "mythic",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Legendary Enchantment Artifact",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/26.png"
+			}
+		},
+		{
+			"name": "Cheating Detective Satori",
+			"rarity": "rare",
+			"mana_cost": "{U}{B}",
+			"type": "Legendary Creature — Youkai Detective",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/27.png"
+			}
+		},
+		{
+			"name": "Aya, Reporter of Fantasy",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Legendary Creature — Bird Youkai",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/28.png"
+			}
+		},
+		{
+			"name": "Mizuchi, Traitor to Humanity",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Legendary Creature — Human Deserter",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/29.png"
+			}
+		},
+		{
+			"name": "Reimu, Spirits' Grudge",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{W}{B}",
+			"type": "Legendary Creature — Human Spirit Monk",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/30.png"
+			}
+		},
+		{
+			"name": "Mysterious Medicine Merchant",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Legendary Creature — Rabbit Youkai",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/31.png"
+			}
+		},
+		{
+			"name": "Kappa Tinkerers",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Turtle Youkai Artificer",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/32.png"
+			}
+		},
+		{
+			"name": "Choujuu Gigaku",
+			"rarity": "rare",
+			"mana_cost": "{U}{B}{R}",
+			"type": "Legendary Creature — Youkai Rebel Bard",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/33.png"
+			}
+		},
+		{
+			"name": "Remote-Work Zashiki-Warashi",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Youkai Spirit",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/34.png"
+			}
+		},
+		{
+			"name": "Helpful Hofgoblin",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Goblin",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/35.png"
+			}
+		},
+		{
+			"name": "Lord Tenma's Command",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Instant",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/36.png"
+			}
+		},
+		{
+			"name": "Those Were Good Pills",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Sorcery",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/37.png"
+			}
+		},
+		{
+			"name": "Thirst for Companionship",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/38.png"
+			}
+		},
+		{
+			"name": "Reduce to Vapor",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Instant",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/39.png"
+			}
+		},
+		{
+			"name": "Fairy Menace",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Faerie Pest",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/40.png"
+			}
+		},
+		{
+			"name": "Twin Spark",
+			"rarity": "mythic",
+			"mana_cost": "{X}{G}{G}",
+			"type": "Legendary Instant",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/41.png"
+			}
+		}
+	]
+
+[rare(1)]
+	2 Now, Until Your Final Breath
+	1 Magic is All About Power
+	1 Yuuma, Blood Titan
+	2 Immemorial Marketeer
+	2 Hidden Star in All Seasons
+	2 Solar Sect of Mystic Wisdom
+	2 Grave of Being
+	1 The Gensokyo Chronicle
+	2 Cheating Detective Satori
+	2 Aya, Reporter of Fantasy
+	2 Mizuchi, Traitor to Humanity
+	2 Reimu, Spirits' Grudge
+	2 Mysterious Medicine Merchant
+	2 Choujuu Gigaku
+	1 Lord Tenma's Command
+	1 Twin Spark
+[uncommon(3)]
+	4 Sea of Tranquility
+	4 Genbu Ravine
+	4 Wonderful Heaven
+	4 Land of the Backdoor
+	4 Probability Space Hypervessel
+	4 Ancient Sanctuary
+	4 Silent Sinner in Blue
+	4 Curiosities of Lotus Asia
+	4 Forbidden Scrollery
+	4 Visionary Fairies in Shrine
+	4 Wild and Horned Hermit
+	4 Hellfire Mantle
+	4 Netherworld Gates
+	4 Garden of the Sun
+	4 Youkai Mountain
+[common(7)]
+	8 Apparitions Stalk the Night
+	8 The White Rabbit's Trick
+	8 The Purest Sky and Sea
+	8 Kappa Tinkerers
+	8 Remote-Work Zashiki-Warashi
+	8 Helpful Hofgoblin
+	8 Those Were Good Pills
+	8 Thirst for Companionship
+	8 Reduce to Vapor
+	8 Fairy Menace
+[foil(1)]
+	6 Sea of Tranquility
+	6 Genbu Ravine
+	6 Wonderful Heaven
+	6 Land of the Backdoor
+	6 Probability Space Hypervessel
+	2 Now, Until Your Final Breath
+	12 Apparitions Stalk the Night
+	12 The White Rabbit's Trick
+	12 The Purest Sky and Sea
+	6 Ancient Sanctuary
+	6 Silent Sinner in Blue
+	6 Curiosities of Lotus Asia
+	6 Forbidden Scrollery
+	6 Visionary Fairies in Shrine
+	6 Wild and Horned Hermit
+	1 Magic is All About Power
+	6 Hellfire Mantle
+	6 Netherworld Gates
+	6 Garden of the Sun
+	6 Youkai Mountain
+	1 Yuuma, Blood Titan
+	2 Immemorial Marketeer
+	2 Hidden Star in All Seasons
+	2 Solar Sect of Mystic Wisdom
+	2 Grave of Being
+	1 The Gensokyo Chronicle
+	2 Cheating Detective Satori
+	2 Aya, Reporter of Fantasy
+	2 Mizuchi, Traitor to Humanity
+	2 Reimu, Spirits' Grudge
+	2 Mysterious Medicine Merchant
+	12 Kappa Tinkerers
+	2 Choujuu Gigaku
+	12 Remote-Work Zashiki-Warashi
+	12 Helpful Hofgoblin
+	1 Lord Tenma's Command
+	12 Those Were Good Pills
+	12 Thirst for Companionship
+	12 Reduce to Vapor
+	12 Fairy Menace
+	1 Twin Spark
+[wildcard(1)]
+	15 Sea of Tranquility
+	15 Genbu Ravine
+	15 Wonderful Heaven
+	15 Land of the Backdoor
+	15 Probability Space Hypervessel
+	7 Now, Until Your Final Breath
+	6 Apparitions Stalk the Night
+	6 The White Rabbit's Trick
+	6 The Purest Sky and Sea
+	15 Ancient Sanctuary
+	15 Silent Sinner in Blue
+	15 Curiosities of Lotus Asia
+	15 Forbidden Scrollery
+	15 Visionary Fairies in Shrine
+	15 Wild and Horned Hermit
+	4 Magic is All About Power
+	15 Hellfire Mantle
+	15 Netherworld Gates
+	15 Garden of the Sun
+	15 Youkai Mountain
+	4 Yuuma, Blood Titan
+	7 Immemorial Marketeer
+	7 Hidden Star in All Seasons
+	7 Solar Sect of Mystic Wisdom
+	7 Grave of Being
+	4 The Gensokyo Chronicle
+	7 Cheating Detective Satori
+	7 Aya, Reporter of Fantasy
+	7 Mizuchi, Traitor to Humanity
+	7 Reimu, Spirits' Grudge
+	7 Mysterious Medicine Merchant
+	6 Kappa Tinkerers
+	7 Choujuu Gigaku
+	6 Remote-Work Zashiki-Warashi
+	6 Helpful Hofgoblin
+	4 Lord Tenma's Command
+	6 Those Were Good Pills
+	6 Thirst for Companionship
+	6 Reduce to Vapor
+	6 Fairy Menace
+	4 Twin Spark

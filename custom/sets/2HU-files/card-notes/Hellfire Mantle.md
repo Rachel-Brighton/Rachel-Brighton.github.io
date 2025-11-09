@@ -1,1 +1,0 @@
-[SA Final Stage - Hellfire Mantle](https://www.youtube.com/watch?v=yILFWxwKD0I)
