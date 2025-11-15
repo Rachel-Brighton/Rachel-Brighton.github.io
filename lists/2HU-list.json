@@ -1204,14 +1204,14 @@
     "a->gold",
     {
         "card_name": "Mugetsu",
-        "number": 231,
+        "number": 232,
         "shape": "normal",
         "set": "2HU",
         "position": "314"
     },
     {
         "card_name": "Nue, Heian Alien",
-        "number": 238,
+        "number": 239,
         "shape": "normal",
         "set": "2HU",
         "position": "317"
@@ -1232,7 +1232,7 @@
     },
     {
         "card_name": "Phantasmagoria of Flowers",
-        "number": 243,
+        "number": 244,
         "shape": "normal",
         "set": "2HU",
         "position": "312"
@@ -1260,21 +1260,21 @@
     },
     {
         "card_name": "Nina, Newborn Apparition",
-        "number": 237,
+        "number": 238,
         "shape": "normal",
         "set": "2HU",
         "position": "344"
     },
     {
         "card_name": "Reimu of Eastern Winds",
-        "number": 247,
+        "number": 248,
         "shape": "normal",
         "set": "2HU",
         "position": "224"
     },
     {
         "card_name": "Phantasmagoria of Dimensions",
-        "number": 242,
+        "number": 243,
         "shape": "normal",
         "set": "2HU",
         "position": "311"
@@ -1302,7 +1302,7 @@
     },
     {
         "card_name": "Youmu, Netherworlds Blades",
-        "number": 278,
+        "number": 279,
         "shape": "normal",
         "set": "2HU",
         "position": "154"
@@ -1316,7 +1316,7 @@
     },
     {
         "card_name": "Sakuya, Scarlet Guardian",
-        "number": 255,
+        "number": 256,
         "shape": "normal",
         "set": "2HU",
         "position": "262"
@@ -1330,7 +1330,7 @@
     },
     {
         "card_name": "Namazu",
-        "number": 233,
+        "number": 234,
         "shape": "normal",
         "set": "2HU",
         "position": "112"
@@ -1344,42 +1344,42 @@
     },
     {
         "card_name": "Momiji Inubashiri",
-        "number": 229,
+        "number": 230,
         "shape": "normal",
         "set": "2HU",
         "position": "68"
     },
     {
         "card_name": "Tsukasa, Daitengu's Consultant",
-        "number": 268,
+        "number": 269,
         "shape": "normal",
         "set": "2HU",
         "position": "119"
     },
     {
         "card_name": "Reisen, Lunatic Moon Rabbit",
-        "number": 248,
+        "number": 249,
         "shape": "normal",
         "set": "2HU",
         "position": "5"
     },
     {
         "card_name": "Suika Ibuki",
-        "number": 263,
+        "number": 264,
         "shape": "normal",
         "set": "2HU",
         "position": "150"
     },
     {
-        "card_name": "Child of Light",
-        "number": 288,
+        "card_name": "May As Well Throw a Party",
+        "number": 226,
         "shape": "normal",
         "set": "2HU",
-        "position": "347"
+        "position": "371"
     },
     {
         "card_name": "Nareko, the Altar's Warden",
-        "number": 234,
+        "number": 235,
         "shape": "normal",
         "set": "2HU",
         "position": "331"
@@ -1393,7 +1393,7 @@
     },
     {
         "card_name": "Remilia, the Scarlet Devil",
-        "number": 249,
+        "number": 250,
         "shape": "normal",
         "set": "2HU",
         "position": "15"
@@ -1406,15 +1406,15 @@
         "position": "12"
     },
     {
-        "card_name": "Hina Kagiyama",
-        "number": 198,
+        "card_name": "Child of Light",
+        "number": 289,
         "shape": "normal",
         "set": "2HU",
-        "position": "66"
+        "position": "347"
     },
     {
         "card_name": "Rikako Asakura",
-        "number": 250,
+        "number": 251,
         "shape": "normal",
         "set": "2HU",
         "position": "136"
@@ -1435,10 +1435,45 @@
     },
     {
         "card_name": "Romantic Fall",
-        "number": 251,
+        "number": 252,
         "shape": "normal",
         "set": "2HU",
         "position": "39"
+    },
+    {
+        "card_name": "Hina Kagiyama",
+        "number": 198,
+        "shape": "normal",
+        "set": "2HU",
+        "position": "66"
+    },
+    {
+        "card_name": "Yuiman, Data Purifier",
+        "number": 280,
+        "shape": "normal",
+        "set": "2HU",
+        "position": "342"
+    },
+    {
+        "card_name": "Satori Komeiji",
+        "number": 260,
+        "shape": "normal",
+        "set": "2HU",
+        "position": "74"
+    },
+    {
+        "card_name": "Sannyo Komakusa",
+        "number": 258,
+        "shape": "normal",
+        "set": "2HU",
+        "position": "117"
+    },
+    {
+        "card_name": "Orange",
+        "number": 295,
+        "shape": "normal",
+        "set": "2HU",
+        "position": "140"
     },
     {
         "card_name": "Louise, Visitor from Makai",
@@ -1448,53 +1483,22 @@
         "position": "144"
     },
     {
-        "card_name": "Yuiman, Data Purifier",
-        "number": 279,
-        "shape": "normal",
-        "set": "2HU",
-        "position": "342"
-    },
-    {
-        "card_name": "Satori Komeiji",
-        "number": 259,
-        "shape": "normal",
-        "set": "2HU",
-        "position": "74"
-    },
-    {
-        "card_name": "Sannyo Komakusa",
-        "number": 257,
-        "shape": "normal",
-        "set": "2HU",
-        "position": "117"
-    },
-    {
-        "card_name": "Orange",
-        "number": 294,
-        "shape": "normal",
-        "set": "2HU",
-        "position": "140"
-    },
-    {
-        "card_name": "e"
-    },
-    {
         "card_name": "Nazrin, Treasure Tracker",
-        "number": 236,
+        "number": 237,
         "shape": "normal",
         "set": "2HU",
         "position": "77"
     },
     {
         "card_name": "Wicked Hermit, Seiga Kaku",
-        "number": 272,
+        "number": 273,
         "shape": "normal",
         "set": "2HU",
         "position": "43"
     },
     {
         "card_name": "Yuugi, Old Hell's Might",
-        "number": 285,
+        "number": 286,
         "shape": "normal",
         "set": "2HU",
         "position": "271"
@@ -1507,21 +1511,21 @@
     },
     {
         "card_name": "Tokiko",
-        "number": 296,
+        "number": 297,
         "shape": "normal",
         "set": "2HU",
         "position": "363"
     },
     {
         "card_name": "Trump Card",
-        "number": 297,
+        "number": 298,
         "shape": "normal",
         "set": "2HU",
         "position": "355"
     },
     {
         "card_name": "Koakuma",
-        "number": 291,
+        "number": 292,
         "shape": "normal",
         "set": "2HU",
         "position": "13"
@@ -1537,14 +1541,14 @@
     },
     {
         "card_name": "Mystia Lorelei",
-        "number": 232,
+        "number": 233,
         "shape": "normal",
         "set": "2HU",
         "position": "54"
     },
     {
         "card_name": "Meira, Seeker of Dark Power",
-        "number": 226,
+        "number": 227,
         "shape": "normal",
         "set": "2HU",
         "position": "126"
@@ -1586,7 +1590,7 @@
     },
     {
         "card_name": "Suwako, Native God",
-        "number": 266,
+        "number": 267,
         "shape": "normal",
         "set": "2HU",
         "position": "308"
@@ -1621,7 +1625,7 @@
     },
     {
         "card_name": "Yuuka of Dreamland",
-        "number": 286,
+        "number": 287,
         "shape": "normal",
         "set": "2HU",
         "position": "199"
@@ -1663,14 +1667,14 @@
     },
     {
         "card_name": "Reimu Hakurei",
-        "number": 246,
+        "number": 247,
         "shape": "normal",
         "set": "2HU",
         "position": "1"
     },
     {
         "card_name": "Sanae, Living God",
-        "number": 256,
+        "number": 257,
         "shape": "normal",
         "set": "2HU",
         "position": "4"
@@ -1698,7 +1702,7 @@
     },
     {
         "card_name": "Mononobe no Futo",
-        "number": 230,
+        "number": 231,
         "shape": "normal",
         "set": "2HU",
         "position": "86"
@@ -1712,7 +1716,7 @@
     },
     {
         "card_name": "Miko, the Saint Reborn",
-        "number": 227,
+        "number": 228,
         "shape": "normal",
         "set": "2HU",
         "position": "87"
@@ -1726,21 +1730,21 @@
     },
     {
         "card_name": "Parsee, Green-Eyed Monster",
-        "number": 241,
+        "number": 242,
         "shape": "normal",
         "set": "2HU",
         "position": "72"
     },
     {
         "card_name": "Priestess of Pseudo Paradise",
-        "number": 244,
+        "number": 245,
         "shape": "normal",
         "set": "2HU",
         "position": "171"
     },
     {
         "card_name": "Narumi, Life Giver",
-        "number": 235,
+        "number": 236,
         "shape": "normal",
         "set": "2HU",
         "position": "100"
@@ -1761,7 +1765,7 @@
     },
     {
         "card_name": "Urumi Ushizaki",
-        "number": 270,
+        "number": 271,
         "shape": "normal",
         "set": "2HU",
         "position": "107"
@@ -1775,28 +1779,28 @@
     },
     {
         "card_name": "Yachie Kicchou",
-        "number": 273,
+        "number": 274,
         "shape": "normal",
         "set": "2HU",
         "position": "109"
     },
     {
         "card_name": "Sagume, the Reversed Fortune",
-        "number": 252,
+        "number": 253,
         "shape": "normal",
         "set": "2HU",
         "position": "103"
     },
     {
         "card_name": "Yatsuhashi and Benben",
-        "number": 275,
+        "number": 276,
         "shape": "normal",
         "set": "2HU",
         "position": "27"
     },
     {
         "card_name": "Yamame Kurodani",
-        "number": 274,
+        "number": 275,
         "shape": "normal",
         "set": "2HU",
         "position": "41"
@@ -1824,35 +1828,35 @@
     },
     {
         "card_name": "Yuki and Mai",
-        "number": 281,
+        "number": 282,
         "shape": "normal",
         "set": "2HU",
         "position": "145"
     },
     {
         "card_name": "Bewitching Lotus Flower",
-        "number": 287,
+        "number": 288,
         "shape": "normal",
         "set": "2HU",
         "position": "361"
     },
     {
         "card_name": "YuugenMagan",
-        "number": 284,
+        "number": 285,
         "shape": "normal",
         "set": "2HU",
         "position": "120"
     },
     {
         "card_name": "Daiyousei",
-        "number": 290,
+        "number": 291,
         "shape": "normal",
         "set": "2HU",
         "position": "11"
     },
     {
         "card_name": "Seiran, Lunar Invader",
-        "number": 260,
+        "number": 261,
         "shape": "normal",
         "set": "2HU",
         "position": "101"
@@ -1869,7 +1873,7 @@
     },
     {
         "card_name": "Shrine Maiden's Charm",
-        "number": 262,
+        "number": 263,
         "shape": "normal",
         "set": "2HU",
         "position": "297"
@@ -1879,14 +1883,14 @@
     },
     {
         "card_name": "Ubame, Sanctuary's Protector",
-        "number": 269,
+        "number": 270,
         "shape": "normal",
         "set": "2HU",
         "position": "329"
     },
     {
         "card_name": "Ordinary Magician's Charm",
-        "number": 240,
+        "number": 241,
         "shape": "normal",
         "set": "2HU",
         "position": "222"
@@ -1896,7 +1900,7 @@
     },
     {
         "card_name": "Reisen, the Junior",
-        "number": 295,
+        "number": 296,
         "shape": "normal",
         "set": "2HU",
         "position": "155"
@@ -1906,14 +1910,14 @@
     },
     {
         "card_name": "A Little Curse",
-        "number": 293,
+        "number": 294,
         "shape": "normal",
         "set": "2HU",
         "position": "346"
     },
     {
         "card_name": "Kogasa, Forgotten Umbrella",
-        "number": 292,
+        "number": 293,
         "shape": "normal",
         "set": "2HU",
         "position": "78"
@@ -1944,7 +1948,7 @@
     },
     {
         "card_name": "Sariel, Angel of Death",
-        "number": 258,
+        "number": 259,
         "shape": "normal",
         "set": "2HU",
         "position": "123"
@@ -1958,14 +1962,14 @@
     },
     {
         "card_name": "Saki Kurokoma",
-        "number": 253,
+        "number": 254,
         "shape": "normal",
         "set": "2HU",
         "position": "114"
     },
     {
         "card_name": "Sukuna of the Shining Needle",
-        "number": 264,
+        "number": 265,
         "shape": "normal",
         "set": "2HU",
         "position": "97"
@@ -1986,21 +1990,21 @@
     },
     {
         "card_name": "Sakuya and Remilia",
-        "number": 254,
+        "number": 255,
         "shape": "normal",
         "set": "2HU",
         "position": "359"
     },
     {
         "card_name": "Tenshi, Delinquent Celestial",
-        "number": 267,
+        "number": 268,
         "shape": "normal",
         "set": "2HU",
         "position": "81"
     },
     {
         "card_name": "Misumaru Tamatsukuri",
-        "number": 228,
+        "number": 229,
         "shape": "normal",
         "set": "2HU",
         "position": "118"
@@ -2021,7 +2025,7 @@
     },
     {
         "card_name": "Yumemi Okazaki",
-        "number": 283,
+        "number": 284,
         "shape": "normal",
         "set": "2HU",
         "position": "137"
@@ -2071,14 +2075,14 @@
     },
     {
         "card_name": "Shinki, Infinite Being",
-        "number": 261,
+        "number": 262,
         "shape": "planeswalker",
         "set": "2HU",
         "position": "333"
     },
     {
         "card_name": "Yukari Yakumo",
-        "number": 280,
+        "number": 281,
         "shape": "planeswalker",
         "set": "2HU",
         "position": "341"
@@ -2092,21 +2096,21 @@
     },
     {
         "card_name": "Sumireko Usami",
-        "number": 265,
+        "number": 266,
         "shape": "planeswalker",
         "set": "2HU",
         "position": "340"
     },
     {
         "card_name": "Okina, the Hidden God",
-        "number": 239,
+        "number": 240,
         "shape": "planeswalker",
         "set": "2HU",
         "position": "339"
     },
     {
         "card_name": "Yumeko, Blade of Makai",
-        "number": 282,
+        "number": 283,
         "shape": "normal",
         "set": "2HU",
         "position": "146"
@@ -2120,14 +2124,14 @@
     },
     {
         "card_name": "Youmu and Yuyuko",
-        "number": 277,
+        "number": 278,
         "shape": "normal",
         "set": "2HU",
         "position": "360"
     },
     {
         "card_name": "Reimu and Yukari",
-        "number": 245,
+        "number": 246,
         "shape": "normal",
         "set": "2HU",
         "position": "65"
@@ -2153,7 +2157,7 @@
     },
     {
         "card_name": "Venerable Ancient Battlefield",
-        "number": 271,
+        "number": 272,
         "shape": "normal",
         "set": "2HU",
         "position": "35"
@@ -2172,7 +2176,7 @@
     },
     {
         "card_name": "Crazy Backup Dancers",
-        "number": 289,
+        "number": 290,
         "shape": "normal",
         "set": "2HU",
         "position": "93"
@@ -2194,7 +2198,7 @@
     },
     {
         "card_name": "Youkai Sages' Charm",
-        "number": 276,
+        "number": 277,
         "shape": "normal",
         "set": "2HU",
         "position": "298"
@@ -2233,21 +2237,21 @@
     },
     {
         "card_name": "Evil Eye \u03a3",
-        "number": 301,
+        "number": 302,
         "shape": "normal",
         "set": "2HU",
         "position": "319"
     },
     {
         "card_name": "Nuclear Options",
-        "number": 312,
+        "number": 313,
         "shape": "normal",
         "set": "2HU",
         "position": "170"
     },
     {
         "card_name": "Sorcerer's Sutra Scroll",
-        "number": 321,
+        "number": 322,
         "shape": "normal",
         "set": "2HU",
         "position": "275"
@@ -2268,84 +2272,84 @@
     },
     {
         "card_name": "Cursed Decoy Doll",
-        "number": 300,
+        "number": 301,
         "shape": "normal",
         "set": "2HU",
         "position": "190"
     },
     {
         "card_name": "Goliath Doll",
-        "number": 305,
+        "number": 306,
         "shape": "normal",
         "set": "2HU",
         "position": "177"
     },
     {
         "card_name": "Hisou Tensoku",
-        "number": 307,
+        "number": 308,
         "shape": "normal",
         "set": "2HU",
         "position": "166"
     },
     {
         "card_name": "Memento of the Avaricious Beast",
-        "number": 311,
+        "number": 312,
         "shape": "normal",
         "set": "2HU",
         "position": "138"
     },
     {
         "card_name": "Ore from the Age of the Gods",
-        "number": 314,
+        "number": 315,
         "shape": "normal",
         "set": "2HU",
         "position": "63"
     },
     {
         "card_name": "The Palanquin Ship",
-        "number": 316,
+        "number": 317,
         "shape": "normal",
         "set": "2HU",
         "position": "186"
     },
     {
         "card_name": "Aerodynamic Blades",
-        "number": 298,
+        "number": 299,
         "shape": "normal",
         "set": "2HU",
         "position": "204"
     },
     {
         "card_name": "Homing Option",
-        "number": 308,
+        "number": 309,
         "shape": "normal",
         "set": "2HU",
         "position": "202"
     },
     {
         "card_name": "Laika, Lively Soul",
-        "number": 310,
+        "number": 311,
         "shape": "normal",
         "set": "2HU",
         "position": "313"
     },
     {
         "card_name": "Otherworld Defense Platform",
-        "number": 315,
+        "number": 316,
         "shape": "normal",
         "set": "2HU",
         "position": "127"
     },
     {
         "card_name": "Peaches of Paradise",
-        "number": 317,
+        "number": 318,
         "shape": "normal",
         "set": "2HU",
         "position": "327"
     },
     {
         "card_name": "Repurposed Rover",
-        "number": 319,
+        "number": 320,
         "shape": "normal",
         "set": "2HU",
         "position": "184"
@@ -2373,63 +2377,63 @@
     },
     {
         "card_name": "Bunbunmaru Newspaper",
-        "number": 299,
+        "number": 300,
         "shape": "normal",
         "set": "2HU",
         "position": "324"
     },
     {
         "card_name": "Ferryboat of the Dead",
-        "number": 302,
+        "number": 303,
         "shape": "normal",
         "set": "2HU",
         "position": "181"
     },
     {
         "card_name": "The Flower Tank",
-        "number": 303,
+        "number": 304,
         "shape": "normal",
         "set": "2HU",
         "position": "320"
     },
     {
         "card_name": "Go-Shintank",
-        "number": 304,
+        "number": 305,
         "shape": "normal",
         "set": "2HU",
         "position": "321"
     },
     {
         "card_name": "Hanged Hourai Doll",
-        "number": 306,
+        "number": 307,
         "shape": "normal",
         "set": "2HU",
         "position": "276"
     },
     {
         "card_name": "Kitten of Great Fortune",
-        "number": 309,
+        "number": 310,
         "shape": "normal",
         "set": "2HU",
         "position": "64"
     },
     {
         "card_name": "Persuasion Needle",
-        "number": 318,
+        "number": 319,
         "shape": "normal",
         "set": "2HU",
         "position": "200"
     },
     {
         "card_name": "Shanghai Doll",
-        "number": 320,
+        "number": 321,
         "shape": "normal",
         "set": "2HU",
         "position": "92"
     },
     {
         "card_name": "Wonder Stone",
-        "number": 322,
+        "number": 323,
         "shape": "normal",
         "set": "2HU",
         "position": "337"
@@ -2451,35 +2455,35 @@
     },
     {
         "card_name": "Myouren Temple Road",
-        "number": 329,
+        "number": 330,
         "shape": "normal",
         "set": "2HU",
         "position": "207"
     },
     {
         "card_name": "Kaian Passageway",
-        "number": 325,
+        "number": 326,
         "shape": "normal",
         "set": "2HU",
         "position": "208"
     },
     {
         "card_name": "Underworld Palace Halls",
-        "number": 333,
+        "number": 334,
         "shape": "normal",
         "set": "2HU",
         "position": "367"
     },
     {
         "card_name": "Primate Garden Depths",
-        "number": 331,
+        "number": 332,
         "shape": "normal",
         "set": "2HU",
         "position": "209"
     },
     {
         "card_name": "Human Village Streets",
-        "number": 324,
+        "number": 325,
         "shape": "normal",
         "set": "2HU",
         "position": "210"
@@ -2501,35 +2505,35 @@
     },
     {
         "card_name": "Lunar Capitol Thoroughfare",
-        "number": 326,
+        "number": 327,
         "shape": "normal",
         "set": "2HU",
         "position": "211"
     },
     {
         "card_name": "Misty Lake Shores",
-        "number": 327,
+        "number": 328,
         "shape": "normal",
         "set": "2HU",
         "position": "214"
     },
     {
         "card_name": "Nameless Hillside",
-        "number": 330,
+        "number": 331,
         "shape": "normal",
         "set": "2HU",
         "position": "212"
     },
     {
         "card_name": "Hakurei Shrine Grounds",
-        "number": 323,
+        "number": 324,
         "shape": "normal",
         "set": "2HU",
         "position": "206"
     },
     {
         "card_name": "Moreya Shrine Path",
-        "number": 328,
+        "number": 329,
         "shape": "normal",
         "set": "2HU",
         "position": "213"
@@ -2551,28 +2555,28 @@
     },
     {
         "card_name": "Sea of Petroleum",
-        "number": 332,
+        "number": 333,
         "shape": "normal",
         "set": "2HU",
         "position": "269"
     },
     {
         "card_name": "Unlocated Hell",
-        "number": 334,
+        "number": 335,
         "shape": "normal",
         "set": "2HU",
         "position": "325"
     },
     {
         "card_name": "Where Flowers Reflect",
-        "number": 335,
+        "number": 336,
         "shape": "normal",
         "set": "2HU",
         "position": "326"
     },
     {
         "card_name": "Obsolescent Industrial Remains",
-        "number": 313,
+        "number": 314,
         "shape": "normal",
         "set": "2HU",
         "position": "336"
@@ -2597,42 +2601,42 @@
     },
     {
         "card_name": "Forest",
-        "number": 341,
+        "number": 342,
         "shape": "normal",
         "set": "2HU",
         "position": "254"
     },
     {
         "card_name": "Mountain",
-        "number": 340,
+        "number": 341,
         "shape": "normal",
         "set": "2HU",
         "position": "255"
     },
     {
         "card_name": "Swamp",
-        "number": 339,
+        "number": 340,
         "shape": "normal",
         "set": "2HU",
         "position": "256"
     },
     {
         "card_name": "Plains",
-        "number": 337,
+        "number": 338,
         "shape": "normal",
         "set": "2HU",
         "position": "257"
     },
     {
         "card_name": "Island",
-        "number": 338,
+        "number": 339,
         "shape": "normal",
         "set": "2HU",
         "position": "258"
     },
     {
         "card_name": "Wastes",
-        "number": 336,
+        "number": 337,
         "shape": "normal",
         "set": "2HU",
         "position": "299"

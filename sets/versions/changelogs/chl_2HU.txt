@@ -1,4 +1,84 @@
-﻿VERSION 11 CHANGELOG
+﻿VERSION 12 CHANGELOG
+====================
+
+May As Well Throw a Party added.
+
+
+Reisen, Lunatic Moon Rabbit
+
+Charming Domination
+rules_text: Enchant creature
+You control enchanted creature.
+{1}: Enchanted creature becomes a copy of another target creature you control until end of turn. => Enchant creature
+You control enchanted creature.
+{1}: Enchanted creature becomes a copy of another target creature you control until end of turn, except it keeps its name.
+
+Lunatic Harlequin, Clownpiece
+
+Zenki and Goki
+
+Iwakasa, Bearer of the Elixir
+
+Kurumi, Keeper of the Lake
+rules_text: Flying, lifelink
+Whenever a nonbasic land enters the battlefield under an opponent's control, Kurumi deals 1 damage to any target. => Flying, lifelink
+Whenever a nonbasic land enters the battlefield under an opponent's control, Kurumi deals 1 damage to that opponent.
+
+Luna Child
+
+Youmu, Netherworlds Blades
+rules_text: When Youmu enters, create a 1/1 white Spirit creature token with flying.
+[i]Roukanken[/i] — Youmu has first strike as long as she's attacking.
+[i]Hakurouken[/i] — Whenever you untap Youmu, exile target card in a graveyard. When you do, put a +1/+1 counter on each of up to two target creatures. => When Youmu enters, create a 1/1 white Spirit creature token with flying.
+[i]Roukanken[/i] — Youmu has first strike as long as she's attacking.
+[i]Hakurouken[/i] — Whenever Youmu becomes untapped, exile up to one target card in a graveyard. When you do, put a +1/+1 counter on each of up to two target creatures.
+
+Sunny Milk
+
+Star Sapphire
+
+Toyohime, Divine Ward
+
+Yorihime, Divine Vessel
+
+Hisou Tensoku
+
+Lord Tenma
+
+Primate Garden Depths
+
+Lunar Capitol Thoroughfare
+
+Helpful Bunnies
+
+Tsuchinoko
+type: Creature — Snake => Creature — Snake Youkai
+
+Lunar Reinforcements
+rules_text: Kicker—Sacrifice a token [i](You may sacrifice a token in addition to any other costs as you cast this spell.)[/i]
+Create two 1/1 white Rabbit creature tokens. If this spell was kicked, create four instead. => Kicker—Sacrifice a non-Rabbit token [i](You may sacrifice a non-Rabbit token in addition to any other costs as you cast this spell.)[/i]
+Create two 1/1 white Rabbit creature tokens. If this spell was kicked, create four instead.
+
+100th Black Market
+
+Ran, Sage's Servitor
+rules_text: Vigilance
+Whenever you activate a loyalty ability, draw a card.
+At the beginning of combat on your turn, you may pay {R}{G}. When you do, target creature you control gets +2/+2 and gains vigilance and haste until end of turn. => Vigilance
+Whenever you activate a loyalty ability, draw a card.
+At the beginning of combat on your turn, you may pay {RG}. When you do, target creature you control gets +2/+2 and gains vigilance and haste until end of turn.
+
+Evil Eye Σ
+rules_text: Flying
+If Evil Eye Σ would deal damage, you may instead have it deal that damage divided as you choose among any number of players and/or permanents.
+Crew 6 => Flying
+If Evil Eye Σ would deal damage, you may instead have it deal that damage divided as you choose among any number of target players and/or permanents.
+Crew 6
+
+Toyohime, System Administrator
+
+
+VERSION 11 CHANGELOG
 ====================
 
 Primate Garden Depths added.

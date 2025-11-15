@@ -1,4 +1,48 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+Raiko, Guest Drummer added.
+Aunn added.
+Mamizou added.
+Faerie Army added.
+Enenra added.
+Great Fairies added.
+Kitsune Impostor added.
+A Little Sin added.
+Magician's Companion added.
+Shadow Mirror added.
+Spirit Mirror added.
+Spirit of the Hakurei Relic added.
+Tanuki Impostor added.
+TORIFUNE Monstrosity added.
+
+
+Sea of Tranquility
+
+Genbu Ravine
+
+Wonderful Heaven
+
+Now, Until Your Final Breath
+
+Visionary Fairies in Shrine
+cost: {R} => {2}{R}
+
+Wild and Horned Hermit
+cost: {G} => {2}{G}
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — ​
+II — ​
+III — ​ => 
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — ​
+II — ​
+III — ​ => 
+
+Reimu, Spirits' Grudge
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
