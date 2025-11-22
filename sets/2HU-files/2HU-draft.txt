@@ -115,7 +115,7 @@
 			"rarity": "common",
 			"mana_cost": "{G/U}",
 			"type": "Legendary Creature — Faerie",
-			"collector_number": "291",
+			"collector_number": "292",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/11.png"
 			}
@@ -135,7 +135,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B/R}",
 			"type": "Legendary Creature — Devil",
-			"collector_number": "292",
+			"collector_number": "293",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/13.png"
 			}
@@ -275,7 +275,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{R}",
 			"type": "Legendary Creature — Youkai Rebel Bard",
-			"collector_number": "276",
+			"collector_number": "277",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/27.png"
 			}
@@ -355,7 +355,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}{G}{U}",
 			"type": "Enchantment",
-			"collector_number": "272",
+			"collector_number": "273",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/35.png"
 			}
@@ -415,7 +415,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}{G}",
 			"type": "Legendary Creature — Spider Youkai",
-			"collector_number": "275",
+			"collector_number": "276",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/41.png"
 			}
@@ -435,7 +435,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{U}{B}",
 			"type": "Legendary Creature — Mystic",
-			"collector_number": "273",
+			"collector_number": "274",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/43.png"
 			}
@@ -642,7 +642,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}",
 			"type": "Artifact — Treasure",
-			"collector_number": "315",
+			"collector_number": "316",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/63.png"
 			}
@@ -652,7 +652,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "310",
+			"collector_number": "311",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/64.png"
 			}
@@ -792,7 +792,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U/R}{U/R}",
 			"type": "Legendary Creature — Youkai Spirit",
-			"collector_number": "293",
+			"collector_number": "294",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/78.png"
 			}
@@ -932,7 +932,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}",
 			"type": "Artifact Creature — Doll",
-			"collector_number": "321",
+			"collector_number": "322",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/92.png"
 			}
@@ -942,7 +942,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{G/U}{B}",
 			"type": "Legendary Creature — Human Minion",
-			"collector_number": "290",
+			"collector_number": "291",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/93.png"
 			}
@@ -1082,7 +1082,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}{G}",
 			"type": "Legendary Creature — Beast Demon",
-			"collector_number": "271",
+			"collector_number": "272",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/107.png"
 			}
@@ -1102,7 +1102,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}{U}{U}",
 			"type": "Legendary Creature — Dragon Turtle Spirit",
-			"collector_number": "274",
+			"collector_number": "275",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/109.png"
 			}
@@ -1212,7 +1212,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{R}{W}",
 			"type": "Legendary Creature — Elemental Demon",
-			"collector_number": "285",
+			"collector_number": "286",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/120.png"
 			}
@@ -1282,7 +1282,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}",
 			"type": "Legendary Artifact Creature — Orb",
-			"collector_number": "316",
+			"collector_number": "317",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/127.png"
 			}
@@ -1382,7 +1382,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{U}{B}{R}",
 			"type": "Legendary Creature — Human Scientist",
-			"collector_number": "284",
+			"collector_number": "285",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/137.png"
 			}
@@ -1392,7 +1392,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}",
 			"type": "Artifact",
-			"collector_number": "312",
+			"collector_number": "313",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/138.png"
 			}
@@ -1412,7 +1412,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R/G}",
 			"type": "Legendary Creature — Youkai",
-			"collector_number": "295",
+			"collector_number": "296",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/140.png"
 			}
@@ -1462,7 +1462,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{U}{R}",
 			"type": "Legendary Creature — Demon Wizard",
-			"collector_number": "282",
+			"collector_number": "283",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/145.png"
 			}
@@ -1472,7 +1472,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}{W}{B}",
 			"type": "Legendary Creature — Demon",
-			"collector_number": "283",
+			"collector_number": "284",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/146.png"
 			}
@@ -1559,7 +1559,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{G}{W}",
 			"type": "Legendary Creature — Human Spirit Samurai",
-			"collector_number": "279",
+			"collector_number": "280",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/154.png"
 			}
@@ -1569,7 +1569,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R/W}",
 			"type": "Legendary Creature — Rabbit Youkai Soldier",
-			"collector_number": "296",
+			"collector_number": "297",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/155.png"
 			}
@@ -1679,7 +1679,7 @@
 			"rarity": "rare",
 			"mana_cost": "{5}",
 			"type": "Legendary Artifact Creature — Giant Robot",
-			"collector_number": "308",
+			"collector_number": "309",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/166.png"
 			}
@@ -1719,7 +1719,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{5}",
 			"type": "Legendary Artifact Creature — Robot",
-			"collector_number": "313",
+			"collector_number": "314",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/170.png"
 			}
@@ -1789,7 +1789,7 @@
 			"rarity": "rare",
 			"mana_cost": "{5}",
 			"type": "Artifact Creature — Giant Doll",
-			"collector_number": "306",
+			"collector_number": "307",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/177.png"
 			}
@@ -1829,7 +1829,7 @@
 			"rarity": "common",
 			"mana_cost": "{4}",
 			"type": "Artifact — Vehicle",
-			"collector_number": "303",
+			"collector_number": "304",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/181.png"
 			}
@@ -1859,7 +1859,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{6}",
 			"type": "Artifact Creature — Drone",
-			"collector_number": "320",
+			"collector_number": "321",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/184.png"
 			}
@@ -1879,7 +1879,7 @@
 			"rarity": "rare",
 			"mana_cost": "{7}",
 			"type": "Legendary Artifact — Vehicle",
-			"collector_number": "317",
+			"collector_number": "318",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/186.png"
 			}
@@ -1919,7 +1919,7 @@
 			"rarity": "rare",
 			"mana_cost": "{4}",
 			"type": "Artifact Creature — Doll",
-			"collector_number": "301",
+			"collector_number": "302",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/190.png"
 			}
@@ -2009,7 +2009,7 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{B}{G}",
 			"type": "Legendary Creature — Plant Youkai",
-			"collector_number": "287",
+			"collector_number": "288",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/199.png"
 			}
@@ -2019,7 +2019,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}",
 			"type": "Artifact — Equipment",
-			"collector_number": "319",
+			"collector_number": "320",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/200.png"
 			}
@@ -2039,7 +2039,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}",
 			"type": "Artifact — Equipment",
-			"collector_number": "309",
+			"collector_number": "310",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/202.png"
 			}
@@ -2059,7 +2059,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}",
 			"type": "Artifact — Equipment",
-			"collector_number": "299",
+			"collector_number": "300",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/204.png"
 			}
@@ -2079,7 +2079,7 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "324",
+			"collector_number": "325",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/206.png"
 			}
@@ -2089,7 +2089,7 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "330",
+			"collector_number": "331",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/207.png"
 			}
@@ -2099,7 +2099,7 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "326",
+			"collector_number": "327",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/208.png"
 			}
@@ -2109,7 +2109,7 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "332",
+			"collector_number": "333",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/209.png"
 			}
@@ -2119,7 +2119,7 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "325",
+			"collector_number": "326",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/210.png"
 			}
@@ -2129,7 +2129,7 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "327",
+			"collector_number": "328",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/211.png"
 			}
@@ -2139,7 +2139,7 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "331",
+			"collector_number": "332",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/212.png"
 			}
@@ -2149,7 +2149,7 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "329",
+			"collector_number": "330",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/213.png"
 			}
@@ -2159,7 +2159,7 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "328",
+			"collector_number": "329",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/214.png"
 			}
@@ -2559,7 +2559,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Forest",
-			"collector_number": "342",
+			"collector_number": "343",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/254.png"
 			}
@@ -2569,7 +2569,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Mountain",
-			"collector_number": "341",
+			"collector_number": "342",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/255.png"
 			}
@@ -2579,7 +2579,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Swamp",
-			"collector_number": "340",
+			"collector_number": "341",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/256.png"
 			}
@@ -2589,7 +2589,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Plains",
-			"collector_number": "338",
+			"collector_number": "339",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/257.png"
 			}
@@ -2599,7 +2599,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Island",
-			"collector_number": "339",
+			"collector_number": "340",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/258.png"
 			}
@@ -2709,7 +2709,7 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "333",
+			"collector_number": "334",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/269.png"
 			}
@@ -2729,7 +2729,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}{R}",
 			"type": "Legendary Creature — Demon",
-			"collector_number": "286",
+			"collector_number": "287",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/271.png"
 			}
@@ -2776,7 +2776,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{5}",
 			"type": "Legendary Artifact — Equipment",
-			"collector_number": "322",
+			"collector_number": "323",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/275.png"
 			}
@@ -2786,7 +2786,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}",
 			"type": "Artifact Creature — Doll",
-			"collector_number": "307",
+			"collector_number": "308",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/276.png"
 			}
@@ -3006,7 +3006,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{W}{U}{B}{R}{G}",
 			"type": "Sorcery",
-			"collector_number": "277",
+			"collector_number": "278",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/298.png"
 			}
@@ -3016,7 +3016,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land",
-			"collector_number": "337",
+			"collector_number": "338",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/299.png"
 			}
@@ -3156,7 +3156,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}",
 			"type": "Legendary Artifact Creature — Dog Spirit Robot",
-			"collector_number": "311",
+			"collector_number": "312",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/313.png"
 			}
@@ -3216,7 +3216,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{6}",
 			"type": "Legendary Artifact — Vehicle",
-			"collector_number": "302",
+			"collector_number": "303",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/319.png"
 			}
@@ -3226,7 +3226,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}",
 			"type": "Legendary Artifact — Vehicle",
-			"collector_number": "304",
+			"collector_number": "305",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/320.png"
 			}
@@ -3236,7 +3236,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}",
 			"type": "Artifact — Vehicle",
-			"collector_number": "305",
+			"collector_number": "306",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/321.png"
 			}
@@ -3266,7 +3266,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}",
 			"type": "Artifact",
-			"collector_number": "300",
+			"collector_number": "301",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/324.png"
 			}
@@ -3276,7 +3276,7 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "335",
+			"collector_number": "336",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/325.png"
 			}
@@ -3286,7 +3286,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "336",
+			"collector_number": "337",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/326.png"
 			}
@@ -3296,7 +3296,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
 			"type": "Artifact — Food",
-			"collector_number": "318",
+			"collector_number": "319",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/327.png"
 			}
@@ -3386,7 +3386,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Artifact Land — Treasure",
-			"collector_number": "314",
+			"collector_number": "315",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/336.png"
 			}
@@ -3396,7 +3396,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}",
 			"type": "Artifact Creature — Stone Prism",
-			"collector_number": "323",
+			"collector_number": "324",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/337.png"
 			}
@@ -3436,7 +3436,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{G}{U}{U}{R}",
 			"type": "Legendary Planeswalker — Yukari",
-			"collector_number": "281",
+			"collector_number": "282",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/341.png"
 			}
@@ -3446,7 +3446,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}{U}",
 			"type": "Legendary Creature — Human God Noble",
-			"collector_number": "280",
+			"collector_number": "281",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/342.png"
 			}
@@ -3486,7 +3486,7 @@
 			"rarity": "common",
 			"mana_cost": "{W/B}",
 			"type": "Creature — Demon",
-			"collector_number": "294",
+			"collector_number": "295",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/346.png"
 			}
@@ -3496,7 +3496,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G/W}",
 			"type": "Creature — Faerie",
-			"collector_number": "289",
+			"collector_number": "290",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/347.png"
 			}
@@ -3576,7 +3576,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U/B}",
 			"type": "Artifact Creature — Doll",
-			"collector_number": "298",
+			"collector_number": "299",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/355.png"
 			}
@@ -3626,7 +3626,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{W}{B}{G}",
 			"type": "Legendary Creature — Human Spirit Noble",
-			"collector_number": "278",
+			"collector_number": "279",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/360.png"
 			}
@@ -3636,7 +3636,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B/G}",
 			"type": "Creature — Plant",
-			"collector_number": "288",
+			"collector_number": "289",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/361.png"
 			}
@@ -3656,7 +3656,7 @@
 			"rarity": "common",
 			"mana_cost": "{W/U}",
 			"type": "Legendary Creature — Bird Youkai",
-			"collector_number": "297",
+			"collector_number": "298",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/363.png"
 			}
@@ -3696,7 +3696,7 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "334",
+			"collector_number": "335",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/367.png"
 			}
@@ -3739,6 +3739,16 @@
 			"collector_number": "226",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/371.png"
+			}
+		},
+		{
+			"name": "Unfinished Dreams",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Enchantment",
+			"collector_number": "271",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/372.png"
 			}
 		}
 	]
@@ -3883,6 +3893,7 @@
 	2 Yuuka Kazami
 	2 Underworld Palace Halls
 	1 Imperishable Night
+	2 Unfinished Dreams
 [uncommon(3)]
 	4 God Forbid Women Do Anything
 	4 Hong Meiling, the Rainbow Gate
@@ -4419,6 +4430,7 @@
 	12 Rainfall Fairy
 	1 Imperishable Night
 	6 May As Well Throw a Party
+	2 Unfinished Dreams
 [wildcard(1)]
 	6 Graze
 	4 Reimu Hakurei
@@ -4756,3 +4768,4 @@
 	6 Rainfall Fairy
 	4 Imperishable Night
 	15 May As Well Throw a Party
+	7 Unfinished Dreams

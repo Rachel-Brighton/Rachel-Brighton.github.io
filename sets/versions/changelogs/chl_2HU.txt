@@ -1,4 +1,19 @@
-﻿VERSION 12 CHANGELOG
+﻿VERSION 13 CHANGELOG
+====================
+
+Unfinished Dreams added.
+
+
+Reisen, the Junior
+
+Layla, the Last Prismriver
+rules_text: {1}, Sacrifice an artifact, exile a creature card in your graveyard: Create a token that's a copy of the exiled card, except it's a Spirit in addition to its other types. Then sacrifice Layla if you control three or more creature tokens. Activate only as a sorcery. => {1}, Sacrifice an artifact, Exile a creature card in your graveyard: Create a token that's a copy of the exiled card, except it's a Spirit in addition to its other types. Then sacrifice Layla if you control three or more creature tokens. Activate only as a sorcery.
+
+Trump Card
+rules_text: Whenever this creature dies, look at the top three cards of your library. Put one into your hand and the others into your graveyard. => When this creature dies, look at the top three cards of your library. Put one into your hand and the others into your graveyard.
+
+
+VERSION 12 CHANGELOG
 ====================
 
 May As Well Throw a Party added.
