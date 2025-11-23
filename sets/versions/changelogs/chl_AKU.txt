@@ -1,4 +1,76 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+Aunn, Temple Helper added.
+Mamizou, Ever Watching added.
+Tenshi, Earthbound added.
+Dreamworld Doppelganger added.
+Teireida and Nishida added.
+A Discerning Customer added.
+Whitewater Champions added.
+Personalized Fortune Slip added.
+Youkai added.
+
+Aunn removed.
+Mamizou removed.
+
+The Purest Sky and Sea
+
+The Gensokyo Chronicle
+rules_text: Instant and sorcery cards in your graveyard have flashback {2}{U}. [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i]
+Creature cards in your graveyard have encore {2}{U}. [i](Exile it and pay its encore cost: For each opponent, create a token copy that attacks that opponent this turn if able. They gain haste. Sacrifice them at the beginning of the next end step. Activate only as a sorcery.)[/i]
+[i]The Gensokyo Chronicle[/i] can be your commander. => Instant and sorcery cards in your graveyard have flashback {2}{U}. [i](You may cast it from your graveyard for its flashback cost. Then exile it.)[/i]
+Creature cards in your graveyard have encore {2}{U}. [i](Exile it and pay its encore cost: For each opponent, create a token copy that attacks that opponent this turn if able. They gain haste. Sacrifice them at the beginning of the next end step. Activate only as a sorcery.)[/i]
+[i]The Gensokyo Chronicle[/i] can be your commander.
+
+Aya, Reporter of Fantasy
+
+Mysterious Medicine Merchant
+
+Raiko, Guest Drummer
+
+Enenra
+rules_text:  => When this creature enters, each player loses 3 life unless they sacrifice a nonland permanent or discard a card.
+pt:  => 1/1
+
+Great Fairies
+cost: {GW} => {4}{GW}
+rules_text:  => Vigilance
+When this creature enters, amass Faeries 3. [i](Put three +1/+1 counters on an Army you control. It's also a Faerie. If you don't control an Army, create a 0/0 black Faerie Army creature token first.)[/i]
+Other Faeries you control have vigilance.
+pt:  => 3/3
+
+Kitsune Impostor
+
+Shadow Mirror
+cost: {UB} => {3}{UB}
+rules_text:  => Flying
+When this creature enters, any number of target players each mill five cards.
+Warp {1}{UB} [i](You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)[/i]
+pt:  => 3/3
+
+Spirit Mirror
+cost: {WU} => {1}{WU}
+rules_text:  => Flying
+You have ward {5}. [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {5}.)[/i]
+pt:  => 1/2
+
+Spirit of the Hakurei Relic
+type: Creature — Faerie => Creature — Faerie Spirit
+
+Tanuki Impostor
+cost: {GU} => {2}{GU}
+rules_text: Prowess [i](Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)[/i] => Prowess [i](Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)[/i]
+Whenever you cast a noncreature spell during an opponent's turn, untap this creature. It gains reach until end of turn.
+pt:  => 3/2
+
+TORIFUNE Monstrosity
+cost: {BG} => {4}{BG}{BG}
+rules_text:  => When this creature enters, you may sacrifice another creature. When you do, this creature deals damage equal to its power to target creature an opponent controls.
+pt:  => 6/6
+
+
+VERSION 2 CHANGELOG
 ====================
 
 Raiko, Guest Drummer added.

@@ -5,7 +5,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Plains Island",
-			"collector_number": "52",
+			"collector_number": "58",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/0.png"
 			}
@@ -15,7 +15,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Forest Island",
-			"collector_number": "47",
+			"collector_number": "53",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/1.png"
 			}
@@ -25,7 +25,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Mountain Plains",
-			"collector_number": "53",
+			"collector_number": "59",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/2.png"
 			}
@@ -35,7 +35,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Island Swamp",
-			"collector_number": "49",
+			"collector_number": "55",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/3.png"
 			}
@@ -45,7 +45,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Island Mountain",
-			"collector_number": "51",
+			"collector_number": "57",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/4.png"
 			}
@@ -105,7 +105,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Swamp Forest",
-			"collector_number": "45",
+			"collector_number": "51",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/10.png"
 			}
@@ -175,7 +175,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Swamp Mountain",
-			"collector_number": "48",
+			"collector_number": "54",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/17.png"
 			}
@@ -185,7 +185,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Plains Swamp",
-			"collector_number": "50",
+			"collector_number": "56",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/18.png"
 			}
@@ -195,7 +195,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Forest Plains",
-			"collector_number": "46",
+			"collector_number": "52",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/19.png"
 			}
@@ -205,7 +205,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Mountain Forest",
-			"collector_number": "54",
+			"collector_number": "60",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/20.png"
 			}
@@ -295,7 +295,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}{B}",
 			"type": "Legendary Creature — Human Deserter",
-			"collector_number": "31",
+			"collector_number": "33",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/29.png"
 			}
@@ -305,7 +305,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{R}{W}{B}",
 			"type": "Legendary Creature — Human Spirit Monk",
-			"collector_number": "34",
+			"collector_number": "36",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/30.png"
 			}
@@ -315,7 +315,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}{R}",
 			"type": "Legendary Creature — Rabbit Youkai",
-			"collector_number": "32",
+			"collector_number": "34",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/31.png"
 			}
@@ -425,27 +425,27 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}{W}",
 			"type": "Legendary Creature — Youkai Bard",
-			"collector_number": "33",
+			"collector_number": "35",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/42.png"
 			}
 		},
 		{
-			"name": "Aunn",
-			"rarity": "common",
-			"mana_cost": "{G}{W}",
-			"type": "",
+			"name": "Aunn, Temple Helper",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Legendary Creature — Dog Golem Youkai",
 			"collector_number": "26",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/43.png"
 			}
 		},
 		{
-			"name": "Mamizou",
-			"rarity": "common",
-			"mana_cost": "{G}{U}",
-			"type": "",
-			"collector_number": "30",
+			"name": "Mamizou, Ever Watching",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{U}",
+			"type": "Legendary Creature — Dog Youkai",
+			"collector_number": "32",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/44.png"
 			}
@@ -462,20 +462,20 @@
 		},
 		{
 			"name": "Enenra",
-			"rarity": "common",
+			"rarity": "uncommon",
 			"mana_cost": "{B/R}",
 			"type": "Creature — Elemental Youkai",
-			"collector_number": "35",
+			"collector_number": "40",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/46.png"
 			}
 		},
 		{
 			"name": "Great Fairies",
-			"rarity": "common",
-			"mana_cost": "{G/W}",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G/W}",
 			"type": "Creature — Faerie",
-			"collector_number": "36",
+			"collector_number": "41",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/47.png"
 			}
@@ -485,7 +485,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R/G}",
 			"type": "Creature — Fox Youkai",
-			"collector_number": "37",
+			"collector_number": "42",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/48.png"
 			}
@@ -495,7 +495,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W/B}",
 			"type": "Creature — Angel",
-			"collector_number": "38",
+			"collector_number": "43",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/49.png"
 			}
@@ -505,7 +505,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U/R}",
 			"type": "Creature — Cat",
-			"collector_number": "39",
+			"collector_number": "44",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/50.png"
 			}
@@ -513,29 +513,29 @@
 		{
 			"name": "Shadow Mirror",
 			"rarity": "uncommon",
-			"mana_cost": "{U/B}",
+			"mana_cost": "{3}{U/B}",
 			"type": "Artifact Creature — Shade Construct",
-			"collector_number": "40",
+			"collector_number": "45",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/51.png"
 			}
 		},
 		{
 			"name": "Spirit Mirror",
-			"rarity": "common",
-			"mana_cost": "{W/U}",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W/U}",
 			"type": "Artifact Creature — Spirit Construct",
-			"collector_number": "41",
+			"collector_number": "46",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/52.png"
 			}
 		},
 		{
 			"name": "Spirit of the Hakurei Relic",
-			"rarity": "common",
+			"rarity": "uncommon",
 			"mana_cost": "{1}{R/W}",
-			"type": "Creature — Faerie",
-			"collector_number": "42",
+			"type": "Creature — Faerie Spirit",
+			"collector_number": "47",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/53.png"
 			}
@@ -543,9 +543,9 @@
 		{
 			"name": "Tanuki Impostor",
 			"rarity": "uncommon",
-			"mana_cost": "{G/U}",
+			"mana_cost": "{2}{G/U}",
 			"type": "Creature — Dog Youkai",
-			"collector_number": "43",
+			"collector_number": "48",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/54.png"
 			}
@@ -553,11 +553,81 @@
 		{
 			"name": "TORIFUNE Monstrosity",
 			"rarity": "uncommon",
-			"mana_cost": "{B/G}",
+			"mana_cost": "{4}{B/G}{B/G}",
 			"type": "Creature — Horror Chimera",
-			"collector_number": "44",
+			"collector_number": "49",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/55.png"
+			}
+		},
+		{
+			"name": "Tenshi, Earthbound",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Legendary Creature — Mystic",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/56.png"
+			}
+		},
+		{
+			"name": "Dreamworld Doppelganger",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{R}{W}",
+			"type": "Legendary Creature — Avatar Wizard",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/57.png"
+			}
+		},
+		{
+			"name": "Teireida and Nishida",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{G}{U}",
+			"type": "Legendary Creature — Human Minion",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/58.png"
+			}
+		},
+		{
+			"name": "A Discerning Customer",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Legendary Creature — God",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/59.png"
+			}
+		},
+		{
+			"name": "Whitewater Champions",
+			"rarity": "rare",
+			"mana_cost": "{W}{U}",
+			"type": "Legendary Creature — Merfolk Dwarf Noble",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/60.png"
+			}
+		},
+		{
+			"name": "Personalized Fortune Slip",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/61.png"
+			}
+		},
+		{
+			"name": "Youkai",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Youkai",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/62.png"
 			}
 		}
 	]
@@ -580,6 +650,13 @@
 	1 Lord Tenma's Command
 	1 Twin Spark
 	2 Raiko, Guest Drummer
+	2 Aunn, Temple Helper
+	2 Mamizou, Ever Watching
+	2 Tenshi, Earthbound
+	2 Dreamworld Doppelganger
+	2 Teireida and Nishida
+	2 A Discerning Customer
+	2 Whitewater Champions
 [uncommon(3)]
 	4 Sea of Tranquility
 	4 Genbu Ravine
@@ -596,10 +673,14 @@
 	4 Netherworld Gates
 	4 Garden of the Sun
 	4 Youkai Mountain
+	4 Enenra
+	4 Great Fairies
 	4 Kitsune Impostor
 	4 A Little Sin
 	4 Magician's Companion
 	4 Shadow Mirror
+	4 Spirit Mirror
+	4 Spirit of the Hakurei Relic
 	4 Tanuki Impostor
 	4 TORIFUNE Monstrosity
 [common(7)]
@@ -613,12 +694,7 @@
 	8 Thirst for Companionship
 	8 Reduce to Vapor
 	8 Fairy Menace
-	8 Aunn
-	8 Mamizou
-	8 Enenra
-	8 Great Fairies
-	8 Spirit Mirror
-	8 Spirit of the Hakurei Relic
+	8 Personalized Fortune Slip
 [foil(1)]
 	6 Sea of Tranquility
 	6 Genbu Ravine
@@ -662,18 +738,24 @@
 	12 Fairy Menace
 	1 Twin Spark
 	2 Raiko, Guest Drummer
-	12 Aunn
-	12 Mamizou
-	12 Enenra
-	12 Great Fairies
+	2 Aunn, Temple Helper
+	2 Mamizou, Ever Watching
+	6 Enenra
+	6 Great Fairies
 	6 Kitsune Impostor
 	6 A Little Sin
 	6 Magician's Companion
 	6 Shadow Mirror
-	12 Spirit Mirror
-	12 Spirit of the Hakurei Relic
+	6 Spirit Mirror
+	6 Spirit of the Hakurei Relic
 	6 Tanuki Impostor
 	6 TORIFUNE Monstrosity
+	2 Tenshi, Earthbound
+	2 Dreamworld Doppelganger
+	2 Teireida and Nishida
+	2 A Discerning Customer
+	2 Whitewater Champions
+	12 Personalized Fortune Slip
 [wildcard(1)]
 	15 Sea of Tranquility
 	15 Genbu Ravine
@@ -717,15 +799,21 @@
 	6 Fairy Menace
 	4 Twin Spark
 	7 Raiko, Guest Drummer
-	6 Aunn
-	6 Mamizou
-	6 Enenra
-	6 Great Fairies
+	7 Aunn, Temple Helper
+	7 Mamizou, Ever Watching
+	15 Enenra
+	15 Great Fairies
 	15 Kitsune Impostor
 	15 A Little Sin
 	15 Magician's Companion
 	15 Shadow Mirror
-	6 Spirit Mirror
-	6 Spirit of the Hakurei Relic
+	15 Spirit Mirror
+	15 Spirit of the Hakurei Relic
 	15 Tanuki Impostor
 	15 TORIFUNE Monstrosity
+	7 Tenshi, Earthbound
+	7 Dreamworld Doppelganger
+	7 Teireida and Nishida
+	7 A Discerning Customer
+	7 Whitewater Champions
+	6 Personalized Fortune Slip
