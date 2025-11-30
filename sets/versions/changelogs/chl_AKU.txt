@@ -1,4 +1,88 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+Rabbit added.
+Roukanken and Hakurouken added.
+Iron Rings of Moriya added.
+
+
+Genbu Ravine
+
+Wonderful Heaven
+
+Apparitions Stalk the Night
+
+The White Rabbit's Trick
+
+Magic is All About Power
+
+Hellfire Mantle
+
+Garden of the Sun
+
+Youkai Mountain
+
+Immemorial Marketeer
+
+Hidden Star in All Seasons
+
+Solar Sect of Mystic Wisdom
+
+Grave of Being
+
+The Gensokyo Chronicle
+
+Cheating Detective Satori
+
+Aya, Reporter of Fantasy
+
+Mizuchi, Traitor to Humanity
+
+Mysterious Medicine Merchant
+
+Kappa Tinkerers
+
+Choujuu Gigaku
+
+Helpful Hofgoblin
+
+Lord Tenma's Command
+
+Thirst for Companionship
+
+Reduce to Vapor
+
+Fairy Menace
+
+Twin Spark
+
+Raiko, Guest Drummer
+
+Aunn, Temple Helper
+
+Mamizou, Ever Watching
+
+Kitsune Impostor
+
+A Little Sin
+rules_text: Flying
+Whenever you gain life, put a+1/+1 counter on target creature you control. This ability triggers only once each turn. => Flying
+Whenever you gain life, put a +1/+1 counter on target creature you control. This ability triggers only once each turn.
+
+Magician's Companion
+
+Spirit of the Hakurei Relic
+
+Tanuki Impostor
+
+Tenshi, Earthbound
+
+Dreamworld Doppelganger
+
+A Discerning Customer
+
+
+VERSION 3 CHANGELOG
 ====================
 
 Aunn, Temple Helper added.

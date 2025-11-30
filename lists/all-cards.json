@@ -62,7 +62,7 @@
             "artist": "\u7ef4\u63d0\u5a1c/VETINARENSA",
             "alias": "",
             "position": "2",
-            "notes": "!tag IN\n!tag Marisa\n!tag Stage4\n!tag Playable",
+            "notes": "!tag IN\n!tag Marisa\n!tag Kirisame\n!tag Stage4\n!tag Playable",
             "image_type": "png",
             "v_mana": ""
         },
@@ -84,7 +84,7 @@
             "artist": "\u9f13\u819c\u4f4f\u8077/Komaku Juushoku",
             "alias": "",
             "position": "3",
-            "notes": "!tag Reimu",
+            "notes": "!tag Reimu\n!tag Hakurei\n!tag Spellcard",
             "image_type": "png",
             "v_mana": ""
         },
@@ -106,7 +106,7 @@
             "artist": "\u6728SHIYO",
             "alias": "",
             "position": "4",
-            "notes": "!tag MoF\n!tag Sanae\n!tag Stage5\n!tag Moriya\n!tag Moreya\n!tag Playable",
+            "notes": "!tag MoF\n!tag Sanae\n!tag Kochiya\n!tag Stage5\n!tag Moriya\n!tag Moreya\n!tag Playable",
             "image_type": "png",
             "v_mana": ""
         },
@@ -128,7 +128,7 @@
             "artist": "\u3044\u304a\u304d\u3079/1_OKIBE",
             "alias": "",
             "position": "5",
-            "notes": "!tag IN\n!tag Reisen\n!tag Stage5\n!tag Eientei\n!tag Moon\n!tag Playable",
+            "notes": "!tag IN\n!tag IotMaIotE\n!tag Reisen\n!tag Udonge\n!tag Udongein\n!tag Inaba\n!tag Stage5\n!tag Eientei\n!tag Moon\n!tag Playable",
             "image_type": "png",
             "v_mana": ""
         },
@@ -150,7 +150,7 @@
             "artist": "\u93e1_area/mirrorxilu4",
             "alias": "",
             "position": "6",
-            "notes": "!tag IN\n!tag IN-all\n!tag Eirin\n!tag Stage6\n!tag Eientei\n!tag Moon",
+            "notes": "!tag IN\n!tag Eirin\n!tag Yagokoro\n!tag Stage6\n!tag Eientei\n!tag Moon",
             "image_type": "png",
             "v_mana": ""
         },
@@ -172,7 +172,7 @@
             "artist": "\u7fbd\u3005\u65ac/U_U_ZAN",
             "alias": "",
             "position": "7",
-            "notes": "!tag IN\n!tag Kaguya\n!tag IN-all\n!tag Stage6\n!tag Eientei\n!tag Moon\n!tag Music",
+            "notes": "!tag IN\n!tag Kaguya\n!tag Houraisan\n!tag IN-all\n!tag Stage6\n!tag Eientei\n!tag Moon\n!tag Music",
             "image_type": "png",
             "v_mana": "",
             "designer_notes": "<p><a href=\"https://www.youtube.com/watch?v=pw2WQjqKpVM\">IN Final Boss B - Flight of the Bamboo Cutter ~ Lunatic Princess</a></p>"
@@ -195,7 +195,7 @@
             "artist": "\u7fbd\u3005\u65ac/U_U_ZAN",
             "alias": "",
             "position": "8",
-            "notes": "!tag IN\n!tag Mokou\n!tag EX\n!tag StageEX\n!tag Playable\n!tag Music",
+            "notes": "!tag IN\n!tag Mokou\n!tag Fujiwara\n!tag EX\n!tag StageEX\n!tag Playable\n!tag Music",
             "image_type": "png",
             "v_mana": "",
             "designer_notes": "<p><a href=\"https://www.youtube.com/watch?v=ETTk83qis0w\">IN Extra Stage Boss - Reach for the Moon, Immortal Smoke</a></p>"
@@ -218,7 +218,7 @@
             "artist": "Peachems",
             "alias": "",
             "position": "9",
-            "notes": "!tag Peak",
+            "notes": "!tag Gag",
             "image_type": "png",
             "v_mana": ""
         },
@@ -284,7 +284,7 @@
             "artist": "\u30b8\u30e7\u30f3\u30c7\u30a3\u30fc/JOHNDEEEEEE",
             "alias": "",
             "position": "12",
-            "notes": "!tag EoSD\n!tag Meiling\n!tag Stage3\n!tag SDM\n!tag Playable",
+            "notes": "!tag EoSD\n!tag Meiling\n!tag Hong\n!tag Stage3\n!tag SDM\n!tag Playable",
             "image_type": "png",
             "v_mana": ""
         },
@@ -328,7 +328,7 @@
             "artist": "\u6c34\u30e9\u30d4/MIZURAPI",
             "alias": "",
             "position": "14",
-            "notes": "!tag EoSD\n!tag Patchouli\n!tag Stage4\n!tag SDM\n!tag Playable",
+            "notes": "!tag EoSD\n!tag Patchouli\n!tag Knowledge\n!tag Stage4\n!tag SDM\n!tag Playable\n!tag Chronicle",
             "image_type": "png",
             "v_mana": ""
         },
@@ -439,7 +439,7 @@
             "artist": "\u7791\u4e38 \u30a4\u30cc\u30c1\u30e8/Meimaru Inuchiyo",
             "alias": "",
             "position": "19",
-            "notes": "!tag UDoALG\n!tag Enoko\n!tag Phantasmagoria\n!tag Playable",
+            "notes": "!tag UDoALG\n!tag Enoko\n!tag Mitsugashira\n!tag Phantasmagoria\n!tag Playable",
             "image_type": "png",
             "v_mana": ""
         },
@@ -461,7 +461,7 @@
             "artist": "13\u53f7",
             "alias": "",
             "position": "20",
-            "notes": "!tag UDoALG\n!tag Chiyari\n!tag Phantasmagoria\n!tag Playable",
+            "notes": "!tag UDoALG\n!tag Chiyari\n!tag Tenkajin\n!tag Phantasmagoria\n!tag Playable",
             "image_type": "png",
             "v_mana": ""
         },
@@ -483,7 +483,7 @@
             "artist": "Amibazh",
             "alias": "",
             "position": "21",
-            "notes": "!tag UDoALG\n!tag Zanmu\n!tag Phantasmagoria\n!tag Playable\n!tag Music",
+            "notes": "!tag UDoALG\n!tag Zanmu\n!tag Nippaku\n!tag Phantasmagoria\n!tag Playable\n!tag Music",
             "image_type": "png",
             "v_mana": "",
             "designer_notes": "<p><a href=\"https://www.youtube.com/watch?v=RtetL7x2bos\">UDoALG Zanmu Nippaku's theme - The Deviants' Unobstructed Light ~ Kingdom of Nothingness</a></p>"
@@ -506,7 +506,7 @@
             "artist": "\u3057\u304a\u3057\u304a/betabetarimocon",
             "alias": "",
             "position": "22",
-            "notes": "!tag UDoALG\n!tag Hisami\n!tag Phantasmagoria\n!tag Playable\n!tag Gay\n!tag Yuri",
+            "notes": "!tag UDoALG\n!tag Hisami\n!tag Yomotsu\n!tag Phantasmagoria\n!tag Playable\n!tag Gay\n!tag Yuri",
             "image_type": "png",
             "v_mana": ""
         },
@@ -528,7 +528,7 @@
             "artist": "\u3053\u305e\u3046/KOZOUSAN",
             "alias": "",
             "position": "23",
-            "notes": "!tag PCB\n!tag Alice\n!tag Shanghai\n!tag Hourai\n!tag Stage3\n!tag Playable",
+            "notes": "!tag PCB\n!tag Alice\n!tag Margatroid\n!tag Shanghai\n!tag Hourai\n!tag Stage3\n!tag Playable",
             "image_type": "png",
             "v_mana": ""
         },
@@ -550,7 +550,7 @@
             "artist": "\u8449\u6708 \u7d2b\u4e43/Hazuki Shino",
             "alias": "",
             "position": "24",
-            "notes": "!tag PCB\n!tag Letty\n!tag Stage1",
+            "notes": "!tag PCB\n!tag Letty\n!tag Whiterock\n!tag Stage1",
             "image_type": "png",
             "v_mana": ""
         },
@@ -572,7 +572,7 @@
             "artist": "\u3086\u305f\u307e\u308d/YUTAMARO",
             "alias": "",
             "position": "25",
-            "notes": "!tag PCB\n!tag Lily\n!tag Stage4",
+            "notes": "!tag PCB\n!tag Lily\n!tag LilyWhite\n!tag Stage4\n!tag Chronicle",
             "image_type": "png",
             "v_mana": ""
         },
@@ -616,7 +616,7 @@
             "artist": "Sui.",
             "alias": "",
             "position": "27",
-            "notes": "!tag DDC\n!tag Yatsuhashi\n!tag Benben\n!tag Stage4\n!tag Music",
+            "notes": "!tag DDC\n!tag Yatsuhashi\n!tag Benben\n!tag Tsukumo\n!tag Stage4\n!tag Music",
             "image_type": "png",
             "v_mana": "",
             "designer_notes": "<p><a href=\"https://www.youtube.com/watch?v=fEZYFTUj16Y\">DDC Stage 4 - Magical Storm</a></p>\n<p><a href=\"https://www.youtube.com/watch?v=nunKF7Ew3bo\">DDC Stage 4 Boss - Illusionary Joururi</a></p>"
@@ -662,7 +662,7 @@
             "artist": "Sherry",
             "alias": "",
             "position": "29",
-            "notes": "!tag SA\n!tag Music\n!tag Hell",
+            "notes": "!tag SA\n!tag Music\n!tag Rin\n!tag Orin\n!tag Kaenbyou\n!tag Hell",
             "image_type": "png",
             "v_mana": "",
             "designer_notes": "<p><a href=\"https://www.youtube.com/watch?v=4-QacmltD4g\">SA Stage 5 - Lullaby of Deserted Hell</a></p>"
@@ -685,7 +685,7 @@
             "artist": "\u7791\u4e38 \u30a4\u30cc\u30c1\u30e8/Meimaru Inuchiyo",
             "alias": "",
             "position": "30",
-            "notes": "!addtoken Tanuki;2\n!tag TD\n!tag Mamizou\n!tag EX\n!tag StageEX\n!tag Music\n!tag Playable",
+            "notes": "!addtoken Tanuki;2\n!tag TD\n!tag Mamizou\n!tag Futatsuiwa\n!tag EX\n!tag StageEX\n!tag Music\n!tag Playable",
             "image_type": "png",
             "v_mana": "",
             "designer_notes": "<p><a href=\"https://www.youtube.com/watch?v=ye7gkpxRWik\">TD Extra Stage Boss - Futatsuiwa from Sado</a></p>\n<p><a href=\"https://www.youtube.com/watch?v=ggvb7QNSBwk\">HM Mamizou Futatsuiwa's Theme - Futatsuiwa from Gensokyo</a></p>"
@@ -752,7 +752,7 @@
             "artist": "\u6d77\u6e90/KTx3rl8o",
             "alias": "",
             "position": "33",
-            "notes": "!tag WBaWC\n!tag Keiki\n!tag Mayumi\n!tag Music",
+            "notes": "!tag WBaWC\n!tag Keiki\n!tag Haniyasushin\n!tag Mayumi\n!tag Joutougu\n!tag Music",
             "image_type": "png",
             "v_mana": "",
             "designer_notes": "<p><a href=\"https://www.youtube.com/watch?v=Y0VYKbTSxu0\">WBaWC Final Boss - Entrust This World to Idols ~ Idolatrize World</a></p>"
@@ -775,7 +775,7 @@
             "artist": "miririri/\u30df\u30ea\u30ea\u30ea",
             "alias": "",
             "position": "34",
-            "notes": "!tag PCB\n!tag Yuyuko\n!tag Music",
+            "notes": "!tag PCB\n!tag Yuyuko\n!tag Saigyouji\n!tag Music",
             "image_type": "png",
             "v_mana": "",
             "designer_notes": "<p><a href=\"https://www.youtube.com/watch?v=69jezLrwbU4\">PCB Final Spell - Border of Life</a></p>"
@@ -798,7 +798,7 @@
             "artist": "\u52d5\u304b\u306a\u3044\u5927\u56f3\u66f8\u9928/DZC_23",
             "alias": "",
             "position": "35",
-            "notes": "!tag MoF\n!tag Music",
+            "notes": "!tag MoF\n!tag Music\n!tag Kanako\n!tag Yasaka",
             "image_type": "png",
             "v_mana": "",
             "designer_notes": "<p><a href=\"https://www.youtube.com/watch?v=iMVmvONtSsY\">MoF Final Boss - The Venerable Ancient Battlefield ~ Suwa Foughten Field</a></p>"
@@ -844,7 +844,7 @@
             "artist": "MegaBuBu",
             "alias": "",
             "position": "37",
-            "notes": "!tag LoLK\n!tag VFiS\n!tag Clownpiece\n!tag Kurapi\n!tag Stage5\n!tag Hell\n!tag Sangetsusei",
+            "notes": "!tag LoLK\n!tag VFiS\n!tag Clownpiece\n!tag Kurapi\n!tag HotTopic\n!tag Stage5\n!tag Hell\n!tag Sangetsusei",
             "image_type": "png",
             "v_mana": ""
         },
@@ -888,7 +888,7 @@
             "artist": "\u4e03\u8272\u306e\u9ef4/NANAIRO NO KABI",
             "alias": "",
             "position": "39",
-            "notes": "!tag MoF\n!tag Music",
+            "notes": "!tag MoF\n!tag Shizuha\n!tag Aki\n!tag Music",
             "image_type": "png",
             "v_mana": "",
             "designer_notes": "<p><a href=\"https://www.youtube.com/watch?v=_mlkuZI4CK8\">MoF Stage 1 - A God That Loves People ~ Romantic Fall</a></p>"
@@ -934,7 +934,7 @@
             "artist": "\u96e8\u5bbf\u4ead/Amayadori-Tei",
             "alias": "",
             "position": "41",
-            "notes": "!tag SA\n!tag Yamame\n!tag Stage1\n!tag Hell",
+            "notes": "!tag SA\n!tag Yamame\n!tag Kurodani\n!tag Stage1\n!tag Hell",
             "image_type": "png",
             "v_mana": ""
         },
@@ -956,7 +956,7 @@
             "artist": "\u3053\u305e\u3046/KOZOUSAN",
             "alias": "",
             "position": "42",
-            "notes": "!tag DDC\n!tag Raiko\n!tag Music\n!tag EX\n!tag StageEX",
+            "notes": "!tag DDC\n!tag Raiko\n!tag Horikawa\n!tag Music\n!tag EX\n!tag StageEX",
             "image_type": "png",
             "v_mana": "",
             "designer_notes": "<p><a href=\"https://www.youtube.com/watch?v=s-EuVBIY7-g\">DDC Extra Stage Boss - Primordial Beat ~ Pristine Beat</a></p>"
@@ -979,7 +979,7 @@
             "artist": "\u6cb3CY/KAWANOCY",
             "alias": "",
             "position": "43",
-            "notes": "!tag TD\n!tag Seiga\n!tag Stage4\n!tag Taoist",
+            "notes": "!tag TD\n!tag Seiga\n!tag Kaku\n!tag Stage4\n!tag Taoist",
             "image_type": "png",
             "v_mana": ""
         },
@@ -1024,7 +1024,7 @@
             "artist": "\u7fbd\u3005\u65ac/U_U_ZAN",
             "alias": "",
             "position": "45",
-            "notes": "!tag IN\n!tag Marisa\n!tag Alice\n!tag Gay\n!tag Yuri\n!tag Music",
+            "notes": "!tag IN\n!tag Marisa\n!tag Kirisame\n!tag Alice\n!tag Margatroid\n!tag Gay\n!tag Yuri\n!tag Music",
             "image_type": "png",
             "v_mana": "",
             "designer_notes": "<p><a href=\"https://www.youtube.com/watch?v=YroQw984m-I\">SoEW Stage 4 Boss - Love-Colored Magic</a></p>\n<p><a href=\"https://www.youtube.com/watch?v=_6L6E7TLy10\">IN Stage 4 Powerful Boss - Love-Colored Master Spark</a></p>"
@@ -1047,7 +1047,7 @@
             "artist": "\u30d6\u30e9\u30c3\u30af\u8c46\u8150/BLACKTOFU",
             "alias": "",
             "position": "46",
-            "notes": "!tag IN\n!tag Mokou\n!tag IN-all\n!tag Music",
+            "notes": "!tag IN\n!tag Mokou\n!tag Fujiwara\n!tag IN-all\n!tag Music",
             "image_type": "png",
             "v_mana": "",
             "designer_notes": "<p><a href=\"https://www.youtube.com/watch?v=yNVg2qaAtnI\">IN Extra Stage - Extend Ash ~ Person of Hourai</a></p>"
@@ -1092,7 +1092,7 @@
             "artist": "Novawuff",
             "alias": "",
             "position": "48",
-            "notes": "!tag SSiB\n!tag CiLR\n!tag Zenki\n!tag Goki\n!tag Bougetsushou\n!tag Print\n!tag Male",
+            "notes": "!tag SSiB\n!tag CiLR\n!tag Zenki\n!tag Goki\n!tag Yakumo\n!tag Bougetsushou\n!tag Print\n!tag Male",
             "image_type": "png",
             "v_mana": ""
         },
@@ -1114,7 +1114,7 @@
             "artist": "\u7791\u4e38 \u30a4\u30cc\u30c1\u30e8/Meimaru Inuchiyo",
             "alias": "",
             "position": "49",
-            "notes": "!tag LoLK\n!tag Hecatia\n!tag Hecka\n!tag HotTopic\n!tag EX\n!tag StageEX\n!tag Hell",
+            "notes": "!tag LoLK\n!tag Hecatia\n!tag Lapislazuli\n!tag Hecka\n!tag HotTopic\n!tag EX\n!tag StageEX\n!tag Hell",
             "image_type": "png",
             "v_mana": ""
         },
@@ -1136,7 +1136,7 @@
             "artist": "\u30be\u30a6\u30ce\u30bb/ZOUNOSE",
             "alias": "",
             "position": "50",
-            "notes": "!tag UFO\n!tag Byakuren\n!tag Music",
+            "notes": "!tag UFO\n!tag Byakuren\n!tag Hijiri\n!tag Music",
             "image_type": "png",
             "v_mana": "",
             "designer_notes": "<p><a href=\"https://www.youtube.com/watch?v=lmy6rcn_v3A\">UFO Final Boss - Emotional Skyscraper ~ Cosmic Mind</a></p>"
@@ -1204,7 +1204,7 @@
             "artist": "Lukesaku",
             "alias": "",
             "position": "53",
-            "notes": "!tag IN\n!tag Wriggle\n!tag Stage1",
+            "notes": "!tag IN\n!tag Wriggle\n!tag Nightbug\n!tag Stage1\n!tag Chronicle",
             "image_type": "png",
             "v_mana": ""
         },
@@ -1226,7 +1226,7 @@
             "artist": "fjsmu",
             "alias": "",
             "position": "54",
-            "notes": "!tag IN\n!tag Mystia\n!tag Stage2\n!tag Music\n!tag Playable",
+            "notes": "!tag IN\n!tag Mystia\n!tag Lorelei\n!tag Stage2\n!tag Music\n!tag Playable\n!tag Chronicle",
             "image_type": "png",
             "v_mana": "",
             "designer_notes": "<p><a href=\"https://www.youtube.com/watch?v=pgc1pFrwBeE\">IN Stage 2 - Song of the Night Sparrow ~ Night Bird</a></p>"
@@ -1260,7 +1260,7 @@
             "loyalty2": "",
             "artist2": "Ria",
             "alias2": "",
-            "notes": "!tag IN\n!tag Keine\n!tag Stage3\n!tag EX\n!tag StageEX",
+            "notes": "!tag IN\n!tag Keine\n!tag Kamishirasawa\n!tag Stage3\n!tag EX\n!tag StageEX",
             "image_type": "png",
             "v_mana": ""
         },
@@ -1282,7 +1282,7 @@
             "artist": "\u30ce\u30d3\u30bf/Nobita_4",
             "alias": "",
             "position": "56",
-            "notes": "!tag IN\n!tag Tewi\n!tag Tei\n!tag IN-all\n!tag Stage5\n!tag Eientei\n!tag Playable",
+            "notes": "!tag IN\n!tag IotMaIotE\n!tag Tewi\n!tag Tei\n!tag Inaba\n!tag Stage5\n!tag Eientei\n!tag Playable",
             "image_type": "png",
             "v_mana": ""
         },
@@ -1304,7 +1304,7 @@
             "artist": "\u3068\u308a/HASIBIL_TORIKO",
             "alias": "",
             "position": "57",
-            "notes": "!tag PoFV\n!tag Medicine\n!tag Phantasmagoria",
+            "notes": "!tag PoFV\n!tag Medicine\n!tag Melancholy\n!tag Phantasmagoria",
             "image_type": "png",
             "v_mana": ""
         },
@@ -1326,7 +1326,7 @@
             "artist": "\u304f\u308b\u80e1\u6843/Kulukulu3333",
             "alias": "",
             "position": "58",
-            "notes": "!tag PoFV\n!tag Komachi\n!tag Phantasmagoria\n!tag Playable",
+            "notes": "!tag PoFV\n!tag Komachi\n!tag Onozuka\n!tag Phantasmagoria\n!tag Playable",
             "image_type": "png",
             "v_mana": ""
         },
@@ -1348,7 +1348,7 @@
             "artist": "Ryosios",
             "alias": "",
             "position": "59",
-            "notes": "!tag Eiki\n!tag Shikieiki\n!tag PoFV",
+            "notes": "!tag Eiki\n!tag Shiki\n!tag Shikieiki\n!tag Yamaxanadu\n!tag PoFV",
             "image_type": "png",
             "v_mana": ""
         },
@@ -1381,7 +1381,7 @@
             "loyalty2": "",
             "artist2": "",
             "alias2": "",
-            "notes": "!tag FS\n!tag Kosuzu\n!tag Print",
+            "notes": "!tag FS\n!tag Kosuzu\n!tag Motoori\n!tag Print",
             "image_type": "png",
             "v_mana": ""
         },
@@ -1403,7 +1403,7 @@
             "artist": "\u3043\u3064\u307f(Izumi)",
             "alias": "",
             "position": "61",
-            "notes": "!tag IN\n!tag Marisa\n!tag Alice\n!tag Gay\n!tag Yuri\n!tag Playable",
+            "notes": "!tag IN\n!tag Marisa\n!tag Kirisame\n!tag Alice\n!tag Margatroid\n!tag Gay\n!tag Yuri\n!tag Playable",
             "image_type": "png",
             "v_mana": ""
         },
@@ -1425,7 +1425,7 @@
             "artist": "\u767d\u94f6\u5929\u72fc\u661f/Silversirius",
             "alias": "",
             "position": "62",
-            "notes": "!tag IN\n!tag Mystia\n!tag Music",
+            "notes": "!tag IN\n!tag Mystia\n!tag Lorelei\n!tag Music",
             "image_type": "png",
             "v_mana": "",
             "designer_notes": "<p><a href=\"https://www.youtube.com/watch?v=t4y-pQb-UDA\">IN Stage 2 Boss - Deaf to All but the Song</a></p>"
@@ -1471,7 +1471,7 @@
             "artist": "Sebastian Bonelli",
             "alias": "",
             "position": "64",
-            "notes": "!tag UM\n!tag Mike\n!tag Music",
+            "notes": "!tag UM\n!tag Mike\n!tag Goutoukuji\n!tag Music",
             "image_type": "png",
             "v_mana": "",
             "designer_notes": "<p><a href=\"https://www.youtube.com/watch?v=QdYvjI82j_M\">UM Stage 1 Boss - Kitten of Great Fortune</a></p>"
@@ -1516,7 +1516,7 @@
             "artist": "\u306f\u308b\u3068\u304d\u304f\u308c/Harutoki Kure",
             "alias": "",
             "position": "66",
-            "notes": "!tag MoF\n!tag Hina\n!tag Stage2",
+            "notes": "!tag MoF\n!tag Hina\n!tag Kagiyama\n!tag Stage2",
             "image_type": "png",
             "v_mana": ""
         },
@@ -1538,7 +1538,7 @@
             "artist": "\u3042\u304b\u3044\u306e/akainoda",
             "alias": "",
             "position": "67",
-            "notes": "!tag MoF\n!tag Nitori\n!tag Stage3\n!tag Playable",
+            "notes": "!tag MoF\n!tag Nitori\n!tag Kawashiro\n!tag Stage3\n!tag Playable\n!tag Kappa",
             "image_type": "png",
             "v_mana": ""
         },
@@ -1560,7 +1560,7 @@
             "artist": "\u7fbd\u3005\u65ac/U_U_ZAN",
             "alias": "",
             "position": "68",
-            "notes": "!tag MoF\n!tag Momiji\n!tag Stage4\n!tag Tengu",
+            "notes": "!tag MoF\n!tag Momiji\n!tag Inubashiri\n!tag Stage4\n!tag Tengu",
             "image_type": "png",
             "v_mana": ""
         },
@@ -1582,7 +1582,7 @@
             "artist": "\u5e78\u5584/Yuki Zen",
             "alias": "",
             "position": "69",
-            "notes": "!tag MoF\n!tag Kanako\n!tag Stage6\n!tag Moriya\n!tag Moreya\n!tag Playable",
+            "notes": "!tag MoF\n!tag Kanako\n!tag Yasaka\n!tag Stage6\n!tag Moriya\n!tag Moreya\n!tag Playable",
             "image_type": "png",
             "v_mana": ""
         },
@@ -1604,7 +1604,7 @@
             "artist": "\u5e78\u5584/Yuki Zen",
             "alias": "",
             "position": "70",
-            "notes": "!tag TD\n!tag Yoshika\n!tag Stage3",
+            "notes": "!tag TD\n!tag Yoshika\n!tag Miyako\n!tag Stage3",
             "image_type": "png",
             "v_mana": ""
         },
@@ -1648,7 +1648,7 @@
             "artist": "\u7d05\u8449\u72e9/SphereSpirit",
             "alias": "",
             "position": "72",
-            "notes": "!tag SA\n!tag Parsee\n!tag Stage2\n!tag Hell",
+            "notes": "!tag SA\n!tag Parsee\n!tag Mizuhashi\n!tag Stage2\n!tag Hell",
             "image_type": "png",
             "v_mana": ""
         },
@@ -1692,7 +1692,7 @@
             "artist": "\u6708\u672c\u8475/Tsukimoto Aoi",
             "alias": "",
             "position": "74",
-            "notes": "!tag SA\n!tag Satori\n!tag Stage4\n!tag Chireiden\n!tag Hell",
+            "notes": "!tag SA\n!tag Satori\n!tag Komeiji\n!tag Stage4\n!tag Chireiden\n!tag Hell",
             "image_type": "png",
             "v_mana": ""
         },
@@ -1714,7 +1714,7 @@
             "artist": "Sheya",
             "alias": "",
             "position": "75",
-            "notes": "!tag SA\n!tag Koishi\n!tag StageEX\n!tag EX\n!tag Chireiden\n!tag Playable",
+            "notes": "!tag SA\n!tag Koishi\n!tag Komeiji\n!tag StageEX\n!tag EX\n!tag Chireiden\n!tag Playable",
             "image_type": "png",
             "v_mana": ""
         },
@@ -1780,7 +1780,7 @@
             "artist": "\u3082\u308a\u306e\u307b\u3093/Mori no Hon",
             "alias": "",
             "position": "78",
-            "notes": "!tag UFO\n!tag Kogasa\n!tag Stage2\n!tag Fanon",
+            "notes": "!tag UFO\n!tag Kogasa\n!tag Tatara\n!tag Stage2\n!tag Fanon",
             "image_type": "png",
             "v_mana": ""
         },
@@ -1802,7 +1802,7 @@
             "artist": "\u30be\u30a6\u30ce\u30bb/ZOUNOSE",
             "alias": "",
             "position": "79",
-            "notes": "!tag DS\n!tag Hatate\n!tag Tengu\n!tag Spinoff\n!tag Playable",
+            "notes": "!tag DS\n!tag Hatate\n!tag Himekaidou\n!tag Tengu\n!tag Spinoff\n!tag Playable",
             "image_type": "png",
             "v_mana": ""
         },
@@ -1824,7 +1824,7 @@
             "artist": "\u30be\u30a6\u30ce\u30bb/ZOUNOSE",
             "alias": "",
             "position": "80",
-            "notes": "!tag UFO\n!tag Ichirin\n!tag Unzan\n!tag Stage4\n!tag Myouren\n!tag Playable\n!tag Male",
+            "notes": "!tag UFO\n!tag Ichirin\n!tag Kumoi\n!tag Unzan\n!tag Stage4\n!tag Myouren\n!tag Playable\n!tag Male",
             "image_type": "png",
             "v_mana": ""
         },
@@ -1846,7 +1846,7 @@
             "artist": "\u30be\u30a6\u30ce\u30bb/ZOUNOSE",
             "alias": "",
             "position": "81",
-            "notes": "!tag SWR\n!tag Tenshi\n!tag Fighter\n!tag Spinoff\n!tag Heaven\n!tag Playable",
+            "notes": "!tag SWR\n!tag Tenshi\n!tag Hinanawi\n!tag Hinanai\n!tag Fighter\n!tag Spinoff\n!tag Heaven\n!tag Playable",
             "image_type": "png",
             "v_mana": ""
         },
@@ -1891,7 +1891,7 @@
             "artist": "\u6b66\u7530\u307b\u305f\u308b/Takeda Hotaru",
             "alias": "",
             "position": "83",
-            "notes": "!tag UFO\n!tag Shou\n!tag Stage5\n!tag Myouren",
+            "notes": "!tag UFO\n!tag Shou\n!tag Toramaru\n!tag Stage5\n!tag Myouren",
             "image_type": "png",
             "v_mana": ""
         },
@@ -1913,7 +1913,7 @@
             "artist": "\u751c\u74dc\u5f10\u3005/MELON22",
             "alias": "",
             "position": "84",
-            "notes": "!tag TD\n!tag Kyouko\n!tag Kyoko\n!tag Myouren\n!tag Stage2",
+            "notes": "!tag TD\n!tag Kyouko\n!tag Kasodani\n!tag Kyoko\n!tag Myouren\n!tag Stage2",
             "image_type": "png",
             "v_mana": ""
         },
@@ -1935,7 +1935,7 @@
             "artist": "\u8336\u307e\u308b\u304f/chamaruk",
             "alias": "",
             "position": "85",
-            "notes": "!tag TD\n!tag Tojiko\n!tag Stage5\n!tag Taoist",
+            "notes": "!tag TD\n!tag Tojiko\n!tag Soga\n!tag Stage5\n!tag Taoist",
             "image_type": "png",
             "v_mana": ""
         },
@@ -1957,7 +1957,7 @@
             "artist": "Om (@P24818300)",
             "alias": "",
             "position": "86",
-            "notes": "!tag TD\n!tag Futo\n!tag Stage5\n!tag Taoist\n!tag Playable",
+            "notes": "!tag TD\n!tag Futo\n!tag Mononobe\n!tag Stage5\n!tag Taoist\n!tag Playable",
             "image_type": "png",
             "v_mana": ""
         },
@@ -1979,7 +1979,7 @@
             "artist": "\u3042\u3084\u3072\u308d\u308a/@hirori_5",
             "alias": "",
             "position": "87",
-            "notes": "!tag TD\n!tag Miko\n!tag Shotoku\n!tag Stage 6\n!tag Taoist\n!tag Playable",
+            "notes": "!tag TD\n!tag Miko\n!tag Shotoku\n!tag Toyosatomimi\n!tag Stage 6\n!tag Taoist\n!tag Playable",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2023,7 +2023,7 @@
             "artist": "\u304f\u308d\u3076\u305f/Kurobuta",
             "alias": "",
             "position": "89",
-            "notes": "!tag IN\n!tag Wriggle",
+            "notes": "!tag IN\n!tag Wriggle\n!tag Nightbug",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2045,7 +2045,7 @@
             "artist": "\u304e\u30f4\u3061\u3087\u3053/gibuchoko",
             "alias": "",
             "position": "90",
-            "notes": "!tag SA\n!tag Utsuho\n!tag Okuu\n!tag Stage6\n!tag Chireiden\n!tag Hell\n!tag Playable",
+            "notes": "!tag SA\n!tag Utsuho\n!tag Reiuji\n!tag Okuu\n!tag Stage6\n!tag Chireiden\n!tag Hell\n!tag Playable",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2067,7 +2067,7 @@
             "artist": "\u7530\u6751\u30a2\u30d0\u30ba\u30ec/Tamura Abazure",
             "alias": "",
             "position": "91",
-            "notes": "!tag EoSD\n!tag SDM",
+            "notes": "!tag EoSD\n!tag SDM\n!tag Gag",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2089,7 +2089,7 @@
             "artist": "\u4ed9\u72d0/||senko||",
             "alias": "",
             "position": "92",
-            "notes": "!tag PCB\n!tag Alice\n!tag Shanghai",
+            "notes": "!tag PCB\n!tag Alice\n!tag Margatroid\n!tag Shanghai",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2111,7 +2111,7 @@
             "artist": "\u5c0f\u9b3c/l0",
             "alias": "",
             "position": "93",
-            "notes": "!tag HSiFS\n!tag Mai\n!tag Mai2\n!tag Satono\n!tag Stage5\n!tag Okina\n!tag Music",
+            "notes": "!tag HSiFS\n!tag Mai\n!tag Mai2\n!tag Satono\n!tag Teireida\n!tag Nishida\n!tag Stage5\n!tag Okina\n!tag Music",
             "image_type": "png",
             "v_mana": "",
             "designer_notes": "<p><a href=\"https://www.youtube.com/watch?v=lsAe8g-0Yis\">HSiFS Stage 5 Boss - Crazy Backup Dancers</a></p>"
@@ -2156,7 +2156,7 @@
             "artist": "\u3079\u3089\u307c\u3046/BELLA_BOW",
             "alias": "",
             "position": "95",
-            "notes": "!exportname Kagerou, Bamboos Loup-Garou\n!tag DDC\n!tag Kagerou\n!tag Kaggywaggy\n!tag Grassroots\n!tag Stage3",
+            "notes": "!exportname Kagerou, Bamboos Loup-Garou\n!tag DDC\n!tag Kagerou\n!tag Imaizumi\n!tag Kaggywaggy\n!tag Grassroots\n!tag Stage3",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2178,7 +2178,7 @@
             "artist": "\u30be\u30a6\u30ce\u30bb/ZOUNOSE",
             "alias": "",
             "position": "96",
-            "notes": "!tag DDC\n!tag Seija\n!tag ajieS\n!tag Stage5\n!tag Playable",
+            "notes": "!tag DDC\n!tag Seija\n!tag ajieS\n!tag Kijin\n!tag nijiK\n!tag Stage5\n!tag Playable",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2267,7 +2267,7 @@
             "artist": "Ryosios",
             "alias": "",
             "position": "100",
-            "notes": "!addtoken LivingBullet\n!tag HSiFS\n!tag Narumi\n!tag Stage4",
+            "notes": "!addtoken LivingBullet\n!tag HSiFS\n!tag Narumi\n!tag Yatadera\n!tag Stage4",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2333,7 +2333,7 @@
             "artist": "Sheya",
             "alias": "",
             "position": "103",
-            "notes": "!tag LoLK\n!tag Sagume\n!tag Stage4\n!tag Moon",
+            "notes": "!tag LoLK\n!tag Sagume\n!tag Kishin\n!tag Stage4\n!tag Moon",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2355,7 +2355,7 @@
             "artist": "SunnySideUp524",
             "alias": "",
             "position": "104",
-            "notes": "!tag WBaWC\n!tag Saki\n!tag Playable",
+            "notes": "!tag WBaWC\n!tag Saki\n!tag Kurokoma\n!tag Playable",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2377,7 +2377,7 @@
             "artist": "SunnySideUp524",
             "alias": "",
             "position": "105",
-            "notes": "!exportname Kiketsus Sneak, Otter\n!tag WBaWC\n!tag Yachie\n!tag Playable",
+            "notes": "!exportname Kiketsus Sneak, Otter\n!tag WBaWC\n!tag Yachie\n!tag Kicchou\n!tag Playable",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2399,7 +2399,7 @@
             "artist": "\u79cb\u30ce\u5bae \u98db\u9ce5/Akinomiya Asuka",
             "alias": "",
             "position": "106",
-            "notes": "!tag WBaWC\n!tag Eika\n!tag Stage1",
+            "notes": "!tag WBaWC\n!tag Eika\n!tag Ebisu\n!tag Stage1",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2421,7 +2421,7 @@
             "artist": "TimeSkye",
             "alias": "",
             "position": "107",
-            "notes": "!tag WbaWC\n!tag Urumi\n!tag Stage2",
+            "notes": "!tag WbaWC\n!tag Urumi\n!tag Ushizaki\n!tag Stage2",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2443,7 +2443,7 @@
             "artist": "\u82a6\u5c71 \u53d4\u4f2f/Ashiyama Yoshinori",
             "alias": "",
             "position": "108",
-            "notes": "!exportname Kutaka, Hells Border Patrol\n!tag WBaWC\n!tag Kutaka\n!tag Stage3\n!tag Hell",
+            "notes": "!exportname Kutaka, Hells Border Patrol\n!tag WBaWC\n!tag Kutaka\n!tag Niwatari\n!tag Stage3\n!tag Hell",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2465,7 +2465,7 @@
             "artist": "\u8336\u307e\u308b\u304f/chamaruk",
             "alias": "",
             "position": "109",
-            "notes": "!tag WbaWC\n!tag Yachie\n!tag Stage4\n!tag Hell\n!tag Playable",
+            "notes": "!tag WbaWC\n!tag Yachie\n!tag Kicchou\n!tag Stage4\n!tag Hell\n!tag Playable",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2487,7 +2487,7 @@
             "artist": "\u30dd\u30c6\u30c8\u30eb\u30b9/kankan33333",
             "alias": "",
             "position": "110",
-            "notes": "!exportname Kaguyas Impossible Request\n!tag IN\n!tag Kaguya\n!tag IN-all",
+            "notes": "!exportname Kaguyas Impossible Request\n!tag IN\n!tag Kaguya\n!tag Houraisan\n!tag IN-all",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2509,7 +2509,7 @@
             "artist": "O\u7d43/bowstringsmall",
             "alias": "",
             "position": "111",
-            "notes": "!tag WBaWC\n!tag Mayumi\n!tag Stage5",
+            "notes": "!tag WBaWC\n!tag Mayumi\n!tag Joutougu\n!tag Stage5",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2553,7 +2553,7 @@
             "artist": "\u3086\u3063\u304d\u3087\u3093/YUKKYON",
             "alias": "",
             "position": "113",
-            "notes": "!tag WBaWC\n!tag Keiki\n!tag Stage6",
+            "notes": "!tag WBaWC\n!tag Keiki\n!tag Haniyasushin\n!tag Stage6",
             "image_type": "png",
             "v_mana": "",
             "designer_notes": "<p><a href=\"https://rachel-brighton.github.io/search?search=t%3A%22artifact+creature%22+mv%3C%3D3\">Searchable targets</a></p>\n<p><a href=\"https://scryfall.com/search?as=grid&amp;order=name&amp;q=%28type%3Aartifact+type%3Acreature%29+%28game%3Apaper%29+cmc%3C%3D3\">Searchable targets in canon Magic</a></p>"
@@ -2576,7 +2576,7 @@
             "artist": "Syuri22",
             "alias": "",
             "position": "114",
-            "notes": "!tag WBaWC\n!tag Saki\n!tag EX\n!tag StageEX\n!tag Hell\n!tag Shotoku\n!tag Playable",
+            "notes": "!tag WBaWC\n!tag Saki\n!tag Kurokoma\n!tag EX\n!tag StageEX\n!tag Hell\n!tag Shotoku\n!tag Playable",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2598,7 +2598,7 @@
             "artist": "\u7791\u4e38 \u30a4\u30cc\u30c1\u30e8/Meimaru Inuchiyo",
             "alias": "",
             "position": "115",
-            "notes": "Treasure mode a pie issue for white. catchup version works for some people, but Emily makes good point that this can be played for the token and then a land played after, still making it net ramp. Needs to produce artifact token for slot role. Food is sideways option for ludonarrative but pie functions well enough. Grapple suggests possible route of making new bespoke token, in particular suggests something evoking OTJ Mercenaries. Viable but I would want it to be made a bigger deal than just Mike's, flavoring could be tricky but it's worth investigating.\n\n!tag UM\n!tag Mike\n!tag Stage1",
+            "notes": "!tag UM\n!tag Mike\n!tag Goutokuji\n!tag Stage1",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2620,7 +2620,7 @@
             "artist": "Naufaldreamer",
             "alias": "",
             "position": "116",
-            "notes": "!tag UM\n!tag Takane\n!tag Kappa\n!tag Stage2",
+            "notes": "!tag UM\n!tag Takane\n!tag Yamashiro\n!tag Kappa\n!tag Stage2",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2642,7 +2642,7 @@
             "artist": "\u662f\u6c34\u9b3c\u5417/Shishi Guima",
             "alias": "",
             "position": "117",
-            "notes": "!tag UM\n!tag Sannyo\n!tag Stage3",
+            "notes": "!tag UM\n!tag Sannyo\n!tag Komakusa\n!tag Stage3",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2664,7 +2664,7 @@
             "artist": "\u6d77\u6e90/KTx3rl8o",
             "alias": "",
             "position": "118",
-            "notes": "!tag UM\n!tag Misumaru\n!tag Stage4\n!tag Hakurei",
+            "notes": "!tag UM\n!tag Misumaru\n!tag Tamatsukuri\n!tag Stage4\n!tag Hakurei",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2686,7 +2686,7 @@
             "artist": "\u3044\u3051\u3060\u308b\u308a\u3053/Ikeda Ruriko",
             "alias": "",
             "position": "119",
-            "notes": "!tag UM\n!tag Tsukasa\n!tag Stage5\n!tag Tengu\n!tag Playable",
+            "notes": "!tag UM\n!tag Tsukasa\n!tag Kudamaki\n!tag Stage5\n!tag Tengu\n!tag Playable",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2977,7 +2977,7 @@
             "artist": "\u306d\u308b\u305e\u3046/_neruzou",
             "alias": "",
             "position": "132",
-            "notes": "!tag HSiFS\n!tag Nemuno\n!tag Music",
+            "notes": "!tag HSiFS\n!tag Nemuno\n!tag Sakata\n!tag Music",
             "image_type": "png",
             "v_mana": "",
             "designer_notes": "<p><a href=\"https://www.youtube.com/watch?v=mFtRP5enYAE\">HSiFS Stage 2 Boss - Deep-Mountain Encounter</a></p>"
@@ -3000,7 +3000,7 @@
             "artist": "\u3079\u3089\u307c\u3046/BELLA_BOW",
             "alias": "",
             "position": "133",
-            "notes": "!tag PoDD\n!tag Ellen\n!tag Music\n!tag Phantasmagoria\n!tag PC-98\n!tag Playable\n!Fanon",
+            "notes": "!tag PoDD\n!tag Ellen\n!tag Aureus\n!tag Music\n!tag Phantasmagoria\n!tag PC-98\n!tag Playable\n!Fanon",
             "image_type": "png",
             "v_mana": "",
             "designer_notes": "<p><a href=\"https://www.youtube.com/watch?v=VJ1EAnTUQq0\">PoDD Ellen's Theme - Tabula Rasa ~ The Empty Girl</a></p>"
@@ -3023,7 +3023,7 @@
             "artist": "\u3044\u3058\u3047\u3093/IjenejI",
             "alias": "",
             "position": "134",
-            "notes": "!tag PoDD\n!tag Kana\n!tag Music\n!tag Phantasmagoria\n!tag PC-98\n!tag Playable\n!tag Fanon",
+            "notes": "!tag PoDD\n!tag Kana\n!tag Anaberal\n!tag Music\n!tag Phantasmagoria\n!tag PC-98\n!tag Playable\n!tag Fanon",
             "image_type": "png",
             "v_mana": "",
             "designer_notes": "<p><a href=\"https://www.youtube.com/watch?v=ubzQLKcnZfs\">PoDD Kana Anaberal's theme - Vanishing Dream ~ Lost Dream</a></p>"
@@ -3069,7 +3069,7 @@
             "artist": "David Hrusa",
             "alias": "",
             "position": "136",
-            "notes": "!tag PoDD\n!tag Rikako\n!tag Phantasmagoria\n!tag Music\n!tag PC-98\n!tag Playable\n!tag Fanon",
+            "notes": "!tag PoDD\n!tag Rikako\n!tag Asakura\n!tag Phantasmagoria\n!tag Music\n!tag PC-98\n!tag Playable\n!tag Fanon",
             "image_type": "png",
             "v_mana": "",
             "designer_notes": "<p><a href=\"https://www.youtube.com/watch?v=5xCnnS_xVf0\">PoDD Rikako Asakura's theme - Visionary Game ~ Dream War</a></p>"
@@ -3092,7 +3092,7 @@
             "artist": "\u30b1\u30c4\u30ac\u30d0\u30ac\u30d0/Tepuya",
             "alias": "",
             "position": "137",
-            "notes": "!tag PoDD\n!tag Yumemi\n!tag Phantasmagoria\n!tag Music\n!tag PC-98\n!tag Playable\n!tag Fanon",
+            "notes": "!tag PoDD\n!tag Yumemi\n!tag Okazaki\n!tag Phantasmagoria\n!tag Music\n!tag PC-98\n!tag Playable\n!tag Fanon",
             "image_type": "png",
             "v_mana": "",
             "designer_notes": "<p><a href=\"https://www.youtube.com/watch?v=VqnfHVYSNAc\">PoDD Yumemi Okazaki Pre-Battle Theme - Adoration of Magic</a></p>"
@@ -3138,7 +3138,7 @@
             "artist": "\u8449\u8449\u6ce2/hahaha3",
             "alias": "",
             "position": "139",
-            "notes": "!tag WaHH\n!tag Print\n!tag Male",
+            "notes": "!tag WaHH\n!tag Unshou\n!tag Print\n!tag Male",
             "image_type": "png",
             "v_mana": ""
         },
@@ -3314,7 +3314,7 @@
             "artist": "\u30ce\u9593/MDM",
             "alias": "",
             "position": "147",
-            "notes": "!tag SWR\n!tag Iku\n!tag Fighter\n!tag Spinoff\n!tag Heaven\n!tag Playable",
+            "notes": "!tag SWR\n!tag Iku\n!tag Nagae\n!tag Fighter\n!tag Spinoff\n!tag Heaven\n!tag Playable",
             "image_type": "png",
             "v_mana": ""
         },
@@ -3380,7 +3380,7 @@
             "artist": "Kajatony",
             "alias": "",
             "position": "150",
-            "notes": "!tag IaMP\n!tag Suika\n!tag Fighter\n!tag Spinoff\n!tag Hell\n!tag Playable",
+            "notes": "!tag IaMP\n!tag Suika\n!tag Ibuki\n!tag Fighter\n!tag Spinoff\n!tag Hell\n!tag Playable",
             "image_type": "png",
             "v_mana": ""
         },
@@ -3402,7 +3402,7 @@
             "artist": "\u3044\u3065\u307f\u307f\u306a\u307f/Izumi Minami",
             "alias": "",
             "position": "151",
-            "notes": "!tag PMiSS\n!tag Akyuu\n!tag Print\n!tag CD",
+            "notes": "!tag PMiSS\n!tag Akyuu\n!tag Hieda\n!tag Print\n!tag CD",
             "image_type": "png",
             "v_mana": ""
         },
@@ -3435,7 +3435,7 @@
             "loyalty2": "8",
             "artist2": "\u6731\u5d0e \u7d2b\u7ae5/INSANITYFACTOR",
             "alias2": "",
-            "notes": "!tag WaHH\n!tag Kasen\n!tag Print\n!tag Hell",
+            "notes": "!tag WaHH\n!tag Kasen\n!tag Ibaraki\n!tag Print\n!tag Hell",
             "image_type": "png",
             "v_mana": "",
             "designer_notes": "<p>Melds with <a href=\"https://rachel-brighton.github.io/card?set=2HU&amp;num=207&amp;name=Kasen%2C+Seeking+Herself\">Kasen, Seeking Herself</a></p>"
@@ -3458,7 +3458,7 @@
             "artist": "\u93e1_area/mirrorxilu4",
             "alias": "",
             "position": "153",
-            "notes": "!tag Luna\n!tag GFW\n!tag EaLND\n!tag SaBND\n!tag OSP\n!tag VFiS\n!tag Spinoff\n!tag Print\n!tag Sangetsusei",
+            "notes": "!tag Luna\n!tag LunaChild\n!tag GFW\n!tag EaLND\n!tag SaBND\n!tag OSP\n!tag VFiS\n!tag Spinoff\n!tag Print\n!tag Sangetsusei",
             "image_type": "png",
             "v_mana": ""
         },
@@ -3480,7 +3480,7 @@
             "artist": "\u3053\u305e\u3046/KOZOUSAN",
             "alias": "",
             "position": "154",
-            "notes": "!exportname Youmu, Netherworlds Blades\n!tag PCB\n!tag Youmu\n!tag Stage5\n!tag Playable",
+            "notes": "!exportname Youmu, Netherworlds Blades\n!tag PCB\n!tag Youmu\n!tag Konpaku\n!tag Stage5\n!tag Playable",
             "image_type": "png",
             "v_mana": ""
         },
@@ -3524,7 +3524,7 @@
             "artist": "\u6cb3CY/KAWANOCY",
             "alias": "",
             "position": "156",
-            "notes": "!tag Peak\n!tag Mokou\n!tag Kaguya\n!tag Gay\n!tag Yuri\n!tag Yaoi",
+            "notes": "!tag Gag\n!tag Mokou\n!tag Fujiwara\n!tag Kaguya\n!tag Houraisan\n!tag Gay\n!tag Yuri\n!tag Yaoi",
             "image_type": "png",
             "v_mana": "",
             "designer_notes": "<p><a href=\"https://rachel-brighton.github.io/search?search=tag%3Ayuri\">These, too, are yuri.</a></p>"
@@ -3547,7 +3547,7 @@
             "artist": "3books",
             "alias": "",
             "position": "157",
-            "notes": "!tag Sakuya\n!tag Music",
+            "notes": "!tag Sakuya\n!tag Izayoi\n!tag Music",
             "image_type": "png",
             "v_mana": "",
             "designer_notes": "<p><a href=\"https://www.youtube.com/watch?v=5wFRIWFraWQ\">PoFV Sakuya Izayoi's theme - Flowering Night</a></p>\n<p><a href=\"https://www.youtube.com/watch?v=vS_a8Edde8k\">Night of Nights AKA Knight of Knights AKA etc, remix of Flowering Night by COOL&amp;CREATE and beatMARIO</a></p>"
@@ -3570,7 +3570,7 @@
             "artist": "\u96e8\u5bbf\u4ead/Amayadori-Tei",
             "alias": "",
             "position": "158",
-            "notes": "!replacetoken RoyalMask;1;MonsterMask;1;SorcererMask;1\n!tag HM\n!tag Kokoro\n!tag Fighter\n!tag Spinoff\n!tag Taoist\n!tag Playable",
+            "notes": "!replacetoken RoyalMask;1;MonsterMask;1;SorcererMask;1\n!tag HM\n!tag Kokoro\n!tag Hata\n!tag Fighter\n!tag Spinoff\n!tag Taoist\n!tag Playable",
             "image_type": "png",
             "v_mana": ""
         },
@@ -3592,7 +3592,7 @@
             "artist": "\u4f1a\u5e06/ehokun",
             "alias": "",
             "position": "159",
-            "notes": "!tag CoLA\n!tag Rinnosuke\n!tag Print\n!tag Male",
+            "notes": "!tag CoLA\n!tag Rinnosuke\n!tag Morichika\n!tag Print\n!tag Male\n!tag Chronicle",
             "image_type": "png",
             "v_mana": ""
         },
@@ -3614,7 +3614,7 @@
             "artist": "\u93e1_area/mirrorxilu4",
             "alias": "",
             "position": "160",
-            "notes": "!tag Sunny\n!tag EaLND\n!tag SaBND\n!tag OSP\n!tag VFiS\n!tag GFW\n!tag Spinoff\n!tag Print\n!tag Sangetsusei",
+            "notes": "!tag Sunny\n!tag SunnyMilk\n!tag EaLND\n!tag SaBND\n!tag OSP\n!tag VFiS\n!tag GFW\n!tag Spinoff\n!tag Print\n!tag Sangetsusei\n!tag Chronicle",
             "image_type": "png",
             "v_mana": ""
         },
@@ -3636,7 +3636,7 @@
             "artist": "\u93e1_area/mirrorxilu4",
             "alias": "",
             "position": "161",
-            "notes": "!tag Star\n!tag EaLND\n!tag SaBND\n!tag OSP\n!tag VFiS\n!tag GFW\n!tag Spinoff\n!tag Print\n!tag Sangetsusei",
+            "notes": "!tag Star\n!tag StarSapphire\n!tag EaLND\n!tag SaBND\n!tag OSP\n!tag VFiS\n!tag GFW\n!tag Spinoff\n!tag Print\n!tag Sangetsusei",
             "image_type": "png",
             "v_mana": ""
         },
@@ -3667,7 +3667,7 @@
             "card_name": "Toyohime, Divine Ward",
             "color": "W",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2013 Moonfolk",
+            "type": "Legendary Creature \u2013 Moonfolk Noble",
             "number": 37,
             "color_identity": "W",
             "cost": "{3}{W}{W}",
@@ -3689,7 +3689,7 @@
             "card_name": "Yorihime, Divine Vessel",
             "color": "W",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2013 Moonfolk",
+            "type": "Legendary Creature \u2013 Moonfolk Noble",
             "number": 40,
             "color_identity": "W",
             "cost": "{2}{W}{W}",
@@ -3792,7 +3792,7 @@
             "artist": "\u3086\u305f\u307e\u308d/YUTAMARO",
             "alias": "",
             "position": "168",
-            "notes": "!tag PoFV\n!tag Lily\n!tag Phantasmagoria",
+            "notes": "!tag PoFV\n!tag Lily\n!tag Phantasmagoria\n!tag Chronicle",
             "image_type": "png",
             "v_mana": ""
         },
@@ -3814,7 +3814,7 @@
             "artist": "\u3078\u3082\u3050\u308d\u3073\u3093\uff21\uff11\uff23/Hemogurobin A1C",
             "alias": "",
             "position": "169",
-            "notes": "!tag PMiSS\n!tag Tengu\n!tag Fanon",
+            "notes": "!tag PMiSS\n!tag Tengu\n!tag Fanon\n!tag Tenma",
             "image_type": "png",
             "v_mana": ""
         },
@@ -3836,7 +3836,7 @@
             "artist": "\u30ab\u30bf\u30b1\u30a4/wagocolo",
             "alias": "",
             "position": "170",
-            "notes": "!tag PoDD\n!tag Ruukoto\n!tag Mimi-chan\n!tag Mimichan\n!tag Phantasmagoria\n!tag Music\n!tag Fanon",
+            "notes": "!tag PoDD\n!tag Ruukoto\n!tag Mimi-chan\n!tag Mimichan\n!tag Phantasmagoria\n!tag Music\n!tag Fanon\n!tag PC-98",
             "image_type": "png",
             "v_mana": "",
             "designer_notes": "<p><a href=\"https://www.youtube.com/watch?v=c2Tteiy8xLo\">PoDD Common Ending Theme - Dream of Eternity</a></p>\n<p><a href=\"https://www.youtube.com/watch?v=HDaWyuieBQU\">PoDD Game Over Theme - Game Over</a>. Really popping off with this one, huh?</p>"
@@ -3903,7 +3903,7 @@
             "artist": "E.O.",
             "alias": "",
             "position": "173",
-            "notes": "!tag PCB\n!tag Youki\n!tag Youmu\n!tag Male",
+            "notes": "!tag PCB\n!tag Youki\n!tag Youmu\n!tag Konpaku\n!tag Male",
             "image_type": "png",
             "v_mana": ""
         },
@@ -3991,7 +3991,7 @@
             "artist": "\u3060\u3044\u305f\u3044\u3053\u3093\u306a\u304b\u3093\u3058/Daitai Konna Kanji",
             "alias": "",
             "position": "177",
-            "notes": "!tag Alice\n!tag Hisoutensoku",
+            "notes": "!tag Alice\n!tag Margatroid\n!tag Hisoutensoku",
             "image_type": "png",
             "v_mana": ""
         },
@@ -4013,7 +4013,7 @@
             "artist": "\u306d\u3053/Sakuraba Yuki",
             "alias": "",
             "position": "178",
-            "notes": "!tag PCB\n!tag Yuyuko\n!tag Music",
+            "notes": "!tag PCB\n!tag Yuyuko\n!tag Saigyouji\n!tag Music",
             "image_type": "png",
             "v_mana": "",
             "designer_notes": "<p><a href=\"https://www.youtube.com/watch?v=DLGW4-pgGXc\">PCB Final Boss - Bloom Nobly, Ink-Black Cherry Blossoms ~ Border of Life</a></p>"
@@ -4036,7 +4036,7 @@
             "artist": "\u30be\u30a6\u30ce\u30bb/ZOUNOSE",
             "alias": "",
             "position": "179",
-            "notes": "!tag PCB\n!tag Yuyuko\n!tag Music",
+            "notes": "!tag PCB\n!tag Yuyuko\n!tag Saigyouji\n!tag Music",
             "image_type": "png",
             "v_mana": "",
             "designer_notes": "<p><a href=\"https://www.youtube.com/watch?v=iMVmvONtSsY\">PCB Final Stage - Ultimate Truth</a></p>"
@@ -4082,7 +4082,7 @@
             "artist": "\u3053\u3068\u30a4\u30ca\u30ea/Koto Inari",
             "alias": "",
             "position": "181",
-            "notes": "!tag PoFV\n!tag Komachi",
+            "notes": "!tag PoFV\n!tag Komachi\n!tag Onozuka",
             "image_type": "png",
             "v_mana": ""
         },
@@ -4104,7 +4104,7 @@
             "artist": "Y.mato",
             "alias": "",
             "position": "182",
-            "notes": "!tag SA\n!tag Utsuho\n!tag Okuu",
+            "notes": "!tag SA\n!tag Utsuho\n!tag Reiuji\n!tag Okuu\n!tag Spellcard",
             "image_type": "png",
             "v_mana": ""
         },
@@ -4149,7 +4149,7 @@
             "artist": "\u6d77\u6e90/KTx3rl8o",
             "alias": "",
             "position": "184",
-            "notes": "!tag LoLK",
+            "notes": "!tag LoLK\n!tag Moon",
             "image_type": "png",
             "v_mana": ""
         },
@@ -4216,7 +4216,7 @@
             "artist": "\u305f\u3044\u3089\u30fc/Tyler_69man",
             "alias": "",
             "position": "187",
-            "notes": "!tag SWR\n!tag Suika\n!tag Fighter\n!tag Spinoff\n!tag Music",
+            "notes": "!tag SWR\n!tag Suika\n!tag Ibuki\n!tag Fighter\n!tag Spinoff\n!tag Music",
             "image_type": "png",
             "v_mana": "",
             "designer_notes": "<p><a href=\"https://www.youtube.com/watch?v=fLswa5g08Y0\">SWR Pre-Battle Theme - Drunk As I Like</a></p>"
@@ -4239,7 +4239,7 @@
             "artist": "\u306f\u304f\u88fd\u98a8\u9053\u5316\u5e2b/stufquin",
             "alias": "",
             "position": "188",
-            "notes": "!tag UFO\n!tag Byakuren\n!tag Music\n!tag Makai",
+            "notes": "!tag UFO\n!tag Byakuren\n!tag Hijiri\n!tag Music\n!tag Makai",
             "image_type": "png",
             "v_mana": "",
             "designer_notes": "<p><a href=\"https://www.youtube.com/watch?v=Aca3f9OYcXs\">UFO Stage 6 - Fires of Hokkai</a></p>"
@@ -4262,7 +4262,7 @@
             "artist": "Stu Pidface",
             "alias": "",
             "position": "189",
-            "notes": "!tag Peak",
+            "notes": "!tag Gag",
             "image_type": "png",
             "v_mana": ""
         },
@@ -4284,7 +4284,7 @@
             "artist": "\u86cd\u5149\u6d41\u52d5/flourescentflow",
             "alias": "",
             "position": "190",
-            "notes": "!tag ISC\n!tag Seija\n!tag ajieS",
+            "notes": "!tag ISC\n!tag Seija\n!tag ajieS\n!tag Kijin\n!tag nijiK",
             "image_type": "png",
             "v_mana": ""
         },
@@ -4350,7 +4350,7 @@
             "artist": "\u662f\u6c34\u9b3c\u5417/Shishi Guima",
             "alias": "",
             "position": "193",
-            "notes": "!tag Peak",
+            "notes": "!tag Gag",
             "image_type": "png",
             "v_mana": ""
         },
@@ -4416,7 +4416,7 @@
             "artist": "\u7791\u4e38 \u30a4\u30cc\u30c1\u30e8/Meimaru Inuchiyo",
             "alias": "",
             "position": "196",
-            "notes": "!tag UM\n!tag Momoyo\n!tag Music\n!tag EX\n!tag StageEX",
+            "notes": "!tag UM\n!tag Momoyo\n!tag Himemushi\n!tag Music\n!tag EX\n!tag StageEX",
             "image_type": "png",
             "v_mana": "",
             "designer_notes": "<p><a href=\"https://www.youtube.com/watch?v=YnusFVE7hVE\">UM Extra Stage Boss - The Princess Who Slays Dragon Kings</a></p>"
@@ -4462,7 +4462,7 @@
             "artist": "\u30be\u30a6\u30ce\u30bb/ZOUNOSE",
             "alias": "",
             "position": "198",
-            "notes": "!tag MoF",
+            "notes": "!tag MoF\n!tag Moriya\n!tag Moreya",
             "image_type": "png",
             "v_mana": ""
         },
@@ -4484,7 +4484,7 @@
             "artist": "\u30d2\u30ce\u30d2\u30ab\u30ea/HinohikariPP",
             "alias": "",
             "position": "199",
-            "notes": "!tag LLS\n!tag Yuuka\n!tag Stage5\n!tag Stage6\n!tag Music\n!tag PC-98\n!tag Playable",
+            "notes": "!tag LLS\n!tag Yuuka\n!tag Kazami\n!tag Stage5\n!tag Stage6\n!tag Music\n!tag PC-98\n!tag Playable",
             "image_type": "png",
             "v_mana": "",
             "designer_notes": "<p><a href=\"https://www.youtube.com/watch?v=RhZkDOayjvQ\">LLS Stage 5 Boss - Sleeping Terror</a></p>\n<p><a href=\"https://www.youtube.com/watch?v=lWQ3l2t2p9c\">LLS Final Stage - Dream Land</a></p>"
@@ -4529,7 +4529,7 @@
             "artist": "\u3053\u305e\u3046/KOZOUSAN",
             "alias": "",
             "position": "201",
-            "notes": "!tag Reimu\n!tag Marisa\n!tag Yuri\n!tag Gay",
+            "notes": "!tag Reimu\n!tag Hakurei\n!tag Marisa\n!tag Kirisame\n!tag Yuri\n!tag Gay",
             "image_type": "png",
             "v_mana": ""
         },
@@ -4573,7 +4573,7 @@
             "artist": "\u62b9\u8336\u30ec\u30e2\u30f3/Matcha Lemon",
             "alias": "",
             "position": "203",
-            "notes": "!tag TD\n!tag Yoshika\n!tag Music",
+            "notes": "!tag TD\n!tag Yoshika\n!tag Miyako\n!tag Music",
             "image_type": "png",
             "v_mana": "",
             "designer_notes": "<p><a href=\"https://www.youtube.com/watch?v=GCNkLgRlgmQ\">TD Stage 3 - Let's Live in a Lovely Cemetery</a></p>"
@@ -4596,7 +4596,7 @@
             "artist": "Jan Husaren (Lightdragon)",
             "alias": "",
             "position": "204",
-            "notes": "!tag Sakuya",
+            "notes": "!tag Sakuya\n!tag Izayoi",
             "image_type": "png",
             "v_mana": ""
         },
@@ -4618,7 +4618,7 @@
             "artist": "SunnySideUp524",
             "alias": "",
             "position": "205",
-            "notes": "!tag IaMP\n!tag Suika\n!tag Fighter\n!tag Spinoff",
+            "notes": "!tag IaMP\n!tag Suika\n!tag Ibuki\n!tag Fighter\n!tag Spinoff\n!tag Spellcard",
             "image_type": "png",
             "v_mana": ""
         },
@@ -4927,7 +4927,7 @@
             "artist": "\u62bd\u98ce\u7537/Goingtobemad",
             "alias": "",
             "position": "219",
-            "notes": "!tag CDS\n!tag FDS\n!tag Mizuchi\n!tag Print\n!tag Hell",
+            "notes": "!tag CDS\n!tag FDS\n!tag Mizuchi\n!tag Miyadeguchi\n!tag Print\n!tag Hell",
             "image_type": "png",
             "v_mana": ""
         },
@@ -4971,7 +4971,7 @@
             "artist": "\u6d77\u6e90/KTx3rl8o",
             "alias": "",
             "position": "221",
-            "notes": "!tag Satsuki",
+            "notes": "!tag Satsuki\n",
             "image_type": "png",
             "v_mana": ""
         },
@@ -4993,7 +4993,7 @@
             "artist": "\u3048\u308d\u8c46/Eromame",
             "alias": "",
             "position": "222",
-            "notes": "!tag Marisa\n!tag Charm",
+            "notes": "!tag Marisa\n!tag Kirisame\n!tag Charm",
             "image_type": "png",
             "v_mana": ""
         },
@@ -5015,7 +5015,7 @@
             "artist": "shinigamiwyvern",
             "alias": "",
             "position": "223",
-            "notes": "!tag SoEW\n!tag Marisa\n!tag Stage4\n!tag Music\n!tag PC-98\n!tag Playable",
+            "notes": "!tag SoEW\n!tag Marisa\n!tag Kirisame\n!tag Stage4\n!tag Music\n!tag PC-98\n!tag Playable",
             "image_type": "png",
             "v_mana": "",
             "designer_notes": "<p><a href=\"https://www.youtube.com/watch?v=Z7wlAEqOu6s\">SoEW Stage 4 - Himorogi, Burn in Violet</a></p>"
@@ -5589,7 +5589,7 @@
             "artist": "\u3059\u3044\u305b\u3064/suisetu10",
             "alias": "",
             "position": "249",
-            "notes": "!tag EoSD",
+            "notes": "!tag EoSD\n!tag SDM",
             "image_type": "png",
             "v_mana": ""
         },
@@ -5611,7 +5611,7 @@
             "artist": "Muraryo",
             "alias": "",
             "position": "250",
-            "notes": "!tag PoDD\n!tag Yumemi",
+            "notes": "!tag PoDD\n!tag Yumemi\n!tag Okazaki",
             "image_type": "png",
             "v_mana": ""
         },
@@ -5831,7 +5831,7 @@
             "artist": "\u30be\u30a6\u30ce\u30bb/ZOUNOSE",
             "alias": "",
             "position": "260",
-            "notes": "!subname Agatha ChrisQ\n!exportname Agatha ChrisQ\n\n!tag FS\n!tag Akyuu\n!tag Print",
+            "notes": "!subname Agatha ChrisQ\n!exportname Agatha ChrisQ\n\n!tag FS\n!tag Akyuu\n!tag Hieda\n!tag Print",
             "image_type": "png",
             "v_mana": ""
         },
@@ -5853,7 +5853,7 @@
             "artist": "zsefvgy",
             "alias": "",
             "position": "261",
-            "notes": "!tag PoDD\n!tag Chiyuri\n!tag Phantasmagoria\n!tag PC-98\n!tag Playable\n!tag Music\n!tag Fanon",
+            "notes": "!tag PoDD\n!tag Chiyuri\n!tag Kitashirakawa\n!tag Phantasmagoria\n!tag PC-98\n!tag Playable\n!tag Music\n!tag Fanon",
             "image_type": "png",
             "v_mana": "",
             "designer_notes": "<p><a href=\"https://www.youtube.com/watch?v=PsdeoH16tyI\">PoDD Chiyuri Kitashirasawa's theme - Sailor of Time</a></p>"
@@ -5876,7 +5876,7 @@
             "artist": "sakuremi",
             "alias": "",
             "position": "262",
-            "notes": "!tag EoSD\n!tag Sakuya\n!tag Stage5\n!tag SDM\n!tag Playable",
+            "notes": "!tag EoSD\n!tag Sakuya\n!tag Izayoi\n!tag Stage5\n!tag SDM\n!tag Playable",
             "image_type": "png",
             "v_mana": ""
         },
@@ -5964,7 +5964,7 @@
             "artist": "\u3053\u305e\u3046/KOZOUSAN",
             "alias": "",
             "position": "266",
-            "notes": "!tag PCB\n!tag Alice\n!tag Shanghai\n!tag Hourai",
+            "notes": "!tag PCB\n!tag Alice\n!tag Margatroid\n!tag Shanghai\n!tag Hourai\n!tag Spellcard",
             "image_type": "png",
             "v_mana": ""
         },
@@ -5986,7 +5986,7 @@
             "artist": "there2007",
             "alias": "",
             "position": "267",
-            "notes": "!tag Junko\n!tag LoLK\n!tag Music\n!tag Fanon",
+            "notes": "!tag Junko\n!tag LoLK\n!tag Music\n!tag Fanon\n!tag Spellcard",
             "image_type": "png",
             "v_mana": "",
             "designer_notes": "<p><a href=\"https://www.youtube.com/watch?v=3Pysaq7s_oY\">Translated lyrics from Psycho Lily by Akatsuki Records</a></p>"
@@ -6054,7 +6054,7 @@
             "artist": "Venomousblaze",
             "alias": "",
             "position": "270",
-            "notes": "!tag MS\n!tag Shinki\n!tag PC-98",
+            "notes": "!tag MS\n!tag Shinki\n!tag PC-98\n!tag Spellcard",
             "image_type": "png",
             "v_mana": ""
         },
@@ -6076,7 +6076,7 @@
             "artist": "\u3042\u305a\u304d/Azuki_taste",
             "alias": "",
             "position": "271",
-            "notes": "!tag SA\n!tag Yuugi\n!tag Stage4\n!tag Hell",
+            "notes": "!tag SA\n!tag Yuugi\n!tag Hoshiguma\n!tag Stage4\n!tag Hell",
             "image_type": "png",
             "v_mana": ""
         },
@@ -6109,7 +6109,7 @@
             "loyalty2": "8",
             "artist2": "\u6731\u5d0e \u7d2b\u7ae5/INSANITYFACTOR",
             "alias2": "",
-            "notes": "!sort pw\n!tag WaHH\n!tag ULiL\n!tag Kasen\n!tag Print\n!tag Fighter\n!tag Spinoff\n!tag Playable\n!tag Sage",
+            "notes": "!sort pw\n!tag WaHH\n!tag ULiL\n!tag Kasen\n!tag Ibaraki\n!tag Print\n!tag Fighter\n!tag Spinoff\n!tag Playable\n!tag Sage",
             "image_type": "png",
             "v_mana": "",
             "designer_notes": "<p>Melds with <a href=\"https://rachel-brighton.github.io/card?set=2HU&amp;num=86&amp;name=Ibaraki-Douji\">Ibaraki-Douji</a></p>"
@@ -6132,7 +6132,7 @@
             "artist": "\u2462\u89d2\u4ed9\u513f/Jiao xian er",
             "alias": "",
             "position": "273",
-            "notes": "!tag UFO\n!tag Byakuren\n!tag Stage6\n!tag Myouren\n!tag Playable",
+            "notes": "!tag UFO\n!tag Byakuren\n!tag Hijiri\n!tag Stage6\n!tag Myouren\n!tag Playable",
             "image_type": "png",
             "v_mana": ""
         },
@@ -6154,7 +6154,7 @@
             "artist": "ngra",
             "alias": "",
             "position": "274",
-            "notes": "!tag UFO\n!tag Byakuren",
+            "notes": "!tag UFO\n!tag Byakuren\n!tag Hijiri",
             "image_type": "png",
             "v_mana": ""
         },
@@ -6176,7 +6176,7 @@
             "artist": "\u30dc\u30fc\u30a4\u30d5\u30ec\u30f3\u30c9/exsul",
             "alias": "",
             "position": "275",
-            "notes": "!tag Byakuren\n!tag UFO",
+            "notes": "!tag Byakuren\n!tag Hijiri\n!tag UFO",
             "image_type": "png",
             "v_mana": ""
         },
@@ -6198,7 +6198,7 @@
             "artist": "\uc544\ub530\ucabc\uae4c/ADDANOM",
             "alias": "",
             "position": "276",
-            "notes": "!tag PCB\n!tag Alice\n!tag Hourai",
+            "notes": "!tag PCB\n!tag Alice\n!tag Margatroid\n!tag Hourai",
             "image_type": "png",
             "v_mana": ""
         },
@@ -6242,7 +6242,7 @@
             "artist": "Sachisu",
             "alias": "",
             "position": "278",
-            "notes": "",
+            "notes": "!tag Patchouli\n!tag Knowledge\n!tag SDM",
             "image_type": "png",
             "v_mana": ""
         },
@@ -6264,7 +6264,7 @@
             "artist": "\u30b7\u30f3\u30b4/Shingo",
             "alias": "",
             "position": "279",
-            "notes": "!tag Meiling",
+            "notes": "!tag Meiling\n!tag Hong",
             "image_type": "png",
             "v_mana": ""
         },
@@ -6286,7 +6286,7 @@
             "artist": "\u7fbd\u3005\u65ac/U_U_ZAN",
             "alias": "",
             "position": "280",
-            "notes": "!tag Minoriko\n!tag Aki",
+            "notes": "!tag MoF\n!tag Minoriko\n!tag Aki\n!tag Spellcard",
             "image_type": "png",
             "v_mana": ""
         },
@@ -6308,7 +6308,7 @@
             "artist": "\u7cf8\u9ea6\u304f\u3093/Itomugi-kun",
             "alias": "",
             "position": "281",
-            "notes": "!tag LoLK\n!tag Sagume",
+            "notes": "!tag LoLK\n!tag Sagume\n!tag Kishin\n!tag Moon",
             "image_type": "png",
             "v_mana": ""
         },
@@ -6330,7 +6330,7 @@
             "artist": "tojorin",
             "alias": "",
             "position": "282",
-            "notes": "!tag Yuuka\n!tag PoFV",
+            "notes": "!tag Yuuka\n!tag Kazami\n!tag PoFV",
             "image_type": "png",
             "v_mana": ""
         },
@@ -6352,7 +6352,7 @@
             "artist": "\u663c\u9593\u884c\u71c8/Hiruma Andon",
             "alias": "",
             "position": "283",
-            "notes": "!tag MS\n!tag Alice\n!tag Music\n!tag Stage3\n!tag EX\n!tag StageEX\n!tag Makai\n!tag PC-98",
+            "notes": "!tag MS\n!tag Alice\n!tag Margatroid\n!tag Music\n!tag Stage3\n!tag EX\n!tag StageEX\n!tag Makai\n!tag PC-98",
             "image_type": "png",
             "v_mana": "",
             "designer_notes": "<p><a href=\"https://www.youtube.com/watch?v=n0jbvJjTXPw\">MS Extra Stage - Alice in Wonderland</a></p>\n<p><a href=\"https://www.youtube.com/watch?v=ijituRe039w\">MS Stage 3 Boss - Plastic Mind</a></p>\n<p><a href=\"https://www.youtube.com/watch?v=6B9umDBE-78\">MS Extra Stage Boss - The Grimoire of Alice</a></p>"
@@ -6375,7 +6375,7 @@
             "artist": "\u3044\u3051\u3060\u308b\u308a\u3053/Ikeda Ruriko",
             "alias": "",
             "position": "284",
-            "notes": "!tag LoLK\n!tag Doremy\n!tag Stage3\n!tag Playable\n!tag Music",
+            "notes": "!tag LoLK\n!tag Doremy\n!tag Sweet\n!tag Stage3\n!tag Playable\n!tag Music",
             "image_type": "png",
             "v_mana": "",
             "designer_notes": "<p><a href=\"https://www.youtube.com/watch?v=Vi3C-RtpiWA\">LoLK Stage 3 Boss - Eternal Spring Dream</a></p>"
@@ -6398,7 +6398,7 @@
             "artist": "\u3068\u3093\u3073/Tonbi",
             "alias": "",
             "position": "285",
-            "notes": "!tag EoSD\n!tag Flandre",
+            "notes": "!tag EoSD\n!tag Flandre\n!tag Scarlet",
             "image_type": "png",
             "v_mana": ""
         },
@@ -6420,7 +6420,7 @@
             "artist": "\u4e03\u8272\u306e\u9ef4/NANAIRO NO KABI",
             "alias": "",
             "position": "286",
-            "notes": "Onboard mulligan on combat, if troublesome consider Flash and gains this ability UEOT as per Grapple's advice\n\n!tag LE\n!tag Miyoi\n!tag Print",
+            "notes": "Onboard mulligan on combat, if troublesome consider Flash and gains this ability UEOT as per Grapple's advice\n\n!tag LE\n!tag Miyoi\n!tag Okunoda\n!tag Print",
             "image_type": "png",
             "v_mana": ""
         },
@@ -6442,7 +6442,7 @@
             "artist": "Arbizozoren",
             "alias": "",
             "position": "287",
-            "notes": "!tag PMiSS\n!tag Yukari\n!tag Kasen\n!tag Okina\n!tag Sage",
+            "notes": "!tag PMiSS\n!tag Yukari\n!tag Yakumo\n!tag Kasen\n!tag Ibaraki\n!tag Okina\n!tag Matara\n!tag Sage\n!tag Print",
             "image_type": "png",
             "v_mana": ""
         },
@@ -6464,7 +6464,7 @@
             "artist": "\u30c1\u30de\uff31/Chima Q",
             "alias": "",
             "position": "288",
-            "notes": "!tag AoCF\n!tag Doremy",
+            "notes": "!tag AoCF\n!tag Doremy\n!tag Sweet",
             "image_type": "png",
             "v_mana": ""
         },
@@ -6517,7 +6517,7 @@
             "card_name": "Guard Tiger",
             "color": "G",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Cat",
+            "type": "Creature \u2013 Cat Minion",
             "number": 156,
             "color_identity": "WBG",
             "cost": "{3}{G}{G}",
@@ -6531,7 +6531,7 @@
             "artist": "BEARLUXE",
             "alias": "",
             "position": "291",
-            "notes": "!tag Kasen\n!tag Print\n!tag WaHH\n!tag Male",
+            "notes": "!tag Kasen\n!tag Ibaraki\n!tag Print\n!tag WaHH\n!tag Male",
             "image_type": "png",
             "v_mana": ""
         },
@@ -6553,7 +6553,7 @@
             "artist": "sun-3",
             "alias": "",
             "position": "292",
-            "notes": "",
+            "notes": "!tag Gag",
             "image_type": "png",
             "v_mana": ""
         },
@@ -6575,7 +6575,7 @@
             "artist": "\u9db4\u4e80/Tsurukame",
             "alias": "",
             "position": "293",
-            "notes": "!tag DDC\n!tag Shinmyoumaru\n!tag Sukuna",
+            "notes": "!tag DDC\n!tag Shinmyoumaru\n!tag Sukuna\n!tag Spellcard",
             "image_type": "png",
             "v_mana": ""
         },
@@ -6597,7 +6597,7 @@
             "artist": "\u304f\u3058\u3089\u30ed\u30fc\u30e9\u30f3/Kujira Lorant",
             "alias": "",
             "position": "294",
-            "notes": "!tag Yuuka\n!tag Charm",
+            "notes": "!tag Yuuka\n!tag Kazami\n!tag Charm",
             "image_type": "png",
             "v_mana": ""
         },
@@ -6619,7 +6619,7 @@
             "artist": "\u897f\u5854\u9f0e/Saitou Kanae",
             "alias": "",
             "position": "295",
-            "notes": "!tag Sanae\n!tag Charm",
+            "notes": "!tag Sanae\n!tag Kochiya\n!tag Charm",
             "image_type": "png",
             "v_mana": ""
         },
@@ -6641,7 +6641,7 @@
             "artist": "Amibazh",
             "alias": "",
             "position": "296",
-            "notes": "!tag Tewi\n!tag Charm",
+            "notes": "!tag Tewi\n!tag Tei\n!tag Inaba\n!tag Charm",
             "image_type": "png",
             "v_mana": ""
         },
@@ -6685,7 +6685,7 @@
             "artist": "\u672b\u6210/SUENARI",
             "alias": "",
             "position": "298",
-            "notes": "!tag Sage\n!tag Yukari\n!tag Okina\n!tag Kasen\n!tag Charm",
+            "notes": "!tag Sage\n!tag Yukari\n!tag Yakumo\n!tag Okina\n!tag Matara\n!tag Kasen\n!tag Ibaraki\n!tag Charm",
             "image_type": "png",
             "v_mana": ""
         },
@@ -6729,7 +6729,7 @@
             "artist": "\u7791\u4e38 \u30a4\u30cc\u30c1\u30e8/Meimaru Inuchiyo",
             "alias": "",
             "position": "300",
-            "notes": "!tag SA\n!tag Rin\n!tag Orin\n!tag Stage5\n!tag Chireiden\n!tag Hell\n!tag Playable\n!tag Music",
+            "notes": "!tag SA\n!tag Rin\n!tag Orin\n!tag Kaenbyou\n!tag Stage5\n!tag Chireiden\n!tag Hell\n!tag Playable\n!tag Music",
             "image_type": "png",
             "v_mana": "",
             "designer_notes": "<p><a href=\"https://www.youtube.com/watch?v=ZZoJLMuq_cQ\">SA Stage 5 Boss - Corpse Voyage ~ Be of Good Cheer!</a></p>"
@@ -6752,7 +6752,7 @@
             "artist": "\u3053\u305e\u3046/KOZOUSAN",
             "alias": "",
             "position": "301",
-            "notes": "!tag PCB\n!tag Yuyuko\n!tag Stage6\n!tag Playable",
+            "notes": "!tag PCB\n!tag Yuyuko\n!tag Saigyouji\n!tag Stage6\n!tag Playable",
             "image_type": "png",
             "v_mana": ""
         },
@@ -6797,7 +6797,7 @@
             "artist": "\u9b3c\u83cc/googerm",
             "alias": "",
             "position": "303",
-            "notes": "!tag PCB\n!tag Yuyuko\n!tag Stage6",
+            "notes": "!tag PCB\n!tag Yuyuko\n!tag Saigyouji\n!tag Stage6",
             "image_type": "png",
             "v_mana": ""
         },
@@ -6841,7 +6841,7 @@
             "artist": "\u3046\u308f\u305a\u307f/Uwazumi",
             "alias": "",
             "position": "305",
-            "notes": "!tag Hifuu\n!tag Maribel\n!tag Renko\n!tag CD\n!tag Gay\n!tag Yuri",
+            "notes": "!tag Hifuu\n!tag Maribel\n!tag Hearn\n!tag Renko\n!tag Usami\n!tag GFC\n!tag CD\n!tag Gay\n!tag Yuri",
             "image_type": "png",
             "v_mana": ""
         },
@@ -6952,7 +6952,7 @@
             "artist": "Sharp+",
             "alias": "",
             "position": "310",
-            "notes": "!tag Marisa",
+            "notes": "!tag Marisa\n!tag Kirisame\n!tag Spellcard",
             "image_type": "png",
             "v_mana": ""
         },
@@ -7109,7 +7109,7 @@
             "artist": "Lack",
             "alias": "",
             "position": "317",
-            "notes": "!addtoken Unidentifiable;2\n!tag UFO\n!tag Nue\n!tag EX\n!tag StageEX\n!tag Music",
+            "notes": "!addtoken Unidentifiable;2\n!tag UFO\n!tag Nue\n!tag Houjuu\n!tag EX\n!tag StageEX\n!tag Music",
             "image_type": "png",
             "v_mana": "",
             "designer_notes": "<p><a href=\"https://www.youtube.com/watch?v=JMXaJvxGAxo\">UFO Extra Boss - Heian Alien</a></p>"
@@ -7154,7 +7154,7 @@
             "artist": "Yeobi",
             "alias": "",
             "position": "319",
-            "notes": "!tag SoEW\n!tag Rika\n!tag EX\n!tag StageEX",
+            "notes": "!tag SoEW\n!tag Rika\n!tag EX\n!tag StageEX\n!tag PC-98",
             "image_type": "png",
             "v_mana": ""
         },
@@ -7176,7 +7176,7 @@
             "artist": "\u3051\u30fc\u305c/kezeyura",
             "alias": "",
             "position": "320",
-            "notes": "!tag SoEW\n!tag Rika\n!tag Stage1",
+            "notes": "!tag SoEW\n!tag Rika\n!tag Stage1\n!tag PC-98",
             "image_type": "png",
             "v_mana": ""
         },
@@ -7198,7 +7198,7 @@
             "artist": "Y & M",
             "alias": "",
             "position": "321",
-            "notes": "!tag SoEW\n!tag Rika\n!tag Stage1",
+            "notes": "!tag SoEW\n!tag Rika\n!tag Stage1\n!tag PC-98",
             "image_type": "png",
             "v_mana": ""
         },
@@ -7220,7 +7220,7 @@
             "artist": "\u8272\u622f\u5f69/Cotton",
             "alias": "",
             "position": "322",
-            "notes": "Probably too free to recur\n\n!tag Hell",
+            "notes": "!tag Hell",
             "image_type": "png",
             "v_mana": ""
         },
@@ -7242,7 +7242,7 @@
             "artist": "\u5e7b\u51cc_\u661f\u7fbd/AyaRinSnow",
             "alias": "",
             "position": "323",
-            "notes": "!tag EoSD\n!tag Music",
+            "notes": "!tag EoSD\n!tag Remilia\n!tag Scarlet\n!tag Music",
             "image_type": "png",
             "v_mana": "",
             "designer_notes": "<p><a href=\"https://www.youtube.com/watch?v=P3CpaXmZO20\">EoSD Title Screen - A Dream More Scarlet Than Red</a></p>"
@@ -7265,7 +7265,7 @@
             "artist": "\u3057\u306a\u3077\u3046/Shinapuu",
             "alias": "",
             "position": "324",
-            "notes": "!tag Aya\n!tag Print\n!tag BAiJR",
+            "notes": "!tag Aya\n!tag Shameimaru\n!tag Print\n!tag BAiJR",
             "image_type": "png",
             "v_mana": ""
         },
@@ -7333,7 +7333,7 @@
             "artist": "\u30bf\u30fc\u30c8\u30eb\u541b/turtle-kun",
             "alias": "",
             "position": "327",
-            "notes": "!tag SWR\n!tag Tenshi\n!tag Spinoff\n!tag Heaven",
+            "notes": "!tag SWR\n!tag Tenshi\n!tag Hinanawi\n!tag Hinanai\n!tag Spinoff\n!tag Heaven",
             "image_type": "png",
             "v_mana": ""
         },
@@ -7355,7 +7355,7 @@
             "artist": "\u666e\u900f\u660e\u5ea6/Futoumeido",
             "alias": "",
             "position": "328",
-            "notes": "!tag UM\n!tag Chimata\n!tag Stage6",
+            "notes": "!tag UM\n!tag Chimata\n!tag Tenkyuu\n!tag Stage6",
             "image_type": "png",
             "v_mana": ""
         },
@@ -7377,7 +7377,7 @@
             "artist": "\u6d77\u6e90/KTx3rl8o",
             "alias": "",
             "position": "329",
-            "notes": "!tag FW\n!tag Ubame\n!tag Stage1",
+            "notes": "!tag FW\n!tag Ubame\n!tag Chirizuka\n!tag Stage1",
             "image_type": "png",
             "v_mana": ""
         },
@@ -7399,7 +7399,7 @@
             "artist": "\u30be\u30a6\u30ce\u30bb/ZOUNOSE",
             "alias": "",
             "position": "330",
-            "notes": "!addtoken Unidentifiable;2\n!tag FW\n!tag Chimi\n!tag Stage2\n!tag Music",
+            "notes": "!addtoken Unidentifiable;2\n!tag FW\n!tag Chimi\n!tag Houjuu\n!tag Stage2\n!tag Music",
             "image_type": "png",
             "v_mana": "",
             "designer_notes": "<p><a href=\"https://www.youtube.com/watch?v=9gIZchPhJxM\">FW Stage 2 Boss - There's a Monster in the Woods</a></p>"
@@ -7422,7 +7422,7 @@
             "artist": "Maisuiren",
             "alias": "",
             "position": "331",
-            "notes": "!tag FW\n!tag Nareko\n!tag Stage3",
+            "notes": "!tag FW\n!tag Nareko\n!tag Michigami\n!tag Stage3",
             "image_type": "png",
             "v_mana": ""
         },
@@ -7444,7 +7444,7 @@
             "artist": "\u30ce\u9593/MDM",
             "alias": "",
             "position": "332",
-            "notes": "!tag HSiFS\n!tag Nemuno\n!tag Stage2",
+            "notes": "!tag HSiFS\n!tag Nemuno\n!tag Sakata\n!tag Stage2",
             "image_type": "png",
             "v_mana": ""
         },
@@ -7489,7 +7489,7 @@
             "artist": "shiri fusang",
             "alias": "",
             "position": "334",
-            "notes": "!tag UFO\n!tag Nue",
+            "notes": "!tag UFO\n!tag Nue\n!tag Houjuu",
             "image_type": "png",
             "v_mana": ""
         },
@@ -7578,7 +7578,7 @@
             "artist": "Xiirus",
             "alias": "",
             "position": "338",
-            "notes": "!tag PoFV\n!tag Eiki\n!tag Shikieiki\n!tag Phantasmagoria\n!tag Hell\n!tag Playable",
+            "notes": "!tag PoFV\n!tag Eiki\n!tag Shiki\n!tag Shikieiki\n!tag Yamaxanadu\n!tag Phantasmagoria\n!tag Hell\n!tag Playable",
             "image_type": "png",
             "v_mana": ""
         },
@@ -7600,7 +7600,7 @@
             "artist": "\u3079\u3089\u307c\u3046/BELLA_BOW",
             "alias": "",
             "position": "339",
-            "notes": "!sort pw\n!tag HSiFS\n!tag Okina\n!tag Stage6\n!tag EX\n!tag StageEX\n!tag Sage",
+            "notes": "!sort pw\n!tag HSiFS\n!tag Okina\n!tag Matara\n!tag Stage6\n!tag EX\n!tag StageEX\n!tag Sage",
             "image_type": "png",
             "v_mana": ""
         },
@@ -7622,7 +7622,7 @@
             "artist": "2VioletDetector",
             "alias": "",
             "position": "340",
-            "notes": "!sort pw\n!tag ULiL\n!tag Sumireko\n!tag Fighter\n!tag Spinoff\n!tag Playable",
+            "notes": "!sort pw\n!tag ULiL\n!tag Sumireko\n!tag Usami\n!tag Fighter\n!tag Spinoff\n!tag Playable",
             "image_type": "png",
             "v_mana": ""
         },
@@ -7666,7 +7666,7 @@
             "artist": "rylu",
             "alias": "",
             "position": "342",
-            "notes": "!tag FW\n!tag Yuiman\n!tag Stage4",
+            "notes": "!tag FW\n!tag Yuiman\n!tag Asama\n!tag Stage4",
             "image_type": "png",
             "v_mana": ""
         },
@@ -7688,7 +7688,7 @@
             "artist": "cheeseroll8443",
             "alias": "",
             "position": "343",
-            "notes": "!tag Ariya\n!tag FW\n!tag Stage6\n!tag Music",
+            "notes": "!tag Ariya\n!tag Iwagana\n!tag FW\n!tag Stage6\n!tag Music",
             "image_type": "png",
             "v_mana": "",
             "designer_notes": "<p><a href=\"https://www.youtube.com/watch?v=JVdPazb_ufs\">FW Final Boss - Because The Last One Is Used To It ~ Stone Goddess</a></p>"
@@ -7711,7 +7711,7 @@
             "artist": "\u5e7b\u9a12\u30a2\u307d\u308d/Gensou Apollo",
             "alias": "",
             "position": "344",
-            "notes": "!tag FW\n!tag Nina\n!tag EX\n!tag StageEX",
+            "notes": "!tag FW\n!tag Nina\n!tag Watari\n!tag EX\n!tag StageEX",
             "image_type": "png",
             "v_mana": ""
         },
@@ -7733,7 +7733,7 @@
             "artist": "\u6d77\u6e90/KTx3rl8o",
             "alias": "",
             "position": "345",
-            "notes": "!tag FW\n!tag Yuiman",
+            "notes": "!tag FW\n!tag Yuiman\n!tag Asama",
             "image_type": "png",
             "v_mana": ""
         },
@@ -7755,7 +7755,7 @@
             "artist": "\u6d77\u6e90/KTx3rl8o",
             "alias": "",
             "position": "346",
-            "notes": "!tag SoEW\n!tag Stage2\n!tag Unnamed",
+            "notes": "!tag SoEW\n!tag Stage2\n!tag Unnamed\n!tag PC-98",
             "image_type": "png",
             "v_mana": ""
         },
@@ -7777,7 +7777,7 @@
             "artist": "\u6d77\u6e90/KTx3rl8o",
             "alias": "",
             "position": "347",
-            "notes": "!tag LLS\n!tag Stage4\n!tag Unnamed",
+            "notes": "!tag LLS\n!tag Stage4\n!tag Unnamed\n!tag PC-98",
             "image_type": "png",
             "v_mana": ""
         },
@@ -7799,7 +7799,7 @@
             "artist": "\u3053\u3086\u3073/Kyoubi",
             "alias": "",
             "position": "348",
-            "notes": "!tag ULiL\n!tag Ichirin\n!tag Fighter\n!tag Spinoff",
+            "notes": "!tag ULiL\n!tag Ichirin\n!tag Kumoi\n!tag Fighter\n!tag Spinoff",
             "image_type": "png",
             "v_mana": ""
         },
@@ -7821,7 +7821,7 @@
             "artist": "rasa",
             "alias": "",
             "position": "349",
-            "notes": "!tag ULiL\n!tag Sumireko\n!tag Fighter\n!tag Spinoff",
+            "notes": "!tag ULiL\n!tag Sumireko\n!tag Usami\n!tag Fighter\n!tag Spinoff",
             "image_type": "png",
             "v_mana": ""
         },
@@ -7843,7 +7843,7 @@
             "artist": "\u307e\u308b\u305f/min1223",
             "alias": "",
             "position": "350",
-            "notes": "!tag ULiL\n!tag Futo\n!tag Fighter\n!tag Spinoff",
+            "notes": "!tag ULiL\n!tag Futo\n!tag Mononobe\n!tag Fighter\n!tag Spinoff",
             "image_type": "png",
             "v_mana": ""
         },
@@ -7865,7 +7865,7 @@
             "artist": "RIN_reycamoy",
             "alias": "",
             "position": "351",
-            "notes": "!tag ULiL\n!tag Mokou\n!tag Fighter\n!tag Spinoff",
+            "notes": "!tag ULiL\n!tag Mokou\n!tag Fujiwara\n!tag Fighter\n!tag Spinoff",
             "image_type": "png",
             "v_mana": ""
         },
@@ -7953,7 +7953,7 @@
             "artist": "Mrs. GrimReaper",
             "alias": "",
             "position": "355",
-            "notes": "Tone this down somehow\n\n!tag MS\n!tag EX\n!tag StageEX\n!tag Unnamed",
+            "notes": "Tone this down somehow\n\n!tag MS\n!tag EX\n!tag StageEX\n!tag Alice\n!tag Margatroid\n!tag PC-98\n!tag Unnamed",
             "image_type": "png",
             "v_mana": ""
         },
@@ -7975,7 +7975,7 @@
             "artist": "\u65e6\u9ce5/akidori_yoku",
             "alias": "",
             "position": "356",
-            "notes": "!tag TD\n!tag Yuyuko\n!tag Stage1\n!tag Music",
+            "notes": "!tag TD\n!tag Yuyuko\n!tag Saigyouji\n!tag Stage1\n!tag Music",
             "image_type": "png",
             "v_mana": "",
             "designer_notes": "<p><a href=\"https://www.youtube.com/watch?v=bBksreajDGg\">TD Stage 1 - Night Sakura of Dead Spirits</a></p>"
@@ -8020,7 +8020,7 @@
             "artist": "\u306a\u305a\u306a\u3063\u304f/Nadrs Knack",
             "alias": "",
             "position": "358",
-            "notes": "!tag StB\n!tag Aya\n!tag Playable\n!tag Tengu",
+            "notes": "!tag StB\n!tag Aya\n!tag Shameimaru\n!tag Playable\n!tag Tengu",
             "image_type": "png",
             "v_mana": ""
         },
@@ -8042,7 +8042,7 @@
             "artist": "\u6d77\u6e90/KTx3rl8o",
             "alias": "",
             "position": "359",
-            "notes": "!tag IN\n!tag IN-all\n!tag Sakuya\n!tag Remilia\n!tag Playable\n!tag SDM",
+            "notes": "!tag IN\n!tag IN-all\n!tag Sakuya\n!tag Izayoi\n!tag Remilia\n!tag Scarlet\n!tag Playable\n!tag SDM",
             "image_type": "png",
             "v_mana": ""
         },
@@ -8064,7 +8064,7 @@
             "artist": "jan_husaren",
             "alias": "",
             "position": "360",
-            "notes": "!tag IN\n!tag IN-all\n!tag Youmu\n!tag Yuyuko\n!tag Playable",
+            "notes": "!tag IN\n!tag IN-all\n!tag Youmu\n!tag Konpaku\n!tag Yuyuko\n!tag Saigyouji\n!tag Playable",
             "image_type": "png",
             "v_mana": ""
         },
@@ -8086,7 +8086,7 @@
             "artist": "\u661f\u6cb3 \u7d2b\u6d77/Xinghe zi hai",
             "alias": "",
             "position": "361",
-            "notes": "!tag LLS\n!tag Stage1\n!tag Unnamed",
+            "notes": "!tag LLS\n!tag Stage1\n!tag Unnamed\n!tag PC-98",
             "image_type": "png",
             "v_mana": ""
         },
@@ -8108,7 +8108,7 @@
             "artist": "\u3042\u3084\u3072\u308d\u308a/@hirori_5",
             "alias": "",
             "position": "362",
-            "notes": "!tag PoFV\n!tag Yuuka\n!tag Phantasmagoria\n!tag Playable\n!tag Music",
+            "notes": "!tag PoFV\n!tag Yuuka\n!tag Kazami\n!tag Phantasmagoria\n!tag Playable\n!tag Music",
             "image_type": "png",
             "v_mana": "",
             "designer_notes": "<p><a href=\"https://www.youtube.com/watch?v=44XWB99ts8E\">PoFV Yuuka Kazami's theme - Gensokyo, Past and Present ~ Flower Land</a></p>"
@@ -8175,7 +8175,7 @@
             "artist": "\u304b\u304b\u304a/cacao",
             "alias": "",
             "position": "365",
-            "notes": "!tag TD\n!tag Miko",
+            "notes": "!tag TD\n!tag Miko\n!tag Toyosatomimi\n!tag Spellcard",
             "image_type": "png",
             "v_mana": ""
         },
@@ -8197,7 +8197,7 @@
             "artist": "\u725b\u571f/ushitsuchi",
             "alias": "",
             "position": "366",
-            "notes": "!addtoken BankiHead;3\n!tag DDC\n!tag Grassroots\n!tag Wakasagi\n!tag Wakasagihime\n!tag Waggysaggy\n!tag Sekibanki\n!tag Saggybaggy\n!tag Kagerou\n!tag Kaggywaggy",
+            "notes": "!addtoken BankiHead;3\n!tag DDC\n!tag Grassroots\n!tag Wakasagi\n!tag Wakasagihime\n!tag Waggysaggy\n!tag Sekibanki\n!tag Saggybaggy\n!tag Kagerou\n!tag Kaggywaggy\n!tag Imaizumi",
             "image_type": "png",
             "v_mana": ""
         },
@@ -8339,7 +8339,7 @@
             "color": "",
             "rarity": "uncommon",
             "type": "Land \u2013 Plains Island",
-            "number": 58,
+            "number": 60,
             "color_identity": "WU",
             "cost": "",
             "rules_text": "[i]({T}: Add {W} or {U}.)[/i]\nThis land enters tapped.\nWhen this land enters, you gain 1 life.",
@@ -8361,7 +8361,7 @@
             "color": "",
             "rarity": "uncommon",
             "type": "Land \u2013 Forest Island",
-            "number": 53,
+            "number": 55,
             "color_identity": "UG",
             "cost": "",
             "rules_text": "[i]({T}: Add {G} or {U}.)[/i]\nThis land enters tapped.\nWhen this land enters, you gain 1 life.",
@@ -8374,7 +8374,7 @@
             "artist": "NextNinja",
             "alias": "",
             "position": "1",
-            "notes": "!tag HM\n!tag Spinoff\n\nWhen you think of waterfalls, there are two images: the powerful, vast waterfall and the meek, trickling one. But this time, I opted for the image of the former... An autumn waterfall. I think the thing waterfalls convey the most is autumn.",
+            "notes": "!tag HM\n!tag Spinoff\n!tag Chronicle\n\nWhen you think of waterfalls, there are two images: the powerful, vast waterfall and the meek, trickling one. But this time, I opted for the image of the former... An autumn waterfall. I think the thing waterfalls convey the most is autumn.",
             "image_type": "png",
             "v_mana": ""
         },
@@ -8383,7 +8383,7 @@
             "color": "",
             "rarity": "uncommon",
             "type": "Land \u2013 Mountain Plains",
-            "number": 59,
+            "number": 61,
             "color_identity": "WR",
             "cost": "",
             "rules_text": "[i]({T}: Add {R} or {W}.)[/i]\nThis land enters tapped.\nWhen this land enters, you gain 1 life.",
@@ -8396,7 +8396,7 @@
             "artist": "Kosi An",
             "alias": "",
             "position": "2",
-            "notes": "!tag SWR\n!tag Spinoff\n!tag Music\n\nHeaven is really full of enlightened persons of character, but even among them there are inferior ones like her. Still, that gives her an almost human feel. Turning it around, you might say she's an oasis within Heaven.",
+            "notes": "!tag SWR\n!tag Spinoff\n!tag Music\n!tag Chronicle\n\nHeaven is really full of enlightened persons of character, but even among them there are inferior ones like her. Still, that gives her an almost human feel. Turning it around, you might say she's an oasis within Heaven.",
             "image_type": "png",
             "v_mana": "",
             "designer_notes": "<p><a href=\"https://www.youtube.com/watch?v=ZpimM9FF_cI\">SWR Tenshi Hinanai's Theme - Catastrophe in Bhava-agra ~ Wonderful Heaven</a></p>"
@@ -8406,7 +8406,7 @@
             "color": "",
             "rarity": "uncommon",
             "type": "Land \u2013 Island Swamp",
-            "number": 55,
+            "number": 57,
             "color_identity": "UB",
             "cost": "",
             "rules_text": "[i]({T}: Add {U} or {B}.)[/i]\nThis land enters tapped.\nWhen this land enters, you gain 1 life.",
@@ -8428,7 +8428,7 @@
             "color": "",
             "rarity": "uncommon",
             "type": "Land \u2013 Island Mountain",
-            "number": 57,
+            "number": 59,
             "color_identity": "UR",
             "cost": "",
             "rules_text": "[i]({T}: Add {U} or {R}.)[/i]\nThis land enters tapped.\nWhen this land enters, you gain 1 life.",
@@ -8486,7 +8486,7 @@
             "artist": "\uff72\uff78\uff7c/NARTANZ",
             "alias": "",
             "position": "6",
-            "notes": "!tag EoSD\n!tag Rumia\n!tag Music",
+            "notes": "!tag EoSD\n!tag Rumia\n!tag Music\n!tag Chronicle",
             "image_type": "png",
             "v_mana": "",
             "designer_notes": "<p><a href=\"https://www.youtube.com/watch?v=fd8IHH4Tz20\">EoSD Stage 1 Boss - Apparitions Stalk the Night</a></p>"
@@ -8496,7 +8496,7 @@
             "color": "B",
             "rarity": "common",
             "type": "Token Creature \u2013 Nightstalker",
-            "number": 2,
+            "number": 3,
             "color_identity": "C",
             "cost": "",
             "rules_text": "",
@@ -8531,7 +8531,7 @@
             "artist": "Shirou",
             "alias": "",
             "position": "8",
-            "notes": "!tag Tewi\n!tag Tei",
+            "notes": "!tag Tewi\n!tag Tei\n!tag Inaba",
             "image_type": "png",
             "v_mana": ""
         },
@@ -8563,7 +8563,7 @@
             "color": "",
             "rarity": "uncommon",
             "type": "Land \u2013 Swamp Forest",
-            "number": 51,
+            "number": 53,
             "color_identity": "BG",
             "cost": "",
             "rules_text": "[i]({T}: Add {B} or {G}.)[/i]\nThis land enters tapped.\nWhen this land enters, you gain 1 life.",
@@ -8708,7 +8708,7 @@
             "artist": "\u3075\u3046\u308a\u3093/Fuurin",
             "alias": "",
             "position": "16",
-            "notes": "!tag IN\n!tag Marisa",
+            "notes": "!tag IN\n!tag Marisa\n!tag Kirisame",
             "image_type": "png",
             "v_mana": ""
         },
@@ -8717,7 +8717,7 @@
             "color": "",
             "rarity": "uncommon",
             "type": "Land \u2013 Swamp Mountain",
-            "number": 54,
+            "number": 56,
             "color_identity": "BR",
             "cost": "",
             "rules_text": "[i]({T}: Add {B} or {R}.)[/i]\nThis land enters tapped.\nWhen this land enters, you gain 1 life.",
@@ -8730,7 +8730,7 @@
             "artist": "\u9752\u8449 HAL/aoHA",
             "alias": "",
             "position": "17",
-            "notes": "!tag SA\n!tag Hell\n!tag Music",
+            "notes": "!tag SA\n!tag Hell\n!tag Music\n!tag Chronicle",
             "image_type": "png",
             "v_mana": "",
             "designer_notes": "<p><a href=\"https://www.youtube.com/watch?v=yILFWxwKD0I\">SA Final Stage - Hellfire Mantle</a></p>"
@@ -8740,7 +8740,7 @@
             "color": "",
             "rarity": "uncommon",
             "type": "Land \u2013 Plains Swamp",
-            "number": 56,
+            "number": 58,
             "color_identity": "WB",
             "cost": "",
             "rules_text": "[i]({T}: Add {W} or {B}.)[/i]\nThis land enters tapped.\nWhen this land enters, you gain 1 life.",
@@ -8762,7 +8762,7 @@
             "color": "",
             "rarity": "uncommon",
             "type": "Land \u2013 Forest Plains",
-            "number": 52,
+            "number": 54,
             "color_identity": "WG",
             "cost": "",
             "rules_text": "[i]({T}: Add {G} or {W}.)[/i]\nThis land enters tapped.\nWhen this land enters, you gain 1 life.",
@@ -8775,7 +8775,7 @@
             "artist": "\u9752\u8449 HAL/aoHA",
             "alias": "",
             "position": "19",
-            "notes": "Flower Land?\n!tag PoFV\n\nI thought to create a piece bright and fluid, with the elegance of a flower. It didn't come out that way.",
+            "notes": "!tag PoFV\n!tag Chronicle\n\nI thought to create a piece bright and fluid, with the elegance of a flower. It didn't come out that way.",
             "image_type": "png",
             "v_mana": ""
         },
@@ -8784,7 +8784,7 @@
             "color": "",
             "rarity": "uncommon",
             "type": "Land \u2013 Mountain Forest",
-            "number": 60,
+            "number": 62,
             "color_identity": "RG",
             "cost": "",
             "rules_text": "[i]({T}: Add {R} or {G}.)[/i]\nThis land enters tapped.\nWhen this land enters, you gain 1 life.",
@@ -8797,7 +8797,7 @@
             "artist": "Justinas Vitkus",
             "alias": "",
             "position": "20",
-            "notes": "Mysterious Mountain?\n!tag MoF\n!tag Music\n\nIn the village it's said that the mountain's smoke isn't real smoke, but rather fumes that spew from factories run by the tengu and the kappa... However, the human that lived in the bamboo forest knew.",
+            "notes": "!tag MoF\n!tag Music\n!tag Chronicle\n\nIn the village it's said that the mountain's smoke isn't real smoke, but rather fumes that spew from factories run by the tengu and the kappa... However, the human that lived in the bamboo forest knew.",
             "image_type": "png",
             "v_mana": "",
             "designer_notes": "<p><a href=\"https://www.youtube.com/watch?v=sPTOQd9E6gE\">MoF Stage 4 Boss - Mysterious Mountain ~ Youkai Mountain</a></p>"
@@ -8842,7 +8842,7 @@
             "artist": "\u6d77\u6e90/KTx3rl8o",
             "alias": "",
             "position": "22",
-            "notes": "!tag UM\n!tag Chimata\n!tag Music",
+            "notes": "!tag UM\n!tag Chimata\n!tag Tenkyuu\n!tag Music",
             "image_type": "png",
             "v_mana": "",
             "designer_notes": "<p><a href=\"https://www.youtube.com/watch?v=UI8LifvvIHk\">UM Final Boss - Where Is That Bustling Marketplace Now ~ Immemorial Marketeers</a></p>"
@@ -8865,7 +8865,7 @@
             "artist": "Ddok",
             "alias": "",
             "position": "23",
-            "notes": "!tag HSiFS\n!tag Okina\n!tag Music",
+            "notes": "!tag HSiFS\n!tag Okina\n!tag Matara\n!tag Music",
             "image_type": "png",
             "v_mana": "",
             "designer_notes": "<p><a href=\"https://www.youtube.com/watch?v=IzCfAU-O1bU\">HSiFS Extra Stage Boss - Secret God Matara ~ Hidden Star in All Seasons</a></p>"
@@ -8888,7 +8888,7 @@
             "artist": "Hayamisyoto",
             "alias": "",
             "position": "24",
-            "notes": "!tag SA\n!tag Music\n!tag Utsuho\n!tag Okuu\n!tag Chireiden\n!tag Hell",
+            "notes": "!tag SA\n!tag Music\n!tag Utsuho\n!tag Okuu\ntag Reiuji\n!tag Chireiden\n!tag Hell",
             "image_type": "png",
             "v_mana": "",
             "designer_notes": "<p><a href=\"https://www.youtube.com/watch?v=Xy_-7OXophY\">SA Final Boss - Solar Sect of Mystic Wisdom ~ Nuclear Fusion</a></p>"
@@ -8911,7 +8911,7 @@
             "artist": "\u6625\u662d/HARUAKI",
             "alias": "",
             "position": "25",
-            "notes": "!tag MoF\n!tag Kanako\n!tag Music",
+            "notes": "!tag MoF\n!tag Kanako\n!tag Yasaka\n!tag Music",
             "image_type": "png",
             "v_mana": "",
             "designer_notes": "<p><a href=\"https://www.youtube.com/watch?v=3UBnlgyivcY\">MoF Stage 6 - Cemetery of Onbashira ~ Grave of Being</a></p>"
@@ -8934,7 +8934,7 @@
             "artist": "\u9920/m0chi0000",
             "alias": "",
             "position": "26",
-            "notes": "!tag PMiSS\n!tag Akyuu\n!tag Print",
+            "notes": "!tag PMiSS\n!tag Akyuu\n!tag Hieda\n!tag Print\n!tag Chronicle",
             "image_type": "png",
             "v_mana": ""
         },
@@ -8956,7 +8956,7 @@
             "artist": "\u79cb\u5dfb\u3086\u3046/Akimaki Yuu",
             "alias": "",
             "position": "27",
-            "notes": "!tag CDS\n!tag FDS\n!tag Satori\n!tag Print\n!tag Chireiden\n!tag Hell",
+            "notes": "!tag CDS\n!tag FDS\n!tag Satori\n!tag Komeiji\n!tag Print\n!tag Chireiden\n!tag Hell",
             "image_type": "png",
             "v_mana": ""
         },
@@ -8978,7 +8978,7 @@
             "artist": "\u30be\u30a6\u30ce\u30bb/ZOUNOSE",
             "alias": "",
             "position": "28",
-            "notes": "!tag PoFV\n!tag MoF\n!tag BAiJR\n!tag Aya\n!tag Stage4\n!tag Phantasmagoria\n!tag Playable\n!tag Print\n!tag Tengu",
+            "notes": "!tag PoFV\n!tag MoF\n!tag BAiJR\n!tag Aya\n!tag Shameimaru\n!tag Stage4\n!tag Phantasmagoria\n!tag Playable\n!tag Print\n!tag Tengu",
             "image_type": "png",
             "v_mana": ""
         },
@@ -9000,7 +9000,7 @@
             "artist": "\u304d\u3083\u3079\u3063\u3053/Kyabemother",
             "alias": "",
             "position": "29",
-            "notes": "!tag CDS\n!tag FDS\n!tag Mizuchi\n!tag Print",
+            "notes": "!tag CDS\n!tag FDS\n!tag Mizuchi\n!tag Miyadeguchi\n!tag Print",
             "image_type": "png",
             "v_mana": ""
         },
@@ -9044,7 +9044,7 @@
             "artist": "\u661f\u9f8d/Satellitedragon",
             "alias": "",
             "position": "31",
-            "notes": "!tag FS\n!tag Print\n!tag Reisen\n!tag Eientei",
+            "notes": "!tag FS\n!tag Print\n!tag Reisen\n!tag Udonge\n!tag Udongein\n!tag Inaba\n!tag Eientei",
             "image_type": "png",
             "v_mana": ""
         },
@@ -9066,7 +9066,7 @@
             "artist": "cheW",
             "alias": "",
             "position": "32",
-            "notes": "!tag WaHH\n!tag Print",
+            "notes": "!tag WaHH\n!tag Print\n!tag Chronicle\n!tag Kappa",
             "image_type": "png",
             "v_mana": ""
         },
@@ -9088,7 +9088,7 @@
             "artist": "\u662f\u6c34\u9b3c\u5417/Shishi Guima",
             "alias": "",
             "position": "33",
-            "notes": "!tag SoPM\n!tag Mystia\n!tag Kyouko\n!tag Kyoko\n!tag Print\n!tag Music\n!tag Fanon\n!tag Yuri\n!tag Gay",
+            "notes": "!tag SoPM\n!tag Mystia\n!tag Lorelei\n!tag Kyouko\n!tag Kyoko\n!tag Kasodani\n!tag Print\n!tag Music\n!tag Fanon\n!tag Yuri\n!tag Gay",
             "image_type": "png",
             "v_mana": "",
             "designer_notes": "<p><a href=\"https://www.youtube.com/watch?v=cR4ea7fcbG0\">Translated lyrics from Shout It Out Loud!!! by Akatsuki Records</a></p>"
@@ -9133,7 +9133,7 @@
             "artist": "\u5e7b\u51cc_\u661f\u7fbd/AyaRinSnow",
             "alias": "",
             "position": "35",
-            "notes": "!tag WaHH\n!tag Print",
+            "notes": "!tag WaHH\n!tag Print\n!tag SDM",
             "image_type": "png",
             "v_mana": ""
         },
@@ -9155,7 +9155,7 @@
             "artist": "\u5e7b\u51cc_\u661f\u7fbd/AyaRinSnow",
             "alias": "",
             "position": "36",
-            "notes": "!tag PMiSS\n!tag Tengu\n!tag Fanon",
+            "notes": "!tag PMiSS\n!tag Tengu\n!tag Fanon\n!tag Tenma",
             "image_type": "png",
             "v_mana": ""
         },
@@ -9199,7 +9199,7 @@
             "artist": "\u77f3\u5ddd\u30b9\u30da\u30a2\u30ea\u30d6/Ishikawa Sparerib",
             "alias": "",
             "position": "38",
-            "notes": "!tag UDoALG\n!tag Yuri\n!tag Gay\n!tag Hisami",
+            "notes": "!tag UDoALG\n!tag Yuri\n!tag Gay\n!tag Hisami\n!tag Yomotsu",
             "image_type": "png",
             "v_mana": ""
         },
@@ -9221,7 +9221,7 @@
             "artist": "MiySin",
             "alias": "",
             "position": "39",
-            "notes": "!tag WaHH\n!tag Print",
+            "notes": "!tag WaHH\n!tag Print\n!tag Kasen\n!tag Ibaraki",
             "image_type": "png",
             "v_mana": ""
         },
@@ -9243,7 +9243,7 @@
             "artist": "\u304d\u305f\u304c\u308f\u6c34\u6708/Kitagawa Suigetsu",
             "alias": "",
             "position": "40",
-            "notes": "!tag UFO",
+            "notes": "!tag UFO\n!tag Chronicle",
             "image_type": "png",
             "v_mana": ""
         },
@@ -9265,7 +9265,7 @@
             "artist": "\u9ad8\u864e/Takatora",
             "alias": "",
             "position": "41",
-            "notes": "!tag LLS\n!tag Yuuka",
+            "notes": "!tag LLS\n!tag Yuuka\n!tag Kazami",
             "image_type": "png",
             "v_mana": ""
         },
@@ -9287,7 +9287,7 @@
             "artist": "\u3082\u308a\u306e\u307b\u3093/Mori no Hon",
             "alias": "",
             "position": "42",
-            "notes": "!tag AFiEU\n!tag AoCF\n!tag Raiko\n!tag Print",
+            "notes": "!tag AFiEU\n!tag AoCF\n!tag Raiko\n!tag Horikawa\n!tag Print",
             "image_type": "png",
             "v_mana": ""
         },
@@ -9309,7 +9309,7 @@
             "artist": "\u3042\u305a\u307e\u3042\u3084/Azuma Aya",
             "alias": "",
             "position": "43",
-            "notes": "!tag WaHH\n!tag Aunn\n!tag Print",
+            "notes": "!tag WaHH\n!tag Aunn\n!tag Komano\n!tag Print",
             "image_type": "png",
             "v_mana": ""
         },
@@ -9331,7 +9331,7 @@
             "artist": "\u306e\u308a\u3046\u307e/Noriuma",
             "alias": "",
             "position": "44",
-            "notes": "!tag FS\n!tag Mamizou\n!tag Print",
+            "notes": "!tag FS\n!tag Mamizou\n!tag Futatsuiwa\n!tag Print",
             "image_type": "png",
             "v_mana": ""
         },
@@ -9340,7 +9340,7 @@
             "color": "B",
             "rarity": "common",
             "type": "Token Creature \u2013 Faerie Army",
-            "number": 1,
+            "number": 2,
             "color_identity": "C",
             "cost": "",
             "rules_text": "",
@@ -9419,7 +9419,7 @@
             "artist": "\u30a6\u30a7\u30eb\u30c8/Welt",
             "alias": "",
             "position": "48",
-            "notes": "!tag WaHH\n!tag Print",
+            "notes": "!tag WaHH\n!tag Print\n!tag Marisa\n!tag Kirisame\n!tag Unnamed",
             "image_type": "png",
             "v_mana": ""
         },
@@ -9431,7 +9431,7 @@
             "number": 43,
             "color_identity": "WB",
             "cost": "{1}{WB}",
-            "rules_text": "Flying\nWhenever you gain life, put a+1/+1 counter on target creature you control. This ability triggers only once each turn.",
+            "rules_text": "Flying\nWhenever you gain life, put a +1/+1 counter on target creature you control. This ability triggers only once each turn.",
             "flavor_text": "[i][/i]",
             "pt": "2/1",
             "special_text": "",
@@ -9441,7 +9441,7 @@
             "artist": "\u6d77\u6e90/KTx3rl8o",
             "alias": "",
             "position": "49",
-            "notes": "!tag SoEW",
+            "notes": "!tag SoEW\n!tag Unnamed",
             "image_type": "png",
             "v_mana": ""
         },
@@ -9454,7 +9454,7 @@
             "color_identity": "UR",
             "cost": "{1}{UR}",
             "rules_text": "Wizards you cast cost {1} less to cast.\nWizards you control have \u201cInstant and sorcery spells you cast cost {1} less to cast.\u201d",
-            "flavor_text": "[i][/i]",
+            "flavor_text": "[i]\u201cI hope our store is popular, Socrates!\ud83d\udda4\u201d[/i]",
             "pt": "1/1",
             "special_text": "",
             "shape": "normal",
@@ -9463,7 +9463,7 @@
             "artist": "\u5c11\u5e74\u307b\u3052\u307b\u3052/@shounen_f",
             "alias": "",
             "position": "50",
-            "notes": "!tag PoDD\n!tag Ellen\n!tag Sokrates\n!tag Male",
+            "notes": "!tag PoDD\n!tag Ellen\n!tag Aureus\n!tag Socrates\n!tag Sokrates\n!tag Male",
             "image_type": "png",
             "v_mana": ""
         },
@@ -9520,7 +9520,7 @@
             "color_identity": "WR",
             "cost": "{1}{RW}",
             "rules_text": "Orbs, Monks, and Gods you control get +1/+0.",
-            "flavor_text": "[i][/i]",
+            "flavor_text": "[i]The ancestral treasure of the Hakurei, the Yin-Yang Orb, is host to powers and secrets even its wielders don't fully understand.[/i]",
             "pt": "2/1",
             "special_text": "",
             "shape": "normal",
@@ -9529,7 +9529,7 @@
             "artist": "\u685c\u6728 \u674e\u674f/Sakuragi Rian",
             "alias": "",
             "position": "53",
-            "notes": "!tag HRtP\n!tag Hakurei",
+            "notes": "!tag HRtP\n!tag Hakurei\n!tag Unnamed",
             "image_type": "png",
             "v_mana": ""
         },
@@ -9551,7 +9551,7 @@
             "artist": "\u30da\u30b1/@Peke4444",
             "alias": "",
             "position": "54",
-            "notes": "!tag OSP\n!tag Sangetsusei\n!tag Print",
+            "notes": "!tag OSP\n!tag Sangetsusei\n!tag Print\ntag Marisa\n!tag Kirisame\n!tag Unnamed",
             "image_type": "png",
             "v_mana": ""
         },
@@ -9595,7 +9595,7 @@
             "artist": "MANATEE",
             "alias": "",
             "position": "56",
-            "notes": "!tag WaHH\n!tag Tenshi\n!tag Print",
+            "notes": "!tag WaHH\n!tag Tenshi\n!tag Hinanawi\n!tag Hinanai\n!tag Print",
             "image_type": "png",
             "v_mana": ""
         },
@@ -9617,7 +9617,7 @@
             "artist": "\u30ef\u30a4\u30c6\u30a4/YT",
             "alias": "",
             "position": "57",
-            "notes": "!tag AoCF\n!tag Sumireko\n!tag Fighter\n!tag Spinoff",
+            "notes": "!tag AoCF\n!tag Sumireko\n!tag Usami\n!tag Fighter\n!tag Spinoff",
             "image_type": "png",
             "v_mana": ""
         },
@@ -9661,7 +9661,7 @@
             "artist": "\u87f9\u6ca2\u3086\u3046\u304d/Kanisawa Yuki",
             "alias": "",
             "position": "59",
-            "notes": "!tag LE\n!tag Kanako\n!tag Print",
+            "notes": "!tag LE\n!tag Kanako\n!tag Yasaka\n!tag Print",
             "image_type": "png",
             "v_mana": ""
         },
@@ -9692,7 +9692,7 @@
             "color": "",
             "rarity": "common",
             "type": "Artifact",
-            "number": 50,
+            "number": 51,
             "color_identity": "C",
             "cost": "{1}",
             "rules_text": "When this artifact enters, choose a legendary creature card name.\nSpells you cast with the chosen name cost {1} less to cast.\nCreatures you control with the chosen name get +1/+1.",
@@ -9714,7 +9714,7 @@
             "color": "BR",
             "rarity": "common",
             "type": "Token Creature \u2013 Youkai",
-            "number": 3,
+            "number": 4,
             "color_identity": "C",
             "cost": "",
             "rules_text": "",
@@ -9728,6 +9728,72 @@
             "alias": "",
             "position": "62",
             "notes": "",
+            "image_type": "png",
+            "v_mana": ""
+        },
+        {
+            "card_name": "Rabbit",
+            "color": "W",
+            "rarity": "common",
+            "type": "Token Creature \u2013 Rabbit",
+            "number": 1,
+            "color_identity": "C",
+            "cost": "",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "1/1",
+            "special_text": "",
+            "shape": "token",
+            "set": "AKU",
+            "loyalty": "",
+            "artist": "\u7cf8\u9ea6\u304f\u3093/Itomugi-kun",
+            "alias": "",
+            "position": "63",
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
+        },
+        {
+            "card_name": "Roukanken and Hakurouken",
+            "color": "",
+            "rarity": "rare",
+            "type": "Legendary Artifact \u2013 Equipment",
+            "number": 52,
+            "color_identity": "C",
+            "cost": "{5}",
+            "rules_text": "Equipped creature gets +2/+2.\nAs long as equipped creature is attacking, it has double strike.\nWhenever equipped creature deals combat damage, draw a card.\nEquip {4}",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "AKU",
+            "loyalty": "",
+            "artist": "\u3086/yuccoshi",
+            "alias": "",
+            "position": "64",
+            "notes": "!tag PCB\n!tag Youmu\n!tag Konpaku",
+            "image_type": "png",
+            "v_mana": ""
+        },
+        {
+            "card_name": "Iron Rings of Moriya",
+            "color": "",
+            "rarity": "uncommon",
+            "type": "Artifact \u2013 Equipment",
+            "number": 50,
+            "color_identity": "C",
+            "cost": "{2}",
+            "rules_text": "Equipped creature gets +1/+0 and has vigilance and menace.\nEquip {2} [i]({2}: Attach to target creature you control. Equip only as a sorcery.)[/i]\nEquip God {0} [i]({0}: Attach to target God creature you control. Equip only as a sorcery.)[/i]",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "AKU",
+            "loyalty": "",
+            "artist": "Xuanminh",
+            "alias": "",
+            "position": "65",
+            "notes": "!tag MoF\n!tag Suwako\n!tag Moriya\n!tag Moreya",
             "image_type": "png",
             "v_mana": ""
         },

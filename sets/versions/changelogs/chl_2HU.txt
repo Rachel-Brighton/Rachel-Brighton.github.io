@@ -1,4 +1,421 @@
-﻿VERSION 13 CHANGELOG
+﻿VERSION 14 CHANGELOG
+====================
+
+
+
+Marisa Kirisame
+
+Fantasy Nature
+
+Sanae, Living God
+
+Reisen, Lunatic Moon Rabbit
+
+Eirin, Sage of Hourai
+
+Kaguya, Lunatic Princess
+
+Mokou, Immortal Smoke
+
+God Forbid Women Do Anything
+
+Hong Meiling, the Rainbow Gate
+
+Patchouli, the Unmoving Library
+
+Enoko Mitsugashira
+
+Chiyari Tenkajin
+
+Zanmu, the Unobstructed Light
+
+Hisami, Hell's Invitation
+
+Alice Margatroid
+
+Letty Whiterock
+
+Lily White
+
+Yatsuhashi and Benben
+
+Lullaby of a Deserted Hell
+
+Mamizou, Tanuki Boss
+
+Idolatrize World
+
+Border of Life
+
+Venerable Ancient Battlefield
+
+Lunatic Harlequin, Clownpiece
+
+Romantic Fall
+
+Yamame Kurodani
+
+Raiko, Pristine Beat
+
+Wicked Hermit, Seiga Kaku
+
+Love-Colored Magic
+
+Extend Ash
+
+Zenki and Goki
+
+Hecatia Lapislazuli
+
+Cosmic Mind
+
+Wriggle Nightbug
+
+Mystia Lorelei
+
+Keine Kamishirasawa
+
+Tewi, White Rabbit of Inaba
+
+Medicine Melancholy
+
+Komachi, Ferrywoman
+
+Judgement
+
+Kosuzu, Curious Youth
+
+Marisa and Alice
+
+Deaf to All but the Song
+
+Kitten of Great Fortune
+
+Hina Kagiyama
+
+Nitori, Super Youkai Warhead
+
+Momiji Inubashiri
+
+Kanako, God of Progress
+
+Yoshika Miyako
+
+Parsee, Green-Eyed Monster
+
+Satori Komeiji
+
+Koishi Komeiji
+
+Kogasa, Forgotten Umbrella
+
+Hatate Himekaidou
+
+Ichirin Kumoi
+
+Tenshi, Delinquent Celestial
+
+Shou, Bishamonten's Light
+
+Kyouko Kasodani
+
+Tojiko, Thunder Soul
+
+Mononobe no Futo
+
+Miko, the Saint Reborn
+
+Dynamic Entrance
+
+Utsuho Reiuji
+
+Scarlet Detonation
+
+Shanghai Doll
+
+Crazy Backup Dancers
+
+Kagerou, Bamboos Loup-Garou
+
+Seija, Bane of Gensokyo
+
+Narumi, Life Giver
+
+Sagume, the Reversed Fortune
+
+Fierce Fang, Wolf
+
+Kiketsus Sneak, Otter
+
+Eika Ebisu
+
+Urumi Ushizaki
+
+Kutaka, Hells Border Patrol
+
+Yachie Kicchou
+
+Kaguyas Impossible Request
+
+Mayumi Joutougu
+
+Keiki, the Sculptor God
+
+Saki Kurokoma
+
+Mike Goutokuji
+
+Takane Yamashiro
+
+Sannyo Komakusa
+
+Misumaru Tamatsukuri
+
+Tsukasa, Daitengu's Consultant
+
+Deep-Mountain Encounter
+
+Ellen, Eternal Unknowing
+
+Kana Anaberal
+
+Rikako Asakura
+
+Yumemi Okazaki
+
+Unshou, the Fisherman
+
+Iku Nagae
+
+Suika Ibuki
+
+Hieda no Akyuu
+
+Ibaraki-Douji
+
+Luna Child
+
+Youmu, Netherworlds Blades
+
+This, Too, Is Yuri
+
+Knight of Nights
+
+Kokoro, Noh Embodied
+
+Rinnosuke Morichika
+
+Sunny Milk
+
+Star Sapphire
+
+Toyohime, Divine Ward
+type: Legendary Creature — Moonfolk => Legendary Creature — Moonfolk Noble
+
+Yorihime, Divine Vessel
+type: Legendary Creature — Moonfolk => Legendary Creature — Moonfolk Noble
+
+Lily Black
+
+Lord Tenma
+
+Nuclear Options
+
+Youki, Konpaku Ancestor
+
+Goliath Doll
+
+Bloom Nobly, Ink-Black Blossoms
+
+Ultimate Truth
+
+Ferryboat of the Dead
+
+Giga Flare
+
+Repurposed Rover
+
+Drunk As I Like
+
+Fires of Hokkai
+
+Get Ahead Of Yourself
+
+Cursed Decoy Doll
+
+Become Marketable
+
+Momoyo, Onyx Dragon-Eater
+
+Vine of Wisteria
+
+Yuuka of Dreamland
+
+Battle Bond
+
+Let's Live in a Lovely Cemetery
+
+Aerodynamic Blades
+
+Throwing Mt. Togakushi
+
+The Jailbreak King
+
+Enigmatic Vestige
+
+Ordinary Magician's Charm
+
+Marisa of Scarlet Dreams
+
+Error-Prone Maid
+
+Probability Collapse
+
+Agatha ChrisQ
+
+Chiyuri, Sailor of Time
+
+Sakuya, Scarlet Guardian
+
+Maiden's Bunraku
+
+Pristine Lunacy
+
+Devil's Recitation
+
+Yuugi, Old Hell's Might
+
+Kasen, Seeking Herself
+
+Byakuren, Superhuman
+
+Body Enhancement Magic
+
+Sorcerer's Sutra Scroll
+
+Hanged Hourai Doll
+
+Magician's Grimoire
+
+Tea Break
+
+Bumper Crop
+
+Incorruptible Perfection
+
+Parasol of the Flower Youkai
+
+Alice of Wonderland
+
+Doremy, Eternal Spring Dream
+
+Kyuu... BOOM~!
+
+Miyoi, Geidontei's Poster Girl
+
+Creation of Gensokyo
+
+Peak Performance
+
+Guard Tiger
+type: Creature — Cat => Creature — Cat Minion
+
+Take it Easy!
+
+You, Get Bigger!
+
+Flower Youkai's Charm
+
+Living God's Charm
+
+Lucky Rabbit's Charm
+
+Youkai Sages' Charm
+
+Rin, Hell's Traffic Accident
+
+Yuyuko, Mistress of Death
+
+The Saigyou Ayakashi
+
+The Secret Sealing Club
+
+Master Spark
+
+Nue, Heian Alien
+
+Evil Eye Σ
+
+The Flower Tank
+
+Go-Shintank
+
+Vengeful Spirit
+
+A Dream More Scarlet
+
+Bunbunmaru Newspaper
+
+Peaches of Paradise
+
+Chimata, the Market God
+
+Ubame, Sanctuary's Protector
+
+Chimi, Ancient Abomination
+
+Nareko, the Altar's Warden
+
+Nemuno, Sanctuary Keeper
+
+Seed of Unknown Form
+
+Eiki, Final Judge of Fate
+
+Okina, the Hidden God
+
+Sumireko Usami
+
+Yuiman, Data Purifier
+
+Ariya, Stone Goddess
+
+Nina, Newborn Apparition
+
+For the Glory of the Moon
+
+A Little Curse
+
+Child of Light
+
+Legend of the Eight-Foot Woman
+
+Legend of the Occult Balls
+
+Legend of the Haunted Well
+
+Legend of Spontaneous Combustion
+
+Trump Card
+
+Yuyuko, Night Sakura's Spirit
+
+Aya, Bullet Photographer
+
+Sakuya and Remilia
+
+Youmu and Yuyuko
+
+Bewitching Lotus Flower
+
+Yuuka Kazami
+
+Divine Spirits' Macrocosm
+
+Grassroots Youkai Networking
+
+
+VERSION 13 CHANGELOG
 ====================
 
 Unfinished Dreams added.

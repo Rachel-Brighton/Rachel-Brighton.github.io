@@ -1648,7 +1648,7 @@
 			"name": "Toyohime, Divine Ward",
 			"rarity": "mythic",
 			"mana_cost": "{3}{W}{W}",
-			"type": "Legendary Creature — Moonfolk",
+			"type": "Legendary Creature — Moonfolk Noble",
 			"collector_number": "37",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/163.png"
@@ -1658,7 +1658,7 @@
 			"name": "Yorihime, Divine Vessel",
 			"rarity": "mythic",
 			"mana_cost": "{2}{W}{W}",
-			"type": "Legendary Creature — Moonfolk",
+			"type": "Legendary Creature — Moonfolk Noble",
 			"collector_number": "40",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/164.png"
@@ -2935,7 +2935,7 @@
 			"name": "Guard Tiger",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}{G}",
-			"type": "Creature — Cat",
+			"type": "Creature — Cat Minion",
 			"collector_number": "156",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/291.png"

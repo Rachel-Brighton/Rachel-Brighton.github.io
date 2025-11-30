@@ -1,6 +1,6 @@
 ﻿{
     "name": "Akyuu\u2019s Untouched Chronicle",
-    "formats": "",
+    "formats": "Touhou",
     "trimmed": "y",
     "image_type": "png",
     "draft_structure": "play booster",
@@ -13,7 +13,7 @@
             "color": "",
             "rarity": "uncommon",
             "type": "Land \u2014 Plains Island",
-            "number": 58,
+            "number": 60,
             "color_identity": "WU",
             "cost": "",
             "rules_text": "[i]({T}: Add {W} or {U}.)[/i]\nThis land enters tapped.\nWhen this land enters, you gain 1 life.",
@@ -33,7 +33,7 @@
             "color": "",
             "rarity": "uncommon",
             "type": "Land \u2014 Forest Island",
-            "number": 53,
+            "number": 55,
             "color_identity": "UG",
             "cost": "",
             "rules_text": "[i]({T}: Add {G} or {U}.)[/i]\nThis land enters tapped.\nWhen this land enters, you gain 1 life.",
@@ -46,14 +46,14 @@
             "artist": "NextNinja",
             "alias": "",
             "position": "1",
-            "notes": "!tag HM\n!tag Spinoff\n\nWhen you think of waterfalls, there are two images: the powerful, vast waterfall and the meek, trickling one. But this time, I opted for the image of the former... An autumn waterfall. I think the thing waterfalls convey the most is autumn."
+            "notes": "!tag HM\n!tag Spinoff\n!tag Chronicle\n\nWhen you think of waterfalls, there are two images: the powerful, vast waterfall and the meek, trickling one. But this time, I opted for the image of the former... An autumn waterfall. I think the thing waterfalls convey the most is autumn."
         },
         {
             "card_name": "Wonderful Heaven",
             "color": "",
             "rarity": "uncommon",
             "type": "Land \u2014 Mountain Plains",
-            "number": 59,
+            "number": 61,
             "color_identity": "WR",
             "cost": "",
             "rules_text": "[i]({T}: Add {R} or {W}.)[/i]\nThis land enters tapped.\nWhen this land enters, you gain 1 life.",
@@ -66,14 +66,14 @@
             "artist": "Kosi An",
             "alias": "",
             "position": "2",
-            "notes": "!tag SWR\n!tag Spinoff\n!tag Music\n\nHeaven is really full of enlightened persons of character, but even among them there are inferior ones like her. Still, that gives her an almost human feel. Turning it around, you might say she's an oasis within Heaven."
+            "notes": "!tag SWR\n!tag Spinoff\n!tag Music\n!tag Chronicle\n\nHeaven is really full of enlightened persons of character, but even among them there are inferior ones like her. Still, that gives her an almost human feel. Turning it around, you might say she's an oasis within Heaven."
         },
         {
             "card_name": "Land of the Backdoor",
             "color": "",
             "rarity": "uncommon",
             "type": "Land \u2014 Island Swamp",
-            "number": 55,
+            "number": 57,
             "color_identity": "UB",
             "cost": "",
             "rules_text": "[i]({T}: Add {U} or {B}.)[/i]\nThis land enters tapped.\nWhen this land enters, you gain 1 life.",
@@ -93,7 +93,7 @@
             "color": "",
             "rarity": "uncommon",
             "type": "Land \u2014 Island Mountain",
-            "number": 57,
+            "number": 59,
             "color_identity": "UR",
             "cost": "",
             "rules_text": "[i]({T}: Add {U} or {R}.)[/i]\nThis land enters tapped.\nWhen this land enters, you gain 1 life.",
@@ -146,14 +146,14 @@
             "artist": "\uff72\uff78\uff7c/NARTANZ",
             "alias": "",
             "position": "6",
-            "notes": "!tag EoSD\n!tag Rumia\n!tag Music"
+            "notes": "!tag EoSD\n!tag Rumia\n!tag Music\n!tag Chronicle"
         },
         {
             "card_name": "Nightstalker",
             "color": "B",
             "rarity": "common",
             "type": "Token Creature \u2014 Nightstalker",
-            "number": 2,
+            "number": 3,
             "color_identity": "C",
             "cost": "",
             "rules_text": "",
@@ -186,7 +186,7 @@
             "artist": "Shirou",
             "alias": "",
             "position": "8",
-            "notes": "!tag Tewi\n!tag Tei"
+            "notes": "!tag Tewi\n!tag Tei\n!tag Inaba"
         },
         {
             "card_name": "The Purest Sky and Sea",
@@ -213,7 +213,7 @@
             "color": "",
             "rarity": "uncommon",
             "type": "Land \u2014 Swamp Forest",
-            "number": 51,
+            "number": 53,
             "color_identity": "BG",
             "cost": "",
             "rules_text": "[i]({T}: Add {B} or {G}.)[/i]\nThis land enters tapped.\nWhen this land enters, you gain 1 life.",
@@ -346,14 +346,14 @@
             "artist": "\u3075\u3046\u308a\u3093/Fuurin",
             "alias": "",
             "position": "16",
-            "notes": "!tag IN\n!tag Marisa"
+            "notes": "!tag IN\n!tag Marisa\n!tag Kirisame"
         },
         {
             "card_name": "Hellfire Mantle",
             "color": "",
             "rarity": "uncommon",
             "type": "Land \u2014 Swamp Mountain",
-            "number": 54,
+            "number": 56,
             "color_identity": "BR",
             "cost": "",
             "rules_text": "[i]({T}: Add {B} or {R}.)[/i]\nThis land enters tapped.\nWhen this land enters, you gain 1 life.",
@@ -366,14 +366,14 @@
             "artist": "\u9752\u8449 HAL/aoHA",
             "alias": "",
             "position": "17",
-            "notes": "!tag SA\n!tag Hell\n!tag Music"
+            "notes": "!tag SA\n!tag Hell\n!tag Music\n!tag Chronicle"
         },
         {
             "card_name": "Netherworld Gates",
             "color": "",
             "rarity": "uncommon",
             "type": "Land \u2014 Plains Swamp",
-            "number": 56,
+            "number": 58,
             "color_identity": "WB",
             "cost": "",
             "rules_text": "[i]({T}: Add {W} or {B}.)[/i]\nThis land enters tapped.\nWhen this land enters, you gain 1 life.",
@@ -393,7 +393,7 @@
             "color": "",
             "rarity": "uncommon",
             "type": "Land \u2014 Forest Plains",
-            "number": 52,
+            "number": 54,
             "color_identity": "WG",
             "cost": "",
             "rules_text": "[i]({T}: Add {G} or {W}.)[/i]\nThis land enters tapped.\nWhen this land enters, you gain 1 life.",
@@ -406,14 +406,14 @@
             "artist": "\u9752\u8449 HAL/aoHA",
             "alias": "",
             "position": "19",
-            "notes": "Flower Land?\n!tag PoFV\n\nI thought to create a piece bright and fluid, with the elegance of a flower. It didn't come out that way."
+            "notes": "!tag PoFV\n!tag Chronicle\n\nI thought to create a piece bright and fluid, with the elegance of a flower. It didn't come out that way."
         },
         {
             "card_name": "Youkai Mountain",
             "color": "",
             "rarity": "uncommon",
             "type": "Land \u2014 Mountain Forest",
-            "number": 60,
+            "number": 62,
             "color_identity": "RG",
             "cost": "",
             "rules_text": "[i]({T}: Add {R} or {G}.)[/i]\nThis land enters tapped.\nWhen this land enters, you gain 1 life.",
@@ -426,7 +426,7 @@
             "artist": "Justinas Vitkus",
             "alias": "",
             "position": "20",
-            "notes": "Mysterious Mountain?\n!tag MoF\n!tag Music\n\nIn the village it's said that the mountain's smoke isn't real smoke, but rather fumes that spew from factories run by the tengu and the kappa... However, the human that lived in the bamboo forest knew."
+            "notes": "!tag MoF\n!tag Music\n!tag Chronicle\n\nIn the village it's said that the mountain's smoke isn't real smoke, but rather fumes that spew from factories run by the tengu and the kappa... However, the human that lived in the bamboo forest knew."
         },
         {
             "card_name": "Yuuma, Blood Titan",
@@ -466,7 +466,7 @@
             "artist": "\u6d77\u6e90/KTx3rl8o",
             "alias": "",
             "position": "22",
-            "notes": "!tag UM\n!tag Chimata\n!tag Music"
+            "notes": "!tag UM\n!tag Chimata\n!tag Tenkyuu\n!tag Music"
         },
         {
             "card_name": "Hidden Star in All Seasons",
@@ -486,7 +486,7 @@
             "artist": "Ddok",
             "alias": "",
             "position": "23",
-            "notes": "!tag HSiFS\n!tag Okina\n!tag Music"
+            "notes": "!tag HSiFS\n!tag Okina\n!tag Matara\n!tag Music"
         },
         {
             "card_name": "Solar Sect of Mystic Wisdom",
@@ -506,7 +506,7 @@
             "artist": "Hayamisyoto",
             "alias": "",
             "position": "24",
-            "notes": "!tag SA\n!tag Music\n!tag Utsuho\n!tag Okuu\n!tag Chireiden\n!tag Hell"
+            "notes": "!tag SA\n!tag Music\n!tag Utsuho\n!tag Okuu\ntag Reiuji\n!tag Chireiden\n!tag Hell"
         },
         {
             "card_name": "Grave of Being",
@@ -526,7 +526,7 @@
             "artist": "\u6625\u662d/HARUAKI",
             "alias": "",
             "position": "25",
-            "notes": "!tag MoF\n!tag Kanako\n!tag Music"
+            "notes": "!tag MoF\n!tag Kanako\n!tag Yasaka\n!tag Music"
         },
         {
             "card_name": "The Gensokyo Chronicle",
@@ -546,7 +546,7 @@
             "artist": "\u9920/m0chi0000",
             "alias": "",
             "position": "26",
-            "notes": "!tag PMiSS\n!tag Akyuu\n!tag Print"
+            "notes": "!tag PMiSS\n!tag Akyuu\n!tag Hieda\n!tag Print\n!tag Chronicle"
         },
         {
             "card_name": "Cheating Detective Satori",
@@ -566,7 +566,7 @@
             "artist": "\u79cb\u5dfb\u3086\u3046/Akimaki Yuu",
             "alias": "",
             "position": "27",
-            "notes": "!tag CDS\n!tag FDS\n!tag Satori\n!tag Print\n!tag Chireiden\n!tag Hell"
+            "notes": "!tag CDS\n!tag FDS\n!tag Satori\n!tag Komeiji\n!tag Print\n!tag Chireiden\n!tag Hell"
         },
         {
             "card_name": "Aya, Reporter of Fantasy",
@@ -586,7 +586,7 @@
             "artist": "\u30be\u30a6\u30ce\u30bb/ZOUNOSE",
             "alias": "",
             "position": "28",
-            "notes": "!tag PoFV\n!tag MoF\n!tag BAiJR\n!tag Aya\n!tag Stage4\n!tag Phantasmagoria\n!tag Playable\n!tag Print\n!tag Tengu"
+            "notes": "!tag PoFV\n!tag MoF\n!tag BAiJR\n!tag Aya\n!tag Shameimaru\n!tag Stage4\n!tag Phantasmagoria\n!tag Playable\n!tag Print\n!tag Tengu"
         },
         {
             "card_name": "Mizuchi, Traitor to Humanity",
@@ -606,7 +606,7 @@
             "artist": "\u304d\u3083\u3079\u3063\u3053/Kyabemother",
             "alias": "",
             "position": "29",
-            "notes": "!tag CDS\n!tag FDS\n!tag Mizuchi\n!tag Print"
+            "notes": "!tag CDS\n!tag FDS\n!tag Mizuchi\n!tag Miyadeguchi\n!tag Print"
         },
         {
             "card_name": "Reimu, Spirits' Grudge",
@@ -646,7 +646,7 @@
             "artist": "\u661f\u9f8d/Satellitedragon",
             "alias": "",
             "position": "31",
-            "notes": "!tag FS\n!tag Print\n!tag Reisen\n!tag Eientei"
+            "notes": "!tag FS\n!tag Print\n!tag Reisen\n!tag Udonge\n!tag Udongein\n!tag Inaba\n!tag Eientei"
         },
         {
             "card_name": "Kappa Tinkerers",
@@ -666,7 +666,7 @@
             "artist": "cheW",
             "alias": "",
             "position": "32",
-            "notes": "!tag WaHH\n!tag Print"
+            "notes": "!tag WaHH\n!tag Print\n!tag Chronicle\n!tag Kappa"
         },
         {
             "card_name": "Choujuu Gigaku",
@@ -686,7 +686,7 @@
             "artist": "\u662f\u6c34\u9b3c\u5417/Shishi Guima",
             "alias": "",
             "position": "33",
-            "notes": "!tag SoPM\n!tag Mystia\n!tag Kyouko\n!tag Kyoko\n!tag Print\n!tag Music\n!tag Fanon\n!tag Yuri\n!tag Gay"
+            "notes": "!tag SoPM\n!tag Mystia\n!tag Lorelei\n!tag Kyouko\n!tag Kyoko\n!tag Kasodani\n!tag Print\n!tag Music\n!tag Fanon\n!tag Yuri\n!tag Gay"
         },
         {
             "card_name": "Remote-Work Zashiki-Warashi",
@@ -726,7 +726,7 @@
             "artist": "\u5e7b\u51cc_\u661f\u7fbd/AyaRinSnow",
             "alias": "",
             "position": "35",
-            "notes": "!tag WaHH\n!tag Print"
+            "notes": "!tag WaHH\n!tag Print\n!tag SDM"
         },
         {
             "card_name": "Lord Tenma's Command",
@@ -746,7 +746,7 @@
             "artist": "\u5e7b\u51cc_\u661f\u7fbd/AyaRinSnow",
             "alias": "",
             "position": "36",
-            "notes": "!tag PMiSS\n!tag Tengu\n!tag Fanon"
+            "notes": "!tag PMiSS\n!tag Tengu\n!tag Fanon\n!tag Tenma"
         },
         {
             "card_name": "Those Were Good Pills",
@@ -786,7 +786,7 @@
             "artist": "\u77f3\u5ddd\u30b9\u30da\u30a2\u30ea\u30d6/Ishikawa Sparerib",
             "alias": "",
             "position": "38",
-            "notes": "!tag UDoALG\n!tag Yuri\n!tag Gay\n!tag Hisami"
+            "notes": "!tag UDoALG\n!tag Yuri\n!tag Gay\n!tag Hisami\n!tag Yomotsu"
         },
         {
             "card_name": "Reduce to Vapor",
@@ -806,7 +806,7 @@
             "artist": "MiySin",
             "alias": "",
             "position": "39",
-            "notes": "!tag WaHH\n!tag Print"
+            "notes": "!tag WaHH\n!tag Print\n!tag Kasen\n!tag Ibaraki"
         },
         {
             "card_name": "Fairy Menace",
@@ -826,7 +826,7 @@
             "artist": "\u304d\u305f\u304c\u308f\u6c34\u6708/Kitagawa Suigetsu",
             "alias": "",
             "position": "40",
-            "notes": "!tag UFO"
+            "notes": "!tag UFO\n!tag Chronicle"
         },
         {
             "card_name": "Twin Spark",
@@ -846,7 +846,7 @@
             "artist": "\u9ad8\u864e/Takatora",
             "alias": "",
             "position": "41",
-            "notes": "!tag LLS\n!tag Yuuka"
+            "notes": "!tag LLS\n!tag Yuuka\n!tag Kazami"
         },
         {
             "card_name": "Raiko, Guest Drummer",
@@ -866,7 +866,7 @@
             "artist": "\u3082\u308a\u306e\u307b\u3093/Mori no Hon",
             "alias": "",
             "position": "42",
-            "notes": "!tag AFiEU\n!tag AoCF\n!tag Raiko\n!tag Print"
+            "notes": "!tag AFiEU\n!tag AoCF\n!tag Raiko\n!tag Horikawa\n!tag Print"
         },
         {
             "card_name": "Aunn, Temple Helper",
@@ -886,7 +886,7 @@
             "artist": "\u3042\u305a\u307e\u3042\u3084/Azuma Aya",
             "alias": "",
             "position": "43",
-            "notes": "!tag WaHH\n!tag Aunn\n!tag Print"
+            "notes": "!tag WaHH\n!tag Aunn\n!tag Komano\n!tag Print"
         },
         {
             "card_name": "Mamizou, Ever Watching",
@@ -906,14 +906,14 @@
             "artist": "\u306e\u308a\u3046\u307e/Noriuma",
             "alias": "",
             "position": "44",
-            "notes": "!tag FS\n!tag Mamizou\n!tag Print"
+            "notes": "!tag FS\n!tag Mamizou\n!tag Futatsuiwa\n!tag Print"
         },
         {
             "card_name": "Faerie Army",
             "color": "B",
             "rarity": "common",
             "type": "Token Creature \u2014 Faerie Army",
-            "number": 1,
+            "number": 2,
             "color_identity": "C",
             "cost": "",
             "rules_text": "",
@@ -986,7 +986,7 @@
             "artist": "\u30a6\u30a7\u30eb\u30c8/Welt",
             "alias": "",
             "position": "48",
-            "notes": "!tag WaHH\n!tag Print"
+            "notes": "!tag WaHH\n!tag Print\n!tag Marisa\n!tag Kirisame\n!tag Unnamed"
         },
         {
             "card_name": "A Little Sin",
@@ -996,7 +996,7 @@
             "number": 43,
             "color_identity": "WB",
             "cost": "{1}{WB}",
-            "rules_text": "Flying\nWhenever you gain life, put a+1/+1 counter on target creature you control. This ability triggers only once each turn.",
+            "rules_text": "Flying\nWhenever you gain life, put a +1/+1 counter on target creature you control. This ability triggers only once each turn.",
             "flavor_text": "[i][/i]",
             "pt": "2/1",
             "special_text": "",
@@ -1006,7 +1006,7 @@
             "artist": "\u6d77\u6e90/KTx3rl8o",
             "alias": "",
             "position": "49",
-            "notes": "!tag SoEW"
+            "notes": "!tag SoEW\n!tag Unnamed"
         },
         {
             "card_name": "Magician's Companion",
@@ -1017,7 +1017,7 @@
             "color_identity": "UR",
             "cost": "{1}{UR}",
             "rules_text": "Wizards you cast cost {1} less to cast.\nWizards you control have \u201cInstant and sorcery spells you cast cost {1} less to cast.\u201d",
-            "flavor_text": "[i][/i]",
+            "flavor_text": "[i]\u201cI hope our store is popular, Socrates!\ud83d\udda4\u201d[/i]",
             "pt": "1/1",
             "special_text": "",
             "shape": "normal",
@@ -1026,7 +1026,7 @@
             "artist": "\u5c11\u5e74\u307b\u3052\u307b\u3052/@shounen_f",
             "alias": "",
             "position": "50",
-            "notes": "!tag PoDD\n!tag Ellen\n!tag Sokrates\n!tag Male"
+            "notes": "!tag PoDD\n!tag Ellen\n!tag Aureus\n!tag Socrates\n!tag Sokrates\n!tag Male"
         },
         {
             "card_name": "Shadow Mirror",
@@ -1077,7 +1077,7 @@
             "color_identity": "WR",
             "cost": "{1}{RW}",
             "rules_text": "Orbs, Monks, and Gods you control get +1/+0.",
-            "flavor_text": "[i][/i]",
+            "flavor_text": "[i]The ancestral treasure of the Hakurei, the Yin-Yang Orb, is host to powers and secrets even its wielders don't fully understand.[/i]",
             "pt": "2/1",
             "special_text": "",
             "shape": "normal",
@@ -1086,7 +1086,7 @@
             "artist": "\u685c\u6728 \u674e\u674f/Sakuragi Rian",
             "alias": "",
             "position": "53",
-            "notes": "!tag HRtP\n!tag Hakurei"
+            "notes": "!tag HRtP\n!tag Hakurei\n!tag Unnamed"
         },
         {
             "card_name": "Tanuki Impostor",
@@ -1106,7 +1106,7 @@
             "artist": "\u30da\u30b1/@Peke4444",
             "alias": "",
             "position": "54",
-            "notes": "!tag OSP\n!tag Sangetsusei\n!tag Print"
+            "notes": "!tag OSP\n!tag Sangetsusei\n!tag Print\ntag Marisa\n!tag Kirisame\n!tag Unnamed"
         },
         {
             "card_name": "TORIFUNE Monstrosity",
@@ -1146,7 +1146,7 @@
             "artist": "MANATEE",
             "alias": "",
             "position": "56",
-            "notes": "!tag WaHH\n!tag Tenshi\n!tag Print"
+            "notes": "!tag WaHH\n!tag Tenshi\n!tag Hinanawi\n!tag Hinanai\n!tag Print"
         },
         {
             "card_name": "Dreamworld Doppelganger",
@@ -1166,7 +1166,7 @@
             "artist": "\u30ef\u30a4\u30c6\u30a4/YT",
             "alias": "",
             "position": "57",
-            "notes": "!tag AoCF\n!tag Sumireko\n!tag Fighter\n!tag Spinoff"
+            "notes": "!tag AoCF\n!tag Sumireko\n!tag Usami\n!tag Fighter\n!tag Spinoff"
         },
         {
             "card_name": "Teireida and Nishida",
@@ -1206,7 +1206,7 @@
             "artist": "\u87f9\u6ca2\u3086\u3046\u304d/Kanisawa Yuki",
             "alias": "",
             "position": "59",
-            "notes": "!tag LE\n!tag Kanako\n!tag Print"
+            "notes": "!tag LE\n!tag Kanako\n!tag Yasaka\n!tag Print"
         },
         {
             "card_name": "Whitewater Champions",
@@ -1233,7 +1233,7 @@
             "color": "",
             "rarity": "common",
             "type": "Artifact",
-            "number": 50,
+            "number": 51,
             "color_identity": "C",
             "cost": "{1}",
             "rules_text": "When this artifact enters, choose a legendary creature card name.\nSpells you cast with the chosen name cost {1} less to cast.\nCreatures you control with the chosen name get +1/+1.",
@@ -1253,7 +1253,7 @@
             "color": "BR",
             "rarity": "common",
             "type": "Token Creature \u2014 Youkai",
-            "number": 3,
+            "number": 4,
             "color_identity": "C",
             "cost": "",
             "rules_text": "",
@@ -1267,7 +1267,67 @@
             "alias": "",
             "position": "62",
             "notes": ""
+        },
+        {
+            "card_name": "Rabbit",
+            "color": "W",
+            "rarity": "common",
+            "type": "Token Creature \u2014 Rabbit",
+            "number": 1,
+            "color_identity": "C",
+            "cost": "",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "1/1",
+            "special_text": "",
+            "shape": "token",
+            "set": "AKU",
+            "loyalty": "",
+            "artist": "\u7cf8\u9ea6\u304f\u3093/Itomugi-kun",
+            "alias": "",
+            "position": "63",
+            "notes": ""
+        },
+        {
+            "card_name": "Roukanken and Hakurouken",
+            "color": "",
+            "rarity": "rare",
+            "type": "Legendary Artifact \u2014 Equipment",
+            "number": 52,
+            "color_identity": "C",
+            "cost": "{5}",
+            "rules_text": "Equipped creature gets +2/+2.\nAs long as equipped creature is attacking, it has double strike.\nWhenever equipped creature deals combat damage, draw a card.\nEquip {4}",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "AKU",
+            "loyalty": "",
+            "artist": "\u3086/yuccoshi",
+            "alias": "",
+            "position": "64",
+            "notes": "!tag PCB\n!tag Youmu\n!tag Konpaku"
+        },
+        {
+            "card_name": "Iron Rings of Moriya",
+            "color": "",
+            "rarity": "uncommon",
+            "type": "Artifact \u2014 Equipment",
+            "number": 50,
+            "color_identity": "C",
+            "cost": "{2}",
+            "rules_text": "Equipped creature gets +1/+0 and has vigilance and menace.\nEquip {2} [i]({2}: Attach to target creature you control. Equip only as a sorcery.)[/i]\nEquip God {0} [i]({0}: Attach to target God creature you control. Equip only as a sorcery.)[/i]",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "AKU",
+            "loyalty": "",
+            "artist": "Xuanminh",
+            "alias": "",
+            "position": "65",
+            "notes": "!tag MoF\n!tag Suwako\n!tag Moriya\n!tag Moreya"
         }
     ],
-    "version": 3
+    "version": 4
 }

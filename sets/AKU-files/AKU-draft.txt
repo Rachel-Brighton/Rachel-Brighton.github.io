@@ -5,7 +5,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Plains Island",
-			"collector_number": "58",
+			"collector_number": "60",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/0.png"
 			}
@@ -15,7 +15,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Forest Island",
-			"collector_number": "53",
+			"collector_number": "55",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/1.png"
 			}
@@ -25,7 +25,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Mountain Plains",
-			"collector_number": "59",
+			"collector_number": "61",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/2.png"
 			}
@@ -35,7 +35,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Island Swamp",
-			"collector_number": "55",
+			"collector_number": "57",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/3.png"
 			}
@@ -45,7 +45,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Island Mountain",
-			"collector_number": "57",
+			"collector_number": "59",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/4.png"
 			}
@@ -75,7 +75,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Nightstalker",
-			"collector_number": "2",
+			"collector_number": "3",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/7.png"
 			}
@@ -105,7 +105,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Swamp Forest",
-			"collector_number": "51",
+			"collector_number": "53",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/10.png"
 			}
@@ -175,7 +175,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Swamp Mountain",
-			"collector_number": "54",
+			"collector_number": "56",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/17.png"
 			}
@@ -185,7 +185,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Plains Swamp",
-			"collector_number": "56",
+			"collector_number": "58",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/18.png"
 			}
@@ -195,7 +195,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Forest Plains",
-			"collector_number": "52",
+			"collector_number": "54",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/19.png"
 			}
@@ -205,7 +205,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Mountain Forest",
-			"collector_number": "60",
+			"collector_number": "62",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/20.png"
 			}
@@ -455,7 +455,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Faerie Army",
-			"collector_number": "1",
+			"collector_number": "2",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/45.png"
 			}
@@ -615,7 +615,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}",
 			"type": "Artifact",
-			"collector_number": "50",
+			"collector_number": "51",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/61.png"
 			}
@@ -625,9 +625,39 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Youkai",
-			"collector_number": "3",
+			"collector_number": "4",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/62.png"
+			}
+		},
+		{
+			"name": "Rabbit",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Rabbit",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/63.png"
+			}
+		},
+		{
+			"name": "Roukanken and Hakurouken",
+			"rarity": "rare",
+			"mana_cost": "{5}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/64.png"
+			}
+		},
+		{
+			"name": "Iron Rings of Moriya",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/65.png"
 			}
 		}
 	]
@@ -657,6 +687,7 @@
 	2 Teireida and Nishida
 	2 A Discerning Customer
 	2 Whitewater Champions
+	2 Roukanken and Hakurouken
 [uncommon(3)]
 	4 Sea of Tranquility
 	4 Genbu Ravine
@@ -683,6 +714,7 @@
 	4 Spirit of the Hakurei Relic
 	4 Tanuki Impostor
 	4 TORIFUNE Monstrosity
+	4 Iron Rings of Moriya
 [common(7)]
 	8 Apparitions Stalk the Night
 	8 The White Rabbit's Trick
@@ -756,6 +788,8 @@
 	2 A Discerning Customer
 	2 Whitewater Champions
 	12 Personalized Fortune Slip
+	2 Roukanken and Hakurouken
+	6 Iron Rings of Moriya
 [wildcard(1)]
 	15 Sea of Tranquility
 	15 Genbu Ravine
@@ -817,3 +851,5 @@
 	7 A Discerning Customer
 	7 Whitewater Champions
 	6 Personalized Fortune Slip
+	7 Roukanken and Hakurouken
+	15 Iron Rings of Moriya

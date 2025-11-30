@@ -402,17 +402,25 @@
     },
     "a->colorless",
     {
-        "card_name": "Personalized Fortune Slip",
+        "card_name": "Roukanken and Hakurouken",
+        "number": 52,
+        "shape": "normal",
+        "set": "AKU",
+        "position": "64"
+    },
+    {
+        "card_name": "Iron Rings of Moriya",
         "number": 50,
         "shape": "normal",
         "set": "AKU",
+        "position": "65"
+    },
+    {
+        "card_name": "Personalized Fortune Slip",
+        "number": 51,
+        "shape": "normal",
+        "set": "AKU",
         "position": "61"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "e"
@@ -437,35 +445,35 @@
     },
     {
         "card_name": "Sea of Tranquility",
-        "number": 58,
+        "number": 60,
         "shape": "normal",
         "set": "AKU",
         "position": "0"
     },
     {
         "card_name": "Land of the Backdoor",
-        "number": 55,
+        "number": 57,
         "shape": "normal",
         "set": "AKU",
         "position": "3"
     },
     {
         "card_name": "Hellfire Mantle",
-        "number": 54,
+        "number": 56,
         "shape": "normal",
         "set": "AKU",
         "position": "17"
     },
     {
         "card_name": "Youkai Mountain",
-        "number": 60,
+        "number": 62,
         "shape": "normal",
         "set": "AKU",
         "position": "20"
     },
     {
         "card_name": "Garden of the Sun",
-        "number": 52,
+        "number": 54,
         "shape": "normal",
         "set": "AKU",
         "position": "19"
@@ -487,35 +495,35 @@
     },
     {
         "card_name": "Netherworld Gates",
-        "number": 56,
+        "number": 58,
         "shape": "normal",
         "set": "AKU",
         "position": "18"
     },
     {
         "card_name": "Probability Space Hypervessel",
-        "number": 57,
+        "number": 59,
         "shape": "normal",
         "set": "AKU",
         "position": "4"
     },
     {
         "card_name": "Ancient Sanctuary",
-        "number": 51,
+        "number": 53,
         "shape": "normal",
         "set": "AKU",
         "position": "10"
     },
     {
         "card_name": "Wonderful Heaven",
-        "number": 59,
+        "number": 61,
         "shape": "normal",
         "set": "AKU",
         "position": "2"
     },
     {
         "card_name": "Genbu Ravine",
-        "number": 53,
+        "number": 55,
         "shape": "normal",
         "set": "AKU",
         "position": "1"
@@ -534,28 +542,32 @@
     },
     "a->token",
     {
-        "card_name": "Faerie Army",
+        "card_name": "Rabbit",
         "number": 1,
+        "shape": "token",
+        "set": "AKU",
+        "position": "63"
+    },
+    {
+        "card_name": "Faerie Army",
+        "number": 2,
         "shape": "token",
         "set": "AKU",
         "position": "45"
     },
     {
         "card_name": "Nightstalker",
-        "number": 2,
+        "number": 3,
         "shape": "token",
         "set": "AKU",
         "position": "7"
     },
     {
         "card_name": "Youkai",
-        "number": 3,
+        "number": 4,
         "shape": "token",
         "set": "AKU",
         "position": "62"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "e"
