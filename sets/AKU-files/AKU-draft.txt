@@ -75,7 +75,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Nightstalker",
-			"collector_number": "3",
+			"collector_number": "5",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/7.png"
 			}
@@ -455,7 +455,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Faerie Army",
-			"collector_number": "2",
+			"collector_number": "4",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/45.png"
 			}
@@ -625,7 +625,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Youkai",
-			"collector_number": "4",
+			"collector_number": "6",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/62.png"
 			}
@@ -635,7 +635,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Rabbit",
-			"collector_number": "1",
+			"collector_number": "2",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/63.png"
 			}
@@ -658,6 +658,46 @@
 			"collector_number": "50",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/65.png"
+			}
+		},
+		{
+			"name": "Blood",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Blood",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/66.png"
+			}
+		},
+		{
+			"name": "Bird Youkai",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Bird Youkai",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/67.png"
+			}
+		},
+		{
+			"name": "Spirit",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Spirit",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/68.png"
+			}
+		},
+		{
+			"name": "Food",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Food",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/69.png"
 			}
 		}
 	]

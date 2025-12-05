@@ -1,4 +1,83 @@
-﻿VERSION 4 CHANGELOG
+﻿VERSION 5 CHANGELOG
+====================
+
+Blood added.
+Bird Youkai added.
+Spirit added.
+Food added.
+
+
+Silent Sinner in Blue
+rules_text:  => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create a 1/1 white Rabbit creature token.
+II — Exile up to two target creatures you control until this Saga leaves the battlefield.
+III — Create a 1/1 white Spirit creature token with flying and a Food token.
+special_text:  => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create a 1/1 white Rabbit creature token.
+II — Exile up to two target creatures you control until this Saga leaves the battlefield.
+III — Create a 1/1 white Spirit creature token with flying and a Food token.
+
+Curiosities of Lotus Asia
+rules_text:  => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Mill four cards, then you may return an artifact card from your graveyard to your hand.
+II — Investigate.
+III — You may sacrifice an artifact. When you do, scry X, where X is its mana value, then draw a card.
+special_text:  => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Mill four cards, then you may return an artifact card from your graveyard to your hand.
+II — Investigate.
+III — You may sacrifice an artifact. When you do, scry X, where X is its mana value, then draw a card.
+
+Forbidden Scrollery
+rules_text:  => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create two 1/1 black and red Youkai creature tokens.
+II — Each player sacrifices a creature of their choice.
+III — Return up to one target Human creature card from your graveyard to the battlefield with a finality counter on it. It's no longer a Human.
+special_text:  => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create two 1/1 black and red Youkai creature tokens.
+II — Each player sacrifices a creature of their choice.
+III — Return up to one target Human creature card from your graveyard to the battlefield with a finality counter on it. It's no longer a Human.
+
+Visionary Fairies in Shrine
+rules_text:  => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — You may discard a card. If you do, draw two cards.
+II — Create two Treasure tokens.
+III — Sacrifice any number of artifacts, then amass Faeries X, where X is the number of artifacts sacrificed this way.
+special_text:  => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — You may discard a card. If you do, draw two cards.
+II — Create two Treasure tokens.
+III — Sacrifice any number of artifacts, then amass Faeries X, where X is the number of artifacts sacrificed this way.
+
+Wild and Horned Hermit
+rules_text:  => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Search your library for a nonlegendary creature card, reveal it, put it into your hand, then shuffle.
+II — Put two +1/+1 counters on up to one target creature.
+III — Until end of turn, target creature you control must be blocked if able and can't be blocked by more than one creature.
+special_text:  => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Search your library for a nonlegendary creature card, reveal it, put it into your hand, then shuffle.
+II — Put two +1/+1 counters on up to one target creature.
+III — Until end of turn, target creature you control must be blocked if able and can't be blocked by more than one creature.
+
+Lord Tenma's Command
+rules_text: Choose two —
+• Target player creates two 1/1 white Bird Youkai creature tokens with flying and vigilance.
+• Airbend target creature. [i](To airbend a permanent, exile it. While it's exiled, its owner may cast it for {2} rather than its mana cost.)[/i]
+• Lord Tenma's Command deals 5 damage to target attacking or blocking creature.
+• Two target players each draw a card. => Choose two —
+• Target player creates two 1/1 white Bird Youkai creature tokens with flying and vigilance.
+• Airbend target creature. [i](Exile it. While it's exiled, its owner may cast it for {2} rather than its mana cost.)[/i]
+• Lord Tenma's Command deals 5 damage to target attacking or blocking creature.
+• Two target players each draw a card.
+
+Faerie Army
+
+Tanuki Impostor
+
+Youkai
+
+Rabbit
+
+
+VERSION 4 CHANGELOG
 ====================
 
 Rabbit added.
