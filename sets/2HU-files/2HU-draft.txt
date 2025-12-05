@@ -1248,23 +1248,13 @@
 			}
 		},
 		{
-			"name": "Genji, the Venerated",
-			"rarity": "rare",
-			"mana_cost": "{G}{U}",
-			"type": "Legendary Creature — Turtle Advisor",
-			"collector_number": "193",
-			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/124.png"
-			}
-		},
-		{
 			"name": "Rika, the Tank Girl",
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Legendary Creature — Human Pilot Artificer",
 			"collector_number": "131",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/125.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/124.png"
 			}
 		},
 		{
@@ -1274,7 +1264,7 @@
 			"type": "Legendary Creature — Human Samurai",
 			"collector_number": "227",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/126.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/125.png"
 			}
 		},
 		{
@@ -1284,7 +1274,7 @@
 			"type": "Legendary Artifact Creature — Orb",
 			"collector_number": "317",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/127.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/126.png"
 			}
 		},
 		{
@@ -1294,7 +1284,7 @@
 			"type": "Sorcery",
 			"collector_number": "181",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/128.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/127.png"
 			}
 		},
 		{
@@ -1304,7 +1294,7 @@
 			"type": "Legendary Creature — Human",
 			"collector_number": "19",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/129.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/128.png"
 			}
 		},
 		{
@@ -1314,7 +1304,7 @@
 			"type": "Instant",
 			"collector_number": "137",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/130.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/129.png"
 			}
 		},
 		{
@@ -1324,7 +1314,7 @@
 			"type": "Instant",
 			"collector_number": "18",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/131.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/130.png"
 			}
 		},
 		{
@@ -1334,7 +1324,7 @@
 			"type": "Sorcery",
 			"collector_number": "80",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/132.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/131.png"
 			}
 		},
 		{
@@ -1344,7 +1334,7 @@
 			"type": "Legendary Creature — Wizard",
 			"collector_number": "116",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/133.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/132.png"
 			}
 		},
 		{
@@ -1354,7 +1344,7 @@
 			"type": "Legendary Creature — Spirit",
 			"collector_number": "57",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/134.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/133.png"
 			}
 		},
 		{
@@ -1364,7 +1354,7 @@
 			"type": "Legendary Creature — Human Noble",
 			"collector_number": "213",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/135.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/134.png"
 			}
 		},
 		{
@@ -1374,7 +1364,7 @@
 			"type": "Legendary Creature — Wizard Scientist",
 			"collector_number": "251",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/136.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/135.png"
 			}
 		},
 		{
@@ -1384,7 +1374,7 @@
 			"type": "Legendary Creature — Human Scientist",
 			"collector_number": "285",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/137.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/136.png"
 			}
 		},
 		{
@@ -1394,7 +1384,7 @@
 			"type": "Artifact",
 			"collector_number": "313",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/138.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/137.png"
 			}
 		},
 		{
@@ -1404,7 +1394,7 @@
 			"type": "Legendary Creature — Human",
 			"collector_number": "39",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/139.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/138.png"
 			}
 		},
 		{
@@ -1414,7 +1404,7 @@
 			"type": "Legendary Creature — Youkai",
 			"collector_number": "296",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/140.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/139.png"
 			}
 		},
 		{
@@ -1424,7 +1414,7 @@
 			"type": "Legendary Creature — Vampire",
 			"collector_number": "89",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/141.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/140.png"
 			}
 		},
 		{
@@ -1434,7 +1424,7 @@
 			"type": "Legendary Creature — Youkai",
 			"collector_number": "147",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/142.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/141.png"
 			}
 		},
 		{
@@ -1444,7 +1434,7 @@
 			"type": "Legendary Creature — Demon",
 			"collector_number": "34",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/143.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/142.png"
 			}
 		},
 		{
@@ -1454,7 +1444,7 @@
 			"type": "Legendary Creature — Demon",
 			"collector_number": "216",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/144.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/143.png"
 			}
 		},
 		{
@@ -1464,7 +1454,7 @@
 			"type": "Legendary Creature — Demon Wizard",
 			"collector_number": "283",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/145.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/144.png"
 			}
 		},
 		{
@@ -1474,7 +1464,7 @@
 			"type": "Legendary Creature — Demon",
 			"collector_number": "284",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/146.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/145.png"
 			}
 		},
 		{
@@ -1484,7 +1474,7 @@
 			"type": "Legendary Creature — Fish Youkai",
 			"collector_number": "202",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/147.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/146.png"
 			}
 		},
 		{
@@ -1494,7 +1484,7 @@
 			"type": "Legendary Creature — God",
 			"collector_number": "204",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/148.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/147.png"
 			}
 		},
 		{
@@ -1504,7 +1494,7 @@
 			"type": "Legendary Enchantment Creature — God",
 			"collector_number": "101",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/149.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/148.png"
 			}
 		},
 		{
@@ -1514,7 +1504,7 @@
 			"type": "Legendary Creature — Demon",
 			"collector_number": "264",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/150.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/149.png"
 			}
 		},
 		{
@@ -1524,7 +1514,7 @@
 			"type": "Legendary Creature — Human Advisor",
 			"collector_number": "53",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/151.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/150.png"
 			}
 		},
 		{
@@ -1537,11 +1527,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/152_back.png"
+					"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/151_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/152_front.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/151_front.png"
 			}
 		},
 		{
@@ -1551,7 +1541,7 @@
 			"type": "Legendary Creature — Faerie",
 			"collector_number": "25",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/153.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/152.png"
 			}
 		},
 		{
@@ -1561,7 +1551,7 @@
 			"type": "Legendary Creature — Human Spirit Samurai",
 			"collector_number": "280",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/154.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/153.png"
 			}
 		},
 		{
@@ -1571,7 +1561,7 @@
 			"type": "Legendary Creature — Rabbit Youkai Soldier",
 			"collector_number": "297",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/155.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/154.png"
 			}
 		},
 		{
@@ -1581,7 +1571,7 @@
 			"type": "Sorcery",
 			"collector_number": "170",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/156.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/155.png"
 			}
 		},
 		{
@@ -1591,7 +1581,7 @@
 			"type": "Instant",
 			"collector_number": "88",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/157.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/156.png"
 			}
 		},
 		{
@@ -1601,7 +1591,7 @@
 			"type": "Legendary Creature — Youkai Performer",
 			"collector_number": "210",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/158.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/157.png"
 			}
 		},
 		{
@@ -1611,7 +1601,7 @@
 			"type": "Legendary Creature — Human Youkai",
 			"collector_number": "68",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/159.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/158.png"
 			}
 		},
 		{
@@ -1621,7 +1611,7 @@
 			"type": "Legendary Creature — Faerie",
 			"collector_number": "139",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/160.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/159.png"
 			}
 		},
 		{
@@ -1631,7 +1621,7 @@
 			"type": "Legendary Creature — Faerie",
 			"collector_number": "72",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/161.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/160.png"
 			}
 		},
 		{
@@ -1641,7 +1631,7 @@
 			"type": "Legendary Creature — Spirit",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/162.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/161.png"
 			}
 		},
 		{
@@ -1651,7 +1641,7 @@
 			"type": "Legendary Creature — Moonfolk Noble",
 			"collector_number": "37",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/163.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/162.png"
 			}
 		},
 		{
@@ -1661,7 +1651,7 @@
 			"type": "Legendary Creature — Moonfolk Noble",
 			"collector_number": "40",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/164.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/163.png"
 			}
 		},
 		{
@@ -1671,7 +1661,7 @@
 			"type": "Legendary Creature — Human Monk",
 			"collector_number": "195",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/165.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/164.png"
 			}
 		},
 		{
@@ -1681,7 +1671,7 @@
 			"type": "Legendary Artifact Creature — Giant Robot",
 			"collector_number": "309",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/166.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/165.png"
 			}
 		},
 		{
@@ -1691,7 +1681,7 @@
 			"type": "Legendary Creature — Human",
 			"collector_number": "214",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/167.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/166.png"
 			}
 		},
 		{
@@ -1701,7 +1691,7 @@
 			"type": "Legendary Creature — Faerie",
 			"collector_number": "92",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/168.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/167.png"
 			}
 		},
 		{
@@ -1711,7 +1701,7 @@
 			"type": "Legendary Creature — Bird Youkai Noble",
 			"collector_number": "24",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/169.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/168.png"
 			}
 		},
 		{
@@ -1721,7 +1711,7 @@
 			"type": "Legendary Artifact Creature — Robot",
 			"collector_number": "314",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/170.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/169.png"
 			}
 		},
 		{
@@ -1731,7 +1721,7 @@
 			"type": "Legendary Creature — Human Monk",
 			"collector_number": "245",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/171.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/170.png"
 			}
 		},
 		{
@@ -1741,7 +1731,7 @@
 			"type": "Legendary Creature — Human Deserter",
 			"collector_number": "79",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/172.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/171.png"
 			}
 		},
 		{
@@ -1751,7 +1741,7 @@
 			"type": "Legendary Creature — Spirit Samurai",
 			"collector_number": "175",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/173.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/172.png"
 			}
 		},
 		{
@@ -1761,7 +1751,7 @@
 			"type": "Instant",
 			"collector_number": "96",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/174.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/173.png"
 			}
 		},
 		{
@@ -1771,7 +1761,7 @@
 			"type": "Instant",
 			"collector_number": "71",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/175.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/174.png"
 			}
 		},
 		{
@@ -1781,7 +1771,7 @@
 			"type": "Instant",
 			"collector_number": "151",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/176.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/175.png"
 			}
 		},
 		{
@@ -1791,7 +1781,7 @@
 			"type": "Artifact Creature — Giant Doll",
 			"collector_number": "307",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/177.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/176.png"
 			}
 		},
 		{
@@ -1801,7 +1791,7 @@
 			"type": "Sorcery",
 			"collector_number": "75",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/178.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/177.png"
 			}
 		},
 		{
@@ -1811,7 +1801,7 @@
 			"type": "Instant",
 			"collector_number": "103",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/179.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/178.png"
 			}
 		},
 		{
@@ -1821,7 +1811,7 @@
 			"type": "Sorcery",
 			"collector_number": "29",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/180.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/179.png"
 			}
 		},
 		{
@@ -1831,7 +1821,7 @@
 			"type": "Artifact — Vehicle",
 			"collector_number": "304",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/181.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/180.png"
 			}
 		},
 		{
@@ -1841,7 +1831,7 @@
 			"type": "Sorcery",
 			"collector_number": "121",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/182.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/181.png"
 			}
 		},
 		{
@@ -1851,7 +1841,7 @@
 			"type": "Creature — Spirit",
 			"collector_number": "84",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/183.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/182.png"
 			}
 		},
 		{
@@ -1861,7 +1851,7 @@
 			"type": "Artifact Creature — Drone",
 			"collector_number": "321",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/184.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/183.png"
 			}
 		},
 		{
@@ -1871,7 +1861,7 @@
 			"type": "Instant",
 			"collector_number": "17",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/185.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/184.png"
 			}
 		},
 		{
@@ -1881,7 +1871,7 @@
 			"type": "Legendary Artifact — Vehicle",
 			"collector_number": "318",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/186.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/185.png"
 			}
 		},
 		{
@@ -1891,7 +1881,7 @@
 			"type": "Instant",
 			"collector_number": "144",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/187.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/186.png"
 			}
 		},
 		{
@@ -1901,7 +1891,7 @@
 			"type": "Sorcery",
 			"collector_number": "12",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/188.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/187.png"
 			}
 		},
 		{
@@ -1911,7 +1901,7 @@
 			"type": "Sorcery",
 			"collector_number": "120",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/189.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/188.png"
 			}
 		},
 		{
@@ -1921,7 +1911,7 @@
 			"type": "Artifact Creature — Doll",
 			"collector_number": "302",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/190.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/189.png"
 			}
 		},
 		{
@@ -1931,7 +1921,7 @@
 			"type": "Enchantment",
 			"collector_number": "159",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/191.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/190.png"
 			}
 		},
 		{
@@ -1941,7 +1931,7 @@
 			"type": "Sorcery",
 			"collector_number": "152",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/192.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/191.png"
 			}
 		},
 		{
@@ -1951,7 +1941,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "44",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/193.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/192.png"
 			}
 		},
 		{
@@ -1961,7 +1951,7 @@
 			"type": "Token Artifact Creature — Doll",
 			"collector_number": "27",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/194.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/193.png"
 			}
 		},
 		{
@@ -1971,7 +1961,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "149",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/195.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/194.png"
 			}
 		},
 		{
@@ -1981,7 +1971,7 @@
 			"type": "Legendary Creature — Insect Youkai",
 			"collector_number": "162",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/196.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/195.png"
 			}
 		},
 		{
@@ -1991,7 +1981,7 @@
 			"type": "Enchantment",
 			"collector_number": "122",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/197.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/196.png"
 			}
 		},
 		{
@@ -2001,7 +1991,7 @@
 			"type": "Instant",
 			"collector_number": "172",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/198.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/197.png"
 			}
 		},
 		{
@@ -2011,7 +2001,7 @@
 			"type": "Legendary Creature — Plant Youkai",
 			"collector_number": "288",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/199.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/198.png"
 			}
 		},
 		{
@@ -2021,7 +2011,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "320",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/200.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/199.png"
 			}
 		},
 		{
@@ -2031,7 +2021,7 @@
 			"type": "Enchantment",
 			"collector_number": "110",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/201.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/200.png"
 			}
 		},
 		{
@@ -2041,7 +2031,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "310",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/202.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/201.png"
 			}
 		},
 		{
@@ -2051,7 +2041,7 @@
 			"type": "Sorcery",
 			"collector_number": "91",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/203.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/202.png"
 			}
 		},
 		{
@@ -2061,7 +2051,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "300",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/204.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/203.png"
 			}
 		},
 		{
@@ -2071,7 +2061,7 @@
 			"type": "Instant",
 			"collector_number": "140",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/205.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/204.png"
 			}
 		},
 		{
@@ -2081,7 +2071,7 @@
 			"type": "Land",
 			"collector_number": "325",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/206.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/205.png"
 			}
 		},
 		{
@@ -2091,7 +2081,7 @@
 			"type": "Land",
 			"collector_number": "331",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/207.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/206.png"
 			}
 		},
 		{
@@ -2101,7 +2091,7 @@
 			"type": "Land",
 			"collector_number": "327",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/208.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/207.png"
 			}
 		},
 		{
@@ -2111,7 +2101,7 @@
 			"type": "Land",
 			"collector_number": "333",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/209.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/208.png"
 			}
 		},
 		{
@@ -2121,7 +2111,7 @@
 			"type": "Land",
 			"collector_number": "326",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/210.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/209.png"
 			}
 		},
 		{
@@ -2131,7 +2121,7 @@
 			"type": "Land",
 			"collector_number": "328",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/211.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/210.png"
 			}
 		},
 		{
@@ -2141,7 +2131,7 @@
 			"type": "Land",
 			"collector_number": "332",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/212.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/211.png"
 			}
 		},
 		{
@@ -2151,7 +2141,7 @@
 			"type": "Land",
 			"collector_number": "330",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/213.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/212.png"
 			}
 		},
 		{
@@ -2161,7 +2151,7 @@
 			"type": "Land",
 			"collector_number": "329",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/214.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/213.png"
 			}
 		},
 		{
@@ -2171,7 +2161,7 @@
 			"type": "Legendary Token Creature — Elemental",
 			"collector_number": "20",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/215.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/214.png"
 			}
 		},
 		{
@@ -2181,7 +2171,7 @@
 			"type": "Creature — Rabbit",
 			"collector_number": "14",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/216.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/215.png"
 			}
 		},
 		{
@@ -2191,7 +2181,7 @@
 			"type": "Token Artifact — Food",
 			"collector_number": "28",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/217.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/216.png"
 			}
 		},
 		{
@@ -2201,7 +2191,7 @@
 			"type": "Token Creature — Rabbit",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/218.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/217.png"
 			}
 		},
 		{
@@ -2211,7 +2201,7 @@
 			"type": "Legendary Creature — Spirit Rogue",
 			"collector_number": "203",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/219.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/218.png"
 			}
 		},
 		{
@@ -2221,7 +2211,7 @@
 			"type": "Creature — Snake Youkai",
 			"collector_number": "171",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/220.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/219.png"
 			}
 		},
 		{
@@ -2231,7 +2221,7 @@
 			"type": "Legendary Creature — Kirin Spirit",
 			"collector_number": "189",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/221.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/220.png"
 			}
 		},
 		{
@@ -2241,7 +2231,7 @@
 			"type": "Instant",
 			"collector_number": "241",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/222.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/221.png"
 			}
 		},
 		{
@@ -2251,7 +2241,7 @@
 			"type": "Legendary Creature — Human Wizard",
 			"collector_number": "225",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/223.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/222.png"
 			}
 		},
 		{
@@ -2261,7 +2251,7 @@
 			"type": "Legendary Creature — Human Monk",
 			"collector_number": "248",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/224.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/223.png"
 			}
 		},
 		{
@@ -2271,7 +2261,7 @@
 			"type": "Token Artifact — Treasure",
 			"collector_number": "30",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/225.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/224.png"
 			}
 		},
 		{
@@ -2281,7 +2271,7 @@
 			"type": "Token Creature — Skeleton",
 			"collector_number": "14",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/226.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/225.png"
 			}
 		},
 		{
@@ -2291,7 +2281,7 @@
 			"type": "Token Creature — Demon",
 			"collector_number": "12",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/227.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/226.png"
 			}
 		},
 		{
@@ -2301,7 +2291,7 @@
 			"type": "Token Creature — Youkai",
 			"collector_number": "24",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/228.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/227.png"
 			}
 		},
 		{
@@ -2311,7 +2301,7 @@
 			"type": "Token Creature — Vampire Noble",
 			"collector_number": "21",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/229.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/228.png"
 			}
 		},
 		{
@@ -2321,7 +2311,7 @@
 			"type": "Token Creature — Bird Youkai",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/230.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/229.png"
 			}
 		},
 		{
@@ -2331,7 +2321,7 @@
 			"type": "Token Creature — Spirit",
 			"collector_number": "10",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/231.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/230.png"
 			}
 		},
 		{
@@ -2341,7 +2331,7 @@
 			"type": "Token Artifact Creature — Orb",
 			"collector_number": "29",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/232.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/231.png"
 			}
 		},
 		{
@@ -2351,7 +2341,7 @@
 			"type": "Token Creature — Eye",
 			"collector_number": "18",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/233.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/232.png"
 			}
 		},
 		{
@@ -2359,9 +2349,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Creature",
-			"collector_number": "2",
+			"collector_number": "3",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/234.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/233.png"
 			}
 		},
 		{
@@ -2371,7 +2361,7 @@
 			"type": "Token Creature — Insect",
 			"collector_number": "17",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/235.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/234.png"
 			}
 		},
 		{
@@ -2381,7 +2371,7 @@
 			"type": "Token Creature — Wizard",
 			"collector_number": "22",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/236.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/235.png"
 			}
 		},
 		{
@@ -2391,7 +2381,7 @@
 			"type": "Token Creature — Human Monk",
 			"collector_number": "19",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/237.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/236.png"
 			}
 		},
 		{
@@ -2401,7 +2391,7 @@
 			"type": "Token Enchantment — Aura Curse",
 			"collector_number": "13",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/238.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/237.png"
 			}
 		},
 		{
@@ -2411,7 +2401,7 @@
 			"type": "Token Creature — Soldier",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/239.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/238.png"
 			}
 		},
 		{
@@ -2421,7 +2411,7 @@
 			"type": "Token Creature — Bird",
 			"collector_number": "11",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/240.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/239.png"
 			}
 		},
 		{
@@ -2431,7 +2421,7 @@
 			"type": "Token Enchantment — Aura Role",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/241.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/240.png"
 			}
 		},
 		{
@@ -2441,7 +2431,7 @@
 			"type": "Token Enchantment — Aura Role",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/242.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/241.png"
 			}
 		},
 		{
@@ -2451,7 +2441,7 @@
 			"type": "Token Enchantment — Aura Role",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/243.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/242.png"
 			}
 		},
 		{
@@ -2461,7 +2451,7 @@
 			"type": "Token Artifact — Blood",
 			"collector_number": "25",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/244.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/243.png"
 			}
 		},
 		{
@@ -2471,7 +2461,7 @@
 			"type": "Token Creature — Dog",
 			"collector_number": "16",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/245.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/244.png"
 			}
 		},
 		{
@@ -2481,7 +2471,7 @@
 			"type": "Token Artifact — Clue",
 			"collector_number": "26",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/246.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/245.png"
 			}
 		},
 		{
@@ -2491,7 +2481,7 @@
 			"type": "Token Creature — Wolf Spirit",
 			"collector_number": "15",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/247.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/246.png"
 			}
 		},
 		{
@@ -2501,7 +2491,7 @@
 			"type": "Token Creature — Youkai",
 			"collector_number": "23",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/248.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/247.png"
 			}
 		},
 		{
@@ -2511,7 +2501,7 @@
 			"type": "Creature — Faerie",
 			"collector_number": "49",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/249.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/248.png"
 			}
 		},
 		{
@@ -2521,7 +2511,7 @@
 			"type": "Enchantment",
 			"collector_number": "97",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/250.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/249.png"
 			}
 		},
 		{
@@ -2531,7 +2521,7 @@
 			"type": "Creature — Human Citizen",
 			"collector_number": "132",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/251.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/250.png"
 			}
 		},
 		{
@@ -2541,7 +2531,7 @@
 			"type": "Creature — Avatar",
 			"collector_number": "65",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/252.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/251.png"
 			}
 		},
 		{
@@ -2551,7 +2541,7 @@
 			"type": "Legendary Creature — Cat Youkai Minion",
 			"collector_number": "112",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/253.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/252.png"
 			}
 		},
 		{
@@ -2561,7 +2551,7 @@
 			"type": "Basic Land — Forest",
 			"collector_number": "343",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/254.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/253.png"
 			}
 		},
 		{
@@ -2571,7 +2561,7 @@
 			"type": "Basic Land — Mountain",
 			"collector_number": "342",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/255.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/254.png"
 			}
 		},
 		{
@@ -2581,7 +2571,7 @@
 			"type": "Basic Land — Swamp",
 			"collector_number": "341",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/256.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/255.png"
 			}
 		},
 		{
@@ -2591,7 +2581,7 @@
 			"type": "Basic Land — Plains",
 			"collector_number": "339",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/257.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/256.png"
 			}
 		},
 		{
@@ -2601,7 +2591,7 @@
 			"type": "Basic Land — Island",
 			"collector_number": "340",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/258.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/257.png"
 			}
 		},
 		{
@@ -2611,7 +2601,7 @@
 			"type": "Sorcery",
 			"collector_number": "111",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/259.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/258.png"
 			}
 		},
 		{
@@ -2621,7 +2611,7 @@
 			"type": "Legendary Creature — Human Bard",
 			"collector_number": "41",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/260.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/259.png"
 			}
 		},
 		{
@@ -2631,7 +2621,7 @@
 			"type": "Legendary Creature — Human Advisor",
 			"collector_number": "78",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/261.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/260.png"
 			}
 		},
 		{
@@ -2641,7 +2631,7 @@
 			"type": "Legendary Creature — Human",
 			"collector_number": "256",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/262.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/261.png"
 			}
 		},
 		{
@@ -2651,7 +2641,7 @@
 			"type": "Instant",
 			"collector_number": "129",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/263.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/262.png"
 			}
 		},
 		{
@@ -2661,7 +2651,7 @@
 			"type": "Sorcery",
 			"collector_number": "26",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/264.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/263.png"
 			}
 		},
 		{
@@ -2671,7 +2661,7 @@
 			"type": "Legendary Creature — Youkai Deserter",
 			"collector_number": "83",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/265.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/264.png"
 			}
 		},
 		{
@@ -2681,7 +2671,7 @@
 			"type": "Sorcery",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/266.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/265.png"
 			}
 		},
 		{
@@ -2691,7 +2681,7 @@
 			"type": "Instant",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/267.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/266.png"
 			}
 		},
 		{
@@ -2701,7 +2691,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/268.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/267.png"
 			}
 		},
 		{
@@ -2711,7 +2701,7 @@
 			"type": "Land",
 			"collector_number": "334",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/269.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/268.png"
 			}
 		},
 		{
@@ -2721,7 +2711,7 @@
 			"type": "Instant",
 			"collector_number": "114",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/270.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/269.png"
 			}
 		},
 		{
@@ -2731,7 +2721,7 @@
 			"type": "Legendary Creature — Demon",
 			"collector_number": "287",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/271.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/270.png"
 			}
 		},
 		{
@@ -2744,11 +2734,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/272_back.png"
+					"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/271_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/272_front.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/271_front.png"
 			}
 		},
 		{
@@ -2758,7 +2748,7 @@
 			"type": "Legendary Creature — Wizard Monk",
 			"collector_number": "182",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/273.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/272.png"
 			}
 		},
 		{
@@ -2768,7 +2758,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/274.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/273.png"
 			}
 		},
 		{
@@ -2778,7 +2768,7 @@
 			"type": "Legendary Artifact — Equipment",
 			"collector_number": "323",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/275.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/274.png"
 			}
 		},
 		{
@@ -2788,7 +2778,7 @@
 			"type": "Artifact Creature — Doll",
 			"collector_number": "308",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/276.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/275.png"
 			}
 		},
 		{
@@ -2798,7 +2788,7 @@
 			"type": "Artifact Creature — Orb",
 			"collector_number": "32",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/277.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/276.png"
 			}
 		},
 		{
@@ -2808,7 +2798,7 @@
 			"type": "Artifact",
 			"collector_number": "60",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/278.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/277.png"
 			}
 		},
 		{
@@ -2818,7 +2808,7 @@
 			"type": "Instant",
 			"collector_number": "169",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/279.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/278.png"
 			}
 		},
 		{
@@ -2828,7 +2818,7 @@
 			"type": "Sorcery",
 			"collector_number": "143",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/280.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/279.png"
 			}
 		},
 		{
@@ -2838,7 +2828,7 @@
 			"type": "Instant",
 			"collector_number": "16",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/281.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/280.png"
 			}
 		},
 		{
@@ -2848,7 +2838,7 @@
 			"type": "Artifact",
 			"collector_number": "163",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/282.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/281.png"
 			}
 		},
 		{
@@ -2858,7 +2848,7 @@
 			"type": "Legendary Creature — Wizard Child",
 			"collector_number": "177",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/283.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/282.png"
 			}
 		},
 		{
@@ -2868,7 +2858,7 @@
 			"type": "Legendary Creature — Nightmare Youkai",
 			"collector_number": "48",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/284.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/283.png"
 			}
 		},
 		{
@@ -2878,7 +2868,7 @@
 			"type": "Instant",
 			"collector_number": "125",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/285.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/284.png"
 			}
 		},
 		{
@@ -2888,7 +2878,7 @@
 			"type": "Legendary Creature — Youkai Spirit",
 			"collector_number": "161",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/286.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/285.png"
 			}
 		},
 		{
@@ -2898,7 +2888,7 @@
 			"type": "Sorcery",
 			"collector_number": "10",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/287.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/286.png"
 			}
 		},
 		{
@@ -2908,7 +2898,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "64",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/288.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/287.png"
 			}
 		},
 		{
@@ -2918,7 +2908,7 @@
 			"type": "Enchantment",
 			"collector_number": "109",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/289.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/288.png"
 			}
 		},
 		{
@@ -2928,7 +2918,7 @@
 			"type": "Creature — Frog",
 			"collector_number": "155",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/290.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/289.png"
 			}
 		},
 		{
@@ -2938,7 +2928,7 @@
 			"type": "Creature — Cat Minion",
 			"collector_number": "156",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/291.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/290.png"
 			}
 		},
 		{
@@ -2948,7 +2938,7 @@
 			"type": "Instant",
 			"collector_number": "168",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/292.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/291.png"
 			}
 		},
 		{
@@ -2958,7 +2948,7 @@
 			"type": "Instant",
 			"collector_number": "174",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/293.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/292.png"
 			}
 		},
 		{
@@ -2968,7 +2958,7 @@
 			"type": "Instant",
 			"collector_number": "191",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/294.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/293.png"
 			}
 		},
 		{
@@ -2978,7 +2968,7 @@
 			"type": "Instant",
 			"collector_number": "215",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/295.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/294.png"
 			}
 		},
 		{
@@ -2988,7 +2978,7 @@
 			"type": "Instant",
 			"collector_number": "218",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/296.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/295.png"
 			}
 		},
 		{
@@ -2998,7 +2988,7 @@
 			"type": "Instant",
 			"collector_number": "263",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/297.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/296.png"
 			}
 		},
 		{
@@ -3008,7 +2998,7 @@
 			"type": "Sorcery",
 			"collector_number": "278",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/298.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/297.png"
 			}
 		},
 		{
@@ -3018,7 +3008,7 @@
 			"type": "Basic Land",
 			"collector_number": "338",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/299.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/298.png"
 			}
 		},
 		{
@@ -3028,7 +3018,7 @@
 			"type": "Legendary Creature — Cat Youkai",
 			"collector_number": "98",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/300.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/299.png"
 			}
 		},
 		{
@@ -3038,7 +3028,7 @@
 			"type": "Legendary Creature — Spirit Noble",
 			"collector_number": "106",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/301.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/300.png"
 			}
 		},
 		{
@@ -3048,7 +3038,7 @@
 			"type": "Legendary Creature — Avatar",
 			"collector_number": "136",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/302.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/301.png"
 			}
 		},
 		{
@@ -3058,7 +3048,7 @@
 			"type": "Legendary Creature — Plant",
 			"collector_number": "100",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/303.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/302.png"
 			}
 		},
 		{
@@ -3068,7 +3058,7 @@
 			"type": "Legendary Creature — Devil",
 			"collector_number": "82",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/304.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/303.png"
 			}
 		},
 		{
@@ -3078,7 +3068,7 @@
 			"type": "Legendary Creature — Human",
 			"collector_number": "69",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/305.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/304.png"
 			}
 		},
 		{
@@ -3088,7 +3078,7 @@
 			"type": "Legendary Creature — Fox Youkai Minion",
 			"collector_number": "67",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/306.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/305.png"
 			}
 		},
 		{
@@ -3098,7 +3088,7 @@
 			"type": "Sorcery",
 			"collector_number": "166",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/307.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/306.png"
 			}
 		},
 		{
@@ -3108,7 +3098,7 @@
 			"type": "Legendary Creature — God",
 			"collector_number": "267",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/308.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/307.png"
 			}
 		},
 		{
@@ -3118,7 +3108,7 @@
 			"type": "Sorcery",
 			"collector_number": "164",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/309.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/308.png"
 			}
 		},
 		{
@@ -3128,7 +3118,7 @@
 			"type": "Legendary Instant",
 			"collector_number": "127",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/310.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/309.png"
 			}
 		},
 		{
@@ -3138,7 +3128,7 @@
 			"type": "Enchantment",
 			"collector_number": "243",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/311.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/310.png"
 			}
 		},
 		{
@@ -3148,7 +3138,7 @@
 			"type": "Enchantment",
 			"collector_number": "244",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/312.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/311.png"
 			}
 		},
 		{
@@ -3158,7 +3148,7 @@
 			"type": "Legendary Artifact Creature — Dog Spirit Robot",
 			"collector_number": "312",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/313.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/312.png"
 			}
 		},
 		{
@@ -3168,7 +3158,7 @@
 			"type": "Legendary Creature — Demon",
 			"collector_number": "232",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/314.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/313.png"
 			}
 		},
 		{
@@ -3178,7 +3168,7 @@
 			"type": "Legendary Creature — Demon",
 			"collector_number": "192",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/315.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/314.png"
 			}
 		},
 		{
@@ -3188,7 +3178,7 @@
 			"type": "Legendary Creature — Spirit Wizard",
 			"collector_number": "94",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/316.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/315.png"
 			}
 		},
 		{
@@ -3198,7 +3188,7 @@
 			"type": "Legendary Creature — Youkai Shapeshifter",
 			"collector_number": "239",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/317.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/316.png"
 			}
 		},
 		{
@@ -3206,9 +3196,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Creature",
-			"collector_number": "3",
+			"collector_number": "2",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/318.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/317.png"
 			}
 		},
 		{
@@ -3218,7 +3208,7 @@
 			"type": "Legendary Artifact — Vehicle",
 			"collector_number": "303",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/319.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/318.png"
 			}
 		},
 		{
@@ -3228,7 +3218,7 @@
 			"type": "Legendary Artifact — Vehicle",
 			"collector_number": "305",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/320.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/319.png"
 			}
 		},
 		{
@@ -3238,7 +3228,7 @@
 			"type": "Artifact — Vehicle",
 			"collector_number": "306",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/321.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/320.png"
 			}
 		},
 		{
@@ -3248,7 +3238,7 @@
 			"type": "Creature — Spirit",
 			"collector_number": "104",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/322.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/321.png"
 			}
 		},
 		{
@@ -3258,7 +3248,7 @@
 			"type": "Enchantment",
 			"collector_number": "115",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/323.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/322.png"
 			}
 		},
 		{
@@ -3268,7 +3258,7 @@
 			"type": "Artifact",
 			"collector_number": "301",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/324.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/323.png"
 			}
 		},
 		{
@@ -3278,7 +3268,7 @@
 			"type": "Land",
 			"collector_number": "336",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/325.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/324.png"
 			}
 		},
 		{
@@ -3288,7 +3278,7 @@
 			"type": "Land",
 			"collector_number": "337",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/326.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/325.png"
 			}
 		},
 		{
@@ -3298,7 +3288,7 @@
 			"type": "Artifact — Food",
 			"collector_number": "319",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/327.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/326.png"
 			}
 		},
 		{
@@ -3308,7 +3298,7 @@
 			"type": "Legendary Creature — God",
 			"collector_number": "184",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/328.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/327.png"
 			}
 		},
 		{
@@ -3318,7 +3308,7 @@
 			"type": "Legendary Creature — Hag Noble",
 			"collector_number": "270",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/329.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/328.png"
 			}
 		},
 		{
@@ -3328,7 +3318,7 @@
 			"type": "Legendary Creature — Youkai",
 			"collector_number": "185",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/330.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/329.png"
 			}
 		},
 		{
@@ -3338,7 +3328,7 @@
 			"type": "Legendary Creature — Golem",
 			"collector_number": "235",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/331.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/330.png"
 			}
 		},
 		{
@@ -3348,7 +3338,7 @@
 			"type": "Legendary Creature — Hag",
 			"collector_number": "95",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/332.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/331.png"
 			}
 		},
 		{
@@ -3358,7 +3348,7 @@
 			"type": "Legendary Planeswalker — Shinki",
 			"collector_number": "262",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/333.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/332.png"
 			}
 		},
 		{
@@ -3368,7 +3358,7 @@
 			"type": "Instant",
 			"collector_number": "70",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/334.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/333.png"
 			}
 		},
 		{
@@ -3378,7 +3368,7 @@
 			"type": "Token",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/335.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/334.png"
 			}
 		},
 		{
@@ -3388,7 +3378,7 @@
 			"type": "Artifact Land — Treasure",
 			"collector_number": "315",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/336.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/335.png"
 			}
 		},
 		{
@@ -3398,7 +3388,7 @@
 			"type": "Artifact Creature — Stone Prism",
 			"collector_number": "324",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/337.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/336.png"
 			}
 		},
 		{
@@ -3408,7 +3398,7 @@
 			"type": "Legendary Creature — Golem Avatar",
 			"collector_number": "187",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/338.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/337.png"
 			}
 		},
 		{
@@ -3418,7 +3408,7 @@
 			"type": "Legendary Planeswalker — Okina",
 			"collector_number": "240",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/339.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/338.png"
 			}
 		},
 		{
@@ -3428,7 +3418,7 @@
 			"type": "Legendary Planeswalker — Sumireko",
 			"collector_number": "266",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/340.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/339.png"
 			}
 		},
 		{
@@ -3438,7 +3428,7 @@
 			"type": "Legendary Planeswalker — Yukari",
 			"collector_number": "282",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/341.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/340.png"
 			}
 		},
 		{
@@ -3448,7 +3438,7 @@
 			"type": "Legendary Creature — Human God Noble",
 			"collector_number": "281",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/342.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/341.png"
 			}
 		},
 		{
@@ -3458,7 +3448,7 @@
 			"type": "Legendary Creature — God",
 			"collector_number": "178",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/343.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/342.png"
 			}
 		},
 		{
@@ -3468,7 +3458,7 @@
 			"type": "Legendary Creature — Oyster Youkai",
 			"collector_number": "238",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/344.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/343.png"
 			}
 		},
 		{
@@ -3478,7 +3468,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "50",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/345.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/344.png"
 			}
 		},
 		{
@@ -3488,7 +3478,7 @@
 			"type": "Creature — Demon",
 			"collector_number": "295",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/346.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/345.png"
 			}
 		},
 		{
@@ -3498,7 +3488,7 @@
 			"type": "Creature — Faerie",
 			"collector_number": "290",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/347.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/346.png"
 			}
 		},
 		{
@@ -3508,7 +3498,7 @@
 			"type": "Creature — Youkai Spirit",
 			"collector_number": "22",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/348.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/347.png"
 			}
 		},
 		{
@@ -3518,7 +3508,7 @@
 			"type": "Sorcery",
 			"collector_number": "58",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/349.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/348.png"
 			}
 		},
 		{
@@ -3528,7 +3518,7 @@
 			"type": "Creature — Spirit",
 			"collector_number": "90",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/350.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/349.png"
 			}
 		},
 		{
@@ -3538,7 +3528,7 @@
 			"type": "Instant",
 			"collector_number": "126",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/351.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/350.png"
 			}
 		},
 		{
@@ -3548,7 +3538,7 @@
 			"type": "Creature — Alien Spirit",
 			"collector_number": "160",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/352.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/351.png"
 			}
 		},
 		{
@@ -3558,7 +3548,7 @@
 			"type": "Creature — Spirit",
 			"collector_number": "150",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/353.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/352.png"
 			}
 		},
 		{
@@ -3568,7 +3558,7 @@
 			"type": "Legendary Creature — Seal Performer",
 			"collector_number": "61",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/354.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/353.png"
 			}
 		},
 		{
@@ -3578,7 +3568,7 @@
 			"type": "Artifact Creature — Doll",
 			"collector_number": "299",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/355.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/354.png"
 			}
 		},
 		{
@@ -3588,7 +3578,7 @@
 			"type": "Legendary Creature — Spirit Noble",
 			"collector_number": "107",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/356.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/355.png"
 			}
 		},
 		{
@@ -3598,7 +3588,7 @@
 			"type": "Legendary Creature — Moonfolk Noble",
 			"collector_number": "38",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/357.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/356.png"
 			}
 		},
 		{
@@ -3608,7 +3598,7 @@
 			"type": "Legendary Creature — Bird Youkai",
 			"collector_number": "180",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/358.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/357.png"
 			}
 		},
 		{
@@ -3618,7 +3608,7 @@
 			"type": "Legendary Creature — Human Vampire Noble",
 			"collector_number": "255",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/359.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/358.png"
 			}
 		},
 		{
@@ -3628,7 +3618,7 @@
 			"type": "Legendary Creature — Human Spirit Noble",
 			"collector_number": "279",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/360.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/359.png"
 			}
 		},
 		{
@@ -3638,7 +3628,7 @@
 			"type": "Creature — Plant",
 			"collector_number": "289",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/361.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/360.png"
 			}
 		},
 		{
@@ -3648,7 +3638,7 @@
 			"type": "Legendary Creature — Plant Youkai",
 			"collector_number": "176",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/362.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/361.png"
 			}
 		},
 		{
@@ -3658,7 +3648,7 @@
 			"type": "Legendary Creature — Bird Youkai",
 			"collector_number": "298",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/363.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/362.png"
 			}
 		},
 		{
@@ -3668,7 +3658,7 @@
 			"type": "Sorcery",
 			"collector_number": "138",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/364.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/363.png"
 			}
 		},
 		{
@@ -3678,7 +3668,7 @@
 			"type": "Sorcery",
 			"collector_number": "81",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/365.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/364.png"
 			}
 		},
 		{
@@ -3688,7 +3678,7 @@
 			"type": "Sorcery",
 			"collector_number": "194",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/366.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/365.png"
 			}
 		},
 		{
@@ -3698,7 +3688,7 @@
 			"type": "Land",
 			"collector_number": "335",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/367.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/366.png"
 			}
 		},
 		{
@@ -3708,7 +3698,7 @@
 			"type": "Creature — Spirit",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/368.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/367.png"
 			}
 		},
 		{
@@ -3718,7 +3708,7 @@
 			"type": "Creature — Faerie",
 			"collector_number": "66",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/369.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/368.png"
 			}
 		},
 		{
@@ -3728,7 +3718,7 @@
 			"type": "Instant",
 			"collector_number": "54",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/370.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/369.png"
 			}
 		},
 		{
@@ -3738,7 +3728,7 @@
 			"type": "Sorcery",
 			"collector_number": "226",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/371.png"
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/370.png"
 			}
 		},
 		{
@@ -3747,6 +3737,16 @@
 			"mana_cost": "{1}{G}{U}",
 			"type": "Enchantment",
 			"collector_number": "271",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/371.png"
+			}
+		},
+		{
+			"name": "Genji, Hakurei Companion",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Legendary Creature — Turtle Advisor Mount",
+			"collector_number": "193",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/372.png"
 			}
@@ -3801,7 +3801,6 @@
 	2 Kikuri, Hellish Moon
 	1 Konngara, Astral Knight
 	1 Sariel, Angel of Death
-	2 Genji, the Venerated
 	2 Bad Apple
 	2 Iwakasa, Bearer of the Elixir
 	1 Yumemi Okazaki
@@ -3894,6 +3893,7 @@
 	2 Underworld Palace Halls
 	1 Imperishable Night
 	2 Unfinished Dreams
+	2 Genji, Hakurei Companion
 [uncommon(3)]
 	4 God Forbid Women Do Anything
 	4 Hong Meiling, the Rainbow Gate
@@ -4218,7 +4218,6 @@
 	2 Kikuri, Hellish Moon
 	1 Konngara, Astral Knight
 	1 Sariel, Angel of Death
-	2 Genji, the Venerated
 	12 Rika, the Tank Girl
 	12 Meira, Seeker of Dark Power
 	6 Otherworld Defense Platform
@@ -4431,6 +4430,7 @@
 	1 Imperishable Night
 	6 May As Well Throw a Party
 	2 Unfinished Dreams
+	2 Genji, Hakurei Companion
 [wildcard(1)]
 	6 Graze
 	4 Reimu Hakurei
@@ -4556,7 +4556,6 @@
 	7 Kikuri, Hellish Moon
 	4 Konngara, Astral Knight
 	4 Sariel, Angel of Death
-	7 Genji, the Venerated
 	6 Rika, the Tank Girl
 	6 Meira, Seeker of Dark Power
 	15 Otherworld Defense Platform
@@ -4769,3 +4768,4 @@
 	4 Imperishable Night
 	15 May As Well Throw a Party
 	7 Unfinished Dreams
+	7 Genji, Hakurei Companion
