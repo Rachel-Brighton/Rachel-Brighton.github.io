@@ -153,7 +153,7 @@
             "color": "B",
             "rarity": "common",
             "type": "Token Creature \u2014 Nightstalker",
-            "number": 5,
+            "number": 6,
             "color_identity": "C",
             "cost": "",
             "rules_text": "",
@@ -246,7 +246,7 @@
             "artist": "\u5fc3\u592a/Tokoroten",
             "alias": "",
             "position": "11",
-            "notes": "Maybe could be 1 mana\n\n!tag SSiB\n!tag Print\n!tag Bougetsushou"
+            "notes": "!addtoken Booze;1\n\n!tag SSiB\n!tag Print\n!tag Bougetsushou"
         },
         {
             "card_name": "Curiosities of Lotus Asia",
@@ -266,7 +266,7 @@
             "artist": "\u84b2\u8c37\u30ab\u30d0\u30c2/Kabadi",
             "alias": "",
             "position": "12",
-            "notes": "Probably can't be 2 mana\n\n!tag CoLA\n!tag Print"
+            "notes": "!addtoken Notebook;1\n\n!tag CoLA\n!tag Print"
         },
         {
             "card_name": "Forbidden Scrollery",
@@ -306,7 +306,7 @@
             "artist": "\u6bd4\u826f\u5742\u771f\u7434/Hirasaka Makoto",
             "alias": "",
             "position": "14",
-            "notes": "!tag VFiS\n!tag Print\n!tag Sangetsusei"
+            "notes": "!addtoken FairySwarm;1\n!tag VFiS\n!tag Print\n!tag Sangetsusei"
         },
         {
             "card_name": "Wild and Horned Hermit",
@@ -913,7 +913,7 @@
             "color": "B",
             "rarity": "common",
             "type": "Token Creature \u2014 Faerie Army",
-            "number": 4,
+            "number": 5,
             "color_identity": "C",
             "cost": "",
             "rules_text": "",
@@ -926,7 +926,7 @@
             "artist": "\u3082\u308a\u3063\u3057\u30fc/morishiey",
             "alias": "",
             "position": "45",
-            "notes": "!related Visionary Fairies in Shrine\n!related Great Fairies"
+            "notes": "!tokentag FairySwarm\n\n!related Visionary Fairies in Shrine\n!related Great Fairies"
         },
         {
             "card_name": "Enenra",
@@ -1253,7 +1253,7 @@
             "color": "BR",
             "rarity": "common",
             "type": "Token Creature \u2014 Youkai",
-            "number": 6,
+            "number": 7,
             "color_identity": "C",
             "cost": "",
             "rules_text": "",
@@ -1273,7 +1273,7 @@
             "color": "W",
             "rarity": "common",
             "type": "Token Creature \u2014 Rabbit",
-            "number": 2,
+            "number": 3,
             "color_identity": "C",
             "cost": "",
             "rules_text": "",
@@ -1333,7 +1333,7 @@
             "color": "",
             "rarity": "common",
             "type": "Token Artifact \u2014 Blood",
-            "number": 7,
+            "number": 8,
             "color_identity": "C",
             "cost": "",
             "rules_text": "{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.",
@@ -1353,7 +1353,7 @@
             "color": "W",
             "rarity": "common",
             "type": "Token Creature \u2014 Bird Youkai",
-            "number": 1,
+            "number": 2,
             "color_identity": "C",
             "cost": "",
             "rules_text": "Flying, vigilance",
@@ -1373,7 +1373,7 @@
             "color": "W",
             "rarity": "common",
             "type": "Token Creature \u2014 Spirit",
-            "number": 3,
+            "number": 4,
             "color_identity": "C",
             "cost": "",
             "rules_text": "Flying",
@@ -1393,7 +1393,7 @@
             "color": "",
             "rarity": "common",
             "type": "Token Artifact \u2014 Food",
-            "number": 8,
+            "number": 10,
             "color_identity": "C",
             "cost": "",
             "rules_text": "{2}, {T}, Sacrifice this artifact: You gain 3 life.",
@@ -1406,7 +1406,47 @@
             "artist": "Yosshy",
             "alias": "",
             "position": "69",
-            "notes": "!related Silent Sinner in Blue\n!related A Discerning Customer"
+            "notes": "!tokentag Booze\n\n!related Silent Sinner in Blue\n!related A Discerning Customer"
+        },
+        {
+            "card_name": "Clue",
+            "color": "",
+            "rarity": "common",
+            "type": "Token Artifact \u2014 Clue",
+            "number": 9,
+            "color_identity": "C",
+            "cost": "",
+            "rules_text": "{2}, Sacrifice this artifact: Draw a card.",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "token",
+            "set": "AKU",
+            "loyalty": "",
+            "artist": "\u5fc3\u592a/Tokoroten",
+            "alias": "",
+            "position": "70",
+            "notes": "!tokentag Notebook"
+        },
+        {
+            "card_name": "Copy",
+            "color": "",
+            "rarity": "common",
+            "type": "Token",
+            "number": 1,
+            "color_identity": "C",
+            "cost": "",
+            "rules_text": "[i]This token can be used to represent a copy of something else.[/i]",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "token",
+            "set": "AKU",
+            "loyalty": "",
+            "artist": "\u2622\u6838\u71c3\u9ed1\u732b\u2622/Blackcat",
+            "alias": "",
+            "position": "71",
+            "notes": ""
         }
     ]
 }

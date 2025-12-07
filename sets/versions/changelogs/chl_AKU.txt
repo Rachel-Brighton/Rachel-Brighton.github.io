@@ -1,4 +1,22 @@
-﻿VERSION 5 CHANGELOG
+﻿VERSION 6 CHANGELOG
+====================
+
+Clue added.
+Copy added.
+
+
+Silent Sinner in Blue
+
+Curiosities of Lotus Asia
+
+Visionary Fairies in Shrine
+
+Faerie Army
+
+Food
+
+
+VERSION 5 CHANGELOG
 ====================
 
 Blood added.

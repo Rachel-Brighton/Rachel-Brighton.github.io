@@ -1,4 +1,16 @@
-﻿VERSION 15 CHANGELOG
+﻿VERSION 16 CHANGELOG
+====================
+
+
+
+Sekibanki
+
+The Palanquin Ship
+
+Kasen, Seeking Herself
+
+
+VERSION 15 CHANGELOG
 ====================
 
 Genji, Hakurei Companion added.

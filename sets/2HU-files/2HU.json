@@ -1928,7 +1928,7 @@
             "artist": "\u7791\u4e38 \u30a4\u30cc\u30c1\u30e8/Meimaru Inuchiyo",
             "alias": "",
             "position": "94",
-            "notes": "!replacetoken BankiHead;x\n!tag DDC\n!tag Sekibanki\n!tag Saggybaggy\n!tag Grassroots\n!tag Stage2"
+            "notes": "!replacetoken BankiHead;X\n!tag DDC\n!tag Sekibanki\n!tag Saggybaggy\n!tag Grassroots\n!tag Stage2"
         },
         {
             "card_name": "Kagerou, Bamboos Loup-Garou",
@@ -3759,7 +3759,7 @@
             "artist": "\u3072\u305d\u306a/Hisona",
             "alias": "",
             "position": "185",
-            "notes": "!addtoken Unidentifiable;2;Pagoda;2\n\n!tag UFO"
+            "notes": "!replacetoken Unidentifiable;2;Pagoda;2\n\n!tag UFO"
         },
         {
             "card_name": "Drunk As I Like",
@@ -5490,7 +5490,7 @@
             "loyalty2": "8",
             "artist2": "\u6731\u5d0e \u7d2b\u7ae5/INSANITYFACTOR",
             "alias2": "",
-            "notes": "!sort pw\n!tag WaHH\n!tag ULiL\n!tag Kasen\n!tag Ibaraki\n!tag Print\n!tag Fighter\n!tag Spinoff\n!tag Playable\n!tag Sage"
+            "notes": "!sort pw\n!replacetoken\n!tag WaHH\n!tag ULiL\n!tag Kasen\n!tag Ibaraki\n!tag Print\n!tag Fighter\n!tag Spinoff\n!tag Playable\n!tag Sage"
         },
         {
             "card_name": "Byakuren, Superhuman",
@@ -7513,5 +7513,5 @@
             "notes": "!tag SoEW\n!tag Genji\n!tag Hakurei\n!tag PC-98\n!tag Playable\n!tag Male"
         }
     ],
-    "version": 15
+    "version": 16
 }

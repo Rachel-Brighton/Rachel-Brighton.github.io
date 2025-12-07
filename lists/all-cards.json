@@ -2114,7 +2114,7 @@
             "notes": "!tag HSiFS\n!tag Mai\n!tag Mai2\n!tag Satono\n!tag Teireida\n!tag Nishida\n!tag Stage5\n!tag Okina\n!tag Music",
             "image_type": "png",
             "v_mana": "",
-            "designer_notes": "<p><a href=\"https://www.youtube.com/watch?v=lsAe8g-0Yis\">HSiFS Stage 5 Boss - Crazy Backup Dancers</a></p>"
+            "designer_notes": "<p><a href=\"https://www.youtube.com/watch?v=lsAe8g-0Yis\">HSiFS Stage 5 Boss - Crazy Backup Dancers</a></p>\n<p><a href=\"https://rachel-brighton.github.io/card?set=AKU&amp;num=37&amp;name=Teireida+and+Nishida\">Satono Nishida and Mai Teireida</a>, respectively.</p>"
         },
         {
             "card_name": "Sekibanki",
@@ -2134,7 +2134,7 @@
             "artist": "\u7791\u4e38 \u30a4\u30cc\u30c1\u30e8/Meimaru Inuchiyo",
             "alias": "",
             "position": "94",
-            "notes": "!replacetoken BankiHead;x\n!tag DDC\n!tag Sekibanki\n!tag Saggybaggy\n!tag Grassroots\n!tag Stage2",
+            "notes": "!replacetoken BankiHead;X\n!tag DDC\n!tag Sekibanki\n!tag Saggybaggy\n!tag Grassroots\n!tag Stage2",
             "image_type": "png",
             "v_mana": ""
         },
@@ -3272,7 +3272,8 @@
             "position": "145",
             "notes": "!tag MS\n!tag Yumeko\n!tag Stage5\n!tag Makai\n!tag PC-98",
             "image_type": "png",
-            "v_mana": ""
+            "v_mana": "",
+            "designer_notes": "<p><a href=\"https://rachel-brighton.github.io/search?search=t%3Aequipment+or+t%3Ashinki\">Searchable targets</a></p>"
         },
         {
             "card_name": "Iku Nagae",
@@ -4172,7 +4173,7 @@
             "artist": "\u3072\u305d\u306a/Hisona",
             "alias": "",
             "position": "185",
-            "notes": "!addtoken Unidentifiable;2;Pagoda;2\n\n!tag UFO",
+            "notes": "!replacetoken Unidentifiable;2;Pagoda;2\n\n!tag UFO",
             "image_type": "png",
             "v_mana": ""
         },
@@ -4286,7 +4287,8 @@
             "position": "190",
             "notes": "Might be too crazy",
             "image_type": "png",
-            "v_mana": ""
+            "v_mana": "",
+            "designer_notes": "<p><a href=\"https://rachel-brighton.github.io/search?search=t%3Aplains+or+t%3Aisland+or+t%3Aswamp+or+t%3Amountain+or+t%3Aforest\">Searchable targets</a></p>"
         },
         {
             "card_name": "Gensokyo Accepts All",
@@ -4907,7 +4909,8 @@
             "position": "218",
             "notes": "!tag CDS\n!tag FDS\n!tag Mizuchi\n!tag Miyadeguchi\n!tag Print\n!tag Hell",
             "image_type": "png",
-            "v_mana": ""
+            "v_mana": "",
+            "designer_notes": "<p>The vengeful spirit of <a href=\"https://rachel-brighton.github.io/card?set=AKU&amp;num=33&amp;name=Mizuchi%2C+Traitor+to+Humanity\">Mizuchi Miyadeguchi</a>.</p>"
         },
         {
             "card_name": "Tsuchinoko",
@@ -6087,7 +6090,7 @@
             "loyalty2": "8",
             "artist2": "\u6731\u5d0e \u7d2b\u7ae5/INSANITYFACTOR",
             "alias2": "",
-            "notes": "!sort pw\n!tag WaHH\n!tag ULiL\n!tag Kasen\n!tag Ibaraki\n!tag Print\n!tag Fighter\n!tag Spinoff\n!tag Playable\n!tag Sage",
+            "notes": "!sort pw\n!replacetoken\n!tag WaHH\n!tag ULiL\n!tag Kasen\n!tag Ibaraki\n!tag Print\n!tag Fighter\n!tag Spinoff\n!tag Playable\n!tag Sage",
             "image_type": "png",
             "v_mana": "",
             "designer_notes": "<p>Melds with <a href=\"https://rachel-brighton.github.io/card?set=2HU&amp;num=86&amp;name=Ibaraki-Douji\">Ibaraki-Douji</a></p>"
@@ -6333,7 +6336,7 @@
             "notes": "!tag MS\n!tag Alice\n!tag Margatroid\n!tag Music\n!tag Stage3\n!tag EX\n!tag StageEX\n!tag Makai\n!tag PC-98",
             "image_type": "png",
             "v_mana": "",
-            "designer_notes": "<p><a href=\"https://www.youtube.com/watch?v=n0jbvJjTXPw\">MS Extra Stage - Alice in Wonderland</a></p>\n<p><a href=\"https://www.youtube.com/watch?v=ijituRe039w\">MS Stage 3 Boss - Plastic Mind</a></p>\n<p><a href=\"https://www.youtube.com/watch?v=6B9umDBE-78\">MS Extra Stage Boss - The Grimoire of Alice</a></p>"
+            "designer_notes": "<p><a href=\"https://www.youtube.com/watch?v=n0jbvJjTXPw\">MS Extra Stage - Alice in Wonderland</a></p>\n<p><a href=\"https://www.youtube.com/watch?v=ijituRe039w\">MS Stage 3 Boss - Plastic Mind</a></p>\n<p><a href=\"https://www.youtube.com/watch?v=6B9umDBE-78\">MS Extra Stage Boss - The Grimoire of Alice</a></p>\n<p><a href=\"https://rachel-brighton.github.io/search?search=t%3Aartifact+-t%3Acreature\">Searchable targets</a></p>"
         },
         {
             "card_name": "Doremy, Eternal Spring Dream",
@@ -6577,7 +6580,8 @@
             "position": "293",
             "notes": "!tag Yuuka\n!tag Kazami\n!tag Charm",
             "image_type": "png",
-            "v_mana": ""
+            "v_mana": "",
+            "designer_notes": "<p><a href=\"https://rachel-brighton.github.io/search?search=t%3Aplains+or+t%3Aisland+or+t%3Aswamp+or+t%3Amountain+or+t%3Aforest\">Searchable targets</a></p>"
         },
         {
             "card_name": "Living God's Charm",
@@ -8496,7 +8500,7 @@
             "color": "B",
             "rarity": "common",
             "type": "Token Creature \u2013 Nightstalker",
-            "number": 5,
+            "number": 6,
             "color_identity": "C",
             "cost": "",
             "rules_text": "",
@@ -8556,7 +8560,7 @@
             "notes": "!tag Music\n!tag Hifuu\n!tag R53M\n!tag CD\n!tag Yuri\n!tag Gay",
             "image_type": "png",
             "v_mana": "",
-            "designer_notes": "<p><a href=\"https://www.youtube.com/watch?v=mY5CpztTFn0\">Retrospective 53 Minutes, track #11 - The Purest Sky and Sea</a></p>"
+            "designer_notes": "<p><a href=\"https://www.youtube.com/watch?v=mY5CpztTFn0\">Retrospective 53 Minutes, track #11 - The Purest Sky and Sea</a></p>\n<p><a href=\"https://rachel-brighton.github.io/search?search=t%3Aplains+or+t%3Aisland+or+t%3Aswamp+or+t%3Amountain+or+t%3Aforest\">Searchable targets</a></p>"
         },
         {
             "card_name": "Ancient Sanctuary",
@@ -8598,7 +8602,7 @@
             "artist": "\u5fc3\u592a/Tokoroten",
             "alias": "",
             "position": "11",
-            "notes": "Maybe could be 1 mana\n\n!tag SSiB\n!tag Print\n!tag Bougetsushou",
+            "notes": "!addtoken Booze;1\n\n!tag SSiB\n!tag Print\n!tag Bougetsushou",
             "image_type": "png",
             "v_mana": ""
         },
@@ -8620,7 +8624,7 @@
             "artist": "\u84b2\u8c37\u30ab\u30d0\u30c2/Kabadi",
             "alias": "",
             "position": "12",
-            "notes": "Probably can't be 2 mana\n\n!tag CoLA\n!tag Print",
+            "notes": "!addtoken Notebook;1\n\n!tag CoLA\n!tag Print",
             "image_type": "png",
             "v_mana": ""
         },
@@ -8664,7 +8668,7 @@
             "artist": "\u6bd4\u826f\u5742\u771f\u7434/Hirasaka Makoto",
             "alias": "",
             "position": "14",
-            "notes": "!tag VFiS\n!tag Print\n!tag Sangetsusei",
+            "notes": "!addtoken FairySwarm;1\n!tag VFiS\n!tag Print\n!tag Sangetsusei",
             "image_type": "png",
             "v_mana": ""
         },
@@ -8688,7 +8692,8 @@
             "position": "15",
             "notes": "!tag WaHH\n!tag Print",
             "image_type": "png",
-            "v_mana": ""
+            "v_mana": "",
+            "designer_notes": "<p><a href=\"https://rachel-brighton.github.io/search?search=t%3Acreature+-t%3Alegendary+f%3Atouhou\">Searchable targets in Touhou block</a></p>"
         },
         {
             "card_name": "Magic is All About Power",
@@ -9046,7 +9051,8 @@
             "position": "31",
             "notes": "!tag FS\n!tag Print\n!tag Reisen\n!tag Udonge\n!tag Udongein\n!tag Inaba\n!tag Eientei",
             "image_type": "png",
-            "v_mana": ""
+            "v_mana": "",
+            "designer_notes": "<p><a href=\"https://rachel-brighton.github.io/card?set=2HU&amp;num=249&amp;name=Reisen%2C+Lunatic+Moon+Rabbit\">Reisen Udongein Inaba's</a> human disguise.</p>"
         },
         {
             "card_name": "Kappa Tinkerers",
@@ -9091,7 +9097,7 @@
             "notes": "!tag SoPM\n!tag Mystia\n!tag Lorelei\n!tag Kyouko\n!tag Kyoko\n!tag Kasodani\n!tag Print\n!tag Music\n!tag Fanon\n!tag Yuri\n!tag Gay",
             "image_type": "png",
             "v_mana": "",
-            "designer_notes": "<p><a href=\"https://www.youtube.com/watch?v=cR4ea7fcbG0\">Translated lyrics from Shout It Out Loud!!! by Akatsuki Records</a></p>"
+            "designer_notes": "<p><a href=\"https://www.youtube.com/watch?v=cR4ea7fcbG0\">Translated lyrics from Shout It Out Loud!!! by Akatsuki Records</a></p>\n<p>A band consisting of <a href=\"https://rachel-brighton.github.io/card?set=2HU&amp;num=124&amp;name=Kyouko+Kasodani\">Kyouko Kasodani</a> and <a href=\"https://rachel-brighton.github.io/card?set=2HU&amp;num=233&amp;name=Mystia+Lorelei\">Mystia Lorelei</a>.</p>"
         },
         {
             "card_name": "Remote-Work Zashiki-Warashi",
@@ -9340,7 +9346,7 @@
             "color": "B",
             "rarity": "common",
             "type": "Token Creature \u2013 Faerie Army",
-            "number": 4,
+            "number": 5,
             "color_identity": "C",
             "cost": "",
             "rules_text": "",
@@ -9353,7 +9359,7 @@
             "artist": "\u3082\u308a\u3063\u3057\u30fc/morishiey",
             "alias": "",
             "position": "45",
-            "notes": "!related Visionary Fairies in Shrine\n!related Great Fairies",
+            "notes": "!tokentag FairySwarm\n\n!related Visionary Fairies in Shrine\n!related Great Fairies",
             "image_type": "png",
             "v_mana": ""
         },
@@ -9663,7 +9669,8 @@
             "position": "59",
             "notes": "!tag LE\n!tag Kanako\n!tag Yasaka\n!tag Print",
             "image_type": "png",
-            "v_mana": ""
+            "v_mana": "",
+            "designer_notes": "<p><a href=\"https://rachel-brighton.github.io/card?set=2HU&amp;num=206&amp;name=Kanako%2C+God+of+Progress\">Yasaka Kanako's</a> human disguise.</p>"
         },
         {
             "card_name": "Whitewater Champions",
@@ -9685,7 +9692,8 @@
             "position": "60",
             "notes": "!tag AFiEW\n!tag Wakasagi\n!tag Wakasagihime\n!tag Waggysaggy\n!tag Grassroots\n!tag Shinmyoumaru\n!tag Sukuna\n!tag Print",
             "image_type": "png",
-            "v_mana": ""
+            "v_mana": "",
+            "designer_notes": "<p>A team-up between <a href=\"https://rachel-brighton.github.io/card?set=2HU&amp;num=73&amp;name=Wakasagihime\">Wakasagihime</a> and <a href=\"https://rachel-brighton.github.io/card?set=2HU&amp;num=265&amp;name=Sukuna+of+the+Shining+Needle\">Shinmyoumaru Sukuna</a>.</p>"
         },
         {
             "card_name": "Personalized Fortune Slip",
@@ -9714,7 +9722,7 @@
             "color": "BR",
             "rarity": "common",
             "type": "Token Creature \u2013 Youkai",
-            "number": 6,
+            "number": 7,
             "color_identity": "C",
             "cost": "",
             "rules_text": "",
@@ -9736,7 +9744,7 @@
             "color": "W",
             "rarity": "common",
             "type": "Token Creature \u2013 Rabbit",
-            "number": 2,
+            "number": 3,
             "color_identity": "C",
             "cost": "",
             "rules_text": "",
@@ -9802,7 +9810,7 @@
             "color": "",
             "rarity": "common",
             "type": "Token Artifact \u2013 Blood",
-            "number": 7,
+            "number": 8,
             "color_identity": "C",
             "cost": "",
             "rules_text": "{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.",
@@ -9824,7 +9832,7 @@
             "color": "W",
             "rarity": "common",
             "type": "Token Creature \u2013 Bird Youkai",
-            "number": 1,
+            "number": 2,
             "color_identity": "C",
             "cost": "",
             "rules_text": "Flying, vigilance",
@@ -9846,7 +9854,7 @@
             "color": "W",
             "rarity": "common",
             "type": "Token Creature \u2013 Spirit",
-            "number": 3,
+            "number": 4,
             "color_identity": "C",
             "cost": "",
             "rules_text": "Flying",
@@ -9868,7 +9876,7 @@
             "color": "",
             "rarity": "common",
             "type": "Token Artifact \u2013 Food",
-            "number": 8,
+            "number": 10,
             "color_identity": "C",
             "cost": "",
             "rules_text": "{2}, {T}, Sacrifice this artifact: You gain 3 life.",
@@ -9881,7 +9889,51 @@
             "artist": "Yosshy",
             "alias": "",
             "position": "69",
-            "notes": "!related Silent Sinner in Blue\n!related A Discerning Customer",
+            "notes": "!tokentag Booze\n\n!related Silent Sinner in Blue\n!related A Discerning Customer",
+            "image_type": "png",
+            "v_mana": ""
+        },
+        {
+            "card_name": "Clue",
+            "color": "",
+            "rarity": "common",
+            "type": "Token Artifact \u2013 Clue",
+            "number": 9,
+            "color_identity": "C",
+            "cost": "",
+            "rules_text": "{2}, Sacrifice this artifact: Draw a card.",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "token",
+            "set": "AKU",
+            "loyalty": "",
+            "artist": "\u5fc3\u592a/Tokoroten",
+            "alias": "",
+            "position": "70",
+            "notes": "!tokentag Notebook",
+            "image_type": "png",
+            "v_mana": ""
+        },
+        {
+            "card_name": "Copy",
+            "color": "",
+            "rarity": "common",
+            "type": "Token",
+            "number": 1,
+            "color_identity": "C",
+            "cost": "",
+            "rules_text": "[i]This token can be used to represent a copy of something else.[/i]",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "token",
+            "set": "AKU",
+            "loyalty": "",
+            "artist": "\u2622\u6838\u71c3\u9ed1\u732b\u2622/Blackcat",
+            "alias": "",
+            "position": "71",
+            "notes": "",
             "image_type": "png",
             "v_mana": ""
         },

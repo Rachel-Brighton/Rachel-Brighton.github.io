@@ -542,66 +542,74 @@
     },
     "a->token",
     {
+        "card_name": "Copy",
+        "number": 1,
+        "shape": "token",
+        "set": "AKU",
+        "position": "71"
+    },
+    {
         "card_name": "Blood",
-        "number": 7,
+        "number": 8,
         "shape": "token",
         "set": "AKU",
         "position": "66"
     },
     {
+        "card_name": "Clue",
+        "number": 9,
+        "shape": "token",
+        "set": "AKU",
+        "position": "70"
+    },
+    {
         "card_name": "Food",
-        "number": 8,
+        "number": 10,
         "shape": "token",
         "set": "AKU",
         "position": "69"
     },
     {
         "card_name": "Bird Youkai",
-        "number": 1,
+        "number": 2,
         "shape": "token",
         "set": "AKU",
         "position": "67"
     },
     {
         "card_name": "Rabbit",
-        "number": 2,
+        "number": 3,
         "shape": "token",
         "set": "AKU",
         "position": "63"
     },
     {
         "card_name": "Spirit",
-        "number": 3,
+        "number": 4,
         "shape": "token",
         "set": "AKU",
         "position": "68"
     },
     {
         "card_name": "Faerie Army",
-        "number": 4,
+        "number": 5,
         "shape": "token",
         "set": "AKU",
         "position": "45"
     },
     {
         "card_name": "Nightstalker",
-        "number": 5,
+        "number": 6,
         "shape": "token",
         "set": "AKU",
         "position": "7"
     },
     {
         "card_name": "Youkai",
-        "number": 6,
+        "number": 7,
         "shape": "token",
         "set": "AKU",
         "position": "62"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "er"

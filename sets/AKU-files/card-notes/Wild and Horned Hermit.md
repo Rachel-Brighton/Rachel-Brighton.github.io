@@ -1,0 +1,1 @@
+[Searchable targets in Touhou block](https://rachel-brighton.github.io/search?search=t%3Acreature+-t%3Alegendary+f%3Atouhou)

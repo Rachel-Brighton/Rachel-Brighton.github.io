@@ -1,0 +1,1 @@
+[Reisen Udongein Inaba's](https://rachel-brighton.github.io/card?set=2HU&num=249&name=Reisen%2C+Lunatic+Moon+Rabbit) human disguise.
