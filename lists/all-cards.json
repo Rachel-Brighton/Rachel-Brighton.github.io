@@ -2556,7 +2556,7 @@
             "notes": "!tag WBaWC\n!tag Keiki\n!tag Haniyasushin\n!tag Stage6",
             "image_type": "png",
             "v_mana": "",
-            "designer_notes": "<p><a href=\"https://rachel-brighton.github.io/search?search=t%3A%22artifact+creature%22+mv%3C%3D3\">Searchable targets</a></p>\n<p><a href=\"https://scryfall.com/search?as=grid&amp;order=name&amp;q=%28type%3Aartifact+type%3Acreature%29+%28game%3Apaper%29+cmc%3C%3D3\">Searchable targets in canon Magic</a></p>"
+            "designer_notes": "<p><a href=\"https://rachel-brighton.github.io/search?search=t%3A%22artifact+creature%22+mv%3C%3D3\">Searchable targets</a></p>\n<p><a href=\"https://rickyrister.github.io/search?search=t%3A%22artifact+creature%22+mv%3C%3D3\">Searchable targets in F2HU</a></p>\n<p><a href=\"https://scryfall.com/search?as=grid&amp;order=name&amp;q=%28type%3Aartifact+type%3Acreature%29+%28game%3Apaper%29+cmc%3C%3D3\">Searchable targets in canon Magic</a></p>"
         },
         {
             "card_name": "Saki Kurokoma",
@@ -3273,7 +3273,7 @@
             "notes": "!tag MS\n!tag Yumeko\n!tag Stage5\n!tag Makai\n!tag PC-98",
             "image_type": "png",
             "v_mana": "",
-            "designer_notes": "<p><a href=\"https://rachel-brighton.github.io/search?search=t%3Aequipment+or+t%3Ashinki\">Searchable targets</a></p>"
+            "designer_notes": "<p><a href=\"https://rachel-brighton.github.io/search?search=t%3Aequipment+or+t%3Ashinki\">Searchable targets</a></p>\n<p><a href=\"https://rickyrister.github.io/search?search=t%3Aequipment+or+t%3Ashinki\">Searchable targets in F2HU</a></p>"
         },
         {
             "card_name": "Iku Nagae",
@@ -5660,7 +5660,8 @@
             "position": "252",
             "notes": "!tag PCB\n!tag Chen\n!tag Yakumo\n!tag Stage2",
             "image_type": "png",
-            "v_mana": ""
+            "v_mana": "",
+            "designer_notes": "<p><a href=\"https://rachel-brighton.github.io/search?search=t%3Ayoukai+or+t%3Ayukari\">Possible hits</a></p>\n<p><a href=\"https://rickyrister.github.io/search?search=t%3Ayoukai+or+t%3Ayukari\">Possible hits in F2HU</a></p>"
         },
         {
             "card_name": "Forest",
@@ -6336,7 +6337,7 @@
             "notes": "!tag MS\n!tag Alice\n!tag Margatroid\n!tag Music\n!tag Stage3\n!tag EX\n!tag StageEX\n!tag Makai\n!tag PC-98",
             "image_type": "png",
             "v_mana": "",
-            "designer_notes": "<p><a href=\"https://www.youtube.com/watch?v=n0jbvJjTXPw\">MS Extra Stage - Alice in Wonderland</a></p>\n<p><a href=\"https://www.youtube.com/watch?v=ijituRe039w\">MS Stage 3 Boss - Plastic Mind</a></p>\n<p><a href=\"https://www.youtube.com/watch?v=6B9umDBE-78\">MS Extra Stage Boss - The Grimoire of Alice</a></p>\n<p><a href=\"https://rachel-brighton.github.io/search?search=t%3Aartifact+-t%3Acreature\">Searchable targets</a></p>"
+            "designer_notes": "<p><a href=\"https://www.youtube.com/watch?v=n0jbvJjTXPw\">MS Extra Stage - Alice in Wonderland</a></p>\n<p><a href=\"https://www.youtube.com/watch?v=ijituRe039w\">MS Stage 3 Boss - Plastic Mind</a></p>\n<p><a href=\"https://www.youtube.com/watch?v=6B9umDBE-78\">MS Extra Stage Boss - The Grimoire of Alice</a></p>\n<p><a href=\"https://rachel-brighton.github.io/search?search=t%3Aartifact+-t%3Acreature\">Searchable targets</a></p>\n<p><a href=\"https://rickyrister.github.io/search?search=t%3Aartifact+-t%3Acreature\">Searchable targets in F2HU</a></p>"
         },
         {
             "card_name": "Doremy, Eternal Spring Dream",
@@ -9625,7 +9626,8 @@
             "position": "57",
             "notes": "!tag AoCF\n!tag Sumireko\n!tag Usami\n!tag Fighter\n!tag Spinoff",
             "image_type": "png",
-            "v_mana": ""
+            "v_mana": "",
+            "designer_notes": "<p><a href=\"https://rachel-brighton.github.io/search?search=t%3Awizard+or+t%3Asumireko\">Possible hits</a></p>\n<p><a href=\"https://rickyrister.github.io/search?search=t%3Awizard+or+t%3Asumireko\">Possible hits in F2HU</a></p>"
         },
         {
             "card_name": "Teireida and Nishida",
