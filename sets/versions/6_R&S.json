@@ -366,7 +366,7 @@
             "artist": "Mino_Dev",
             "alias": "",
             "position": "17",
-            "notes": "!group minion\n!sort 01"
+            "notes": "!group boss\n!sort 06"
         },
         {
             "card_name": "Saya, the Archon",
@@ -386,7 +386,7 @@
             "artist": "Mino_Dev",
             "alias": "",
             "position": "18",
-            "notes": "!group minion\n!sort 02"
+            "notes": "!group boss\n!sort 07"
         },
         {
             "card_name": "Karsi, the Ruby",
@@ -406,7 +406,7 @@
             "artist": "310_Suzaki",
             "alias": "",
             "position": "19",
-            "notes": "!group minion\n!sort 04"
+            "notes": "!group boss\n!sort 09"
         },
         {
             "card_name": "Blush, the Painter",
@@ -426,7 +426,7 @@
             "artist": "Kittenup",
             "alias": "",
             "position": "20",
-            "notes": "!group minion\n!sort 05"
+            "notes": "!group boss\n!sort 10"
         },
         {
             "card_name": "Stretch the Tether",
@@ -1026,7 +1026,7 @@
             "artist": "NekoBoyeh",
             "alias": "",
             "position": "50",
-            "notes": "!group minion\n!sort 03"
+            "notes": "!group boss\n!sort 08"
         }
     ]
 }

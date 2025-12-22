@@ -10331,7 +10331,7 @@
             "artist": "Mino_Dev",
             "alias": "",
             "position": "17",
-            "notes": "!group minion\n!sort 01",
+            "notes": "!group boss\n!sort 06",
             "image_type": "png",
             "v_mana": ""
         },
@@ -10353,7 +10353,7 @@
             "artist": "Mino_Dev",
             "alias": "",
             "position": "18",
-            "notes": "!group minion\n!sort 02",
+            "notes": "!group boss\n!sort 07",
             "image_type": "png",
             "v_mana": ""
         },
@@ -10375,7 +10375,7 @@
             "artist": "310_Suzaki",
             "alias": "",
             "position": "19",
-            "notes": "!group minion\n!sort 04",
+            "notes": "!group boss\n!sort 09",
             "image_type": "png",
             "v_mana": ""
         },
@@ -10397,7 +10397,7 @@
             "artist": "Kittenup",
             "alias": "",
             "position": "20",
-            "notes": "!group minion\n!sort 05",
+            "notes": "!group boss\n!sort 10",
             "image_type": "png",
             "v_mana": ""
         },
@@ -11058,7 +11058,7 @@
             "artist": "NekoBoyeh",
             "alias": "",
             "position": "50",
-            "notes": "!group minion\n!sort 03",
+            "notes": "!group boss\n!sort 08",
             "image_type": "png",
             "v_mana": ""
         }

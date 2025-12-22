@@ -1,6 +1,5 @@
 ﻿[
 	{ "title": "boss", "cards":  [ "!group boss" ] },
-	{ "title": "minion", "cards":  [ "!group minion" ] },
 	{ "cards":  [ "W", "U", "B", "R", "G" ] },
 	{ "title": "gold", "cards":  [ "WU", "UB", "BR", "RG", "GW" ] },
 	{ "cards":  [ "WB", "UR", "BG", "RW", "GU" ] },

@@ -1,4 +1,20 @@
-﻿VERSION 5 CHANGELOG
+﻿VERSION 6 CHANGELOG
+====================
+
+
+
+Nimi, the Archer
+
+Saya, the Archon
+
+Karsi, the Ruby
+
+Blush, the Painter
+
+Tassha, the Snowfur
+
+
+VERSION 5 CHANGELOG
 ====================
 
 
