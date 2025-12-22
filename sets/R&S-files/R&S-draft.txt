@@ -7,7 +7,7 @@
 			"type": "Legendary Creature — Mouse Knight",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/2_Matti, the Paladin.png"
+				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/0.png"
 			}
 		},
 		{
@@ -17,7 +17,7 @@
 			"type": "Legendary Creature — Dragon Noble",
 			"collector_number": "16",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/16_Ranalie, the Mythril.png"
+				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/1.png"
 			}
 		},
 		{
@@ -27,7 +27,7 @@
 			"type": "Legendary Creature — Wolf Warrior",
 			"collector_number": "11",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/11_Merran, the Steeltooth.png"
+				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/2.png"
 			}
 		},
 		{
@@ -37,7 +37,7 @@
 			"type": "Legendary Creature — Frog Bard",
 			"collector_number": "18",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/18_Avy, the Starry.png"
+				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/3.png"
 			}
 		},
 		{
@@ -47,7 +47,7 @@
 			"type": "Legendary Creature — Bird Advisor",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/8_Twili, the Valedictorian.png"
+				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/4.png"
 			}
 		},
 		{
@@ -57,7 +57,7 @@
 			"type": "Legendary Creature — Rabbit Noble",
 			"collector_number": "29",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/29_Shira, the Queen.png"
+				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/5.png"
 			}
 		},
 		{
@@ -67,7 +67,7 @@
 			"type": "Instant",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/5_Steel Yourself!.png"
+				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/6.png"
 			}
 		},
 		{
@@ -77,7 +77,7 @@
 			"type": "Creature — Rabbit Performer",
 			"collector_number": "25",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/25_Dancer Rabbit.png"
+				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/7.png"
 			}
 		},
 		{
@@ -87,7 +87,7 @@
 			"type": "Creature — Rabbit Assassin",
 			"collector_number": "23",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/23_Assassin Rabbit.png"
+				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/8.png"
 			}
 		},
 		{
@@ -97,7 +97,7 @@
 			"type": "Creature — Rabbit Barbarian",
 			"collector_number": "24",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/24_Bruiser Rabbit.png"
+				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/9.png"
 			}
 		},
 		{
@@ -107,7 +107,7 @@
 			"type": "Creature — Rabbit Archer",
 			"collector_number": "30",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/30_Sniper Rabbit.png"
+				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/10.png"
 			}
 		},
 		{
@@ -117,7 +117,7 @@
 			"type": "Creature — Rabbit Knight",
 			"collector_number": "26",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/26_Defender Rabbit.png"
+				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/11.png"
 			}
 		},
 		{
@@ -127,7 +127,7 @@
 			"type": "Creature — Elder Rabbit",
 			"collector_number": "22",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/22_Ancient Rabbit.png"
+				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/12.png"
 			}
 		},
 		{
@@ -137,7 +137,7 @@
 			"type": "Creature — Rabbit Druid",
 			"collector_number": "27",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/27_Druid Rabbit.png"
+				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/13.png"
 			}
 		},
 		{
@@ -147,7 +147,7 @@
 			"type": "Creature — Rabbit Wizard",
 			"collector_number": "32",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/32_Wizard Rabbit.png"
+				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/14.png"
 			}
 		},
 		{
@@ -157,7 +157,7 @@
 			"type": "Creature — Rabbit Spellshaper",
 			"collector_number": "31",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/31_Spellsword Rabbit.png"
+				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/15.png"
 			}
 		},
 		{
@@ -167,7 +167,7 @@
 			"type": "Legendary Creature — Cat",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/1_Asha, the Shopkeeper.png"
+				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/16.png"
 			}
 		},
 		{
@@ -177,7 +177,7 @@
 			"type": "Legendary Creature — Mouse Archer",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/3_Nimi, the Archer.png"
+				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/17.png"
 			}
 		},
 		{
@@ -187,7 +187,7 @@
 			"type": "Legendary Creature — Bird Advisor",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/6_Saya, the Archon.png"
+				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/18.png"
 			}
 		},
 		{
@@ -197,7 +197,7 @@
 			"type": "Legendary Creature — Dragon Warrior",
 			"collector_number": "15",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/15_Karsi, the Ruby.png"
+				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/19.png"
 			}
 		},
 		{
@@ -207,7 +207,7 @@
 			"type": "Legendary Creature — Frog",
 			"collector_number": "20",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/20_Blush, the Painter.png"
+				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/20.png"
 			}
 		},
 		{
@@ -217,7 +217,7 @@
 			"type": "Instant",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/7_Stretch the Tether.png"
+				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/21.png"
 			}
 		},
 		{
@@ -227,7 +227,7 @@
 			"type": "Sorcery",
 			"collector_number": "10",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/10_Get In The Circle.png"
+				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/22.png"
 			}
 		},
 		{
@@ -237,7 +237,7 @@
 			"type": "Sorcery",
 			"collector_number": "17",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/17_They Were Roommates.png"
+				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/23.png"
 			}
 		},
 		{
@@ -247,7 +247,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "19",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/19_Beast Mode.png"
+				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/24.png"
 			}
 		},
 		{
@@ -257,7 +257,7 @@
 			"type": "Artifact Creature — Orb",
 			"collector_number": "33",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/33_Fullmoon Treasuresphere.png"
+				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/25.png"
 			}
 		},
 		{
@@ -267,7 +267,7 @@
 			"type": "Land — Plains",
 			"collector_number": "35",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/35_Churchmouse Streets.png"
+				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/26.png"
 			}
 		},
 		{
@@ -277,7 +277,7 @@
 			"type": "Land — Island",
 			"collector_number": "41",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/41_The Scholar's Nest.png"
+				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/27.png"
 			}
 		},
 		{
@@ -287,7 +287,7 @@
 			"type": "Land — Swamp",
 			"collector_number": "38",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/38_The King's Arsenal.png"
+				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/28.png"
 			}
 		},
 		{
@@ -297,7 +297,7 @@
 			"type": "Land — Forest",
 			"collector_number": "36",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/36_The Emerald Lakeside.png"
+				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/29.png"
 			}
 		},
 		{
@@ -307,7 +307,7 @@
 			"type": "Land",
 			"collector_number": "39",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/39_The Moonlit Pinnacle.png"
+				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/30.png"
 			}
 		},
 		{
@@ -317,7 +317,7 @@
 			"type": "Land",
 			"collector_number": "37",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/37_Kingdom Outskirts.png"
+				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/31.png"
 			}
 		},
 		{
@@ -325,9 +325,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Food Equipment",
-			"collector_number": "3",
+			"collector_number": "4",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/3_A Nice Hat.png"
+				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/32.png"
 			}
 		},
 		{
@@ -335,9 +335,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Varmint",
-			"collector_number": "2",
+			"collector_number": "3",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/2_Varmint.png"
+				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/33.png"
 			}
 		},
 		{
@@ -347,7 +347,7 @@
 			"type": "Land — Mountain",
 			"collector_number": "40",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/40_The Red Darkhouse.png"
+				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/34.png"
 			}
 		},
 		{
@@ -355,9 +355,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Treasure",
-			"collector_number": "9",
+			"collector_number": "10",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/9_Treasure.png"
+				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/35.png"
 			}
 		},
 		{
@@ -365,9 +365,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Mouse Knight",
-			"collector_number": "1",
+			"collector_number": "2",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/1_Mouse Knight.png"
+				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/36.png"
 			}
 		},
 		{
@@ -377,7 +377,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "34",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/34_Shira's Armory.png"
+				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/37.png"
 			}
 		},
 		{
@@ -387,17 +387,7 @@
 			"type": "",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/1_The Monarch.png"
-			}
-		},
-		{
-			"name": "Spirit",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Artifact Creature — Spirit",
-			"collector_number": "4",
-			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/4_Spirit.png"
+				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/38.png"
 			}
 		},
 		{
@@ -407,7 +397,7 @@
 			"type": "Token Artifact Creature — Spirit",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/5_Spirit.png"
+				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/39.png"
 			}
 		},
 		{
@@ -417,7 +407,7 @@
 			"type": "Token Artifact Creature — Spirit",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/6_Spirit.png"
+				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/40.png"
 			}
 		},
 		{
@@ -427,57 +417,7 @@
 			"type": "Token Artifact Creature — Spirit",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/7_Spirit.png"
-			}
-		},
-		{
-			"name": "Spread Out",
-			"rarity": "uncommon",
-			"mana_cost": "{2}{W}",
-			"type": "Instant",
-			"collector_number": "4",
-			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/4_Spread Out.png"
-			}
-		},
-		{
-			"name": "Your Intellect Fails You",
-			"rarity": "uncommon",
-			"mana_cost": "{U}{U}",
-			"type": "Instant",
-			"collector_number": "9",
-			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/9_Your Intellect Fails You.png"
-			}
-		},
-		{
-			"name": "Terribly Lonely",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{B}",
-			"type": "Sorcery",
-			"collector_number": "13",
-			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/13_Terribly Lonely.png"
-			}
-		},
-		{
-			"name": "Dodge This",
-			"rarity": "rare",
-			"mana_cost": "{4}{R}{R}",
-			"type": "Instant",
-			"collector_number": "14",
-			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/14_Dodge This.png"
-			}
-		},
-		{
-			"name": "Just As Bright As You",
-			"rarity": "rare",
-			"mana_cost": "{3}{G}",
-			"type": "Sorcery",
-			"collector_number": "21",
-			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/21_Just As Bright As You.png"
+				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/41.png"
 			}
 		},
 		{
@@ -487,7 +427,67 @@
 			"type": "Token Artifact Creature — Spirit",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/8_Spirit.png"
+				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/42.png"
+			}
+		},
+		{
+			"name": "Spread Out",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/43.png"
+			}
+		},
+		{
+			"name": "Your Intellect Fails You",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{U}",
+			"type": "Instant",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/44.png"
+			}
+		},
+		{
+			"name": "Terribly Lonely",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/45.png"
+			}
+		},
+		{
+			"name": "Dodge This",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Instant",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/46.png"
+			}
+		},
+		{
+			"name": "Just As Bright As You",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}",
+			"type": "Sorcery",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/47.png"
+			}
+		},
+		{
+			"name": "Spirit",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact Creature — Spirit",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/48.png"
 			}
 		},
 		{
@@ -497,7 +497,7 @@
 			"type": "Creature — Rabbit Warrior",
 			"collector_number": "28",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/28_Heavyblade Rabbit.png"
+				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/49.png"
 			}
 		},
 		{
@@ -507,7 +507,7 @@
 			"type": "Legendary Creature — Wolf Warrior",
 			"collector_number": "12",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/12_Tassha, the Snowfur.png"
+				"en": "https://Rachel-Brighton.github.io/sets/R&S-files/img/50.png"
 			}
 		}
 	]

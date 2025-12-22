@@ -1,4 +1,124 @@
-﻿VERSION 4 CHANGELOG
+﻿VERSION 5 CHANGELOG
+====================
+
+
+
+Matti, the Paladin
+
+Ranalie, the Mythril
+
+Merran, the Steeltooth
+
+Avy, the Starry
+
+Twili, the Valedictorian
+
+Shira, the Queen
+
+Steel Yourself!
+
+Dancer Rabbit
+
+Assassin Rabbit
+
+Bruiser Rabbit
+
+Sniper Rabbit
+
+Defender Rabbit
+
+Ancient Rabbit
+
+Druid Rabbit
+
+Wizard Rabbit
+
+Spellsword Rabbit
+
+Asha, the Shopkeeper
+rules_text: [i]Heal up[/i] — {1}, {T}: You gain 3 life.
+[i]Level up[/i] — {2}, {T}: Put a +1/+1 counter on target creature.
+[i]Buy an item[/i] — {3}, {T}: Draw a card.
+[i]Pet the shopkeeper[/i] — {4}: Untap Asha. => [i]Heal up[/i] — {1}, {T}: You gain 3 life.
+[i]Lev‍el up[/i] — {2}, {T}: Put a +1/+1 counter on target creature.
+[i]Buy an item[/i] — {3}, {T}: Draw a card.
+[i]Pet the shopkeeper[/i] — {4}: Untap Asha.
+
+Nimi, the Archer
+
+Saya, the Archon
+
+Karsi, the Ruby
+
+Blush, the Painter
+
+Stretch the Tether
+
+Get In The Circle
+
+They Were Roommates
+
+Beast Mode
+
+Fullmoon Treasuresphere
+
+Churchmouse Streets
+
+The Scholar's Nest
+
+The King's Arsenal
+
+The Emerald Lakeside
+
+The Moonlit Pinnacle
+
+Kingdom Outskirts
+
+A Nice Hat
+
+Varmint
+
+The Red Darkhouse
+rules_text: [i]({T}: Add {R}.)[/i]
+This land enters tapped.
+{3}{R}, {T}: Create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i] => [i]({T}: Add {R}.)[/i]
+This land enters tapped.
+{3}{R}, {T}: Create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+
+Treasure
+
+Mouse Knight
+
+Shira's Armory
+
+The Monarch
+
+Spirit
+
+Spirit
+
+Spirit
+
+Spirit
+
+Spread Out
+
+Your Intellect Fails You
+
+Terribly Lonely
+
+Dodge This
+
+Just As Bright As You
+
+Spirit
+
+Heavyblade Rabbit
+
+Tassha, the Snowfur
+
+
+VERSION 4 CHANGELOG
 ====================
 
 

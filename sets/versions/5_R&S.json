@@ -1,7 +1,7 @@
 ﻿{
     "name": "Steel Yourself! A Rabbit & Steel Miniset",
     "formats": "",
-    "trimmed": "y",
+    "trimmed": "n",
     "image_type": "png",
     "draft_structure": "play booster",
     "unpreviewed": "card back",
@@ -1028,6 +1028,5 @@
             "position": "50",
             "notes": "!group minion\n!sort 03"
         }
-    ],
-    "version": 5
+    ]
 }

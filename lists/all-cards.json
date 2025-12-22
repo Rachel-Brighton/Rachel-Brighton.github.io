@@ -9955,8 +9955,11 @@
             "set": "R&S",
             "loyalty": "",
             "artist": "Kittenup",
-            "notes": "!sort boss",
-            "image_type": "png"
+            "alias": "",
+            "position": "0",
+            "notes": "!group boss\n!sort 01",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Ranalie, the Mythril",
@@ -9974,8 +9977,11 @@
             "set": "R&S",
             "loyalty": "",
             "artist": "Kittenup",
-            "notes": "!sort boss",
-            "image_type": "png"
+            "alias": "",
+            "position": "1",
+            "notes": "!group boss\n!sort 04",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Merran, the Steeltooth",
@@ -9993,8 +9999,11 @@
             "set": "R&S",
             "loyalty": "",
             "artist": "Kittenup",
-            "notes": "!sort boss",
-            "image_type": "png"
+            "alias": "",
+            "position": "2",
+            "notes": "!group boss\n!sort 03",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Avy, the Starry",
@@ -10012,8 +10021,11 @@
             "set": "R&S",
             "loyalty": "",
             "artist": "Kittenup",
-            "notes": "!sort boss",
-            "image_type": "png"
+            "alias": "",
+            "position": "3",
+            "notes": "!group boss\n!sort 05",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Twili, the Valedictorian",
@@ -10031,8 +10043,11 @@
             "set": "R&S",
             "loyalty": "",
             "artist": "Kittenup",
-            "notes": "!sort boss",
-            "image_type": "png"
+            "alias": "",
+            "position": "4",
+            "notes": "!group boss\n!sort 02",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Shira, the Queen",
@@ -10050,8 +10065,11 @@
             "set": "R&S",
             "loyalty": "",
             "artist": "Kittenup",
+            "alias": "",
+            "position": "5",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Steel Yourself!",
@@ -10069,8 +10087,11 @@
             "set": "R&S",
             "loyalty": "",
             "artist": "Mamuru",
+            "alias": "",
+            "position": "6",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Dancer Rabbit",
@@ -10088,8 +10109,11 @@
             "set": "R&S",
             "loyalty": "",
             "artist": "Mino_Dev",
+            "alias": "",
+            "position": "7",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Assassin Rabbit",
@@ -10107,8 +10131,11 @@
             "set": "R&S",
             "loyalty": "",
             "artist": "Mino_Dev",
+            "alias": "",
+            "position": "8",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Bruiser Rabbit",
@@ -10126,8 +10153,11 @@
             "set": "R&S",
             "loyalty": "",
             "artist": "Mino_Dev",
+            "alias": "",
+            "position": "9",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Sniper Rabbit",
@@ -10145,8 +10175,11 @@
             "set": "R&S",
             "loyalty": "",
             "artist": "Mino_Dev",
+            "alias": "",
+            "position": "10",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Defender Rabbit",
@@ -10164,8 +10197,11 @@
             "set": "R&S",
             "loyalty": "",
             "artist": "Mino_Dev",
+            "alias": "",
+            "position": "11",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Ancient Rabbit",
@@ -10183,8 +10219,11 @@
             "set": "R&S",
             "loyalty": "",
             "artist": "Mino_Dev",
+            "alias": "",
+            "position": "12",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Druid Rabbit",
@@ -10202,8 +10241,11 @@
             "set": "R&S",
             "loyalty": "",
             "artist": "Mino_Dev",
+            "alias": "",
+            "position": "13",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Wizard Rabbit",
@@ -10221,8 +10263,11 @@
             "set": "R&S",
             "loyalty": "",
             "artist": "Kittenup",
+            "alias": "",
+            "position": "14",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Spellsword Rabbit",
@@ -10240,8 +10285,11 @@
             "set": "R&S",
             "loyalty": "",
             "artist": "Dawn_Hamburger",
+            "alias": "",
+            "position": "15",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Asha, the Shopkeeper",
@@ -10251,7 +10299,7 @@
             "number": 1,
             "color_identity": "C",
             "cost": "{3}",
-            "rules_text": "[i]Heal up[/i] \u2013 {1}, {T}: You gain 3 life.\n[i]Level up[/i] \u2013 {2}, {T}: Put a +1/+1 counter on target creature.\n[i]Buy an item[/i] \u2013 {3}, {T}: Draw a card.\n[i]Pet the shopkeeper[/i] \u2013 {4}: Untap Asha.",
+            "rules_text": "[i]Heal up[/i] \u2013 {1}, {T}: You gain 3 life.\n[i]Lev\u200del up[/i] \u2013 {2}, {T}: Put a +1/+1 counter on target creature.\n[i]Buy an item[/i] \u2013 {3}, {T}: Draw a card.\n[i]Pet the shopkeeper[/i] \u2013 {4}: Untap Asha.",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -10259,8 +10307,11 @@
             "set": "R&S",
             "loyalty": "",
             "artist": "Mino_Dev",
+            "alias": "",
+            "position": "16",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Nimi, the Archer",
@@ -10278,8 +10329,11 @@
             "set": "R&S",
             "loyalty": "",
             "artist": "Mino_Dev",
-            "notes": "!sort minion",
-            "image_type": "png"
+            "alias": "",
+            "position": "17",
+            "notes": "!group minion\n!sort 01",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Saya, the Archon",
@@ -10297,8 +10351,11 @@
             "set": "R&S",
             "loyalty": "",
             "artist": "Mino_Dev",
-            "notes": "!sort minion",
-            "image_type": "png"
+            "alias": "",
+            "position": "18",
+            "notes": "!group minion\n!sort 02",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Karsi, the Ruby",
@@ -10316,8 +10373,11 @@
             "set": "R&S",
             "loyalty": "",
             "artist": "310_Suzaki",
-            "notes": "!sort minion",
-            "image_type": "png"
+            "alias": "",
+            "position": "19",
+            "notes": "!group minion\n!sort 04",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Blush, the Painter",
@@ -10335,8 +10395,11 @@
             "set": "R&S",
             "loyalty": "",
             "artist": "Kittenup",
-            "notes": "!sort minion",
-            "image_type": "png"
+            "alias": "",
+            "position": "20",
+            "notes": "!group minion\n!sort 05",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Stretch the Tether",
@@ -10354,8 +10417,11 @@
             "set": "R&S",
             "loyalty": "",
             "artist": "DatBoopy",
+            "alias": "",
+            "position": "21",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Get In The Circle",
@@ -10373,8 +10439,11 @@
             "set": "R&S",
             "loyalty": "",
             "artist": "Arlinoire",
+            "alias": "",
+            "position": "22",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "They Were Roommates",
@@ -10392,8 +10461,11 @@
             "set": "R&S",
             "loyalty": "",
             "artist": "Mino_Dev",
+            "alias": "",
+            "position": "23",
             "notes": "!tag Yuri",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Beast Mode",
@@ -10411,8 +10483,11 @@
             "set": "R&S",
             "loyalty": "",
             "artist": "DatBoopy",
+            "alias": "",
+            "position": "24",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Fullmoon Treasuresphere",
@@ -10430,8 +10505,11 @@
             "set": "R&S",
             "loyalty": "",
             "artist": "Mino_Dev",
+            "alias": "",
+            "position": "25",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Churchmouse Streets",
@@ -10449,8 +10527,11 @@
             "set": "R&S",
             "loyalty": "",
             "artist": "Mino_Dev",
+            "alias": "",
+            "position": "26",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "The Scholar's Nest",
@@ -10468,8 +10549,11 @@
             "set": "R&S",
             "loyalty": "",
             "artist": "Mino_Dev",
+            "alias": "",
+            "position": "27",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "The King's Arsenal",
@@ -10487,8 +10571,11 @@
             "set": "R&S",
             "loyalty": "",
             "artist": "Mino_Dev",
+            "alias": "",
+            "position": "28",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "The Emerald Lakeside",
@@ -10506,8 +10593,11 @@
             "set": "R&S",
             "loyalty": "",
             "artist": "Mino_Dev",
+            "alias": "",
+            "position": "29",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "The Moonlit Pinnacle",
@@ -10525,8 +10615,11 @@
             "set": "R&S",
             "loyalty": "",
             "artist": "Mino_Dev",
+            "alias": "",
+            "position": "30",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Kingdom Outskirts",
@@ -10544,15 +10637,18 @@
             "set": "R&S",
             "loyalty": "",
             "artist": "Mino_Dev",
+            "alias": "",
+            "position": "31",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "A Nice Hat",
             "color": "",
             "rarity": "common",
             "type": "Token Artifact \u2013 Food Equipment",
-            "number": 3,
+            "number": 4,
             "color_identity": "C",
             "cost": "",
             "rules_text": "{2}, {T}, Sacrifice this token: You gain 3 life.\nEquipped creature gets +1/+1.\nEquip {1}",
@@ -10563,15 +10659,18 @@
             "set": "R&S",
             "loyalty": "",
             "artist": "Lily Kami",
+            "alias": "",
+            "position": "32",
             "notes": "!related Nimi, the Archer",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Varmint",
             "color": "G",
             "rarity": "common",
             "type": "Token Creature \u2013 Varmint",
-            "number": 2,
+            "number": 3,
             "color_identity": "C",
             "cost": "",
             "rules_text": "",
@@ -10582,8 +10681,11 @@
             "set": "R&S",
             "loyalty": "",
             "artist": "Araiyme",
+            "alias": "",
+            "position": "33",
             "notes": "!related Ancient Rabbit",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "The Red Darkhouse",
@@ -10593,7 +10695,7 @@
             "number": 40,
             "color_identity": "R",
             "cost": "",
-            "rules_text": "[i]({T}: Add {R}.)[/i]\nThis land enters tapped.\n{3}{R}, {T}: Create a Treasure token. [i](It's an artifact with \u201c{T}, Sacrifice this artifact: Add one mana of any color.\u201d)[/i]",
+            "rules_text": "[i]({T}: Add {R}.)[/i]\nThis land enters tapped.\n{3}{R}, {T}: Create a Treasure token. [i](It's an artifact with \u201c{T}, Sacrifice this token: Add one mana of any color.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -10601,15 +10703,18 @@
             "set": "R&S",
             "loyalty": "",
             "artist": "Mino_Dev",
+            "alias": "",
+            "position": "34",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Treasure",
             "color": "",
             "rarity": "common",
             "type": "Token Artifact \u2013 Treasure",
-            "number": 9,
+            "number": 10,
             "color_identity": "C",
             "cost": "",
             "rules_text": "{T}, Sacrifice this token: Add one mana of any color.",
@@ -10620,15 +10725,18 @@
             "set": "R&S",
             "loyalty": "",
             "artist": "Kittenup",
+            "alias": "",
+            "position": "35",
             "notes": "!related Ranalie, the Mythril;The Red Darkhouse",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Mouse Knight",
             "color": "W",
             "rarity": "common",
             "type": "Token Creature \u2013 Mouse Knight",
-            "number": 1,
+            "number": 2,
             "color_identity": "C",
             "cost": "",
             "rules_text": "",
@@ -10639,8 +10747,11 @@
             "set": "R&S",
             "loyalty": "",
             "artist": "Mino_Dev",
+            "alias": "",
+            "position": "36",
             "notes": "!related Matti, the Paladin<2>",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Shira's Armory",
@@ -10658,8 +10769,11 @@
             "set": "R&S",
             "loyalty": "",
             "artist": "Kei!! @celesion",
+            "alias": "",
+            "position": "37",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "The Monarch",
@@ -10677,27 +10791,11 @@
             "set": "R&S",
             "loyalty": "",
             "artist": "Kei!! @celesion",
+            "alias": "",
+            "position": "38",
             "notes": "!related Shira's Armory",
-            "image_type": "png"
-        },
-        {
-            "card_name": "Spirit",
-            "color": "",
-            "rarity": "common",
-            "type": "Token Artifact Creature \u2013 Spirit",
-            "number": 4,
-            "color_identity": "C",
-            "cost": "",
-            "rules_text": "",
-            "flavor_text": "[i][/i]",
-            "pt": "1/1",
-            "special_text": "",
-            "shape": "token",
-            "set": "R&S",
-            "loyalty": "",
-            "artist": "Mino_Dev",
-            "notes": "!related Shira's Armory",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Spirit",
@@ -10715,8 +10813,11 @@
             "set": "R&S",
             "loyalty": "",
             "artist": "Mino_Dev",
+            "alias": "",
+            "position": "39",
             "notes": "!related Shira's Armory",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Spirit",
@@ -10734,8 +10835,11 @@
             "set": "R&S",
             "loyalty": "",
             "artist": "Mino_Dev",
+            "alias": "",
+            "position": "40",
             "notes": "!related Shira's Armory",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Spirit",
@@ -10753,104 +10857,11 @@
             "set": "R&S",
             "loyalty": "",
             "artist": "Mino_Dev",
+            "alias": "",
+            "position": "41",
             "notes": "!related Shira's Armory",
-            "image_type": "png"
-        },
-        {
-            "card_name": "Spread Out",
-            "color": "W",
-            "rarity": "uncommon",
-            "type": "Instant",
-            "number": 4,
-            "color_identity": "W",
-            "cost": "{2}{W}",
-            "rules_text": "Exile up to four creatures. Return them to the battlefield under their owner's control at the beginning of the next end step.",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "R&S",
-            "loyalty": "",
-            "artist": "MicrowaveBunny",
-            "notes": "",
-            "image_type": "png"
-        },
-        {
-            "card_name": "Your Intellect Fails You",
-            "color": "U",
-            "rarity": "uncommon",
-            "type": "Instant",
-            "number": 9,
-            "color_identity": "U",
-            "cost": "{U}{U}",
-            "rules_text": "Counter target spell if it isn't a creature spell or if you control four or more creatures.",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "R&S",
-            "loyalty": "",
-            "artist": "DatBoopy",
-            "notes": "",
-            "image_type": "png"
-        },
-        {
-            "card_name": "Terribly Lonely",
-            "color": "B",
-            "rarity": "uncommon",
-            "type": "Sorcery",
-            "number": 13,
-            "color_identity": "B",
-            "cost": "{1}{B}",
-            "rules_text": "Target player sacrifices a creature of their choice. If it was the only creature that player controlled, they lose life equal to its power.",
-            "flavor_text": "[i]\u201cDon't you know what happens to rabbits when they're lonely? Don't you know? Don't you know what happens?\u201d[/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "R&S",
-            "loyalty": "",
-            "artist": "Mino_dev",
-            "notes": "",
-            "image_type": "png"
-        },
-        {
-            "card_name": "Dodge This",
-            "color": "R",
-            "rarity": "rare",
-            "type": "Instant",
-            "number": 14,
-            "color_identity": "R",
-            "cost": "{4}{R}{R}",
-            "rules_text": "Each player chooses a target. Dodge This deals 4 damage to each permanent and player not chosen this way. If a permanent dealt damage this way would die this turn, exile it instead.",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "R&S",
-            "loyalty": "",
-            "artist": "tastelinenyan",
-            "notes": "",
-            "image_type": "png"
-        },
-        {
-            "card_name": "Just As Bright As You",
-            "color": "G",
-            "rarity": "rare",
-            "type": "Sorcery",
-            "number": 21,
-            "color_identity": "G",
-            "cost": "{3}{G}",
-            "rules_text": "Target creature you control becomes a copy of another creature you control. [i](This effect lasts indefinitely.)[/i] For each +1/+1 counter on the copied creature, put a +1/+1 counter on the targeted creature.",
-            "flavor_text": "[i]Maybe it's just me. My voice, my face, my personality.\nWhat would I have to be? If it's for you then I would change my everything...![/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "R&S",
-            "loyalty": "",
-            "artist": "Saaya artworks",
-            "notes": "!tag Music",
             "image_type": "png",
-            "designer_notes": "<p>[*Pale, flourescent rays,</p>\n<p>The light reflected in the waves</p>\n<p>I clearly see your face</p>\n<p>If only you'd give me your gaze...!*](https://www.youtube.com/watch?v=LKT8rMYxmnY)</p>"
+            "v_mana": ""
         },
         {
             "card_name": "Spirit",
@@ -10868,8 +10879,144 @@
             "set": "R&S",
             "loyalty": "",
             "artist": "Mino_Dev",
+            "alias": "",
+            "position": "42",
             "notes": "!related Shira's Armory",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
+        },
+        {
+            "card_name": "Spread Out",
+            "color": "W",
+            "rarity": "uncommon",
+            "type": "Instant",
+            "number": 4,
+            "color_identity": "W",
+            "cost": "{2}{W}",
+            "rules_text": "Exile up to four creatures. Return them to the battlefield under their owner's control at the beginning of the next end step.",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "R&S",
+            "loyalty": "",
+            "artist": "MicrowaveBunny",
+            "alias": "",
+            "position": "43",
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
+        },
+        {
+            "card_name": "Your Intellect Fails You",
+            "color": "U",
+            "rarity": "uncommon",
+            "type": "Instant",
+            "number": 9,
+            "color_identity": "U",
+            "cost": "{U}{U}",
+            "rules_text": "Counter target spell if it isn't a creature spell or if you control four or more creatures.",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "R&S",
+            "loyalty": "",
+            "artist": "DatBoopy",
+            "alias": "",
+            "position": "44",
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
+        },
+        {
+            "card_name": "Terribly Lonely",
+            "color": "B",
+            "rarity": "uncommon",
+            "type": "Sorcery",
+            "number": 13,
+            "color_identity": "B",
+            "cost": "{1}{B}",
+            "rules_text": "Target player sacrifices a creature of their choice. If it was the only creature that player controlled, they lose life equal to its power.",
+            "flavor_text": "[i]\u201cDon't you know what happens to rabbits when they're lonely? Don't you know? Don't you know what happens?\u201d[/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "R&S",
+            "loyalty": "",
+            "artist": "Mino_dev",
+            "alias": "",
+            "position": "45",
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
+        },
+        {
+            "card_name": "Dodge This",
+            "color": "R",
+            "rarity": "rare",
+            "type": "Instant",
+            "number": 14,
+            "color_identity": "R",
+            "cost": "{4}{R}{R}",
+            "rules_text": "Each player chooses a target. Dodge This deals 4 damage to each permanent and player not chosen this way. If a permanent dealt damage this way would die this turn, exile it instead.",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "R&S",
+            "loyalty": "",
+            "artist": "tastelinenyan",
+            "alias": "",
+            "position": "46",
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
+        },
+        {
+            "card_name": "Just As Bright As You",
+            "color": "G",
+            "rarity": "rare",
+            "type": "Sorcery",
+            "number": 21,
+            "color_identity": "G",
+            "cost": "{3}{G}",
+            "rules_text": "Target creature you control becomes a copy of another creature you control. [i](This effect lasts indefinitely.)[/i] For each +1/+1 counter on the copied creature, put a +1/+1 counter on the targeted creature.",
+            "flavor_text": "[i]Maybe it's just me. My voice, my face, my personality.\nWhat would I have to be? If it's for you then I would change my everything...![/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "R&S",
+            "loyalty": "",
+            "artist": "Saaya artworks",
+            "alias": "",
+            "position": "47",
+            "notes": "!tag Music",
+            "image_type": "png",
+            "v_mana": "",
+            "designer_notes": "<p>[*Pale, flourescent rays,</p>\n<p>The light reflected in the waves</p>\n<p>I clearly see your face</p>\n<p>If only you'd give me your gaze...!*](https://www.youtube.com/watch?v=LKT8rMYxmnY)</p>"
+        },
+        {
+            "card_name": "Spirit",
+            "color": "",
+            "rarity": "common",
+            "type": "Token Artifact Creature \u2013 Spirit",
+            "number": 9,
+            "color_identity": "C",
+            "cost": "",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "1/1",
+            "special_text": "",
+            "shape": "token",
+            "set": "R&S",
+            "loyalty": "",
+            "artist": "Mino_Dev",
+            "alias": "",
+            "position": "48",
+            "notes": "!related Shira's Armory",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Heavyblade Rabbit",
@@ -10887,8 +11034,11 @@
             "set": "R&S",
             "loyalty": "",
             "artist": "Veriny",
+            "alias": "",
+            "position": "49",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Tassha, the Snowfur",
@@ -10906,8 +11056,11 @@
             "set": "R&S",
             "loyalty": "",
             "artist": "NekoBoyeh",
-            "notes": "",
-            "image_type": "png"
+            "alias": "",
+            "position": "50",
+            "notes": "!group minion\n!sort 03",
+            "image_type": "png",
+            "v_mana": ""
         }
     ]
 }
