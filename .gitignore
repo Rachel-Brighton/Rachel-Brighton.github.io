@@ -1,10 +1,5 @@
-
 resources/.DS_Store
 .DS_Store
+custom/.DS_Store
 resources/magic-egg-allinone-exporter.mse-export-template/.DS_Store
-resources/magic-egg-allinone-exporter.mse-export-template/.DS_Store
-cards/2HU/149_Bad Apple.html.bak
-resources/gradients.txt.bak
-cards/2HU/149_Bad Apple.html.bak
-scripts/print_html_for_search.py.bak
-previews/R&S.html
+__pycache__
