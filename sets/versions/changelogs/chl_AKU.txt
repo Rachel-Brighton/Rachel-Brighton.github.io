@@ -1,4 +1,12 @@
-﻿VERSION 8 CHANGELOG
+﻿VERSION 9 CHANGELOG
+====================
+
+
+
+Whitewater Champions
+
+
+VERSION 8 CHANGELOG
 ====================
 
 Stone Cherry added.

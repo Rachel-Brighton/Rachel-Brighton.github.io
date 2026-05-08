@@ -1223,7 +1223,7 @@
             "alias": "",
             "position": "57",
             "rotated": false,
-            "notes": "!tag AFiEW\n!tag Wakasagi\n!tag Wakasagihime\n!tag Waggysaggy\n!tag Grassroots\n!tag Shinmyoumaru\n!tag Sukuna\n!tag Print"
+            "notes": "!tag AFiEU\n!tag Wakasagi\n!tag Wakasagihime\n!tag Waggysaggy\n!tag Grassroots\n!tag Shinmyoumaru\n!tag Sukuna\n!tag Print"
         },
         {
             "card_name": "Personalized Fortune Slip",
@@ -1478,5 +1478,5 @@
             "notes": "!tag VFiS\n!tag Print\n!tag Hell"
         }
     ],
-    "version": 8
+    "version": 9
 }
