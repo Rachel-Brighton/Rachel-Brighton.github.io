@@ -1,5 +1,5 @@
 ﻿{
-    "name": "",
+    "name": "Grimoire of Spellfire",
     "formats": "Touhou",
     "image_type": "png",
     "draft_structure": "play booster",
@@ -1412,5 +1412,5 @@
             "notes": "!tag TD\n!tag Yoshika\n!tag Miyako\n!tag Spellcard"
         }
     ],
-    "version": 2
+    "version": 3
 }
