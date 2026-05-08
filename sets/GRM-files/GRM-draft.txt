@@ -1,0 +1,835 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Matsuyoi-Reflecting Slash",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/GRM-files/img/0.png"
+			}
+		},
+		{
+			"name": "Perfect Freeze",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/GRM-files/img/1.png"
+			}
+		},
+		{
+			"name": "Spark-Like Flashlight",
+			"rarity": "mythic",
+			"mana_cost": "{X}{U}",
+			"type": "Legendary Instant",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/GRM-files/img/2.png"
+			}
+		},
+		{
+			"name": "Just Dodge It, Bro",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/GRM-files/img/3.png"
+			}
+		},
+		{
+			"name": "Full Focus",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/GRM-files/img/4.png"
+			}
+		},
+		{
+			"name": "Hell's Tokamak",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/GRM-files/img/5.png"
+			}
+		},
+		{
+			"name": "Byakuren, Turbo Rider",
+			"rarity": "rare",
+			"mana_cost": "{W}{U}",
+			"type": "Legendary Creature — Wizard Monk",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/GRM-files/img/6.png"
+			}
+		},
+		{
+			"name": "Yamame, Bright Net in the Dark",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Legendary Creature — Spider Youkai",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/GRM-files/img/7.png"
+			}
+		},
+		{
+			"name": "Gun Sign 「3D Printer Gun」",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/GRM-files/img/8.png"
+			}
+		},
+		{
+			"name": "Mini-Hakkero",
+			"rarity": "mythic",
+			"mana_cost": "{4}",
+			"type": "Legendary Artifact",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/GRM-files/img/9.png"
+			}
+		},
+		{
+			"name": "Dance of Dazzling Iridescence",
+			"rarity": "mythic",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/GRM-files/img/10.png"
+			}
+		},
+		{
+			"name": "Lyrica, Solo Live",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Creature — Spirit Bard",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/GRM-files/img/11.png"
+			}
+		},
+		{
+			"name": "Yachie, Irresistable Matriarch",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Creature — Dragon Turtle Spirit",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/GRM-files/img/12.png"
+			}
+		},
+		{
+			"name": "Spellbound Volume",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact Creature — Book Wizard",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/GRM-files/img/13.png"
+			}
+		},
+		{
+			"name": "Koishi, Right Behind You",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Legendary Creature — Youkai",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/GRM-files/img/14.png"
+			}
+		},
+		{
+			"name": "Pichuun!",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Instant",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/GRM-files/img/15.png"
+			}
+		},
+		{
+			"name": "Mob Swarm",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Orb Faerie",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/GRM-files/img/16.png"
+			}
+		},
+		{
+			"name": "Saki, Charging Matriarch",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Creature — Pegasus Spirit",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/GRM-files/img/17.png"
+			}
+		},
+		{
+			"name": "Follow Me, Unafraid",
+			"rarity": "mythic",
+			"mana_cost": "{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/GRM-files/img/18.png"
+			}
+		},
+		{
+			"name": "Suika, Tiny Night Parade",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}",
+			"type": "Legendary Creature — Demon",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/GRM-files/img/19.png"
+			}
+		},
+		{
+			"name": "Aerial Combat",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/GRM-files/img/20.png"
+			}
+		},
+		{
+			"name": "Monstrous Minions",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Youkai",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/GRM-files/img/21.png"
+			}
+		},
+		{
+			"name": "Esoterica 「Forgotten Ritual」",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/GRM-files/img/22.png"
+			}
+		},
+		{
+			"name": "Futo, Plate Breaker",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Legendary Creature — Mystic",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/GRM-files/img/23.png"
+			}
+		},
+		{
+			"name": "Cirno, Summer Freeze",
+			"rarity": "rare",
+			"mana_cost": "{U}{R}",
+			"type": "Legendary Creature — Faerie",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/GRM-files/img/24.png"
+			}
+		},
+		{
+			"name": "Sanae Kochiya",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{U}",
+			"type": "Legendary Creature — Human God",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/GRM-files/img/25.png"
+			}
+		},
+		{
+			"name": "Miko, Almighty Tao",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{B}",
+			"type": "Legendary Creature — Mystic Noble",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/GRM-files/img/26.png"
+			}
+		},
+		{
+			"name": "Flandre, Matara's Ace",
+			"rarity": "rare",
+			"mana_cost": "{B}{B}{R}{R}",
+			"type": "Legendary Creature — Vampire Noble",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/GRM-files/img/27.png"
+			}
+		},
+		{
+			"name": "Meiling, Dream Guardian",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Legendary Creature — Youkai",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/GRM-files/img/28.png"
+			}
+		},
+		{
+			"name": "Youmu, Half-Phantom",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Legendary Creature — Human Spirit Samurai",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/GRM-files/img/29.png"
+			}
+		},
+		{
+			"name": "Sakuya, Perfect and Elegant",
+			"rarity": "rare",
+			"mana_cost": "{U}{B}",
+			"type": "Legendary Creature — Human",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/GRM-files/img/30.png"
+			}
+		},
+		{
+			"name": "For Her Sake",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/GRM-files/img/31.png"
+			}
+		},
+		{
+			"name": "Spirit Sign 「Fantasy Seal」",
+			"rarity": "common",
+			"mana_cost": "{W}{W}",
+			"type": "Instant",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/GRM-files/img/32.png"
+			}
+		},
+		{
+			"name": "Zombie Fairy",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Zombie Faerie",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/GRM-files/img/33.png"
+			}
+		},
+		{
+			"name": "Fey Inaba",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Creature — Faerie Rabbit",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/GRM-files/img/34.png"
+			}
+		},
+		{
+			"name": "Bitch, Get Out Of The Way!",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/GRM-files/img/35.png"
+			}
+		},
+		{
+			"name": "Yuuma, Blood Titan",
+			"rarity": "mythic",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Legendary Creature — Giant Goat Spirit",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/GRM-files/img/36.png"
+			}
+		},
+		{
+			"name": "Blood",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Blood",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/GRM-files/img/37.png"
+			}
+		},
+		{
+			"name": "Otherworld Observer",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Eye",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/GRM-files/img/38.png"
+			}
+		},
+		{
+			"name": "Final Spell: Last Word",
+			"rarity": "mythic",
+			"mana_cost": "{7}",
+			"type": "Sorcery",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/GRM-files/img/39.png"
+			}
+		},
+		{
+			"name": "Magician's Broom",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/GRM-files/img/40.png"
+			}
+		},
+		{
+			"name": "Urban Legend in Limbo",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment — Saga",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/GRM-files/img/41.png"
+			}
+		},
+		{
+			"name": "Hopeless Masquerade",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Saga",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/GRM-files/img/42.png"
+			}
+		},
+		{
+			"name": "Antinomy of Common Flowers",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment — Saga",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/GRM-files/img/43.png"
+			}
+		},
+		{
+			"name": "Scarlet Weather Rhapsody",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Enchantment — Saga",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/GRM-files/img/44.png"
+			}
+		},
+		{
+			"name": "Immaterial and Missing Power",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment — Saga",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/GRM-files/img/45.png"
+			}
+		},
+		{
+			"name": "Sumireko, Last Occultist",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}{R}{W}",
+			"type": "Legendary Planeswalker — Sumireko",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/GRM-files/img/46.png"
+			}
+		},
+		{
+			"name": "Kasen, the Hermit Sage",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{B}{G}",
+			"type": "Legendary Planeswalker — Kasen",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/GRM-files/img/47.png"
+			}
+		},
+		{
+			"name": "Okina, Sage of Doors",
+			"rarity": "mythic",
+			"mana_cost": "{B}{G}{U}",
+			"type": "Legendary Planeswalker — Okina",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/GRM-files/img/48.png"
+			}
+		},
+		{
+			"name": "Shinki, Ordeal from God",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}{W}{B}",
+			"type": "Legendary Planeswalker — Shinki",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/GRM-files/img/49.png"
+			}
+		},
+		{
+			"name": "Yukari, Sage of Boundaries",
+			"rarity": "mythic",
+			"mana_cost": "{1}{G}{U}{R}",
+			"type": "Legendary Planeswalker — Yukari",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/GRM-files/img/50.png"
+			}
+		},
+		{
+			"name": "Spirit",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Spirit",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/GRM-files/img/51.png"
+			}
+		},
+		{
+			"name": "Spirit",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Spirit",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/GRM-files/img/52.png"
+			}
+		},
+		{
+			"name": "Faerie Army",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Faerie Army",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/GRM-files/img/53.png"
+			}
+		},
+		{
+			"name": "Wolf Spirit",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Wolf Spirit",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/GRM-files/img/54.png"
+			}
+		},
+		{
+			"name": "Youkai",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Youkai",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/GRM-files/img/55.png"
+			}
+		},
+		{
+			"name": "Vehicle",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Vehicle",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/GRM-files/img/56.png"
+			}
+		},
+		{
+			"name": "Demon",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Demon",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/GRM-files/img/57.png"
+			}
+		},
+		{
+			"name": "Dreamworld Doppelganger",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{R}{W}",
+			"type": "Legendary Creature — Avatar Wizard",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/GRM-files/img/58.png"
+			}
+		},
+		{
+			"name": "Bumper Crop",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/GRM-files/img/59.png"
+			}
+		},
+		{
+			"name": "Illusionary Dominance",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/GRM-files/img/60.png"
+			}
+		},
+		{
+			"name": "Price of Life",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/GRM-files/img/61.png"
+			}
+		},
+		{
+			"name": "Seamless Ceiling of Kinkaku-ji",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/GRM-files/img/62.png"
+			}
+		},
+		{
+			"name": "Poison Nail 「Undead Murderer」",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/GRM-files/img/63.png"
+			}
+		}
+	]
+
+[rare(1)]
+	1 Spark-Like Flashlight
+	1 Hell's Tokamak
+	2 Byakuren, Turbo Rider
+	2 Yamame, Bright Net in the Dark
+	1 Mini-Hakkero
+	1 Dance of Dazzling Iridescence
+	2 Lyrica, Solo Live
+	2 Yachie, Irresistable Matriarch
+	2 Koishi, Right Behind You
+	2 Saki, Charging Matriarch
+	1 Follow Me, Unafraid
+	2 Suika, Tiny Night Parade
+	2 Futo, Plate Breaker
+	2 Cirno, Summer Freeze
+	2 Sanae Kochiya
+	2 Miko, Almighty Tao
+	2 Flandre, Matara's Ace
+	2 Meiling, Dream Guardian
+	2 Youmu, Half-Phantom
+	2 Sakuya, Perfect and Elegant
+	1 Yuuma, Blood Titan
+	1 Final Spell: Last Word
+	1 Sumireko, Last Occultist
+	1 Kasen, the Hermit Sage
+	1 Okina, Sage of Doors
+	1 Shinki, Ordeal from God
+	1 Yukari, Sage of Boundaries
+	2 Dreamworld Doppelganger
+[uncommon(3)]
+	4 Gun Sign 「3D Printer Gun」
+	4 Spellbound Volume
+	4 Mob Swarm
+	4 Monstrous Minions
+	4 Zombie Fairy
+	4 Fey Inaba
+	4 Urban Legend in Limbo
+	4 Hopeless Masquerade
+	4 Antinomy of Common Flowers
+	4 Scarlet Weather Rhapsody
+	4 Immaterial and Missing Power
+[common(6)]
+	8 Matsuyoi-Reflecting Slash
+	8 Perfect Freeze
+	8 Just Dodge It, Bro
+	8 Full Focus
+	8 Pichuun!
+	8 Aerial Combat
+	8 Esoterica 「Forgotten Ritual」
+	8 For Her Sake
+	8 Spirit Sign 「Fantasy Seal」
+	8 Bitch, Get Out Of The Way!
+	8 Otherworld Observer
+	8 Magician's Broom
+	8 Bumper Crop
+	8 Illusionary Dominance
+	8 Price of Life
+	8 Seamless Ceiling of Kinkaku-ji
+	8 Poison Nail 「Undead Murderer」
+[common | masterpiece(1)]
+	8 Matsuyoi-Reflecting Slash
+	8 Perfect Freeze
+	8 Just Dodge It, Bro
+	8 Full Focus
+	8 Pichuun!
+	8 Aerial Combat
+	8 Esoterica 「Forgotten Ritual」
+	8 For Her Sake
+	8 Spirit Sign 「Fantasy Seal」
+	8 Bitch, Get Out Of The Way!
+	8 Otherworld Observer
+	8 Magician's Broom
+	8 Bumper Crop
+	8 Illusionary Dominance
+	8 Price of Life
+	8 Seamless Ceiling of Kinkaku-ji
+	8 Poison Nail 「Undead Murderer」
+[foil(1)]
+	12 Matsuyoi-Reflecting Slash
+	12 Perfect Freeze
+	1 Spark-Like Flashlight
+	12 Just Dodge It, Bro
+	12 Full Focus
+	1 Hell's Tokamak
+	2 Byakuren, Turbo Rider
+	2 Yamame, Bright Net in the Dark
+	6 Gun Sign 「3D Printer Gun」
+	1 Mini-Hakkero
+	1 Dance of Dazzling Iridescence
+	2 Lyrica, Solo Live
+	2 Yachie, Irresistable Matriarch
+	6 Spellbound Volume
+	2 Koishi, Right Behind You
+	12 Pichuun!
+	6 Mob Swarm
+	2 Saki, Charging Matriarch
+	1 Follow Me, Unafraid
+	2 Suika, Tiny Night Parade
+	12 Aerial Combat
+	6 Monstrous Minions
+	12 Esoterica 「Forgotten Ritual」
+	2 Futo, Plate Breaker
+	2 Cirno, Summer Freeze
+	2 Sanae Kochiya
+	2 Miko, Almighty Tao
+	2 Flandre, Matara's Ace
+	2 Meiling, Dream Guardian
+	2 Youmu, Half-Phantom
+	2 Sakuya, Perfect and Elegant
+	12 For Her Sake
+	12 Spirit Sign 「Fantasy Seal」
+	6 Zombie Fairy
+	6 Fey Inaba
+	12 Bitch, Get Out Of The Way!
+	1 Yuuma, Blood Titan
+	12 Otherworld Observer
+	1 Final Spell: Last Word
+	12 Magician's Broom
+	6 Urban Legend in Limbo
+	6 Hopeless Masquerade
+	6 Antinomy of Common Flowers
+	6 Scarlet Weather Rhapsody
+	6 Immaterial and Missing Power
+	1 Sumireko, Last Occultist
+	1 Kasen, the Hermit Sage
+	1 Okina, Sage of Doors
+	1 Shinki, Ordeal from God
+	1 Yukari, Sage of Boundaries
+	2 Dreamworld Doppelganger
+	12 Bumper Crop
+	12 Illusionary Dominance
+	12 Price of Life
+	12 Seamless Ceiling of Kinkaku-ji
+	12 Poison Nail 「Undead Murderer」
+[wildcard(1)]
+	6 Matsuyoi-Reflecting Slash
+	6 Perfect Freeze
+	4 Spark-Like Flashlight
+	6 Just Dodge It, Bro
+	6 Full Focus
+	4 Hell's Tokamak
+	7 Byakuren, Turbo Rider
+	7 Yamame, Bright Net in the Dark
+	15 Gun Sign 「3D Printer Gun」
+	4 Mini-Hakkero
+	4 Dance of Dazzling Iridescence
+	7 Lyrica, Solo Live
+	7 Yachie, Irresistable Matriarch
+	15 Spellbound Volume
+	7 Koishi, Right Behind You
+	6 Pichuun!
+	15 Mob Swarm
+	7 Saki, Charging Matriarch
+	4 Follow Me, Unafraid
+	7 Suika, Tiny Night Parade
+	6 Aerial Combat
+	15 Monstrous Minions
+	6 Esoterica 「Forgotten Ritual」
+	7 Futo, Plate Breaker
+	7 Cirno, Summer Freeze
+	7 Sanae Kochiya
+	7 Miko, Almighty Tao
+	7 Flandre, Matara's Ace
+	7 Meiling, Dream Guardian
+	7 Youmu, Half-Phantom
+	7 Sakuya, Perfect and Elegant
+	6 For Her Sake
+	6 Spirit Sign 「Fantasy Seal」
+	15 Zombie Fairy
+	15 Fey Inaba
+	6 Bitch, Get Out Of The Way!
+	4 Yuuma, Blood Titan
+	6 Otherworld Observer
+	4 Final Spell: Last Word
+	6 Magician's Broom
+	15 Urban Legend in Limbo
+	15 Hopeless Masquerade
+	15 Antinomy of Common Flowers
+	15 Scarlet Weather Rhapsody
+	15 Immaterial and Missing Power
+	4 Sumireko, Last Occultist
+	4 Kasen, the Hermit Sage
+	4 Okina, Sage of Doors
+	4 Shinki, Ordeal from God
+	4 Yukari, Sage of Boundaries
+	7 Dreamworld Doppelganger
+	6 Bumper Crop
+	6 Illusionary Dominance
+	6 Price of Life
+	6 Seamless Ceiling of Kinkaku-ji
+	6 Poison Nail 「Undead Murderer」

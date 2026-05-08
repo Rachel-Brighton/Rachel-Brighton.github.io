@@ -1,0 +1,1257 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>AKU</name>
+			<longname>Akyuu&apos;s Untouched Chronicle</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-05-08</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Sea of Tranquility</name>
+			<text>({T}: Add {W} or {U}.)
+This land enters tapped.
+When this land enters, you gain 1 life.</text>
+			<set rarity="uncommon" picurl="https://Rachel-Brighton.github.io/sets/AKU-files/img/0.png" num="59">AKU</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Plains Island</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+			<cipt>1</cipt>
+		</card>
+		<card>
+			<name>Genbu Ravine</name>
+			<text>({T}: Add {G} or {U}.)
+This land enters tapped.
+When this land enters, you gain 1 life.</text>
+			<set rarity="uncommon" picurl="https://Rachel-Brighton.github.io/sets/AKU-files/img/1.png" num="54">AKU</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Forest Island</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+			<cipt>1</cipt>
+		</card>
+		<card>
+			<name>Wonderful Heaven</name>
+			<text>({T}: Add {R} or {W}.)
+This land enters tapped.
+When this land enters, you gain 1 life.</text>
+			<set rarity="uncommon" picurl="https://Rachel-Brighton.github.io/sets/AKU-files/img/2.png" num="60">AKU</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Mountain Plains</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+			<cipt>1</cipt>
+		</card>
+		<card>
+			<name>Land of the Backdoor</name>
+			<text>({T}: Add {U} or {B}.)
+This land enters tapped.
+When this land enters, you gain 1 life.</text>
+			<set rarity="uncommon" picurl="https://Rachel-Brighton.github.io/sets/AKU-files/img/3.png" num="56">AKU</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Island Swamp</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+			<cipt>1</cipt>
+		</card>
+		<card>
+			<name>Probability Space Hypervessel</name>
+			<text>({T}: Add {U} or {R}.)
+This land enters tapped.
+When this land enters, you gain 1 life.</text>
+			<set rarity="uncommon" picurl="https://Rachel-Brighton.github.io/sets/AKU-files/img/4.png" num="58">AKU</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Island Mountain</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+			<cipt>1</cipt>
+		</card>
+		<card>
+			<name>Now, Until Your Final Breath</name>
+			<text>When this enchantment enters, exile each noncommander creature you control until this card leaves the battlefield.
+Commander creatures you control get +5/+5 and have vigilance, ward {5}, and &quot;This creature can block any number of creatures each combat.&quot;</text>
+			<set rarity="rare" picurl="https://Rachel-Brighton.github.io/sets/AKU-files/img/5.png" num="2">AKU</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Apparitions Stalk the Night</name>
+			<text>Target opponent sacrifices a creature of their choice.
+Create a 2/2 black Nightstalker creature token.</text>
+			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/AKU-files/img/6.png" num="11">AKU</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Nightstalker AKU</name>
+			<text></text>
+			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/AKU-files/img/7.png" num="6">AKU</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Nightstalker</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+			<reverse-related>Apparitions Stalk the Night</reverse-related>
+		</card>
+		<card>
+			<name>The White Rabbit&apos;s Trick</name>
+			<text>Until end of turn, target attacking creature you control can&apos;t be blocked except by target untapped creature defending player controls.</text>
+			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/AKU-files/img/8.png" num="20">AKU</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>The Purest Sky and Sea</name>
+			<text>Search your library for a card with a basic land type, reveal it, put it into your hand, then shuffle.</text>
+			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/AKU-files/img/9.png" num="23">AKU</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Ancient Sanctuary</name>
+			<text>({T}: Add {B} or {G}.)
+This land enters tapped.
+When this land enters, you gain 1 life.</text>
+			<set rarity="uncommon" picurl="https://Rachel-Brighton.github.io/sets/AKU-files/img/10.png" num="52">AKU</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Swamp Forest</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+			<cipt>1</cipt>
+		</card>
+		<card>
+			<name>Silent Sinner in Blue</name>
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Create a 1/1 white Rabbit creature token.
+II — Exile up to two target creatures you control until this Saga leaves the battlefield.
+III — Create a 1/1 white Spirit creature token with flying and a Food token.</text>
+			<set rarity="uncommon" picurl="https://Rachel-Brighton.github.io/sets/AKU-files/img/11.png" num="4">AKU</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related>Booze</related>
+		</card>
+		<card>
+			<name>Curiosities of Lotus Asia</name>
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Mill four cards, then you may return an artifact card from your graveyard to your hand.
+II — Investigate.
+III — You may sacrifice an artifact. When you do, scry X, where X is its mana value, then draw a card.</text>
+			<set rarity="uncommon" picurl="https://Rachel-Brighton.github.io/sets/AKU-files/img/12.png" num="6">AKU</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related>Notebook</related>
+		</card>
+		<card>
+			<name>Forbidden Scrollery</name>
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Create two 1/1 black and red Youkai creature tokens.
+II — Each player sacrifices a creature of their choice.
+III — Return up to one target Human creature card from your graveyard to the battlefield with a finality counter on it. It&apos;s no longer a Human.</text>
+			<set rarity="uncommon" picurl="https://Rachel-Brighton.github.io/sets/AKU-files/img/13.png" num="12">AKU</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Visionary Fairies in Shrine</name>
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — You may discard a card. If you do, draw two cards.
+II — Create two Treasure tokens.
+III — Sacrifice any number of artifacts, then amass Faeries X, where X is the number of artifacts sacrificed this way.</text>
+			<set rarity="uncommon" picurl="https://Rachel-Brighton.github.io/sets/AKU-files/img/14.png" num="19">AKU</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related>FairySwarm</related>
+		</card>
+		<card>
+			<name>Wild and Horned Hermit</name>
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Search your library for a nonlegendary creature card, reveal it, put it into your hand, then shuffle.
+II — Put two +1/+1 counters on up to one target creature.
+III — Until end of turn, target creature you control must be blocked if able and can&apos;t be blocked by more than one creature.</text>
+			<set rarity="uncommon" picurl="https://Rachel-Brighton.github.io/sets/AKU-files/img/15.png" num="25">AKU</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Magic is All About Power</name>
+			<text>Instant and sorcery spells you cast cost {2} more to cast.
+If an instant or sorcery spell you control would deal damage, it deals double that damage instead.</text>
+			<set rarity="mythic" picurl="https://Rachel-Brighton.github.io/sets/AKU-files/img/16.png" num="17">AKU</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Hellfire Mantle</name>
+			<text>({T}: Add {B} or {R}.)
+This land enters tapped.
+When this land enters, you gain 1 life.</text>
+			<set rarity="uncommon" picurl="https://Rachel-Brighton.github.io/sets/AKU-files/img/17.png" num="55">AKU</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Swamp Mountain</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+			<cipt>1</cipt>
+		</card>
+		<card>
+			<name>Netherworld Gates</name>
+			<text>({T}: Add {W} or {B}.)
+This land enters tapped.
+When this land enters, you gain 1 life.</text>
+			<set rarity="uncommon" picurl="https://Rachel-Brighton.github.io/sets/AKU-files/img/18.png" num="57">AKU</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Plains Swamp</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+			<cipt>1</cipt>
+		</card>
+		<card>
+			<name>Garden of the Sun</name>
+			<text>({T}: Add {G} or {W}.)
+This land enters tapped.
+When this land enters, you gain 1 life.</text>
+			<set rarity="uncommon" picurl="https://Rachel-Brighton.github.io/sets/AKU-files/img/19.png" num="53">AKU</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Forest Plains</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+			<cipt>1</cipt>
+		</card>
+		<card>
+			<name>Youkai Mountain</name>
+			<text>({T}: Add {R} or {G}.)
+This land enters tapped.
+When this land enters, you gain 1 life.</text>
+			<set rarity="uncommon" picurl="https://Rachel-Brighton.github.io/sets/AKU-files/img/20.png" num="61">AKU</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Mountain Forest</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+			<cipt>1</cipt>
+		</card>
+		<card>
+			<name>Immemorial Marketeer</name>
+			<text>When this enchantment enters, exile your hand until this card leaves the battlefield.
+Whenever a commander you control deals combat damage to an opponent, you may cast a card exiled with this enchantment without paying its mana cost.</text>
+			<set rarity="rare" picurl="https://Rachel-Brighton.github.io/sets/AKU-files/img/21.png" num="7">AKU</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Hidden Star in All Seasons</name>
+			<text>When this enchantment enters, exile each nonbasic land you control until this card leaves the battlefield.
+Commanders you cast cost {2} less to cast for each card exiled with this enchantment.</text>
+			<set rarity="rare" picurl="https://Rachel-Brighton.github.io/sets/AKU-files/img/22.png" num="22">AKU</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1GG</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Solar Sect of Mystic Wisdom</name>
+			<text>When this enchantment enters, exile the top fifteen cards of your library.
+Sacrifice a commander: You may cast any number of the exiled cards with total mana value X or less without paying their mana costs, where X is the mana value of the sacrificed commander.</text>
+			<set rarity="rare" picurl="https://Rachel-Brighton.github.io/sets/AKU-files/img/23.png" num="18">AKU</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1RR</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Grave of Being</name>
+			<text>When this enchantment enters, exile your graveyard.
+Commander creatures you control have flying as long as one of the exiled cards has flying. The same is true for first strike, double strike, deathtouch, dethrone, haste, hexproof, indestructible, lifelink, menace, protection, prowess, reach, trample, vigilance, and ward.</text>
+			<set rarity="rare" picurl="https://Rachel-Brighton.github.io/sets/AKU-files/img/24.png" num="13">AKU</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>The Gensokyo Chronicle</name>
+			<text>Instant and sorcery cards in your graveyard have flashback {2}{U}. (You may cast it from your graveyard for its flashback cost. Then exile it.)
+Creature cards in your graveyard have encore {2}{U}. (Exile it and pay its encore cost: For each opponent, create a token copy that attacks that opponent this turn if able. They gain haste. Sacrifice them at the beginning of the next end step. Activate only as a sorcery.)
+The Gensokyo Chronicle can be your commander.</text>
+			<set rarity="mythic" picurl="https://Rachel-Brighton.github.io/sets/AKU-files/img/25.png" num="9">AKU</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Enchantment Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>4UU</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Cheating Detective Satori</name>
+			<text>Menace
+Mind Reader — When Satori enters, for each opponent, that player reveals their hand and you investigate. (Create a Clue token. It&apos;s an artifact with &quot;{2}, Sacrifice this token: Draw a card.&quot;)
+{2}, {T}, Sacrifice a Clue: Exile target card from an opponent&apos;s graveyard. Until end of turn, you may cast that card and mana of any type may be spent to cast it.</text>
+			<set rarity="rare" picurl="https://Rachel-Brighton.github.io/sets/AKU-files/img/26.png" num="28">AKU</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Youkai Detective</type>
+				<maintype>Creature</maintype>
+				<manacost>UB</manacost>
+				<cmc>2</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Aya, Reporter of Fantasy</name>
+			<text>Flash
+Flying, haste
+Candid Shot — When Aya enters, look at target player&apos;s hand and choose a card in it. That player reveals that card, and Aya deals damage to them equal to its mana value.
+{3}{U}{R}: Return Aya to her owner&apos;s hand.</text>
+			<set rarity="rare" picurl="https://Rachel-Brighton.github.io/sets/AKU-files/img/27.png" num="27">AKU</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Bird Youkai</type>
+				<maintype>Creature</maintype>
+				<manacost>1UR</manacost>
+				<cmc>3</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mizuchi, Traitor to Humanity</name>
+			<text>Lifelink
+When Mizuchi enters, each player creates a 1/1 black and red Youkai creature token.
+Casualty of the Great Barrier — When Mizuchi dies, each opponent sacrifices a nontoken creature of their choice. Each player who can&apos;t discards a card.</text>
+			<set rarity="rare" picurl="https://Rachel-Brighton.github.io/sets/AKU-files/img/28.png" num="32">AKU</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Deserter</type>
+				<maintype>Creature</maintype>
+				<manacost>1WB</manacost>
+				<cmc>3</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Reimu, Spirits&apos; Grudge</name>
+			<text>Ward—Pay 5 life.
+Reimu enters with an additional +1/+1 counter for each other Spirit you control and each Spirit in your graveyard.
+Whenever a creature dealt damage by Reimu this turn dies, put a +1/+1 counter on her, then each opponent loses 2 life.</text>
+			<set rarity="rare" picurl="https://Rachel-Brighton.github.io/sets/AKU-files/img/29.png" num="35">AKU</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Spirit Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>3RWB</manacost>
+				<cmc>6</cmc>
+				<colors>WBR</colors>
+				<coloridentity>WBR</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mysterious Medicine Merchant</name>
+			<text>When Mysterious Medicine Merchant enters, each other creature you control gains persist until end of turn. (When it dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner&apos;s control with a -1/-1 counter on it.)
+Discard a card: Remove all counters from target creature you control.</text>
+			<set rarity="rare" picurl="https://Rachel-Brighton.github.io/sets/AKU-files/img/30.png" num="33">AKU</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Rabbit Youkai</type>
+				<maintype>Creature</maintype>
+				<manacost>1BR</manacost>
+				<cmc>3</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Kappa Tinkerers</name>
+			<text>Artifacts and other Artificers you control have &quot;{4}, {T}: Draw a card.&quot;</text>
+			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/AKU-files/img/31.png" num="8">AKU</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Turtle Youkai Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Choujuu Gigaku</name>
+			<text>Whenever you cast your first spell during each opponent&apos;s turn, goad up to three target creatures that player controls. (Until your next turn, that creature attacks each combat if able and attacks a player other than you if able.)</text>
+			<set rarity="rare" picurl="https://Rachel-Brighton.github.io/sets/AKU-files/img/32.png" num="29">AKU</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Youkai Rebel Bard</type>
+				<maintype>Creature</maintype>
+				<manacost>UBR</manacost>
+				<cmc>3</cmc>
+				<colors>UBR</colors>
+				<coloridentity>UBR</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Remote-Work Zashiki-Warashi</name>
+			<text>When this creature enters, you gain 2 life.
+Reinforce 1—{W} ({W}, Discard this card: Put a +1/+1 counter on target creature.)
+Cycling {2} ({2}, Discard this card: Draw a card.)</text>
+			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/AKU-files/img/33.png" num="3">AKU</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Youkai Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Helpful Hofgoblin</name>
+			<text>When this creature enters, untap another target creature you control. Until end of turn, it gets +1/+1 and gains vigilance and trample.</text>
+			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/AKU-files/img/34.png" num="21">AKU</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Goblin</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lord Tenma&apos;s Command</name>
+			<text>Choose two —
+• Target player creates two 1/1 white Bird Youkai creature tokens with flying and vigilance.
+• Airbend target creature. (Exile it. While it&apos;s exiled, its owner may cast it for {2} rather than its mana cost.)
+• Lord Tenma&apos;s Command deals 5 damage to target attacking or blocking creature.
+• Two target players each draw a card.</text>
+			<set rarity="mythic" picurl="https://Rachel-Brighton.github.io/sets/AKU-files/img/35.png" num="1">AKU</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Those Were Good Pills</name>
+			<text>Return target creature card with mana value 2 or less from your graveyard to the battlefield.</text>
+			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/AKU-files/img/36.png" num="5">AKU</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Thirst for Companionship</name>
+			<text>Draw three cards. Then discard two cards unless you discard a legendary card.</text>
+			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/AKU-files/img/37.png" num="10">AKU</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Reduce to Vapor</name>
+			<text>Exile target creature or enchantment. You lose 3 life.</text>
+			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/AKU-files/img/38.png" num="15">AKU</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Fairy Menace</name>
+			<text>Menace
+Whenever this creature attacks, add {R}. Until end of turn, you don&apos;t lose this mana as steps and phases end.</text>
+			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/AKU-files/img/39.png" num="16">AKU</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Faerie Pest</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Twin Spark</name>
+			<text>(You may cast a legendary instant only if you control a legendary creature or planeswalker.)
+Target creature you control gets +X/+0 until end of turn. It deals X damage to up to one target creature an opponent controls.</text>
+			<set rarity="mythic" picurl="https://Rachel-Brighton.github.io/sets/AKU-files/img/40.png" num="24">AKU</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>XGG</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Raiko, Guest Drummer</name>
+			<text>Double strike
+Bards you control have &quot;Whenever an ability of this creature triggers, you may copy it and you may choose new targets for the copy. Do this only once each turn.&quot;</text>
+			<set rarity="rare" picurl="https://Rachel-Brighton.github.io/sets/AKU-files/img/41.png" num="34">AKU</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Youkai Bard</type>
+				<maintype>Creature</maintype>
+				<manacost>1RW</manacost>
+				<cmc>3</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Aunn, Temple Helper</name>
+			<text>When Aunn enters, return up to one target God you control or God card in your graveyard to its owner&apos;s hand.
+Whenever a God enters the battlefield under your control, you gain 2 life and draw a card.</text>
+			<set rarity="rare" picurl="https://Rachel-Brighton.github.io/sets/AKU-files/img/42.png" num="26">AKU</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Dog Golem Youkai</type>
+				<maintype>Creature</maintype>
+				<manacost>2GW</manacost>
+				<cmc>4</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mamizou, Ever Watching</name>
+			<text>When Mamizou enters, for each player, choose up to one other nonland permanent they control. Return the chosen permanents to their owner&apos;s hands.
+Whenever you cast a spell, create a 1/1 black and red Youkai creature token.</text>
+			<set rarity="rare" picurl="https://Rachel-Brighton.github.io/sets/AKU-files/img/43.png" num="31">AKU</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Dog Youkai</type>
+				<maintype>Creature</maintype>
+				<manacost>3GU</manacost>
+				<cmc>5</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Faerie Army AKU</name>
+			<text></text>
+			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/AKU-files/img/44.png" num="5">AKU</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Faerie Army</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+			<reverse-related>Visionary Fairies in Shrine</reverse-related>
+			<reverse-related>Great Fairies</reverse-related>
+		</card>
+		<card>
+			<name>Enenra</name>
+			<text>When this creature enters, each player loses 3 life unless they sacrifice a nonland permanent or discard a card.</text>
+			<set rarity="uncommon" picurl="https://Rachel-Brighton.github.io/sets/AKU-files/img/45.png" num="38">AKU</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental Youkai</type>
+				<maintype>Creature</maintype>
+				<manacost>B/R</manacost>
+				<cmc>1</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Great Fairies</name>
+			<text>Vigilance
+When this creature enters, amass Faeries 3. (Put three +1/+1 counters on an Army you control. It&apos;s also a Faerie. If you don&apos;t control an Army, create a 0/0 black Faerie Army creature token first.)
+Other Faeries you control have vigilance.</text>
+			<set rarity="uncommon" picurl="https://Rachel-Brighton.github.io/sets/AKU-files/img/46.png" num="39">AKU</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Faerie</type>
+				<maintype>Creature</maintype>
+				<manacost>4G/W</manacost>
+				<cmc>5</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Kitsune Impostor</name>
+			<text>Haste
+Whenever this creature attacks, you may have it become a copy of another target creature you control until end of turn, except it&apos;s still a 3/2 Fox Youkai and isn&apos;t legendary.</text>
+			<set rarity="uncommon" picurl="https://Rachel-Brighton.github.io/sets/AKU-files/img/47.png" num="40">AKU</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Fox Youkai</type>
+				<maintype>Creature</maintype>
+				<manacost>2R/G</manacost>
+				<cmc>3</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>A Little Sin</name>
+			<text>Flying
+Whenever you gain life, put a +1/+1 counter on target creature you control. This ability triggers only once each turn.</text>
+			<set rarity="uncommon" picurl="https://Rachel-Brighton.github.io/sets/AKU-files/img/48.png" num="41">AKU</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Angel</type>
+				<maintype>Creature</maintype>
+				<manacost>1W/B</manacost>
+				<cmc>2</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Magician&apos;s Companion</name>
+			<text>Wizards you cast cost {1} less to cast.
+Wizards you control have &quot;Instant and sorcery spells you cast cost {1} less to cast.&quot;</text>
+			<set rarity="uncommon" picurl="https://Rachel-Brighton.github.io/sets/AKU-files/img/49.png" num="42">AKU</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cat</type>
+				<maintype>Creature</maintype>
+				<manacost>1U/R</manacost>
+				<cmc>2</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Shadow Mirror</name>
+			<text>Flying
+When this creature enters, any number of target players each mill five cards.
+Warp {1}{UB} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)</text>
+			<set rarity="uncommon" picurl="https://Rachel-Brighton.github.io/sets/AKU-files/img/50.png" num="43">AKU</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Shade Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>3U/B</manacost>
+				<cmc>4</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Spirit Mirror</name>
+			<text>Flying
+You have ward {5}. (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {5}.)</text>
+			<set rarity="uncommon" picurl="https://Rachel-Brighton.github.io/sets/AKU-files/img/51.png" num="44">AKU</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Spirit Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>1W/U</manacost>
+				<cmc>2</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Spirit of the Hakurei Relic</name>
+			<text>Orbs, Clerics, and Gods you control get +1/+0.</text>
+			<set rarity="uncommon" picurl="https://Rachel-Brighton.github.io/sets/AKU-files/img/52.png" num="45">AKU</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Faerie Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>1R/W</manacost>
+				<cmc>2</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Tanuki Impostor</name>
+			<text>Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+Whenever you cast a noncreature spell during an opponent&apos;s turn, untap this creature. It gains reach until end of turn.</text>
+			<set rarity="uncommon" picurl="https://Rachel-Brighton.github.io/sets/AKU-files/img/53.png" num="46">AKU</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dog Youkai</type>
+				<maintype>Creature</maintype>
+				<manacost>2G/U</manacost>
+				<cmc>3</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>TORIFUNE Monstrosity</name>
+			<text>When this creature enters, you may sacrifice another creature. When you do, this creature deals damage equal to its power to target creature an opponent controls.</text>
+			<set rarity="uncommon" picurl="https://Rachel-Brighton.github.io/sets/AKU-files/img/54.png" num="47">AKU</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Horror Chimera</type>
+				<maintype>Creature</maintype>
+				<manacost>4B/GB/G</manacost>
+				<cmc>6</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Tenshi, Earthbound</name>
+			<text>Basic lands you control have &quot;{T}: Add one mana of any color.&quot;
+Artifact tokens you control have &quot;{2}, {T}, Sacrifice this token: You gain 4 life.&quot;</text>
+			<set rarity="rare" picurl="https://Rachel-Brighton.github.io/sets/AKU-files/img/55.png" num="36">AKU</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Mystic</type>
+				<maintype>Creature</maintype>
+				<manacost>1RG</manacost>
+				<cmc>3</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>A Discerning Customer</name>
+			<text>In that case, I&apos;ll be blunt — Whenever a land you control enters, create a Food token.
+Where did you get this third-rate swill? — Whenever you sacrifice a Food, each opponent loses 3 life.</text>
+			<set rarity="rare" picurl="https://Rachel-Brighton.github.io/sets/AKU-files/img/56.png" num="30">AKU</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — God</type>
+				<maintype>Creature</maintype>
+				<manacost>2BG</manacost>
+				<cmc>4</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Whitewater Champions</name>
+			<text>When Whitewater Champions enter, target nonbasic land becomes an Island for as long as you control this creature.
+Tap a creature you control with 1 power: Until end of turn, Whitewater Champions can&apos;t be blocked.</text>
+			<set rarity="rare" picurl="https://Rachel-Brighton.github.io/sets/AKU-files/img/57.png" num="37">AKU</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Merfolk Dwarf Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>WU</manacost>
+				<cmc>2</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Personalized Fortune Slip</name>
+			<text>When this artifact enters, choose a legendary creature card name.
+Spells you cast with the chosen name cost {1} less to cast.
+Creatures you control with the chosen name get +1/+1.</text>
+			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/AKU-files/img/58.png" num="49">AKU</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Youkai AKU</name>
+			<text></text>
+			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/AKU-files/img/59.png" num="7">AKU</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Youkai</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>BR</colors>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+			<reverse-related count="2">Forbidden Scrollery</reverse-related>
+			<reverse-related>Mamizou, Ever Watching</reverse-related>
+			<reverse-related count="3">Kosuzu, Curious Youth</reverse-related>
+			<reverse-related count="2">Oni of the Night Parade</reverse-related>
+		</card>
+		<card>
+			<name>Rabbit AKU</name>
+			<text></text>
+			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/AKU-files/img/60.png" num="3">AKU</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Rabbit</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+			<reverse-related>Silent Sinner in Blue</reverse-related>
+		</card>
+		<card>
+			<name>Roukanken and Hakurouken</name>
+			<text>Equipped creature gets +2/+2.
+As long as equipped creature is attacking, it has double strike.
+Whenever equipped creature deals combat damage, draw a card.
+Equip {4}</text>
+			<set rarity="rare" picurl="https://Rachel-Brighton.github.io/sets/AKU-files/img/61.png" num="50">AKU</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>5</manacost>
+				<cmc>5</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Iron Rings of Moriya</name>
+			<text>Equipped creature gets +1/+0 and has vigilance and menace.
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)
+Equip God {0} ({0}: Attach to target God creature you control. Equip only as a sorcery.)</text>
+			<set rarity="uncommon" picurl="https://Rachel-Brighton.github.io/sets/AKU-files/img/62.png" num="48">AKU</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Bird Youkai AKU</name>
+			<text>Flying, vigilance</text>
+			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/AKU-files/img/63.png" num="2">AKU</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Bird Youkai</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+			<reverse-related count="2">Lord Tenma&apos;s Command</reverse-related>
+		</card>
+		<card>
+			<name>Spirit AKU</name>
+			<text>Flying</text>
+			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/AKU-files/img/64.png" num="4">AKU</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+			<reverse-related>Silent Sinner in Blue</reverse-related>
+		</card>
+		<card>
+			<name>Food AKU</name>
+			<text>{2}, {T}, Sacrifice this artifact: You gain 3 life.</text>
+			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/AKU-files/img/65.png" num="9">AKU</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact — Food</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+			<reverse-related>Silent Sinner in Blue</reverse-related>
+			<reverse-related>A Discerning Customer</reverse-related>
+		</card>
+		<card>
+			<name>Clue AKU</name>
+			<text>{2}, Sacrifice this artifact: Draw a card.</text>
+			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/AKU-files/img/66.png" num="8">AKU</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact — Clue</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Copy AKU</name>
+			<text>This token can be used to represent a copy of something else.</text>
+			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/AKU-files/img/67.png" num="1">AKU</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token</type>
+				<maintype>Token</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Oni of the Night Parade</name>
+			<text>Menace
+Whenever this creature enters or deals combat damage to an opponent, up to one Human you control becomes a Deserter in addition to its other types. Create two 1/1 red and black Youkai creature tokens.
+Deserters you control get +2/+2 and have indestructible.</text>
+			<set rarity="mythic" picurl="https://Rachel-Brighton.github.io/sets/AKU-files/img/68.png" num="14">AKU</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Demon Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>2BBB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Stone Cherry</name>
+			<text>You may exile a creature card from your graveyard instead of paying this spell&apos;s mana cost.
+When this artifact enters, scry 1, then put a +1/+1 counter on up to one creature you control.</text>
+			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/AKU-files/img/69.png" num="51">AKU</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+	</cards>
+</cockatrice_carddatabase>

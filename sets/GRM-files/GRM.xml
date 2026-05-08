@@ -1,0 +1,1157 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>GRM</name>
+			<longname></longname>
+			<settype>Custom</settype>
+			<releasedate>2026-05-08</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Matsuyoi-Reflecting Slash</name>
+			<text>Destroy target artifact or enchantment. Untap up to one target creature you control.</text>
+			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/0.png" num="5">GRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Perfect Freeze</name>
+			<text>Kicker—{U}, Tap an untapped Faerie you control. (You may pay an additional {U} and tap an untapped Faerie you control as you cast this spell.)
+Tap target creature and put three stun counters on it. If this spell was kicked, put nine stun counters on it instead.</text>
+			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/1.png" num="11">GRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Spark-Like Flashlight</name>
+			<text>(You may cast a legendary instant only if you control a legendary creature or planeswalker.)
+Target creature gets -X/-0 until end of turn. Tap it. Its controller mills twice X cards.</text>
+			<set rarity="mythic" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/2.png" num="13">GRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>XU</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Just Dodge It, Bro</name>
+			<text>Until end of turn, creatures your opponents control lose hexproof, ward, protection, and indestructible and can&apos;t have or gain those abilities.</text>
+			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/3.png" num="17">GRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Full Focus</name>
+			<text>Target creature you control deals damage equal to its power to target creature an opponent controls. If excess damage was dealt this way, create a Treasure token.</text>
+			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/4.png" num="24">GRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Hell&apos;s Tokamak</name>
+			<text>Add seven {R}. Spend this mana only to cast legendary spells or activate the abilities of legendary permanents.</text>
+			<set rarity="mythic" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/5.png" num="25">GRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1RRR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Byakuren, Turbo Rider</name>
+			<text>Start your engines! (If you have no speed, it starts at 1. It increases once on each of your turns when an opponent loses life. Max speed is 4.)
+When Byakuren enters, create a 3/2 colorless Vehicle artifact token with crew 1.
+Max Speed — Byakuren and Vehicles you control get +2/+2 and have vigilance.</text>
+			<set rarity="rare" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/6.png" num="37">GRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Wizard Monk</type>
+				<maintype>Creature</maintype>
+				<manacost>WU</manacost>
+				<cmc>2</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Yamame, Bright Net in the Dark</name>
+			<text>Web-slinging {B}{G} (You may cast this spell for {B}{G} if you also return a tapped creature you control to its owner&apos;s hand.)
+Reach
+Venom Web — When Yamame enters, put a -1/-1 counter on each tapped creature.</text>
+			<set rarity="rare" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/7.png" num="50">GRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Spider Youkai</type>
+				<maintype>Creature</maintype>
+				<manacost>2BG</manacost>
+				<cmc>4</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Gun Sign 「3D Printer Gun」</name>
+			<text>{7}, {T}, Sacrifice this artifact: Destroy target permanent.
+{T}, Remove two loyalty counters from a planeswalker you control, Sacrifice this artifact: Destroy target permanent.</text>
+			<set rarity="uncommon" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/8.png" num="53">GRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Mini-Hakkero</name>
+			<text>Noncreature spells you cast cost {1} less to cast.
+{1}, {T}, Discard a card: Draw a card, then exile the top card of your library. Until your next turn, you may play the exiled card.</text>
+			<set rarity="mythic" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/9.png" num="55">GRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Dance of Dazzling Iridescence</name>
+			<text>Until end of turn, creatures you control are 4/4 and have flying and vigilance.</text>
+			<set rarity="mythic" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/10.png" num="2">GRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4WW</manacost>
+				<cmc>6</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Lyrica, Solo Live // Phantom Noise</name>
+			<text>Flying
+Lyrica enters with two additional +1/+1 counters on her if a creature you control left the battlefield this turn.
+
+---
+
+Exile target creature you control, then return it to the battlefield under its owner&apos;s control.</text>
+			<set rarity="rare" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/11.png" num="4">GRM</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Legendary Creature — Spirit Bard // Instant — Adventure</type>
+				<maintype>Creature</maintype>
+				<manacost>1W // W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Yachie, Irresistable Matriarch // From the Rear</name>
+			<text>Flash
+Whenever one or more creatures deal combat damage to one of your opponents, the attacking player draws a card.
+
+---
+
+Target creature can&apos;t be blocked this turn.</text>
+			<set rarity="rare" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/12.png" num="15">GRM</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Legendary Creature — Dragon Turtle Spirit // Instant — Adventure</type>
+				<maintype>Creature</maintype>
+				<manacost>2U // U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Spellbound Volume</name>
+			<text>Flying
+When this creature enters, scry 2.
+Whenever this creature deals combat damage to a player, draw a card, then discard a card.</text>
+			<set rarity="uncommon" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/13.png" num="14">GRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Book Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Koishi, Right Behind You // Answer the Phone</name>
+			<text>Deathtouch
+When Koishi enters, you may discard a card. If you do, she gains haste and shadow until end of turn. (This creature can block or be blocked by only creatures with shadow.)
+
+---
+
+You draw a card and lose 1 life.</text>
+			<set rarity="rare" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/14.png" num="18">GRM</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Legendary Creature — Youkai // Instant — Adventure</type>
+				<maintype>Creature</maintype>
+				<manacost>2B // B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Pichuun!</name>
+			<text>This spell costs {2} less to cast if it targets a creature that was dealt damage this turn.
+Destroy target creature.</text>
+			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/15.png" num="19">GRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Mob Swarm</name>
+			<text>Flying
+Whenever you attack, amass faeries 1 (Put a +1/+1 counter on an Army you control. It&apos;s also a Faerie. If you don&apos;t control an Army, create a 0/0 black Faerie Army creature token first.)</text>
+			<set rarity="uncommon" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/16.png" num="27">GRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Orb Faerie</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Saki, Charging Matriarch // Devilish Beasts</name>
+			<text>Trample
+Whenever an attacking creature you control dies, Saki deals 1 damage to each opponent.
+
+---
+
+Create a 3/1 red Wolf Spirit creature token with haste and &quot;This creature must attack each combat if able.&quot;</text>
+			<set rarity="rare" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/17.png" num="28">GRM</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Legendary Creature — Pegasus Spirit // Sorcery — Adventure</type>
+				<maintype>Creature</maintype>
+				<manacost>2R // 1R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Follow Me, Unafraid</name>
+			<text>Look at the top seven cards of your library. You may cast any number of creature spells from among them. Put the rest on the bottom of your library in a random order.</text>
+			<set rarity="mythic" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/18.png" num="33">GRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>GG</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Suika, Tiny Night Parade // Missing Power</name>
+			<text>When Suika enters, create a 1/1 black and red Youkai creature token for each creature you control with a counter on it.
+
+---
+
+Distribute two +1/+1 counters among one or two target creatures.</text>
+			<set rarity="rare" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/19.png" num="36">GRM</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Legendary Creature — Demon // Sorcery — Adventure</type>
+				<maintype>Creature</maintype>
+				<manacost>4G // 1G</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Aerial Combat</name>
+			<text>Choose one —
+• Target creature you control fights target creature you don&apos;t control.
+• Target creature you control deals damage equal to twice its power to target creature you don&apos;t control with flying.</text>
+			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/20.png" num="30">GRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Monstrous Minions</name>
+			<text>Changeling (This card is every creature type.)
+Trample
+When this creature enters, choose a creature type.
+Other creatures you control of the chosen type get +1/+1 and have trample.</text>
+			<set rarity="uncommon" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/21.png" num="35">GRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Youkai</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Esoterica 「Forgotten Ritual」</name>
+			<text>Untap target creature. It gets +3/+3 and gains reach until end of turn.</text>
+			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/22.png" num="32">GRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Futo, Plate Breaker</name>
+			<text>Firebending 2 (Whenever this creature attacks, add {R}{R}. This mana lasts until end of combat.)
+Boast — {1}: The next Equipment, Aura, or sorcery spell you cast this turn may be cast as though it had flash. When an Equipment you cast this way enters, attach it to target creature you control. (Activate only if this creature attacked this turn and only once each turn.)</text>
+			<set rarity="rare" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/23.png" num="41">GRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Mystic</type>
+				<maintype>Creature</maintype>
+				<manacost>2RW</manacost>
+				<cmc>4</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cirno, Summer Freeze</name>
+			<text>Flying
+Perfect Summer Ice — Whenever Cirno deals combat damage to a player, you may pay {1}. When you do, draw a card, then put a stun counter on up to one target tapped creature.</text>
+			<set rarity="rare" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/24.png" num="38">GRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Faerie</type>
+				<maintype>Creature</maintype>
+				<manacost>UR</manacost>
+				<cmc>2</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sanae Kochiya</name>
+			<text>Flying
+Gray Thaumaturgy — Whenever Sanae deals combat damage to an opponent, reveal the top card of your library. Put it onto the battlefield tapped if it&apos;s a land. Otherwise, you may cast that card and it costs {2} less to cast.</text>
+			<set rarity="rare" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/25.png" num="47">GRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human God</type>
+				<maintype>Creature</maintype>
+				<manacost>2GU</manacost>
+				<cmc>4</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Miko, Almighty Tao</name>
+			<text>Indestructible
+Whenever Miko attacks, defending player faces a villainous choice — They lose 3 life and discard a card, or you put two +1/+1 counters on Miko and draw a card.</text>
+			<set rarity="rare" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/26.png" num="44">GRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Mystic Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>3WB</manacost>
+				<cmc>5</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Flandre, Matara&apos;s Ace</name>
+			<text>Flying
+{BR}: Flandre gets +1/+0 until end of turn.
+Scarlet Nihility — Whenever Flandre deals combat damage to a player, that player sacrifices a permanent with mana value equal to the damage dealt.</text>
+			<set rarity="rare" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/27.png" num="40">GRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Vampire Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>BBRR</manacost>
+				<cmc>4</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Meiling, Dream Guardian</name>
+			<text>Vigilance
+If noncombat damage would be dealt to Meiling, prevent that damage and put a +1/+1 counter on her.</text>
+			<set rarity="rare" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/28.png" num="43">GRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Youkai</type>
+				<maintype>Creature</maintype>
+				<manacost>2RG</manacost>
+				<cmc>4</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Youmu, Half-Phantom</name>
+			<text>Vigilance
+When Youmu enters, you may attach an equipment you control to her.
+Whenever Youmu deals combat damage while attacking, create a 1/1 white Spirit creature token with flying.</text>
+			<set rarity="rare" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/29.png" num="51">GRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Spirit Samurai</type>
+				<maintype>Creature</maintype>
+				<manacost>1GW</manacost>
+				<cmc>3</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sakuya, Perfect and Elegant</name>
+			<text>Flash
+Ricochet Knife — When Sakuya enters, copy target activated or triggered ability. You may choose new targets for the copy.</text>
+			<set rarity="rare" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/30.png" num="46">GRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost>UB</manacost>
+				<cmc>2</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>For Her Sake</name>
+			<text>Surveil 3, then exile the top card of your library. Until your next turn, you may play that card. (To surveil 3, look at the top three cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
+			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/31.png" num="23">GRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Spirit Sign 「Fantasy Seal」</name>
+			<text>Target player sacrifices an attacking creature of their choice.
+You gain 4 life.</text>
+			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/32.png" num="7">GRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>WW</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Zombie Fairy</name>
+			<text>Flying
+When this creature dies, each opponent loses 2 life. Create a 1/1 white Spirit creature token with flying.</text>
+			<set rarity="uncommon" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/33.png" num="22">GRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie Faerie</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Fey Inaba</name>
+			<text>Flying
+{4}{W}{W}: Create three 1/1 white Spirit creature tokens with flying. Activate this ability only once.</text>
+			<set rarity="uncommon" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/34.png" num="3">GRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Faerie Rabbit</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bitch, Get Out Of The Way!</name>
+			<text>This spell costs {1} less to cast while you control an attacking creature.
+Return target nonland permanent to its owner&apos;s hand.</text>
+			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/35.png" num="9">GRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Yuuma, Blood Titan</name>
+			<text>Indestructible
+Whenever Yuuma enters or attacks, create two Blood tokens. (They&apos;re artifacts with &quot;{1}, {T}, Discard a card, Sacrifice this token: Draw a card.&quot;)
+At the beginning of your end step, you may sacrifice any number of artifacts. You lose X life and put X +1/+1 counters on Yuuma, where X is the number of artifacts sacrificed this way.</text>
+			<set rarity="mythic" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/36.png" num="21">GRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Giant Goat Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>4BB</manacost>
+				<cmc>6</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Blood GRM</name>
+			<text>{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.</text>
+			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/37.png" num="7">GRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact — Blood</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+			<reverse-related count="2">Yuuma, Blood Titan</reverse-related>
+			<reverse-related>Okina, Sage of Doors</reverse-related>
+		</card>
+		<card>
+			<name>Otherworld Observer</name>
+			<text>Whenever this creature attacks, you may move a counter from another permanent you control onto this creature.</text>
+			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/38.png" num="56">GRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Eye</type>
+				<maintype>Creature</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Final Spell: Last Word</name>
+			<text>Return target creature card from your graveyard to the battlefield. It gets +5/+5 and gains haste until end of turn. Exile that creature at the beginning of the next end step.</text>
+			<set rarity="mythic" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/39.png" num="1">GRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>7</manacost>
+				<cmc>7</cmc>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Magician&apos;s Broom</name>
+			<text>Equipped creature has flying, haste, and prowess.
+Equip {1}</text>
+			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/40.png" num="54">GRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Urban Legend in Limbo</name>
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Create two 1/1 white Spirit creature tokens with flying.
+II — Until end of turn, whenever a creature you control attacks, put a +1/+1 counter on it.
+III — You may reveal a Legendary card you own from outside the game and put it into your hand.</text>
+			<set rarity="uncommon" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/41.png" num="8">GRM</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related count="2">Hasshaku</related>
+		</card>
+		<card>
+			<name>Hopeless Masquerade</name>
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Until your next turn, creatures you don&apos;t control get -2/-0.
+II — Draw two cards, then discard a card.
+III — Another target artifact or enchantment you control becomes a 5/5 Spirit creature in addition to its other types.</text>
+			<set rarity="uncommon" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/42.png" num="10">GRM</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Antinomy of Common Flowers</name>
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — You draw 2 cards and lose 2 life.
+II — Target player discards two cards.
+III — Each opponent loses X life and you gain X life, where X is the greatest power among creatures you control.</text>
+			<set rarity="uncommon" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/43.png" num="16">GRM</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Scarlet Weather Rhapsody</name>
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — You may discard a card. If you do, draw two cards.
+II — Add {R}{R}. Until end of turn, you don&apos;t lose this mana as steps and phases end.
+III — Return up to one card from your graveyard to your hand that&apos;s an instant, sorcery, and/or has an Adventure.</text>
+			<set rarity="uncommon" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/44.png" num="29">GRM</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2RR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Immaterial and Missing Power</name>
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — You gain 4 life.
+II — Goad two target creatures. (Until your next turn, those creatures attack each combat if able and attack a player other than you if able.)
+III — The next creature spell you cast this turn costs {G}.</text>
+			<set rarity="uncommon" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/45.png" num="34">GRM</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Sumireko, Last Occultist</name>
+			<text>Whenever you cast a noncreature spell, you may remove three loyalty counters from Sumireko. When you do, copy that spell and you may choose new targets for the copy.
+[+1]: Mill two cards, then draw a card.
+[0]: Exile Sumireko. Return her to the battlefield under her owner&apos;s control at the beginning of the next end step.
+[-5]: Sumireko deals 5 damage to any target. If a permanent dealt damage this way would die this turn, instead exile it and you may cast it for as long as it remains exiled.</text>
+			<set rarity="mythic" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/46.png" num="49">GRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Sumireko</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>1URW</manacost>
+				<cmc>4</cmc>
+				<colors>WUR</colors>
+				<coloridentity>WUR</coloridentity>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Kasen, the Hermit Sage</name>
+			<text>[+2]: Until end of turn, Kasen becomes a 6/6 Demon Mystic creature with indestructible, trample, and haste. (She doesn&apos;t lose loyalty while she&apos;s not a planeswalker.)
+[-3]: Exile target nonland permanent.
+[-5]: You may put a creature card from your hand or graveyard onto the battlefield. It gains indestructible, trample, and haste until end of turn.</text>
+			<set rarity="mythic" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/47.png" num="42">GRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Kasen</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>2WBG</manacost>
+				<cmc>5</cmc>
+				<colors>WBG</colors>
+				<coloridentity>WBG</coloridentity>
+				<loyalty>4</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Okina, Sage of Doors</name>
+			<text>[+1]: Put a +1/+1 counter on up to one target creature. It must be blocked this turn if able.
+[0]: Surveil 3. Create a Blood token.
+[-7]: Gain control of target creature. It gains haste until end of turn.</text>
+			<set rarity="mythic" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/48.png" num="45">GRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Okina</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>BGU</manacost>
+				<cmc>3</cmc>
+				<colors>UBG</colors>
+				<coloridentity>UBG</coloridentity>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Shinki, Ordeal from God</name>
+			<text>Whenever you activate a loyalty ability of Shinki, create a 2/2 black Demon creature token with menace.
+[+1]: Shinki deals 2 damage to any target.
+[0]: Add three mana in any combination of {R}, {W}, and/or {B}.
+[-6]: Each opponent sacrifices a creature. Each opponent who can&apos;t discards a card. Repeat this process for an artifact and an enchantment.</text>
+			<set rarity="mythic" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/49.png" num="48">GRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Shinki</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>2RWB</manacost>
+				<cmc>5</cmc>
+				<colors>WBR</colors>
+				<coloridentity>WBR</coloridentity>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Yukari, Sage of Boundaries</name>
+			<text>[+1]: You may tap or untap target creature. Draw a card.
+[-1]: Return target card from your graveyard to your hand.
+[-7]: Search your library for a permanent card and put it into the battlefield, then shuffle. It gains haste until end of turn.</text>
+			<set rarity="mythic" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/50.png" num="52">GRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Yukari</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>1GUR</manacost>
+				<cmc>4</cmc>
+				<colors>URG</colors>
+				<coloridentity>URG</coloridentity>
+				<loyalty>4</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Spirit GRM</name>
+			<text>Flying</text>
+			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/51.png" num="1">GRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+			<reverse-related count="3">Fey Inaba</reverse-related>
+			<reverse-related>Zombie Fairy</reverse-related>
+		</card>
+		<card>
+			<name>Spirit GRM</name>
+			<text>Flying</text>
+			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/52.png" num="2">GRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+			<reverse-related count="2">Urban Legend in Limbo</reverse-related>
+		</card>
+		<card>
+			<name>Faerie Army GRM</name>
+			<text></text>
+			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/53.png" num="4">GRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Faerie Army</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+			<reverse-related>Mob Swarm</reverse-related>
+		</card>
+		<card>
+			<name>Wolf Spirit GRM</name>
+			<text>This creature must attack each combat if able.</text>
+			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/54.png" num="5">GRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Wolf Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>R</colors>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+			<reverse-related>Saki, Charging Matriarch</reverse-related>
+		</card>
+		<card>
+			<name>Youkai GRM</name>
+			<text></text>
+			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/55.png" num="6">GRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Youkai</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>BR</colors>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+			<reverse-related>Suika, Tiny Night Parade</reverse-related>
+		</card>
+		<card>
+			<name>Vehicle GRM</name>
+			<text>Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/56.png" num="8">GRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Demon GRM</name>
+			<text>Menace</text>
+			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/57.png" num="3">GRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Demon</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+			<reverse-related>Shinki, Ordeal from God</reverse-related>
+		</card>
+		<card>
+			<name>Dreamworld Doppelganger</name>
+			<text>When Doppelganger enters, look at the top ten cards of your library. You may reveal a Wizard creature or Sumireko planeswalker card from among them, put it into your hand, and put the rest on the bottom of your library in a random order. Doppelganger becomes a copy of the revealed card, except it&apos;s 3/3 if it&apos;s a creature. Put three loyalty counters on it if it&apos;s a planeswalker.</text>
+			<set rarity="rare" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/58.png" num="39">GRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Avatar Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1URW</manacost>
+				<cmc>4</cmc>
+				<colors>WUR</colors>
+				<coloridentity>WUR</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bumper Crop</name>
+			<text>Search your library for a land card, put that card onto the battlefield tapped, then shuffle.
+Then if you control three or more basic lands, create two Food tokens. (They&apos;re artifacts with &quot;{2}, {T}, Sacrifice this token: You gain 3 life.&quot;)</text>
+			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/59.png" num="31">GRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Illusionary Dominance</name>
+			<text>Target creature gets +3/+1 and gains haste and first strike until end of turn.</text>
+			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/60.png" num="26">GRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Price of Life</name>
+			<text>Target creature gets +2/+2 until end of turn. If mana from a Treasure was spent to cast this spell, that creature also gains indestructible and lifelink until end of turn.</text>
+			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/61.png" num="6">GRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Seamless Ceiling of Kinkaku-ji</name>
+			<text>Counter target spell if it&apos;s an instant, sorcery, or unless its controller pays {1}.</text>
+			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/62.png" num="12">GRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Poison Nail 「Undead Murderer」</name>
+			<text>As an additional cost to cast this spell, pay X life.
+Target creature gets -X/-X until end of turn.</text>
+			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/63.png" num="20">GRM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+	</cards>
+</cockatrice_carddatabase>

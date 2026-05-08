@@ -1,0 +1,616 @@
+﻿[
+    {
+        "card_name": "Dance of Dazzling Iridescence",
+        "number": 2,
+        "shape": "normal",
+        "set": "GRM",
+        "rotated": false,
+        "position": "10"
+    },
+    {
+        "card_name": "Spark-Like Flashlight",
+        "number": 13,
+        "shape": "normal",
+        "set": "GRM",
+        "rotated": false,
+        "position": "2"
+    },
+    {
+        "card_name": "Yuuma, Blood Titan",
+        "number": 21,
+        "shape": "normal",
+        "set": "GRM",
+        "rotated": false,
+        "position": "36"
+    },
+    {
+        "card_name": "Hell's Tokamak",
+        "number": 25,
+        "shape": "normal",
+        "set": "GRM",
+        "rotated": false,
+        "position": "5"
+    },
+    {
+        "card_name": "Follow Me, Unafraid",
+        "number": 33,
+        "shape": "normal",
+        "set": "GRM",
+        "rotated": false,
+        "position": "18"
+    },
+    {
+        "card_name": "Lyrica, Solo Live",
+        "number": 4,
+        "shape": "adventure",
+        "set": "GRM",
+        "rotated": false,
+        "position": "11"
+    },
+    {
+        "card_name": "Yachie, Irresistable Matriarch",
+        "number": 15,
+        "shape": "adventure",
+        "set": "GRM",
+        "rotated": false,
+        "position": "12"
+    },
+    {
+        "card_name": "Koishi, Right Behind You",
+        "number": 18,
+        "shape": "adventure",
+        "set": "GRM",
+        "rotated": false,
+        "position": "14"
+    },
+    {
+        "card_name": "Saki, Charging Matriarch",
+        "number": 28,
+        "shape": "adventure",
+        "set": "GRM",
+        "rotated": false,
+        "position": "17"
+    },
+    {
+        "card_name": "Suika, Tiny Night Parade",
+        "number": 36,
+        "shape": "adventure",
+        "set": "GRM",
+        "rotated": false,
+        "position": "19"
+    },
+    {
+        "card_name": "Urban Legend in Limbo",
+        "number": 8,
+        "shape": "saga",
+        "set": "GRM",
+        "rotated": false,
+        "position": "41"
+    },
+    {
+        "card_name": "Hopeless Masquerade",
+        "number": 10,
+        "shape": "saga",
+        "set": "GRM",
+        "rotated": false,
+        "position": "42"
+    },
+    {
+        "card_name": "Antinomy of Common Flowers",
+        "number": 16,
+        "shape": "saga",
+        "set": "GRM",
+        "rotated": false,
+        "position": "43"
+    },
+    {
+        "card_name": "Scarlet Weather Rhapsody",
+        "number": 29,
+        "shape": "saga",
+        "set": "GRM",
+        "rotated": false,
+        "position": "44"
+    },
+    {
+        "card_name": "Immaterial and Missing Power",
+        "number": 34,
+        "shape": "saga",
+        "set": "GRM",
+        "rotated": false,
+        "position": "45"
+    },
+    {
+        "card_name": "Fey Inaba",
+        "number": 3,
+        "shape": "normal",
+        "set": "GRM",
+        "rotated": false,
+        "position": "34"
+    },
+    {
+        "card_name": "Spellbound Volume",
+        "number": 14,
+        "shape": "normal",
+        "set": "GRM",
+        "rotated": false,
+        "position": "13"
+    },
+    {
+        "card_name": "Zombie Fairy",
+        "number": 22,
+        "shape": "normal",
+        "set": "GRM",
+        "rotated": false,
+        "position": "33"
+    },
+    {
+        "card_name": "Mob Swarm",
+        "number": 27,
+        "shape": "normal",
+        "set": "GRM",
+        "rotated": false,
+        "position": "16"
+    },
+    {
+        "card_name": "Monstrous Minions",
+        "number": 35,
+        "shape": "normal",
+        "set": "GRM",
+        "rotated": false,
+        "position": "21"
+    },
+    {
+        "card_name": "Matsuyoi-Reflecting Slash",
+        "number": 5,
+        "shape": "normal",
+        "set": "GRM",
+        "rotated": false,
+        "position": "0"
+    },
+    {
+        "card_name": "Bitch, Get Out Of The Way!",
+        "number": 9,
+        "shape": "normal",
+        "set": "GRM",
+        "rotated": false,
+        "position": "35"
+    },
+    {
+        "card_name": "Just Dodge It, Bro",
+        "number": 17,
+        "shape": "normal",
+        "set": "GRM",
+        "rotated": false,
+        "position": "3"
+    },
+    {
+        "card_name": "For Her Sake",
+        "number": 23,
+        "shape": "normal",
+        "set": "GRM",
+        "rotated": false,
+        "position": "31"
+    },
+    {
+        "card_name": "Aerial Combat",
+        "number": 30,
+        "shape": "normal",
+        "set": "GRM",
+        "rotated": false,
+        "position": "20"
+    },
+    {
+        "card_name": "Price of Life",
+        "number": 6,
+        "shape": "normal",
+        "set": "GRM",
+        "rotated": false,
+        "position": "61"
+    },
+    {
+        "card_name": "Perfect Freeze",
+        "number": 11,
+        "shape": "normal",
+        "set": "GRM",
+        "rotated": false,
+        "position": "1"
+    },
+    {
+        "card_name": "Pichuun!",
+        "number": 19,
+        "shape": "normal",
+        "set": "GRM",
+        "rotated": false,
+        "position": "15"
+    },
+    {
+        "card_name": "Full Focus",
+        "number": 24,
+        "shape": "normal",
+        "set": "GRM",
+        "rotated": false,
+        "position": "4"
+    },
+    {
+        "card_name": "Bumper Crop",
+        "number": 31,
+        "shape": "normal",
+        "set": "GRM",
+        "rotated": false,
+        "position": "59"
+    },
+    {
+        "card_name": "Spirit Sign \u300cFantasy Seal\u300d",
+        "number": 7,
+        "shape": "normal",
+        "set": "GRM",
+        "rotated": false,
+        "position": "32"
+    },
+    {
+        "card_name": "Seamless Ceiling of Kinkaku-ji",
+        "number": 12,
+        "shape": "normal",
+        "set": "GRM",
+        "rotated": false,
+        "position": "62"
+    },
+    {
+        "card_name": "Poison Nail \u300cUndead Murderer\u300d",
+        "number": 20,
+        "shape": "normal",
+        "set": "GRM",
+        "rotated": false,
+        "position": "63"
+    },
+    {
+        "card_name": "Illusionary Dominance",
+        "number": 26,
+        "shape": "normal",
+        "set": "GRM",
+        "rotated": false,
+        "position": "60"
+    },
+    {
+        "card_name": "Esoterica \u300cForgotten Ritual\u300d",
+        "number": 32,
+        "shape": "normal",
+        "set": "GRM",
+        "rotated": false,
+        "position": "22"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->gold",
+    {
+        "card_name": "Byakuren, Turbo Rider",
+        "number": 37,
+        "shape": "normal",
+        "set": "GRM",
+        "rotated": false,
+        "position": "6"
+    },
+    {
+        "card_name": "Sakuya, Perfect and Elegant",
+        "number": 46,
+        "shape": "normal",
+        "set": "GRM",
+        "rotated": false,
+        "position": "30"
+    },
+    {
+        "card_name": "Flandre, Matara's Ace",
+        "number": 40,
+        "shape": "normal",
+        "set": "GRM",
+        "rotated": false,
+        "position": "27"
+    },
+    {
+        "card_name": "Meiling, Dream Guardian",
+        "number": 43,
+        "shape": "normal",
+        "set": "GRM",
+        "rotated": false,
+        "position": "28"
+    },
+    {
+        "card_name": "Youmu, Half-Phantom",
+        "number": 51,
+        "shape": "normal",
+        "set": "GRM",
+        "rotated": false,
+        "position": "29"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Miko, Almighty Tao",
+        "number": 44,
+        "shape": "normal",
+        "set": "GRM",
+        "rotated": false,
+        "position": "26"
+    },
+    {
+        "card_name": "Cirno, Summer Freeze",
+        "number": 38,
+        "shape": "normal",
+        "set": "GRM",
+        "rotated": false,
+        "position": "24"
+    },
+    {
+        "card_name": "Yamame, Bright Net in the Dark",
+        "number": 50,
+        "shape": "normal",
+        "set": "GRM",
+        "rotated": false,
+        "position": "7"
+    },
+    {
+        "card_name": "Futo, Plate Breaker",
+        "number": 41,
+        "shape": "normal",
+        "set": "GRM",
+        "rotated": false,
+        "position": "23"
+    },
+    {
+        "card_name": "Sanae Kochiya",
+        "number": 47,
+        "shape": "normal",
+        "set": "GRM",
+        "rotated": false,
+        "position": "25"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Yukari, Sage of Boundaries",
+        "number": 52,
+        "shape": "planeswalker",
+        "set": "GRM",
+        "rotated": false,
+        "position": "50"
+    },
+    {
+        "card_name": "Kasen, the Hermit Sage",
+        "number": 42,
+        "shape": "planeswalker",
+        "set": "GRM",
+        "rotated": false,
+        "position": "47"
+    },
+    {
+        "card_name": "Okina, Sage of Doors",
+        "number": 45,
+        "shape": "planeswalker",
+        "set": "GRM",
+        "rotated": false,
+        "position": "48"
+    },
+    {
+        "card_name": "Shinki, Ordeal from God",
+        "number": 48,
+        "shape": "planeswalker",
+        "set": "GRM",
+        "rotated": false,
+        "position": "49"
+    },
+    {
+        "card_name": "Sumireko, Last Occultist",
+        "number": 49,
+        "shape": "planeswalker",
+        "set": "GRM",
+        "rotated": false,
+        "position": "46"
+    },
+    {
+        "card_name": "Dreamworld Doppelganger",
+        "number": 39,
+        "shape": "normal",
+        "set": "GRM",
+        "rotated": false,
+        "position": "58"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->colorless",
+    {
+        "card_name": "Final Spell: Last Word",
+        "number": 1,
+        "shape": "normal",
+        "set": "GRM",
+        "rotated": false,
+        "position": "39"
+    },
+    {
+        "card_name": "Mini-Hakkero",
+        "number": 55,
+        "shape": "normal",
+        "set": "GRM",
+        "rotated": false,
+        "position": "9"
+    },
+    {
+        "card_name": "Gun Sign \u300c3D Printer Gun\u300d",
+        "number": 53,
+        "shape": "normal",
+        "set": "GRM",
+        "rotated": false,
+        "position": "8"
+    },
+    {
+        "card_name": "Magician's Broom",
+        "number": 54,
+        "shape": "normal",
+        "set": "GRM",
+        "rotated": false,
+        "position": "40"
+    },
+    {
+        "card_name": "Otherworld Observer",
+        "number": 56,
+        "shape": "normal",
+        "set": "GRM",
+        "rotated": false,
+        "position": "38"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->token",
+    {
+        "card_name": "Blood",
+        "number": 7,
+        "shape": "token",
+        "set": "GRM",
+        "rotated": false,
+        "position": "37"
+    },
+    {
+        "card_name": "Vehicle",
+        "number": 8,
+        "shape": "token",
+        "set": "GRM",
+        "rotated": false,
+        "position": "56"
+    },
+    {
+        "card_name": "Spirit",
+        "number": 1,
+        "shape": "token",
+        "set": "GRM",
+        "rotated": false,
+        "position": "51"
+    },
+    {
+        "card_name": "Spirit",
+        "number": 2,
+        "shape": "token",
+        "set": "GRM",
+        "rotated": false,
+        "position": "52"
+    },
+    {
+        "card_name": "Demon",
+        "number": 3,
+        "shape": "token",
+        "set": "GRM",
+        "rotated": false,
+        "position": "57"
+    },
+    {
+        "card_name": "Faerie Army",
+        "number": 4,
+        "shape": "token",
+        "set": "GRM",
+        "rotated": false,
+        "position": "53"
+    },
+    {
+        "card_name": "Wolf Spirit",
+        "number": 5,
+        "shape": "token",
+        "set": "GRM",
+        "rotated": false,
+        "position": "54"
+    },
+    {
+        "card_name": "Youkai",
+        "number": 6,
+        "shape": "token",
+        "set": "GRM",
+        "rotated": false,
+        "position": "55"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    }
+]

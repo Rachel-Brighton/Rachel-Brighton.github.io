@@ -5,7 +5,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Plains Island",
-			"collector_number": "60",
+			"collector_number": "59",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/0.png"
 			}
@@ -15,7 +15,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Forest Island",
-			"collector_number": "55",
+			"collector_number": "54",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/1.png"
 			}
@@ -25,7 +25,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Mountain Plains",
-			"collector_number": "61",
+			"collector_number": "60",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/2.png"
 			}
@@ -35,7 +35,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Island Swamp",
-			"collector_number": "57",
+			"collector_number": "56",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/3.png"
 			}
@@ -45,7 +45,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Island Mountain",
-			"collector_number": "59",
+			"collector_number": "58",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/4.png"
 			}
@@ -105,7 +105,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Swamp Forest",
-			"collector_number": "53",
+			"collector_number": "52",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/10.png"
 			}
@@ -175,7 +175,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Swamp Mountain",
-			"collector_number": "56",
+			"collector_number": "55",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/17.png"
 			}
@@ -185,7 +185,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Plains Swamp",
-			"collector_number": "58",
+			"collector_number": "57",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/18.png"
 			}
@@ -195,7 +195,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Forest Plains",
-			"collector_number": "54",
+			"collector_number": "53",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/19.png"
 			}
@@ -205,19 +205,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Mountain Forest",
-			"collector_number": "62",
+			"collector_number": "61",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/20.png"
-			}
-		},
-		{
-			"name": "Yuuma, Blood Titan",
-			"rarity": "mythic",
-			"mana_cost": "{4}{B}{B}",
-			"type": "Legendary Creature — Giant Goat Spirit",
-			"collector_number": "15",
-			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/21.png"
 			}
 		},
 		{
@@ -227,7 +217,7 @@
 			"type": "Enchantment",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/22.png"
+				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/21.png"
 			}
 		},
 		{
@@ -237,7 +227,7 @@
 			"type": "Enchantment",
 			"collector_number": "22",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/23.png"
+				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/22.png"
 			}
 		},
 		{
@@ -247,7 +237,7 @@
 			"type": "Enchantment",
 			"collector_number": "18",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/24.png"
+				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/23.png"
 			}
 		},
 		{
@@ -257,7 +247,7 @@
 			"type": "Enchantment",
 			"collector_number": "13",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/25.png"
+				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/24.png"
 			}
 		},
 		{
@@ -267,7 +257,7 @@
 			"type": "Legendary Enchantment Artifact",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/26.png"
+				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/25.png"
 			}
 		},
 		{
@@ -277,7 +267,7 @@
 			"type": "Legendary Creature — Youkai Detective",
 			"collector_number": "28",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/27.png"
+				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/26.png"
 			}
 		},
 		{
@@ -287,7 +277,7 @@
 			"type": "Legendary Creature — Bird Youkai",
 			"collector_number": "27",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/28.png"
+				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/27.png"
 			}
 		},
 		{
@@ -295,19 +285,19 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}{B}",
 			"type": "Legendary Creature — Human Deserter",
-			"collector_number": "33",
+			"collector_number": "32",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/29.png"
+				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/28.png"
 			}
 		},
 		{
 			"name": "Reimu, Spirits' Grudge",
 			"rarity": "rare",
 			"mana_cost": "{3}{R}{W}{B}",
-			"type": "Legendary Creature — Human Spirit Monk",
-			"collector_number": "36",
+			"type": "Legendary Creature — Human Spirit Cleric",
+			"collector_number": "35",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/30.png"
+				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/29.png"
 			}
 		},
 		{
@@ -315,9 +305,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}{R}",
 			"type": "Legendary Creature — Rabbit Youkai",
-			"collector_number": "34",
+			"collector_number": "33",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/31.png"
+				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/30.png"
 			}
 		},
 		{
@@ -327,7 +317,7 @@
 			"type": "Creature — Turtle Youkai Artificer",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/32.png"
+				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/31.png"
 			}
 		},
 		{
@@ -337,7 +327,7 @@
 			"type": "Legendary Creature — Youkai Rebel Bard",
 			"collector_number": "29",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/33.png"
+				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/32.png"
 			}
 		},
 		{
@@ -347,7 +337,7 @@
 			"type": "Creature — Youkai Spirit",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/34.png"
+				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/33.png"
 			}
 		},
 		{
@@ -357,7 +347,7 @@
 			"type": "Creature — Goblin",
 			"collector_number": "21",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/35.png"
+				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/34.png"
 			}
 		},
 		{
@@ -367,7 +357,7 @@
 			"type": "Instant",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/36.png"
+				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/35.png"
 			}
 		},
 		{
@@ -377,7 +367,7 @@
 			"type": "Sorcery",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/37.png"
+				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/36.png"
 			}
 		},
 		{
@@ -387,7 +377,7 @@
 			"type": "Instant",
 			"collector_number": "10",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/38.png"
+				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/37.png"
 			}
 		},
 		{
@@ -395,9 +385,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Instant",
-			"collector_number": "14",
+			"collector_number": "15",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/39.png"
+				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/38.png"
 			}
 		},
 		{
@@ -407,7 +397,7 @@
 			"type": "Creature — Faerie Pest",
 			"collector_number": "16",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/40.png"
+				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/39.png"
 			}
 		},
 		{
@@ -417,7 +407,7 @@
 			"type": "Legendary Instant",
 			"collector_number": "24",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/41.png"
+				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/40.png"
 			}
 		},
 		{
@@ -425,9 +415,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}{W}",
 			"type": "Legendary Creature — Youkai Bard",
-			"collector_number": "35",
+			"collector_number": "34",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/42.png"
+				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/41.png"
 			}
 		},
 		{
@@ -437,7 +427,7 @@
 			"type": "Legendary Creature — Dog Golem Youkai",
 			"collector_number": "26",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/43.png"
+				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/42.png"
 			}
 		},
 		{
@@ -445,9 +435,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{G}{U}",
 			"type": "Legendary Creature — Dog Youkai",
-			"collector_number": "32",
+			"collector_number": "31",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/44.png"
+				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/43.png"
 			}
 		},
 		{
@@ -457,7 +447,7 @@
 			"type": "Token Creature — Faerie Army",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/45.png"
+				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/44.png"
 			}
 		},
 		{
@@ -465,9 +455,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B/R}",
 			"type": "Creature — Elemental Youkai",
-			"collector_number": "40",
+			"collector_number": "38",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/46.png"
+				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/45.png"
 			}
 		},
 		{
@@ -475,9 +465,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{G/W}",
 			"type": "Creature — Faerie",
-			"collector_number": "41",
+			"collector_number": "39",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/47.png"
+				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/46.png"
 			}
 		},
 		{
@@ -485,9 +475,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R/G}",
 			"type": "Creature — Fox Youkai",
-			"collector_number": "42",
+			"collector_number": "40",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/48.png"
+				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/47.png"
 			}
 		},
 		{
@@ -495,9 +485,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W/B}",
 			"type": "Creature — Angel",
-			"collector_number": "43",
+			"collector_number": "41",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/49.png"
+				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/48.png"
 			}
 		},
 		{
@@ -505,9 +495,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U/R}",
 			"type": "Creature — Cat",
-			"collector_number": "44",
+			"collector_number": "42",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/50.png"
+				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/49.png"
 			}
 		},
 		{
@@ -515,9 +505,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{U/B}",
 			"type": "Artifact Creature — Shade Construct",
-			"collector_number": "45",
+			"collector_number": "43",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/51.png"
+				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/50.png"
 			}
 		},
 		{
@@ -525,9 +515,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W/U}",
 			"type": "Artifact Creature — Spirit Construct",
-			"collector_number": "46",
+			"collector_number": "44",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/52.png"
+				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/51.png"
 			}
 		},
 		{
@@ -535,9 +525,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R/W}",
 			"type": "Creature — Faerie Spirit",
-			"collector_number": "47",
+			"collector_number": "45",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/53.png"
+				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/52.png"
 			}
 		},
 		{
@@ -545,9 +535,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G/U}",
 			"type": "Creature — Dog Youkai",
-			"collector_number": "48",
+			"collector_number": "46",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/54.png"
+				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/53.png"
 			}
 		},
 		{
@@ -555,9 +545,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{B/G}{B/G}",
 			"type": "Creature — Horror Chimera",
-			"collector_number": "49",
+			"collector_number": "47",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/55.png"
+				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/54.png"
 			}
 		},
 		{
@@ -565,29 +555,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}{G}",
 			"type": "Legendary Creature — Mystic",
-			"collector_number": "38",
+			"collector_number": "36",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/56.png"
-			}
-		},
-		{
-			"name": "Dreamworld Doppelganger",
-			"rarity": "rare",
-			"mana_cost": "{1}{U}{R}{W}",
-			"type": "Legendary Creature — Avatar Wizard",
-			"collector_number": "31",
-			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/57.png"
-			}
-		},
-		{
-			"name": "Teireida and Nishida",
-			"rarity": "rare",
-			"mana_cost": "{2}{B}{G}{U}",
-			"type": "Legendary Creature — Human Minion",
-			"collector_number": "37",
-			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/58.png"
+				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/55.png"
 			}
 		},
 		{
@@ -597,7 +567,7 @@
 			"type": "Legendary Creature — God",
 			"collector_number": "30",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/59.png"
+				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/56.png"
 			}
 		},
 		{
@@ -605,9 +575,9 @@
 			"rarity": "rare",
 			"mana_cost": "{W}{U}",
 			"type": "Legendary Creature — Merfolk Dwarf Noble",
-			"collector_number": "39",
+			"collector_number": "37",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/60.png"
+				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/57.png"
 			}
 		},
 		{
@@ -615,9 +585,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}",
 			"type": "Artifact",
-			"collector_number": "51",
+			"collector_number": "49",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/61.png"
+				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/58.png"
 			}
 		},
 		{
@@ -627,7 +597,7 @@
 			"type": "Token Creature — Youkai",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/62.png"
+				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/59.png"
 			}
 		},
 		{
@@ -637,7 +607,7 @@
 			"type": "Token Creature — Rabbit",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/63.png"
+				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/60.png"
 			}
 		},
 		{
@@ -645,9 +615,9 @@
 			"rarity": "rare",
 			"mana_cost": "{5}",
 			"type": "Legendary Artifact — Equipment",
-			"collector_number": "52",
+			"collector_number": "50",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/64.png"
+				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/61.png"
 			}
 		},
 		{
@@ -655,19 +625,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
 			"type": "Artifact — Equipment",
-			"collector_number": "50",
+			"collector_number": "48",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/65.png"
-			}
-		},
-		{
-			"name": "Blood",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Artifact — Blood",
-			"collector_number": "8",
-			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/66.png"
+				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/62.png"
 			}
 		},
 		{
@@ -677,7 +637,7 @@
 			"type": "Token Creature — Bird Youkai",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/67.png"
+				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/63.png"
 			}
 		},
 		{
@@ -687,7 +647,7 @@
 			"type": "Token Creature — Spirit",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/68.png"
+				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/64.png"
 			}
 		},
 		{
@@ -695,9 +655,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Food",
-			"collector_number": "10",
+			"collector_number": "9",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/69.png"
+				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/65.png"
 			}
 		},
 		{
@@ -705,9 +665,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Clue",
-			"collector_number": "9",
+			"collector_number": "8",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/70.png"
+				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/66.png"
 			}
 		},
 		{
@@ -717,7 +677,27 @@
 			"type": "Token",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/71.png"
+				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/67.png"
+			}
+		},
+		{
+			"name": "Oni of the Night Parade",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}{B}{B}",
+			"type": "Legendary Creature — Demon Spirit",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/68.png"
+			}
+		},
+		{
+			"name": "Stone Cherry",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/69.png"
 			}
 		}
 	]
@@ -725,7 +705,6 @@
 [rare(1)]
 	2 Now, Until Your Final Breath
 	1 Magic is All About Power
-	1 Yuuma, Blood Titan
 	2 Immemorial Marketeer
 	2 Hidden Star in All Seasons
 	2 Solar Sect of Mystic Wisdom
@@ -743,11 +722,10 @@
 	2 Aunn, Temple Helper
 	2 Mamizou, Ever Watching
 	2 Tenshi, Earthbound
-	2 Dreamworld Doppelganger
-	2 Teireida and Nishida
 	2 A Discerning Customer
 	2 Whitewater Champions
 	2 Roukanken and Hakurouken
+	1 Oni of the Night Parade
 [uncommon(3)]
 	4 Sea of Tranquility
 	4 Genbu Ravine
@@ -775,7 +753,7 @@
 	4 Tanuki Impostor
 	4 TORIFUNE Monstrosity
 	4 Iron Rings of Moriya
-[common(7)]
+[common(6)]
 	8 Apparitions Stalk the Night
 	8 The White Rabbit's Trick
 	8 The Purest Sky and Sea
@@ -787,6 +765,20 @@
 	8 Reduce to Vapor
 	8 Fairy Menace
 	8 Personalized Fortune Slip
+	8 Stone Cherry
+[common | masterpiece(1)]
+	8 Apparitions Stalk the Night
+	8 The White Rabbit's Trick
+	8 The Purest Sky and Sea
+	8 Kappa Tinkerers
+	8 Remote-Work Zashiki-Warashi
+	8 Helpful Hofgoblin
+	8 Those Were Good Pills
+	8 Thirst for Companionship
+	8 Reduce to Vapor
+	8 Fairy Menace
+	8 Personalized Fortune Slip
+	8 Stone Cherry
 [foil(1)]
 	6 Sea of Tranquility
 	6 Genbu Ravine
@@ -808,7 +800,6 @@
 	6 Netherworld Gates
 	6 Garden of the Sun
 	6 Youkai Mountain
-	1 Yuuma, Blood Titan
 	2 Immemorial Marketeer
 	2 Hidden Star in All Seasons
 	2 Solar Sect of Mystic Wisdom
@@ -843,13 +834,13 @@
 	6 Tanuki Impostor
 	6 TORIFUNE Monstrosity
 	2 Tenshi, Earthbound
-	2 Dreamworld Doppelganger
-	2 Teireida and Nishida
 	2 A Discerning Customer
 	2 Whitewater Champions
 	12 Personalized Fortune Slip
 	2 Roukanken and Hakurouken
 	6 Iron Rings of Moriya
+	1 Oni of the Night Parade
+	12 Stone Cherry
 [wildcard(1)]
 	15 Sea of Tranquility
 	15 Genbu Ravine
@@ -871,7 +862,6 @@
 	15 Netherworld Gates
 	15 Garden of the Sun
 	15 Youkai Mountain
-	4 Yuuma, Blood Titan
 	7 Immemorial Marketeer
 	7 Hidden Star in All Seasons
 	7 Solar Sect of Mystic Wisdom
@@ -906,10 +896,10 @@
 	15 Tanuki Impostor
 	15 TORIFUNE Monstrosity
 	7 Tenshi, Earthbound
-	7 Dreamworld Doppelganger
-	7 Teireida and Nishida
 	7 A Discerning Customer
 	7 Whitewater Champions
 	6 Personalized Fortune Slip
 	7 Roukanken and Hakurouken
 	15 Iron Rings of Moriya
+	4 Oni of the Night Parade
+	6 Stone Cherry

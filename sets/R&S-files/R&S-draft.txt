@@ -545,7 +545,18 @@
 	4 Terribly Lonely
 	4 Heavyblade Rabbit
 	4 Tassha, the Snowfur
-[common(7)]
+[common(6)]
+	8 Steel Yourself!
+	8 Stretch the Tether
+	8 They Were Roommates
+	8 Fullmoon Treasuresphere
+	8 Churchmouse Streets
+	8 The Scholar's Nest
+	8 The King's Arsenal
+	8 The Emerald Lakeside
+	8 Kingdom Outskirts
+	8 The Red Darkhouse
+[common | masterpiece(1)]
 	8 Steel Yourself!
 	8 Stretch the Tether
 	8 They Were Roommates

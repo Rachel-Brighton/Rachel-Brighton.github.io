@@ -1,4 +1,198 @@
-﻿VERSION 6 CHANGELOG
+﻿VERSION 8 CHANGELOG
+====================
+
+Stone Cherry added.
+
+Dreamworld Doppelganger removed.
+Teireida and Nishida removed.
+
+Twin Spark
+
+A Discerning Customer
+
+Whitewater Champions
+
+Personalized Fortune Slip
+
+Youkai
+
+Rabbit
+
+Roukanken and Hakurouken
+
+Iron Rings of Moriya
+
+Bird Youkai
+
+Spirit
+
+Food
+
+Clue
+
+Copy
+
+Oni of the Night Parade
+
+
+VERSION 7 CHANGELOG
+====================
+
+Oni of the Night Parade added.
+
+Yuuma, Blood Titan removed.
+Blood removed.
+
+Sea of Tranquility
+
+Genbu Ravine
+
+Wonderful Heaven
+
+Land of the Backdoor
+
+Probability Space Hypervessel
+
+Now, Until Your Final Breath
+
+Apparitions Stalk the Night
+
+Nightstalker
+
+The White Rabbit's Trick
+
+The Purest Sky and Sea
+
+Ancient Sanctuary
+
+Silent Sinner in Blue
+
+Curiosities of Lotus Asia
+
+Forbidden Scrollery
+
+Visionary Fairies in Shrine
+
+Wild and Horned Hermit
+
+Magic is All About Power
+
+Hellfire Mantle
+
+Netherworld Gates
+
+Garden of the Sun
+
+Youkai Mountain
+
+Immemorial Marketeer
+
+Hidden Star in All Seasons
+
+Solar Sect of Mystic Wisdom
+
+Grave of Being
+
+The Gensokyo Chronicle
+
+Cheating Detective Satori
+
+Aya, Reporter of Fantasy
+
+Mizuchi, Traitor to Humanity
+
+Reimu, Spirits' Grudge
+type: Legendary Creature — Human Spirit Monk => Legendary Creature — Human Spirit Cleric
+
+Mysterious Medicine Merchant
+
+Kappa Tinkerers
+
+Choujuu Gigaku
+
+Remote-Work Zashiki-Warashi
+
+Helpful Hofgoblin
+
+Lord Tenma's Command
+
+Those Were Good Pills
+
+Thirst for Companionship
+
+Reduce to Vapor
+
+Fairy Menace
+
+Twin Spark
+
+Raiko, Guest Drummer
+rules_text: Double strike
+Bards you control have “The first time an ability of this creature would trigger each turn, that ability triggers an additional time.” => Double strike
+Bards you control have “Whenever an ability of this creature triggers, you may copy it and you may choose new targets for the copy. Do this only once each turn.”
+
+Aunn, Temple Helper
+rules_text: When Aunn enters, return up to one target God you control or God card in your graveyard to your hand.
+Whenever a God enters the battlefield under your control, you gain 2 life and draw a card. => When Aunn enters, return up to one target God you control or God card in your graveyard to its owner's hand.
+Whenever a God enters the battlefield under your control, you gain 2 life and draw a card.
+
+Mamizou, Ever Watching
+
+Faerie Army
+
+Enenra
+
+Great Fairies
+
+Kitsune Impostor
+
+A Little Sin
+
+Magician's Companion
+
+Shadow Mirror
+
+Spirit Mirror
+
+Spirit of the Hakurei Relic
+rules_text: Orbs, Monks, and Gods you control get +1/+0. => Orbs, Clerics, and Gods you control get +1/+0.
+
+Tanuki Impostor
+
+TORIFUNE Monstrosity
+
+Tenshi, Earthbound
+
+Dreamworld Doppelganger
+
+Teireida and Nishida
+
+A Discerning Customer
+
+Whitewater Champions
+
+Personalized Fortune Slip
+
+Youkai
+
+Rabbit
+
+Roukanken and Hakurouken
+
+Iron Rings of Moriya
+
+Bird Youkai
+
+Spirit
+
+Food
+
+Clue
+
+Copy
+
+
+VERSION 6 CHANGELOG
 ====================
 
 Clue added.

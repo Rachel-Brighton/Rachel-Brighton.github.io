@@ -1,0 +1,900 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>R&amp;S</name>
+			<longname>Steel Yourself! A Rabbit &amp; Steel Miniset</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-05-07</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Matti, the Paladin</name>
+			<text>Vigilance
+To me, my knights! — Whenever Matti, the Paladin becomes the target of a spell or ability you control for the first time each turn, prevent the next 2 damage that would be dealt to Matti this turn and create two 1/1 white Mouse Knight creature tokens.</text>
+			<set rarity="rare" picurl="https://Rachel-Brighton.github.io/sets/R&amp;S-files/img/0.png" num="2">R&amp;S</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Mouse Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ranalie, the Mythril</name>
+			<text>Flying
+Just a fraction of my power! — Whenever Ranalie enters or attacks, she deals 3 damage to up to one nonplayer target. Then create a Treasure token. Then exile the top card of your library. Until your next turn, you may play that card.</text>
+			<set rarity="rare" picurl="https://Rachel-Brighton.github.io/sets/R&amp;S-files/img/1.png" num="16">R&amp;S</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Dragon Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>4RR</manacost>
+				<cmc>6</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Merran, the Steeltooth</name>
+			<text>Menace
+Cleaving one side!! — Whenever Merran becomes blocked, defending player sacrifices a creature of their choice blocking her.
+Whenever Merran deals combat damage to a player, that player discards a card.</text>
+			<set rarity="rare" picurl="https://Rachel-Brighton.github.io/sets/R&amp;S-files/img/2.png" num="11">R&amp;S</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Wolf Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Avy, the Starry</name>
+			<text>Trample
+Follow the colors — At the beginning of your first main phase, choose a color. Until end of turn, whenever a player casts a spell of that color, put a +1/+1 counter on Avy.</text>
+			<set rarity="rare" picurl="https://Rachel-Brighton.github.io/sets/R&amp;S-files/img/3.png" num="18">R&amp;S</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Frog Bard</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Twili, the Valedictorian</name>
+			<text>Flying
+Pay Attention — When Twili enters, reveal the top five cards of your library, then put them back in the same order.
+At the beginning of your upkeep, reveal the top card of your library. You may play it. Spells cast this way cost {3} less to cast.</text>
+			<set rarity="rare" picurl="https://Rachel-Brighton.github.io/sets/R&amp;S-files/img/4.png" num="8">R&amp;S</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Bird Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Shira, the Queen</name>
+			<text>Vigilance, menace, lifelink, haste
+Whenever Shira attacks, reveal the top five cards of your library. Put a land card revealed this way onto the battlefield. Put a nonland card revealed this way into your hand. Put the rest into your graveyard.</text>
+			<set rarity="mythic" picurl="https://Rachel-Brighton.github.io/sets/R&amp;S-files/img/5.png" num="29">R&amp;S</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Rabbit Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>WUBRG</manacost>
+				<cmc>5</cmc>
+				<colors>WUBRG</colors>
+				<coloridentity>WUBRG</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Steel Yourself!</name>
+			<text>This spell can&apos;t be countered.
+Steel Yourself! deals 5 damage to target attacking or blocking creature. The damage can&apos;t be prevented.</text>
+			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/R&amp;S-files/img/6.png" num="5">R&amp;S</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>WW</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Dancer Rabbit</name>
+			<text>Double strike
+Twirling Rose and Falling Petal — Whenever this creature deals combat damage during your turn, choose one:
+• You gain 2 life.
+• Untap this creature.
+• This creature gets +1/+1 until end of turn.</text>
+			<set rarity="uncommon" picurl="https://Rachel-Brighton.github.io/sets/R&amp;S-files/img/7.png" num="25">R&amp;S</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Rabbit Performer</type>
+				<maintype>Creature</maintype>
+				<manacost>2WU</manacost>
+				<cmc>4</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Assassin Rabbit</name>
+			<text>Skulk (This creature can&apos;t be blocked by creatures with greater power.)
+Deathtouch
+Shadowstep and Assassinate — When this creature enters, it fights target creature you don&apos;t control.</text>
+			<set rarity="uncommon" picurl="https://Rachel-Brighton.github.io/sets/R&amp;S-files/img/8.png" num="23">R&amp;S</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Rabbit Assassin</type>
+				<maintype>Creature</maintype>
+				<manacost>UB</manacost>
+				<cmc>2</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bruiser Rabbit</name>
+			<text>Haste
+Charge up — Whenever this creature attacks, put a +1/+1 counter on it.
+Berserk — Remove two counters from this creature: This creature gains double strike until end of turn.</text>
+			<set rarity="uncommon" picurl="https://Rachel-Brighton.github.io/sets/R&amp;S-files/img/9.png" num="24">R&amp;S</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Rabbit Barbarian</type>
+				<maintype>Creature</maintype>
+				<manacost>3RG</manacost>
+				<cmc>5</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sniper Rabbit</name>
+			<text>Reach
+This creature has first strike while attacking.
+Cooldown reset — Whenever this creature deals combat damage to a player, untap it.</text>
+			<set rarity="uncommon" picurl="https://Rachel-Brighton.github.io/sets/R&amp;S-files/img/10.png" num="30">R&amp;S</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Rabbit Archer</type>
+				<maintype>Creature</maintype>
+				<manacost>1GW</manacost>
+				<cmc>3</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Defender Rabbit</name>
+			<text>This creature has first strike while attacking.
+Roll and Phalanx — Discard a card: This creature and up to one other target creature each gain indestructible until end of turn. Tap them.</text>
+			<set rarity="uncommon" picurl="https://Rachel-Brighton.github.io/sets/R&amp;S-files/img/11.png" num="26">R&amp;S</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Rabbit Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>1WB</manacost>
+				<cmc>3</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ancient Rabbit</name>
+			<text>When this creature enters, create a 2/1 green Varmint creature token.
+March Command — Whenever this creature attacks, tokens you control gain menace until end of turn.
+Abyssal Call — At the beginning of your end step, if you control a tapped creature token, each opponent loses 2 life.</text>
+			<set rarity="uncommon" picurl="https://Rachel-Brighton.github.io/sets/R&amp;S-files/img/12.png" num="22">R&amp;S</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elder Rabbit</type>
+				<maintype>Creature</maintype>
+				<manacost>2BG</manacost>
+				<cmc>4</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Druid Rabbit</name>
+			<text>Nature&apos;s Blessing — Whenever this creature attacks, you may exert it. When you do, creatures you control get +1/+1 and can&apos;t be blocked by more than one creature this turn. (An exerted creature won&apos;t untap during your next untap step.)</text>
+			<set rarity="uncommon" picurl="https://Rachel-Brighton.github.io/sets/R&amp;S-files/img/13.png" num="27">R&amp;S</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Rabbit Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>2GU</manacost>
+				<cmc>4</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Wizard Rabbit</name>
+			<text>Astral Seal — Whenever this creature deals combat damage to a player, until end of turn, whenever a noncreature source you control would deal damage it deals that much damage plus 2 instead.</text>
+			<set rarity="uncommon" picurl="https://Rachel-Brighton.github.io/sets/R&amp;S-files/img/14.png" num="32">R&amp;S</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Rabbit Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1UR</manacost>
+				<cmc>3</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Spellsword Rabbit</name>
+			<text>Vigilance
+When this creature enters, draw a card.
+Darkspell — {1}{RW}, {T}, Discard a card: Target creature gains double strike until end of turn.</text>
+			<set rarity="uncommon" picurl="https://Rachel-Brighton.github.io/sets/R&amp;S-files/img/15.png" num="31">R&amp;S</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Rabbit Spellshaper</type>
+				<maintype>Creature</maintype>
+				<manacost>1RW</manacost>
+				<cmc>3</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Asha, the Shopkeeper</name>
+			<text>Heal up — {1}, {T}: You gain 3 life.
+Lev‍el up — {2}, {T}: Put a +1/+1 counter on target creature.
+Buy an item — {3}, {T}: Draw a card.
+Pet the shopkeeper — {4}: Untap Asha.</text>
+			<set rarity="rare" picurl="https://Rachel-Brighton.github.io/sets/R&amp;S-files/img/16.png" num="1">R&amp;S</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Cat</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Nimi, the Archer</name>
+			<text>Reach
+It&apos;s for training — When Nimi enters, create a colorless Food Equipment artifact token with &quot;{2}, {T}, Sacrifice this token: You gain 3 life.&quot;, &quot;Equipped creature gets +1/+1&quot;, and equip {1}. Attach it to Nimi.</text>
+			<set rarity="uncommon" picurl="https://Rachel-Brighton.github.io/sets/R&amp;S-files/img/17.png" num="3">R&amp;S</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Mouse Archer</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Saya, the Archon</name>
+			<text>Forced Teleport — Whenever Saya attacks, you may exile another target creature. If you do, return it to the battlefield under its owner&apos;s control at the beginning of the next end step.</text>
+			<set rarity="uncommon" picurl="https://Rachel-Brighton.github.io/sets/R&amp;S-files/img/18.png" num="6">R&amp;S</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Bird Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Karsi, the Ruby</name>
+			<text>Flying
+Ruby Flare — Whenever you cast a spell with mana value 5 or greater, Karsi becomes a 6/6 Dragon Beast. (This effect lasts indefinitely.)</text>
+			<set rarity="uncommon" picurl="https://Rachel-Brighton.github.io/sets/R&amp;S-files/img/19.png" num="15">R&amp;S</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Dragon Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Blush, the Painter</name>
+			<text>Match the color — {T}: Add one mana of any color. Put a +1/+1 counter on up to one target creature of that color. Activate only as an instant.</text>
+			<set rarity="uncommon" picurl="https://Rachel-Brighton.github.io/sets/R&amp;S-files/img/20.png" num="20">R&amp;S</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Frog</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Stretch the Tether</name>
+			<text>This spell costs {2} less to cast if it targets creatures you control.
+Return two target creatures with the same controller to their owner&apos;s hands.</text>
+			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/R&amp;S-files/img/21.png" num="7">R&amp;S</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Get In The Circle</name>
+			<text>Choose up to four creatures you control. For each creature you chose, each opponent may choose a creature they control. Destroy all creatures not chosen this way.</text>
+			<set rarity="rare" picurl="https://Rachel-Brighton.github.io/sets/R&amp;S-files/img/22.png" num="10">R&amp;S</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>They Were Roommates</name>
+			<text>Discard a card, then draw two cards.
+Conspire (As you cast this spell, you may tap two untapped creatures you control that share a color with it. When you do, copy it.)</text>
+			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/R&amp;S-files/img/23.png" num="17">R&amp;S</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Beast Mode</name>
+			<text>Flash
+Enchant creature
+When this Aura enters, untap enchanted creature.
+Enchanted creature gets +3/+3 and is a Beast in addition to its other types.</text>
+			<set rarity="uncommon" picurl="https://Rachel-Brighton.github.io/sets/R&amp;S-files/img/24.png" num="19">R&amp;S</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Fullmoon Treasuresphere</name>
+			<text>When this creature dies, look at the top three cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order.</text>
+			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/R&amp;S-files/img/25.png" num="33">R&amp;S</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Orb</type>
+				<maintype>Creature</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<pt>0/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Churchmouse Streets</name>
+			<text>({T}: Add {W}.)
+This land enters tapped.
+{2}{W}, {T}: Put a +1/+1 counter on target creature. Activate only as a sorcery.</text>
+			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/R&amp;S-files/img/26.png" num="35">R&amp;S</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Plains</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>The Scholar&apos;s Nest</name>
+			<text>({T}: Add {U}.)
+This land enters tapped.
+{2}{U}, {T}: Surveil 1. (To surveil 1, look at the top card of your library. You may put it into your graveyard.)</text>
+			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/R&amp;S-files/img/27.png" num="41">R&amp;S</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Island</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>The King&apos;s Arsenal</name>
+			<text>({T}: Add {B}.)
+This land enters tapped.
+{1}{B}, {T}: Until end of turn, creatures your opponents control lose hexproof and ward.</text>
+			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/R&amp;S-files/img/28.png" num="38">R&amp;S</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Swamp</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>The Emerald Lakeside</name>
+			<text>({T}: Add {G}.)
+This land enters tapped.
+{1}{G}, {T}: Untap target creature. Activate only as a sorcery.</text>
+			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/R&amp;S-files/img/29.png" num="36">R&amp;S</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Forest</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>The Moonlit Pinnacle</name>
+			<text>This land enters tapped.
+When this land enters, sacrifice it unless you pay {1} or control a legendary creature.
+{T}: Add one mana of any color.</text>
+			<set rarity="rare" picurl="https://Rachel-Brighton.github.io/sets/R&amp;S-files/img/30.png" num="39">R&amp;S</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Kingdom Outskirts</name>
+			<text>{T}, Pay 1 life, sacrifice this land: Search your library for a land with a basic land type, put it onto the battlefield tapped, then shuffle.</text>
+			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/R&amp;S-files/img/31.png" num="37">R&amp;S</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>A Nice Hat R&amp;S</name>
+			<text>{2}, {T}, Sacrifice this token: You gain 3 life.
+Equipped creature gets +1/+1.
+Equip {1}</text>
+			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/R&amp;S-files/img/32.png" num="4">R&amp;S</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact — Food Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+			<reverse-related>Nimi, the Archer</reverse-related>
+		</card>
+		<card>
+			<name>Varmint R&amp;S</name>
+			<text></text>
+			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/R&amp;S-files/img/33.png" num="3">R&amp;S</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Varmint</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+			<reverse-related>Ancient Rabbit</reverse-related>
+		</card>
+		<card>
+			<name>The Red Darkhouse</name>
+			<text>({T}: Add {R}.)
+This land enters tapped.
+{3}{R}, {T}: Create a Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Add one mana of any color.&quot;)</text>
+			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/R&amp;S-files/img/34.png" num="40">R&amp;S</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Mountain</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Treasure R&amp;S</name>
+			<text>{T}, Sacrifice this token: Add one mana of any color.</text>
+			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/R&amp;S-files/img/35.png" num="10">R&amp;S</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact — Treasure</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+			<reverse-related>Ranalie, the Mythril</reverse-related>
+			<reverse-related>The Red Darkhouse</reverse-related>
+		</card>
+		<card>
+			<name>Mouse Knight R&amp;S</name>
+			<text></text>
+			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/R&amp;S-files/img/36.png" num="2">R&amp;S</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Mouse Knight</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+			<reverse-related count="2">Matti, the Paladin</reverse-related>
+		</card>
+		<card>
+			<name>Shira&apos;s Armory</name>
+			<text>Equipped creature gets +5/+5 and has trample.
+When equipped creature deals combat damage to a player, sacrifice this Equipment. When you do, you become the monarch, then create five 1/1 colorless Spirit artifact creature tokens with flying. (The monarch draws a card at the beginning of their end step. Whenever the monarch is dealt combat damage by a creature, its controller becomes the monarch.)
+Equip {5}</text>
+			<set rarity="rare" picurl="https://Rachel-Brighton.github.io/sets/R&amp;S-files/img/37.png" num="34">R&amp;S</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>5</manacost>
+				<cmc>5</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>The Monarch R&amp;S</name>
+			<text>At the beginning of your end step, draw a card.
+Whenever a creature deals combat damage to you, its controller becomes the monarch</text>
+			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/R&amp;S-files/img/38.png" num="1">R&amp;S</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+			<reverse-related>Shira&apos;s Armory</reverse-related>
+		</card>
+		<card>
+			<name>Spirit R&amp;S</name>
+			<text></text>
+			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/R&amp;S-files/img/39.png" num="5">R&amp;S</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+			<reverse-related>Shira&apos;s Armory</reverse-related>
+		</card>
+		<card>
+			<name>Spirit R&amp;S</name>
+			<text></text>
+			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/R&amp;S-files/img/40.png" num="6">R&amp;S</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+			<reverse-related>Shira&apos;s Armory</reverse-related>
+		</card>
+		<card>
+			<name>Spirit R&amp;S</name>
+			<text></text>
+			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/R&amp;S-files/img/41.png" num="7">R&amp;S</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+			<reverse-related>Shira&apos;s Armory</reverse-related>
+		</card>
+		<card>
+			<name>Spirit R&amp;S</name>
+			<text></text>
+			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/R&amp;S-files/img/42.png" num="8">R&amp;S</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+			<reverse-related>Shira&apos;s Armory</reverse-related>
+		</card>
+		<card>
+			<name>Spread Out</name>
+			<text>Exile up to four creatures. Return them to the battlefield under their owner&apos;s control at the beginning of the next end step.</text>
+			<set rarity="uncommon" picurl="https://Rachel-Brighton.github.io/sets/R&amp;S-files/img/43.png" num="4">R&amp;S</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Your Intellect Fails You</name>
+			<text>Counter target spell if it isn&apos;t a creature spell or if you control four or more creatures.</text>
+			<set rarity="uncommon" picurl="https://Rachel-Brighton.github.io/sets/R&amp;S-files/img/44.png" num="9">R&amp;S</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>UU</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Terribly Lonely</name>
+			<text>Target player sacrifices a creature of their choice. If it was the only creature that player controlled, they lose life equal to its power.</text>
+			<set rarity="uncommon" picurl="https://Rachel-Brighton.github.io/sets/R&amp;S-files/img/45.png" num="13">R&amp;S</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Dodge This</name>
+			<text>Each player chooses a target. Dodge This deals 4 damage to each permanent and player not chosen this way. If a permanent dealt damage this way would die this turn, exile it instead.</text>
+			<set rarity="rare" picurl="https://Rachel-Brighton.github.io/sets/R&amp;S-files/img/46.png" num="14">R&amp;S</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>4RR</manacost>
+				<cmc>6</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Just As Bright As You</name>
+			<text>Target creature you control becomes a copy of another creature you control. (This effect lasts indefinitely.) For each +1/+1 counter on the copied creature, put a +1/+1 counter on the targeted creature.</text>
+			<set rarity="rare" picurl="https://Rachel-Brighton.github.io/sets/R&amp;S-files/img/47.png" num="21">R&amp;S</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Spirit R&amp;S</name>
+			<text></text>
+			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/R&amp;S-files/img/48.png" num="9">R&amp;S</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+			<reverse-related>Shira&apos;s Armory</reverse-related>
+		</card>
+		<card>
+			<name>Heavyblade Rabbit</name>
+			<text>Shadow Barrier — This creature enters with a shield counter on it. (If it would be dealt damage or destroyed, remove a shield counter from it instead.)
+This creature must be blocked if able.</text>
+			<set rarity="uncommon" picurl="https://Rachel-Brighton.github.io/sets/R&amp;S-files/img/49.png" num="28">R&amp;S</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Rabbit Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1BR</manacost>
+				<cmc>3</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Tassha, the Snowfur</name>
+			<text>When you cast this spell, copy it for each other spell you&apos;ve cast named Tassha, the Snowfur this game. The copies aren&apos;t legendary.
+First attack is simple attack — When Tassha enters, target creature an opponent controls gets -1/-1 until end of turn. You lose 1 life.</text>
+			<set rarity="uncommon" picurl="https://Rachel-Brighton.github.io/sets/R&amp;S-files/img/50.png" num="12">R&amp;S</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Wolf Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+	</cards>
+</cockatrice_carddatabase>
