@@ -1,4 +1,39 @@
-﻿VERSION 18 CHANGELOG
+﻿VERSION 19 CHANGELOG
+====================
+
+
+
+Kaguya, Lunatic Princess
+
+Lily White
+
+Extend Ash
+
+Kitten of Great Fortune
+
+Kyouko Kasodani
+
+Miko, the Saint Reborn
+
+Sekibanki
+
+Kaguyas Impossible Request
+
+Nuclear Options
+
+Wonder Stone
+rules_text: [i]Imprint[/i] — When this creature enters, exile a card from your graveyard.
+Whenever this creature deals combat damage to a player, return the exiled card to your hand. => Flying
+[i]Imprint[/i] — When this creature enters, exile a card from your graveyard.
+Whenever this creature deals combat damage to a player, return the exiled card to your hand.
+pt: 2/2 => 1/2
+
+Sakuya and Remilia
+
+Youmu and Yuyuko
+
+
+VERSION 18 CHANGELOG
 ====================
 
 Teireida and Nishida added.

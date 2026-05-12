@@ -5,7 +5,7 @@
 			<name>GRM</name>
 			<longname>Grimoire of Spellfire</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-05-08</releasedate>
+			<releasedate>2026-05-12</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -1035,6 +1035,7 @@ III — The next creature spell you cast this turn costs {G}.</text>
 			</prop>
 			<tablerow>1</tablerow>
 			<token>1</token>
+			<reverse-related>Byakuren, Turbo Rider</reverse-related>
 		</card>
 		<card>
 			<name>Demon GRM</name>

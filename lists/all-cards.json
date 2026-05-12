@@ -180,7 +180,7 @@
             "alias": "",
             "position": "7",
             "rotated": false,
-            "notes": "!tag IN\n!tag Kaguya\n!tag Houraisan\n!tag IN-all\n!tag Stage6\n!tag Eientei\n!tag Moon\n!tag Music",
+            "notes": "!tag IN\n!tag Kaguya\n!tag Houraisan\n!tag Stage6\n!tag Eientei\n!tag Moon\n!tag Music",
             "image_type": "png",
             "v_mana": "",
             "designer_notes": "<p><a href=\"https://www.youtube.com/watch?v=pw2WQjqKpVM\">IN Final Boss B - Flight of the Bamboo Cutter ~ Lunatic Princess</a></p>"
@@ -598,7 +598,7 @@
             "alias": "",
             "position": "25",
             "rotated": false,
-            "notes": "!tag PCB\n!tag Lily\n!tag LilyWhite\n!tag Stage4\n!tag Chronicle",
+            "notes": "!tag PCB\n!tag Lily\n!tag Stage4\n!tag Chronicle",
             "image_type": "png",
             "v_mana": ""
         },
@@ -1094,7 +1094,7 @@
             "alias": "",
             "position": "46",
             "rotated": false,
-            "notes": "!tag IN\n!tag Mokou\n!tag Fujiwara\n!tag IN-all\n!tag Music",
+            "notes": "!tag IN\n!tag Mokou\n!tag Fujiwara\n!tag Music",
             "image_type": "png",
             "v_mana": "",
             "designer_notes": "<p><a href=\"https://www.youtube.com/watch?v=yNVg2qaAtnI\">IN Extra Stage - Extend Ash ~ Person of Hourai</a></p>"
@@ -1514,7 +1514,7 @@
             "alias": "",
             "position": "63",
             "rotated": false,
-            "notes": "!tag UM\n!tag Mike\n!tag Goutoukuji\n!tag Music",
+            "notes": "!tag UM\n!tag Mike\n!tag Goutokuji\n!tag Music",
             "image_type": "png",
             "v_mana": "",
             "designer_notes": "<p><a href=\"https://www.youtube.com/watch?v=QdYvjI82j_M\">UM Stage 1 Boss - Kitten of Great Fortune</a></p>"
@@ -1976,7 +1976,7 @@
             "alias": "",
             "position": "83",
             "rotated": false,
-            "notes": "!tag TD\n!tag Kyouko\n!tag Kasodani\n!tag Kyoko\n!tag Myouren\n!tag Stage2",
+            "notes": "!tag TD\n!tag Kyouko\n!tag Kasodani\n!tag Myouren\n!tag Stage2",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2045,7 +2045,7 @@
             "alias": "",
             "position": "86",
             "rotated": false,
-            "notes": "!tag TD\n!tag Miko\n!tag Shotoku\n!tag Toyosatomimi\n!tag Stage 6\n!tag Taoist",
+            "notes": "!tag TD\n!tag Miko\n!tag Shotoku\n!tag Toyosatomimi\n!tag Stage6\n!tag Taoist",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2183,7 +2183,7 @@
             "alias": "",
             "position": "92",
             "rotated": false,
-            "notes": "!replacetoken BankiHead;X\n!tag DDC\n!tag Sekibanki\n!tag Saggybaggy\n!tag Grassroots\n!tag Stage2",
+            "notes": "!replacetoken BankiHead\n!tag DDC\n!tag Sekibanki\n!tag Saggybaggy\n!tag Grassroots\n!tag Stage2",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2552,7 +2552,7 @@
             "alias": "",
             "position": "108",
             "rotated": false,
-            "notes": "!exportname Kaguyas Impossible Request\n!tag IN\n!tag Kaguya\n!tag Houraisan\n!tag IN-all",
+            "notes": "!exportname Kaguyas Impossible Request\n!tag IN\n!tag Kaguya\n!tag Houraisan",
             "image_type": "png",
             "v_mana": ""
         },
@@ -3939,7 +3939,7 @@
             "alias": "",
             "position": "167",
             "rotated": false,
-            "notes": "!tag PoDD\n!tag Ruukoto\n!tag Mimi-chan\n!tag Mimichan\n!tag Phantasmagoria\n!tag Music\n!tag Fanon\n!tag PC-98",
+            "notes": "!tag PoDD\n!tag Ruukoto\n!tag Mimi-chan\n!tag Phantasmagoria\n!tag Music\n!tag Fanon\n!tag PC-98",
             "image_type": "png",
             "v_mana": "",
             "designer_notes": "<p><a href=\"https://www.youtube.com/watch?v=c2Tteiy8xLo\">PoDD Common Ending Theme - Dream of Eternity</a></p>\n<p><a href=\"https://www.youtube.com/watch?v=HDaWyuieBQU\">PoDD Game Over Theme - Game Over</a>. Really popping off with this one, huh?</p>"
@@ -7797,9 +7797,9 @@
             "number": 324,
             "color_identity": "C",
             "cost": "{3}",
-            "rules_text": "[i]Imprint[/i] \u2013 When this creature enters, exile a card from your graveyard.\nWhenever this creature deals combat damage to a player, return the exiled card to your hand.",
+            "rules_text": "Flying\n[i]Imprint[/i] \u2013 When this creature enters, exile a card from your graveyard.\nWhenever this creature deals combat damage to a player, return the exiled card to your hand.",
             "flavor_text": "[i][/i]",
-            "pt": "2/2",
+            "pt": "1/2",
             "special_text": "",
             "shape": "normal",
             "set": "2HU",
@@ -8316,7 +8316,7 @@
             "alias": "",
             "position": "355",
             "rotated": false,
-            "notes": "!tag IN\n!tag IN-all\n!tag Sakuya\n!tag Izayoi\n!tag Remilia\n!tag Scarlet\n!tag Playable\n!tag SDM\n!tag Yuri",
+            "notes": "!tag IN\n!tag Sakuya\n!tag Izayoi\n!tag Remilia\n!tag Scarlet\n!tag Playable\n!tag SDM\n!tag Yuri",
             "image_type": "png",
             "v_mana": ""
         },
@@ -8339,7 +8339,7 @@
             "alias": "",
             "position": "356",
             "rotated": false,
-            "notes": "!tag IN\n!tag IN-all\n!tag Youmu\n!tag Konpaku\n!tag Yuyuko\n!tag Saigyouji\n!tag Playable\n!tag Yuri",
+            "notes": "!tag IN\n!tag Youmu\n!tag Konpaku\n!tag Yuyuko\n!tag Saigyouji\n!tag Playable\n!tag Yuri",
             "image_type": "png",
             "v_mana": ""
         },
@@ -11710,7 +11710,7 @@
             "alias": "",
             "position": "56",
             "rotated": false,
-            "notes": "!tag Byakuren, Turbo Rider",
+            "notes": "!related Byakuren, Turbo Rider",
             "image_type": "png",
             "v_mana": ""
         },

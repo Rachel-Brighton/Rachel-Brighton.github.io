@@ -1262,7 +1262,7 @@
             "alias": "",
             "position": "56",
             "rotated": false,
-            "notes": "!tag Byakuren, Turbo Rider"
+            "notes": "!related Byakuren, Turbo Rider"
         },
         {
             "card_name": "Demon",
@@ -1412,5 +1412,5 @@
             "notes": "!tag TD\n!tag Yoshika\n!tag Miyako\n!tag Spellcard"
         }
     ],
-    "version": 3
+    "version": 4
 }
