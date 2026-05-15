@@ -1,0 +1,526 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Remilia, the Scarlet Devil",
+			"rarity": "mythic",
+			"mana_cost": "{4}{B}{R}",
+			"type": "Legendary Creature — Vampire Noble",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/0.png"
+			}
+		},
+		{
+			"name": "Knight of Nights",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/1.png"
+			}
+		},
+		{
+			"name": "A Dream More Scarlet",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/2.png"
+			}
+		},
+		{
+			"name": "Meiling, the Gatekeeper",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Creature — Youkai",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/3.png"
+			}
+		},
+		{
+			"name": "Sakuya, the Head Maid",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}",
+			"type": "Legendary Creature — Human",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/4.png"
+			}
+		},
+		{
+			"name": "Cirno, Ice Spirit on the Lake",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Legendary Creature — Faerie",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/5.png"
+			}
+		},
+		{
+			"name": "Rumia, Wrapped in Dusk",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Legendary Creature — Shade Youkai",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/6.png"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/7.png"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/8.png"
+			}
+		},
+		{
+			"name": "Hellfire Mantle",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Swamp Mountain",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/9.png"
+			}
+		},
+		{
+			"name": "Dangerous Curiosity",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/10.png"
+			}
+		},
+		{
+			"name": "Fog Sign",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/11.png"
+			}
+		},
+		{
+			"name": "Scarlet Gensokyo",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/12.png"
+			}
+		},
+		{
+			"name": "Fairy Menace",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Faerie Pest",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/13.png"
+			}
+		},
+		{
+			"name": "Little Devil",
+			"rarity": "common",
+			"mana_cost": "{1}{B/R}",
+			"type": "Creature — Devil",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/14.png"
+			}
+		},
+		{
+			"name": "Incident Resolvers (EoSD)",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Creature — Human",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/15.png"
+			}
+		},
+		{
+			"name": "Flandre, Sister of the Devil",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Legendary Creature — Vampire Noble",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/16.png"
+			}
+		},
+		{
+			"name": "Sun Sign 「Royal Flare」",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/17.png"
+			}
+		},
+		{
+			"name": "Incident Resolvers (FW)",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Creature — Human",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/18.png"
+			}
+		},
+		{
+			"name": "Fiction Sign",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/19.png"
+			}
+		},
+		{
+			"name": "Aspect Shift",
+			"rarity": "common",
+			"mana_cost": "{X}{W}",
+			"type": "Instant",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/20.png"
+			}
+		},
+		{
+			"name": "Otherland's Edge",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/21.png"
+			}
+		},
+		{
+			"name": "Youkai",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Youkai",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/22.png"
+			}
+		},
+		{
+			"name": "Forbidden 「Starbow Break」",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/23.png"
+			}
+		},
+		{
+			"name": "Yuiman, Data Purifier",
+			"rarity": "rare",
+			"mana_cost": "{W}{U}",
+			"type": "Legendary Creature — Human God Noble",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/24.png"
+			}
+		},
+		{
+			"name": "Wonder Stone",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Stone Prism",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/25.png"
+			}
+		},
+		{
+			"name": "For the Glory of the Moon",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/26.png"
+			}
+		},
+		{
+			"name": "Toyohime, System Administrator",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}",
+			"type": "Legendary Creature — Moonfolk Noble",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/27.png"
+			}
+		},
+		{
+			"name": "Ubame, Yamanba Chief",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Creature — Hag Noble",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/28.png"
+			}
+		},
+		{
+			"name": "Nareko, Confined Dousojin",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Creature — Golem",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/29.png"
+			}
+		},
+		{
+			"name": "Unchanging Daily Life",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/30.png"
+			}
+		},
+		{
+			"name": "Breach the Sanctuary",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/31.png"
+			}
+		},
+		{
+			"name": "Sea of Tranquility",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Plains Island",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/32.png"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/33.png"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/34.png"
+			}
+		},
+		{
+			"name": "Overflowing Wonder",
+			"rarity": "rare",
+			"mana_cost": "{3}{W/U}",
+			"type": "Artifact Creature — Stone Prism",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/35.png"
+			}
+		},
+		{
+			"name": "Hallucinated Companion",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Illusion",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/36.png"
+			}
+		},
+		{
+			"name": "Asama Purifying Mountain",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Legendary Artifact",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/37.png"
+			}
+		},
+		{
+			"name": "Ariya, Spirit of Permanence",
+			"rarity": "mythic",
+			"mana_cost": "{5}{W}{U}",
+			"type": "Legendary Creature — God",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/38.png"
+			}
+		},
+		{
+			"name": "Copy",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/39.png"
+			}
+		}
+	]
+
+[rare(1)]
+	1 Remilia, the Scarlet Devil
+	2 Meiling, the Gatekeeper
+	2 Sakuya, the Head Maid
+	2 Flandre, Sister of the Devil
+	2 Yuiman, Data Purifier
+	2 Toyohime, System Administrator
+	2 Overflowing Wonder
+	2 Asama Purifying Mountain
+	1 Ariya, Spirit of Permanence
+[uncommon(3)]
+	4 Knight of Nights
+	4 A Dream More Scarlet
+	4 Hellfire Mantle
+	4 Dangerous Curiosity
+	4 Scarlet Gensokyo
+	4 Incident Resolvers (EoSD)
+	4 Sun Sign 「Royal Flare」
+	4 Incident Resolvers (FW)
+	4 Ubame, Yamanba Chief
+	4 Nareko, Confined Dousojin
+	4 Sea of Tranquility
+[common(6)]
+	8 Cirno, Ice Spirit on the Lake
+	8 Rumia, Wrapped in Dusk
+	8 Fog Sign
+	8 Fairy Menace
+	8 Little Devil
+	8 Fiction Sign
+	8 Aspect Shift
+	8 Otherland's Edge
+	8 Forbidden 「Starbow Break」
+	8 Wonder Stone
+	8 For the Glory of the Moon
+	8 Unchanging Daily Life
+	8 Breach the Sanctuary
+	8 Hallucinated Companion
+[common | masterpiece(1)]
+	8 Cirno, Ice Spirit on the Lake
+	8 Rumia, Wrapped in Dusk
+	8 Fog Sign
+	8 Fairy Menace
+	8 Little Devil
+	8 Fiction Sign
+	8 Aspect Shift
+	8 Otherland's Edge
+	8 Forbidden 「Starbow Break」
+	8 Wonder Stone
+	8 For the Glory of the Moon
+	8 Unchanging Daily Life
+	8 Breach the Sanctuary
+	8 Hallucinated Companion
+[foil(1)]
+	1 Remilia, the Scarlet Devil
+	6 Knight of Nights
+	6 A Dream More Scarlet
+	2 Meiling, the Gatekeeper
+	2 Sakuya, the Head Maid
+	12 Cirno, Ice Spirit on the Lake
+	12 Rumia, Wrapped in Dusk
+	6 Hellfire Mantle
+	6 Dangerous Curiosity
+	12 Fog Sign
+	6 Scarlet Gensokyo
+	12 Fairy Menace
+	12 Little Devil
+	6 Incident Resolvers (EoSD)
+	2 Flandre, Sister of the Devil
+	6 Sun Sign 「Royal Flare」
+	6 Incident Resolvers (FW)
+	12 Fiction Sign
+	12 Aspect Shift
+	12 Otherland's Edge
+	12 Forbidden 「Starbow Break」
+	2 Yuiman, Data Purifier
+	12 Wonder Stone
+	12 For the Glory of the Moon
+	2 Toyohime, System Administrator
+	6 Ubame, Yamanba Chief
+	6 Nareko, Confined Dousojin
+	12 Unchanging Daily Life
+	12 Breach the Sanctuary
+	6 Sea of Tranquility
+	2 Overflowing Wonder
+	12 Hallucinated Companion
+	2 Asama Purifying Mountain
+	1 Ariya, Spirit of Permanence
+[wildcard(1)]
+	4 Remilia, the Scarlet Devil
+	15 Knight of Nights
+	15 A Dream More Scarlet
+	7 Meiling, the Gatekeeper
+	7 Sakuya, the Head Maid
+	6 Cirno, Ice Spirit on the Lake
+	6 Rumia, Wrapped in Dusk
+	15 Hellfire Mantle
+	15 Dangerous Curiosity
+	6 Fog Sign
+	15 Scarlet Gensokyo
+	6 Fairy Menace
+	6 Little Devil
+	15 Incident Resolvers (EoSD)
+	7 Flandre, Sister of the Devil
+	15 Sun Sign 「Royal Flare」
+	15 Incident Resolvers (FW)
+	6 Fiction Sign
+	6 Aspect Shift
+	6 Otherland's Edge
+	6 Forbidden 「Starbow Break」
+	7 Yuiman, Data Purifier
+	6 Wonder Stone
+	6 For the Glory of the Moon
+	7 Toyohime, System Administrator
+	15 Ubame, Yamanba Chief
+	15 Nareko, Confined Dousojin
+	6 Unchanging Daily Life
+	6 Breach the Sanctuary
+	15 Sea of Tranquility
+	7 Overflowing Wonder
+	6 Hallucinated Companion
+	7 Asama Purifying Mountain
+	4 Ariya, Spirit of Permanence

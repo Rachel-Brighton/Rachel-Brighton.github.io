@@ -1,0 +1,115 @@
+﻿[
+    {
+        "card_name": "Sea of Tranquility",
+        "number": 34,
+        "shape": "normal",
+        "set": "INC",
+        "rotated": false,
+        "position": "32"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Hellfire Mantle",
+        "number": 32,
+        "shape": "normal",
+        "set": "INC",
+        "rotated": false,
+        "position": "9"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Otherland's Edge",
+        "number": 33,
+        "shape": "normal",
+        "set": "INC",
+        "rotated": false,
+        "position": "21"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->token",
+    {
+        "card_name": "Copy",
+        "number": 1,
+        "shape": "token",
+        "set": "INC",
+        "rotated": false,
+        "position": "39"
+    },
+    {
+        "card_name": "Youkai",
+        "number": 2,
+        "shape": "token",
+        "set": "INC",
+        "rotated": false,
+        "position": "22"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    }
+]

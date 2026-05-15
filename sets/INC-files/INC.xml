@@ -1,0 +1,703 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>INC</name>
+			<longname>It&apos;s an Incident! — UB Touhou Story Decks</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-05-14</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Remilia, the Scarlet Devil</name>
+			<text>Flying
+Scarlet Destiny — When Remilia enters, gain control of target creature an opponent controls.</text>
+			<set rarity="mythic" picurl="https://Rachel-Brighton.github.io/sets/INC-files/img/0.png" num="27">INC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Vampire Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>4BR</manacost>
+				<cmc>6</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>5/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Knight of Nights</name>
+			<text>Until end of turn, target creature gets +2/+0 and gains first strike, menace, deathtouch, and haste.</text>
+			<set rarity="uncommon" picurl="https://Rachel-Brighton.github.io/sets/INC-files/img/1.png" num="15">INC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>A Dream More Scarlet</name>
+			<text>Vampires and Youkai you control get +1/+0 and have ward—Pay 3 life.</text>
+			<set rarity="uncommon" picurl="https://Rachel-Brighton.github.io/sets/INC-files/img/2.png" num="19">INC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Meiling, the Gatekeeper</name>
+			<text>Colorful Rain — {T}: Add {R} or {B}. Whenever this mana is spent to cast a creature spell with mana value 4 or greater, that creature enters with an additional +1/+1 counter.</text>
+			<set rarity="rare" picurl="https://Rachel-Brighton.github.io/sets/INC-files/img/3.png" num="22">INC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Youkai</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sakuya, the Head Maid</name>
+			<text>Flash
+Luna Dial — When Sakuya enters, draw two cards. You lose 2 life unless you control a Vampire or Youkai.</text>
+			<set rarity="rare" picurl="https://Rachel-Brighton.github.io/sets/INC-files/img/4.png" num="17">INC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cirno, Ice Spirit on the Lake</name>
+			<text>When Cirno enters, choose one —
+• Cirno deals 3 damage to target creature.
+• Put a +1/+1 counter on her.
+• Destroy target artifact.</text>
+			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/INC-files/img/5.png" num="18">INC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Faerie</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rumia, Wrapped in Dusk</name>
+			<text>Night Bird — When Rumia dies, you may pay 1 life. When you do, draw a card.</text>
+			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/INC-files/img/6.png" num="16">INC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Shade Youkai</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Swamp</name>
+			<text></text>
+			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/INC-files/img/7.png" num="37">INC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Swamp</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Mountain</name>
+			<text></text>
+			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/INC-files/img/8.png" num="38">INC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Mountain</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Hellfire Mantle</name>
+			<text>({T}: Add {B} or {R}.)
+This land enters tapped.
+When this land enters, you gain 1 life.</text>
+			<set rarity="uncommon" picurl="https://Rachel-Brighton.github.io/sets/INC-files/img/9.png" num="32">INC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Swamp Mountain</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+			<cipt>1</cipt>
+		</card>
+		<card>
+			<name>Dangerous Curiosity</name>
+			<text>Enchant creature
+Enchanted creature has deathtouch.
+Whenever enchanted creature deals damage to an opponent, you may reveal the top card of your library and put that card into your hand. You lose life equal to its mana value.</text>
+			<set rarity="uncommon" picurl="https://Rachel-Brighton.github.io/sets/INC-files/img/10.png" num="13">INC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Fog Sign</name>
+			<text>Tiered (Choose one additional cost)
+• Scarlet Shoot — {0} — This spell deals 2 damage to any target.
+• Red Magic — {2} — This spell deals 2 damage divided as you choose among one or two targets.
+• Mountain of a Thousand Needles — {4}{R} — This spell deals 4 damage divided as you choose among any number of targets.</text>
+			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/INC-files/img/11.png" num="21">INC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Scarlet Gensokyo</name>
+			<text>Create two 1/1 black and red Youkai creature tokens. Scarlet Gensokyo deals 2 damage to each player.</text>
+			<set rarity="uncommon" picurl="https://Rachel-Brighton.github.io/sets/INC-files/img/12.png" num="23">INC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Fairy Menace</name>
+			<text>Menace
+Whenever this creature attacks, add {R}. Until end of turn, you don&apos;t lose this mana as steps and phases end.</text>
+			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/INC-files/img/13.png" num="20">INC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Faerie Pest</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Little Devil</name>
+			<text>Reach, haste</text>
+			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/INC-files/img/14.png" num="29">INC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Devil</type>
+				<maintype>Creature</maintype>
+				<manacost>1B/R</manacost>
+				<cmc>2</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Incident Resolvers (EoSD)</name>
+			<text>When this creature enters, draw a card.
+Spells you cast during combat cost {1} less to cast.</text>
+			<set rarity="uncommon" picurl="https://Rachel-Brighton.github.io/sets/INC-files/img/15.png" num="1">INC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Flandre, Sister of the Devil</name>
+			<text>Flying
+Lävatein — When Flandre enters, each opponent sacrifices a nontoken creature of their choice and discards a card.</text>
+			<set rarity="rare" picurl="https://Rachel-Brighton.github.io/sets/INC-files/img/16.png" num="26">INC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Vampire Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>2BR</manacost>
+				<cmc>4</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sun Sign 「Royal Flare」</name>
+			<text>Royal Flare deals 4 damage to target creature and 2 damage to its controller.</text>
+			<set rarity="uncommon" picurl="https://Rachel-Brighton.github.io/sets/INC-files/img/17.png" num="24">INC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Incident Resolvers (FW)</name>
+			<text>When this creature enters, draw a card.
+Spells you cast during combat cost {1} less to cast.</text>
+			<set rarity="uncommon" picurl="https://Rachel-Brighton.github.io/sets/INC-files/img/18.png" num="2">INC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Fiction Sign</name>
+			<text>Tiered (Choose one additional cost.)
+• Old Illuminati — {0} — Surveil 1, then draw a card.
+• Reptilian Intelligence — {1} — Draw two cards, then discard a card.
+• New World Order — {4}{U} — Surveil 3, then draw three cards.</text>
+			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/INC-files/img/19.png" num="9">INC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Aspect Shift</name>
+			<text>X target nonland permanents phase out. (Treat them and anything attached to them as though they don&apos;t exist until their controller&apos;s next turn.)
+Draw a card.</text>
+			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/INC-files/img/20.png" num="3">INC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>XW</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Otherland&apos;s Edge</name>
+			<text>{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield, then shuffle. It enters tapped unless you pay 2 life.</text>
+			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/INC-files/img/21.png" num="33">INC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Youkai INC</name>
+			<text></text>
+			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/INC-files/img/22.png" num="2">INC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Youkai</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>BR</colors>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+			<reverse-related count="2">Scarlet Gensokyo</reverse-related>
+		</card>
+		<card>
+			<name>Forbidden 「Starbow Break」</name>
+			<text>Choose one —
+• Target player reveals their hand. You choose a nonland card from it. That player discards that card.
+• Target creature gets -2/-2 until end of turn.</text>
+			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/INC-files/img/23.png" num="14">INC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Yuiman, Data Purifier</name>
+			<text>Vigilance
+Yuiman can&apos;t attack or block unless you have seven or more cards in your graveyard.
+{T}: Draw a card, then discard a card.</text>
+			<set rarity="rare" picurl="https://Rachel-Brighton.github.io/sets/INC-files/img/24.png" num="28">INC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human God Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>WU</manacost>
+				<cmc>2</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Wonder Stone</name>
+			<text>Flying
+Imprint — When this creature enters, exile a card from your graveyard.
+Whenever this creature deals combat damage to a player, return the exiled card to your hand.</text>
+			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/INC-files/img/25.png" num="31">INC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Stone Prism</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>For the Glory of the Moon</name>
+			<text>Enchant creature
+Enchanted creature doesn&apos;t untap during its controller&apos;s untap step.
+Enchanted creature has &quot;At the beginning of each opponent&apos;s upkeep, that player may surveil 1.&quot;</text>
+			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/INC-files/img/26.png" num="10">INC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Toyohime, System Administrator</name>
+			<text>Flash
+When Toyohime enters, choose one —
+• Exile target enchantment.
+• Exile target graveyard.
+• Exile target creature, then return it to the battlefield at the beginning of your next upkeep.</text>
+			<set rarity="rare" picurl="https://Rachel-Brighton.github.io/sets/INC-files/img/27.png" num="6">INC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Moonfolk Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ubame, Yamanba Chief</name>
+			<text>Flash
+Cosmic Dust — When Ubame enters, untap another target creature you control.</text>
+			<set rarity="uncommon" picurl="https://Rachel-Brighton.github.io/sets/INC-files/img/28.png" num="7">INC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Hag Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Nareko, Confined Dousojin</name>
+			<text>Reach
+Logical Wall — {2}{U}, {T}: Surveil 1, then draw a card. (To surveil 1, look at the top card of your library. You may put it into your graveyard.)</text>
+			<set rarity="uncommon" picurl="https://Rachel-Brighton.github.io/sets/INC-files/img/29.png" num="11">INC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Golem</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Unchanging Daily Life</name>
+			<text>Return target nonland permanent to its owner&apos;s hand.</text>
+			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/INC-files/img/30.png" num="12">INC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Breach the Sanctuary</name>
+			<text>Untap target creature. It gets +2/+2 until end of turn.
+If it&apos;s your turn, draw a card.</text>
+			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/INC-files/img/31.png" num="4">INC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Sea of Tranquility</name>
+			<text>({T}: Add {W} or {U}.)
+This land enters tapped.
+When this land enters, you gain 1 life.</text>
+			<set rarity="uncommon" picurl="https://Rachel-Brighton.github.io/sets/INC-files/img/32.png" num="34">INC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Plains Island</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+			<cipt>1</cipt>
+		</card>
+		<card>
+			<name>Plains</name>
+			<text></text>
+			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/INC-files/img/33.png" num="35">INC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Plains</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Island</name>
+			<text></text>
+			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/INC-files/img/34.png" num="36">INC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Island</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Overflowing Wonder</name>
+			<text>Flash
+Flying
+When this creature enters, exile another target creature or spell. Its controller may cast it for as long as it remains exiled.</text>
+			<set rarity="rare" picurl="https://Rachel-Brighton.github.io/sets/INC-files/img/35.png" num="30">INC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Stone Prism</type>
+				<maintype>Creature</maintype>
+				<manacost>3W/U</manacost>
+				<cmc>4</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hallucinated Companion</name>
+			<text>Reach
+When this creature enters, you gain 2 life.</text>
+			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/INC-files/img/36.png" num="5">INC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Illusion</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Asama Purifying Mountain</name>
+			<text>Whenever you draw your second card each turn, put a +1/+1 counter on up to one target creature you control.
+At the beginning of your end step, you may exile four cards from your graveyard. When you do, create a token that&apos;s a copy of a creature you control, except it&apos;s a nonlegendary Illusion.</text>
+			<set rarity="rare" picurl="https://Rachel-Brighton.github.io/sets/INC-files/img/37.png" num="8">INC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Ariya, Spirit of Permanence</name>
+			<text>Flying
+When Ariya enters, draw three cards.
+Unliving, Undying Stone — Whenever you draw a card, target creature you control gains indestructible until your next turn.</text>
+			<set rarity="mythic" picurl="https://Rachel-Brighton.github.io/sets/INC-files/img/38.png" num="25">INC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — God</type>
+				<maintype>Creature</maintype>
+				<manacost>5WU</manacost>
+				<cmc>7</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Copy INC</name>
+			<text>This token can be used to represent a copy of something else.</text>
+			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/INC-files/img/39.png" num="1">INC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token</type>
+				<maintype>Token</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+	</cards>
+</cockatrice_carddatabase>

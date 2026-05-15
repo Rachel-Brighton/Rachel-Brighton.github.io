@@ -1,4 +1,9 @@
-﻿VERSION 19 CHANGELOG
+﻿VERSION 20 CHANGELOG
+====================
+
+No changes.
+
+VERSION 19 CHANGELOG
 ====================
 
 

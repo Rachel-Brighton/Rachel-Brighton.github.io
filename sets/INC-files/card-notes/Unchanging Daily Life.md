@@ -1,0 +1,1 @@
+[FW Bad Ending - Unchanging Daily Life](https://www.youtube.com/watch?v=uxUEWvDh5T4)

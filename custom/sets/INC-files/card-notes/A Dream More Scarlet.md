@@ -1,0 +1,1 @@
+[EoSD Title Screen - A Dream More Scarlet Than Red](https://www.youtube.com/watch?v=P3CpaXmZO20)
