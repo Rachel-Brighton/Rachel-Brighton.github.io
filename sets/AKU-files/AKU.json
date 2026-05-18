@@ -257,7 +257,7 @@
             "alias": "",
             "position": "11",
             "rotated": false,
-            "notes": "!addtoken Booze;1\n\n!tag SSiB\n!tag Print\n!tag Bougetsushou"
+            "notes": "!addtoken Booze;1\n\n!tag SSiB\n!tag Print\n!tag Bougetsushou\n!tag SourceName"
         },
         {
             "card_name": "Curiosities of Lotus Asia",
@@ -278,7 +278,7 @@
             "alias": "",
             "position": "12",
             "rotated": false,
-            "notes": "!addtoken Notebook;1\n\n!tag CoLA\n!tag Print"
+            "notes": "!addtoken Notebook;1\n\n!tag CoLA\n!tag Print\n!tag SourceName"
         },
         {
             "card_name": "Forbidden Scrollery",
@@ -299,7 +299,7 @@
             "alias": "",
             "position": "13",
             "rotated": false,
-            "notes": "!tag FS\n!tag Print"
+            "notes": "!tag FS\n!tag Print\n!tag SourceName"
         },
         {
             "card_name": "Visionary Fairies in Shrine",
@@ -320,7 +320,7 @@
             "alias": "",
             "position": "14",
             "rotated": false,
-            "notes": "!addtoken FairySwarm;1\n!tag VFiS\n!tag Print\n!tag Sangetsusei"
+            "notes": "!addtoken FairySwarm;1\n!tag VFiS\n!tag Print\n!tag Sangetsusei\n!tag SourceName"
         },
         {
             "card_name": "Wild and Horned Hermit",
@@ -341,7 +341,7 @@
             "alias": "",
             "position": "15",
             "rotated": false,
-            "notes": "!tag WaHH\n!tag Print"
+            "notes": "!tag WaHH\n!tag Print\n!tag SourceName"
         },
         {
             "card_name": "Magic is All About Power",
@@ -572,7 +572,7 @@
             "alias": "",
             "position": "26",
             "rotated": false,
-            "notes": "!tag CDS\n!tag FDS\n!tag Satori\n!tag Komeiji\n!tag Print\n!tag Chireiden\n!tag Hell"
+            "notes": "!tag CDS\n!tag FDS\n!tag Satori\n!tag Komeiji\n!tag Print\n!tag Chireiden\n!tag Hell\n!tag SourceName"
         },
         {
             "card_name": "Aya, Reporter of Fantasy",
@@ -1478,5 +1478,5 @@
             "notes": "!tag VFiS\n!tag Print\n!tag Hell"
         }
     ],
-    "version": 9
+    "version": 10
 }

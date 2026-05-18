@@ -1,4 +1,24 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+
+
+Little Devil
+rules_text: Reach, haste => Haste
+When this creature enters, up to one other target creature gets +1/-1 until end of turn.
+
+Incident Resolvers (EoSD)
+
+Magician's Companion
+
+Antinomy of Common Flowers
+
+Immaterial and Missing Power
+
+Gun Sign 「3D Printer Gun」
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

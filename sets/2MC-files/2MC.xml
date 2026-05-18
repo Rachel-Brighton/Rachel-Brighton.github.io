@@ -5,7 +5,7 @@
 			<name>2MC</name>
 			<longname>2HU Miniset Collection</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-05-16</releasedate>
+			<releasedate>2026-05-18</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -234,7 +234,8 @@ Whenever this creature attacks, add {R}. Until end of turn, you don&apos;t lose 
 		</card>
 		<card>
 			<name>Little Devil</name>
-			<text>Reach, haste</text>
+			<text>Haste
+When this creature enters, up to one other target creature gets +1/-1 until end of turn.</text>
 			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/2MC-files/img/13.png" num="115">2MC</set>
 			<prop>
 				<layout>normal</layout>

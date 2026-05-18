@@ -5,7 +5,7 @@
 			<name>2HU</name>
 			<longname>Universes Beyond: The Touhou Project</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-05-12</releasedate>
+			<releasedate>2026-05-18</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -5862,7 +5862,7 @@ Whenever a non-Spirit creature you control dies, you may pay {B} and 2 life. If 
 		</card>
 		<card>
 			<name>Chimata, the Market God</name>
-			<text>Return Everything to Nothing — When Chimata enters, if she was cast, exile all other nonland permanents. Starting with you, each player may put a card exiled this way onto the battlefield under their control.</text>
+			<text>Return everything to nothing — When Chimata enters, if she was cast, exile all other nonland permanents. Starting with you, each player may put a card exiled this way onto the battlefield under their control.</text>
 			<set rarity="rare" picurl="https://Rachel-Brighton.github.io/sets/2HU-files/img/324.png" num="184">2HU</set>
 			<prop>
 				<layout>normal</layout>

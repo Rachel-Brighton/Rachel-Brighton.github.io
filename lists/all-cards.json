@@ -3846,7 +3846,7 @@
             "alias": "",
             "position": "163",
             "rotated": false,
-            "notes": "!tag Hisoutensoku\n!tag Soku\n!tag Music\n!tag Spinoff\n!tag Fighter",
+            "notes": "!tag Hisoutensoku\n!tag Soku\n!tag Music\n!tag Spinoff\n!tag Fighter\n!tag SourceName",
             "image_type": "png",
             "v_mana": "",
             "designer_notes": "<p><a href=\"https://www.youtube.com/watch?v=Rom0-LKuUJU\">Hisoutensoku Pre-Battle Theme - Our Hisou Tensoku</a></p>"
@@ -6689,7 +6689,7 @@
             "alias": "",
             "position": "285",
             "rotated": false,
-            "notes": "!tag 100BM\n!tag Spinoff\n!tag Music",
+            "notes": "!tag 100BM\n!tag Spinoff\n!tag Music\n!tag SourceName",
             "image_type": "png",
             "v_mana": "",
             "designer_notes": "<p><a href=\"https://www.youtube.com/watch?v=DwU-bZ500Zk\">100th Black Market Stage 3 theme - The 100th Black Market</a></p>"
@@ -7200,7 +7200,7 @@
             "alias": "",
             "position": "307",
             "rotated": false,
-            "notes": "!tag PoDD\n!tag Phantasmagoria",
+            "notes": "!tag PoDD\n!tag Phantasmagoria\n!tag SourceName",
             "image_type": "png",
             "v_mana": ""
         },
@@ -7223,7 +7223,7 @@
             "alias": "",
             "position": "308",
             "rotated": false,
-            "notes": "!tag PoFV\n!tag Phantasmagoria",
+            "notes": "!tag PoFV\n!tag Phantasmagoria\n!tag SourceName",
             "image_type": "png",
             "v_mana": ""
         },
@@ -7587,7 +7587,7 @@
             "number": 184,
             "color_identity": "UBR",
             "cost": "{4}{U}{B}{R}",
-            "rules_text": "[i]Return Everything to Nothing \u2013 [/i]When Chimata enters, if she was cast, exile all other nonland permanents. Starting with you, each player may put a card exiled this way onto the battlefield under their control.",
+            "rules_text": "[i]Return everything to nothing \u2013 [/i]When Chimata enters, if she was cast, exile all other nonland permanents. Starting with you, each player may put a card exiled this way onto the battlefield under their control.",
             "flavor_text": "[i]\u201cLet your pockets be stripped bare, and painfully realize this fact: Humans were always poor creatures who can own nothing at all!\u201d[/i]",
             "pt": "5/5",
             "special_text": "",
@@ -8570,7 +8570,7 @@
             "alias": "",
             "position": "366",
             "rotated": false,
-            "notes": "!tag IN\n!tag Music",
+            "notes": "!tag IN\n!tag Music\n!tag SourceName",
             "image_type": "png",
             "v_mana": "",
             "designer_notes": "<p><a href=\"https://www.youtube.com/watch?v=-8j31aF4mrc\">IN Stage 4 - Retribution for the Eternal Night ~ Imperishable Night</a></p>"
@@ -8617,7 +8617,7 @@
             "alias": "",
             "position": "368",
             "rotated": false,
-            "notes": "!tag UDoALG\n!tag Phantasmagoria",
+            "notes": "!tag UDoALG\n!tag Phantasmagoria\n!tag SourceName",
             "image_type": "png",
             "v_mana": ""
         },
@@ -9022,7 +9022,7 @@
             "number": 115,
             "color_identity": "BR",
             "cost": "{1}{BR}",
-            "rules_text": "Reach, haste",
+            "rules_text": "Haste\nWhen this creature enters, up to one other target creature gets +1/-1 until end of turn.",
             "flavor_text": "[i]Within the halls of Voile, the magic library, one may catch a glimpse of a winged familiar sorting the books and preparing the defenses.[/i]",
             "pt": "2/1",
             "special_text": "",
@@ -9056,7 +9056,7 @@
             "alias": "",
             "position": "14",
             "rotated": false,
-            "notes": "!exportname Incident Resolvers (EoSD)\n\n!tag EoSD\n!tag Reimu\n!tag Hakurei\n!tag Marisa\n!tag Kirisame",
+            "notes": "!exportname Incident Resolvers (EoSD)\n\n!tag EoSD\n!tag Reimu\n!tag Hakurei\n!tag Marisa\n!tag Kirisame\n!tag Wishlist",
             "image_type": "png",
             "v_mana": ""
         },
@@ -10390,7 +10390,7 @@
             "alias": "",
             "position": "72",
             "rotated": false,
-            "notes": "!tag PoDD\n!tag Ellen\n!tag Aureus\n!tag Socrates\n!tag Sokrates\n!tag Male\n!tag Phantasmagoria",
+            "notes": "!tag PoDD\n!tag Ellen\n!tag Aureus\n!tag Socrates\n!tag Sokrates\n!tag Male\n!tag Phantasmagoria\n!tag Wishlist",
             "image_type": "png",
             "v_mana": ""
         },
@@ -11426,7 +11426,7 @@
             "alias": "",
             "position": "116",
             "rotated": false,
-            "notes": "!sort saga\n!tag AoCF",
+            "notes": "!sort saga\n!tag AoCF\n!tag Wishlist",
             "image_type": "png",
             "v_mana": ""
         },
@@ -11864,7 +11864,7 @@
             "alias": "",
             "position": "134",
             "rotated": false,
-            "notes": "!sort saga\n!tag IaMP",
+            "notes": "!sort saga\n!tag IaMP\n!tag Wishlist",
             "image_type": "png",
             "v_mana": ""
         },
@@ -12313,7 +12313,7 @@
             "alias": "",
             "position": "153",
             "rotated": false,
-            "notes": "!tag ULiL\n!tag Sumireko\n!tag Usami\n!tag Spinoff\n!tag Spellcard",
+            "notes": "!tag ULiL\n!tag Sumireko\n!tag Usami\n!tag Spinoff\n!tag Spellcard\n!tag Wishlist",
             "image_type": "png",
             "v_mana": ""
         },
@@ -12846,7 +12846,7 @@
             "alias": "",
             "position": "11",
             "rotated": false,
-            "notes": "!addtoken Booze;1\n\n!tag SSiB\n!tag Print\n!tag Bougetsushou",
+            "notes": "!addtoken Booze;1\n\n!tag SSiB\n!tag Print\n!tag Bougetsushou\n!tag SourceName",
             "image_type": "png",
             "v_mana": ""
         },
@@ -12869,7 +12869,7 @@
             "alias": "",
             "position": "12",
             "rotated": false,
-            "notes": "!addtoken Notebook;1\n\n!tag CoLA\n!tag Print",
+            "notes": "!addtoken Notebook;1\n\n!tag CoLA\n!tag Print\n!tag SourceName",
             "image_type": "png",
             "v_mana": ""
         },
@@ -12892,7 +12892,7 @@
             "alias": "",
             "position": "13",
             "rotated": false,
-            "notes": "!tag FS\n!tag Print",
+            "notes": "!tag FS\n!tag Print\n!tag SourceName",
             "image_type": "png",
             "v_mana": ""
         },
@@ -12915,7 +12915,7 @@
             "alias": "",
             "position": "14",
             "rotated": false,
-            "notes": "!addtoken FairySwarm;1\n!tag VFiS\n!tag Print\n!tag Sangetsusei",
+            "notes": "!addtoken FairySwarm;1\n!tag VFiS\n!tag Print\n!tag Sangetsusei\n!tag SourceName",
             "image_type": "png",
             "v_mana": ""
         },
@@ -12938,7 +12938,7 @@
             "alias": "",
             "position": "15",
             "rotated": false,
-            "notes": "!tag WaHH\n!tag Print",
+            "notes": "!tag WaHH\n!tag Print\n!tag SourceName",
             "image_type": "png",
             "v_mana": "",
             "designer_notes": "<p><a href=\"https://rachel-brighton.github.io/search?search=t%3Acreature+-t%3Alegendary+f%3Atouhou\">Searchable targets in Touhou block</a></p>"
@@ -13198,7 +13198,7 @@
             "alias": "",
             "position": "26",
             "rotated": false,
-            "notes": "!tag CDS\n!tag FDS\n!tag Satori\n!tag Komeiji\n!tag Print\n!tag Chireiden\n!tag Hell",
+            "notes": "!tag CDS\n!tag FDS\n!tag Satori\n!tag Komeiji\n!tag Print\n!tag Chireiden\n!tag Hell\n!tag SourceName",
             "image_type": "png",
             "v_mana": ""
         },
@@ -15218,7 +15218,7 @@
             "alias": "",
             "position": "41",
             "rotated": false,
-            "notes": "!sort saga\n!replacetoken Hasshaku;2\n!tag ULiL",
+            "notes": "!sort saga\n!replacetoken Hasshaku;2\n!tag ULiL\n!tag SourceName",
             "image_type": "png",
             "v_mana": ""
         },
@@ -15241,7 +15241,7 @@
             "alias": "",
             "position": "42",
             "rotated": false,
-            "notes": "!sort saga\n!tag HM",
+            "notes": "!sort saga\n!tag HM\n!tag SourceName",
             "image_type": "png",
             "v_mana": ""
         },
@@ -15264,7 +15264,7 @@
             "alias": "",
             "position": "43",
             "rotated": false,
-            "notes": "!sort saga\n!tag AoCF",
+            "notes": "!sort saga\n!tag AoCF\n!tag SourceName",
             "image_type": "png",
             "v_mana": ""
         },
@@ -15287,7 +15287,7 @@
             "alias": "",
             "position": "44",
             "rotated": false,
-            "notes": "!sort saga\n!tag SWR",
+            "notes": "!sort saga\n!tag SWR\n!tag SourceName",
             "image_type": "png",
             "v_mana": ""
         },
@@ -15310,7 +15310,7 @@
             "alias": "",
             "position": "45",
             "rotated": false,
-            "notes": "!sort saga\n!tag IaMP",
+            "notes": "!sort saga\n!tag IaMP\n!tag SourceName",
             "image_type": "png",
             "v_mana": ""
         },
@@ -15809,7 +15809,7 @@
             "number": 22,
             "color_identity": "BR",
             "cost": "{2}{R}",
-            "rules_text": "[i]Colorful Rain[/i] \u2013 {T}: Add {R} or {B}. Whenever this mana is spent to cast a creature spell with mana value 4 or greater, that creature enters with an additional +1/+1 counter.",
+            "rules_text": "[i]Colorful Rain[/i] \u2013 {T}: Add {B} or {R}. Whenever this mana is spent to cast a creature spell with mana value 4 or greater, that creature enters with an additional +1/+1 counter.",
             "flavor_text": "[i]The gardener of the mansion's grounds, she stands guard as its first line of defense.[/i]",
             "pt": "3/3",
             "special_text": "",
@@ -16065,7 +16065,7 @@
             "number": 29,
             "color_identity": "BR",
             "cost": "{1}{BR}",
-            "rules_text": "Reach, haste",
+            "rules_text": "Haste\nWhen this creature enters, up to one other target creature gets +1/-1 until end of turn.",
             "flavor_text": "[i]Within the halls of Voile, the magic library, one may catch a glimpse of a winged familiar sorting the books and preparing the defenses.[/i]",
             "pt": "2/1",
             "special_text": "",
@@ -16099,7 +16099,7 @@
             "alias": "",
             "position": "15",
             "rotated": false,
-            "notes": "!exportname Incident Resolvers (EoSD)\n!group EoSD\n!sort 09\n\n!tag EoSD",
+            "notes": "!exportname Incident Resolvers (EoSD)\n!group EoSD\n!sort 09\n\n!tag EoSD\n!tag Reimu\n!tag Hakurei\n!tag Marisa\n!tag Kirisame",
             "image_type": "png",
             "v_mana": ""
         },
@@ -16168,7 +16168,7 @@
             "alias": "",
             "position": "18",
             "rotated": false,
-            "notes": "!exportname Incident Resolvers (FW)\n!group FW\n!sort 09\n\n!tag FW",
+            "notes": "!exportname Incident Resolvers (FW)\n!group FW\n!sort 09\n\n!tag FW\n!tag Reimu\n!tag Hakurei\n!tag Marisa\n!tag Kirisame",
             "image_type": "png",
             "v_mana": ""
         },

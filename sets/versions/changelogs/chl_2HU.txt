@@ -1,4 +1,25 @@
-﻿VERSION 20 CHANGELOG
+﻿VERSION 21 CHANGELOG
+====================
+
+
+
+Hisou Tensoku
+
+100th Black Market
+
+Phantasmagoria of Dimensions
+
+Phantasmagoria of Flowers
+
+Chimata, the Market God
+rules_text: [i]Return Everything to Nothing — [/i]When Chimata enters, if she was cast, exile all other nonland permanents. Starting with you, each player may put a card exiled this way onto the battlefield under their control. => [i]Return everything to nothing — [/i]When Chimata enters, if she was cast, exile all other nonland permanents. Starting with you, each player may put a card exiled this way onto the battlefield under their control.
+
+Imperishable Night
+
+Unfinished Dreams
+
+
+VERSION 20 CHANGELOG
 ====================
 
 No changes.

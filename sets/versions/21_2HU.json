@@ -3485,7 +3485,7 @@
             "alias": "",
             "position": "163",
             "rotated": false,
-            "notes": "!tag Hisoutensoku\n!tag Soku\n!tag Music\n!tag Spinoff\n!tag Fighter"
+            "notes": "!tag Hisoutensoku\n!tag Soku\n!tag Music\n!tag Spinoff\n!tag Fighter\n!tag SourceName"
         },
         {
             "card_name": "Layla, the Last Prismriver",
@@ -6059,7 +6059,7 @@
             "alias": "",
             "position": "285",
             "rotated": false,
-            "notes": "!tag 100BM\n!tag Spinoff\n!tag Music"
+            "notes": "!tag 100BM\n!tag Spinoff\n!tag Music\n!tag SourceName"
         },
         {
             "card_name": "Great Frog of the Pond",
@@ -6521,7 +6521,7 @@
             "alias": "",
             "position": "307",
             "rotated": false,
-            "notes": "!tag PoDD\n!tag Phantasmagoria"
+            "notes": "!tag PoDD\n!tag Phantasmagoria\n!tag SourceName"
         },
         {
             "card_name": "Phantasmagoria of Flowers",
@@ -6542,7 +6542,7 @@
             "alias": "",
             "position": "308",
             "rotated": false,
-            "notes": "!tag PoFV\n!tag Phantasmagoria"
+            "notes": "!tag PoFV\n!tag Phantasmagoria\n!tag SourceName"
         },
         {
             "card_name": "Laika, Lively Soul",
@@ -6867,7 +6867,7 @@
             "number": 184,
             "color_identity": "UBR",
             "cost": "{4}{U}{B}{R}",
-            "rules_text": "[i]Return Everything to Nothing \u2014 [/i]When Chimata enters, if she was cast, exile all other nonland permanents. Starting with you, each player may put a card exiled this way onto the battlefield under their control.",
+            "rules_text": "[i]Return everything to nothing \u2014 [/i]When Chimata enters, if she was cast, exile all other nonland permanents. Starting with you, each player may put a card exiled this way onto the battlefield under their control.",
             "flavor_text": "[i]\u201cLet your pockets be stripped bare, and painfully realize this fact: Humans were always poor creatures who can own nothing at all!\u201d[/i]",
             "pt": "5/5",
             "special_text": "",
@@ -7760,7 +7760,7 @@
             "alias": "",
             "position": "366",
             "rotated": false,
-            "notes": "!tag IN\n!tag Music"
+            "notes": "!tag IN\n!tag Music\n!tag SourceName"
         },
         {
             "card_name": "May As Well Throw a Party",
@@ -7802,7 +7802,7 @@
             "alias": "",
             "position": "368",
             "rotated": false,
-            "notes": "!tag UDoALG\n!tag Phantasmagoria"
+            "notes": "!tag UDoALG\n!tag Phantasmagoria\n!tag SourceName"
         },
         {
             "card_name": "Genji, Hakurei Companion",

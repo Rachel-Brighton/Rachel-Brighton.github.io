@@ -947,7 +947,7 @@
             "alias": "",
             "position": "41",
             "rotated": false,
-            "notes": "!sort saga\n!replacetoken Hasshaku;2\n!tag ULiL"
+            "notes": "!sort saga\n!replacetoken Hasshaku;2\n!tag ULiL\n!tag SourceName"
         },
         {
             "card_name": "Hopeless Masquerade",
@@ -968,7 +968,7 @@
             "alias": "",
             "position": "42",
             "rotated": false,
-            "notes": "!sort saga\n!tag HM"
+            "notes": "!sort saga\n!tag HM\n!tag SourceName"
         },
         {
             "card_name": "Antinomy of Common Flowers",
@@ -989,7 +989,7 @@
             "alias": "",
             "position": "43",
             "rotated": false,
-            "notes": "!sort saga\n!tag AoCF"
+            "notes": "!sort saga\n!tag AoCF\n!tag SourceName"
         },
         {
             "card_name": "Scarlet Weather Rhapsody",
@@ -1010,7 +1010,7 @@
             "alias": "",
             "position": "44",
             "rotated": false,
-            "notes": "!sort saga\n!tag SWR"
+            "notes": "!sort saga\n!tag SWR\n!tag SourceName"
         },
         {
             "card_name": "Immaterial and Missing Power",
@@ -1031,7 +1031,7 @@
             "alias": "",
             "position": "45",
             "rotated": false,
-            "notes": "!sort saga\n!tag IaMP"
+            "notes": "!sort saga\n!tag IaMP\n!tag SourceName"
         },
         {
             "card_name": "Sumireko, Last Occultist",
@@ -1412,5 +1412,5 @@
             "notes": "!tag TD\n!tag Yoshika\n!tag Miyako\n!tag Spellcard"
         }
     ],
-    "version": 4
+    "version": 5
 }

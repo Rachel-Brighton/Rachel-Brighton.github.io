@@ -1,4 +1,21 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+
+
+Meiling, the Gatekeeper
+rules_text: [i]Colorful Rain[/i] — {T}: Add {R} or {B}. Whenever this mana is spent to cast a creature spell with mana value 4 or greater, that creature enters with an additional +1/+1 counter. => [i]Colorful Rain[/i] — {T}: Add {B} or {R}. Whenever this mana is spent to cast a creature spell with mana value 4 or greater, that creature enters with an additional +1/+1 counter.
+
+Little Devil
+rules_text: Reach, haste => Haste
+When this creature enters, up to one other target creature gets +1/-1 until end of turn.
+
+Incident Resolvers (EoSD)
+
+Incident Resolvers (FW)
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
