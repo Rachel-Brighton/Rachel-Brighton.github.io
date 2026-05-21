@@ -1,4 +1,26 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+Horizon Sign added.
+Artistic Dedication added.
+Autumnal Waterfall added.
+Kanako, Avatar of Mountains added.
+Nitori, Candid Friend added.
+Sanae Kochiya added.
+Aya, Closest Available Responder added.
+Suwako, Old God of Moriya added.
+Hina, Dark Side of Fate added.
+Countless Native Gods added.
+Patrol of Nine Heavens added.
+Esoterica 「Forgotten Ritual」 added.
+Hunt for Trespassers added.
+God's Wind added.
+Incident Resolvers (MoF) added.
+Genbu Ravine added.
+
+
+
+VERSION 2 CHANGELOG
 ====================
 
 

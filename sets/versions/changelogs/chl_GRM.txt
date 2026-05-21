@@ -1,4 +1,12 @@
-﻿VERSION 5 CHANGELOG
+﻿VERSION 6 CHANGELOG
+====================
+
+
+
+Sanae Kochiya
+
+
+VERSION 5 CHANGELOG
 ====================
 
 

@@ -110,7 +110,7 @@
             "alias": "",
             "position": "4",
             "rotated": false,
-            "notes": "!tag MoF\n!tag Sanae\n!tag Kochiya\n!tag Stage5\n!tag Moriya\n!tag Moreya"
+            "notes": "!tag MoF\n!tag Sanae\n!tag Kochiya\n!tag Stage5\n!tag Moriya"
         },
         {
             "card_name": "Reisen, Lunatic Moon Rabbit",
@@ -866,7 +866,7 @@
             "alias": "",
             "position": "40",
             "rotated": false,
-            "notes": "!tag MoF\n!tag Momiji\n!tag Music"
+            "notes": "!tag MoF\n!tag Music"
         },
         {
             "card_name": "Yamame Kurodani",
@@ -1478,7 +1478,7 @@
             "alias": "",
             "position": "68",
             "rotated": false,
-            "notes": "!tag MoF\n!tag Kanako\n!tag Yasaka\n!tag Stage6\n!tag Moriya\n!tag Moreya\n!tag Playable"
+            "notes": "!tag MoF\n!tag Kanako\n!tag Yasaka\n!tag Stage6\n!tag Moriya\n!tag Playable"
         },
         {
             "card_name": "Yoshika Miyako",
@@ -4157,7 +4157,7 @@
             "alias": "",
             "position": "195",
             "rotated": false,
-            "notes": "!tag MoF\n!tag Moriya\n!tag Moreya"
+            "notes": "!tag MoF\n!tag Kanako\n!tag Yasaka\n!tag Moriya"
         },
         {
             "card_name": "Yuuka of Dreamland",
@@ -4454,14 +4454,14 @@
             "notes": "!tag PoFV"
         },
         {
-            "card_name": "Moreya Shrine Path",
+            "card_name": "Moriya Shrine Path",
             "color": "",
             "rarity": "rare",
             "type": "Land",
             "number": 330,
             "color_identity": "UG",
             "cost": "",
-            "rules_text": "{T}, Pay 1 life: Add {G} or {U}.\n{T}, Sacrifice Moreya Shrine Path: Search your library for a basic Forest or Island, put it onto the battlefield tapped, then shuffle.",
+            "rules_text": "{T}, Pay 1 life: Add {G} or {U}.\n{T}, Sacrifice Moriya Shrine Path: Search your library for a basic Forest or Island, put it onto the battlefield tapped, then shuffle.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -4472,7 +4472,7 @@
             "alias": "",
             "position": "210",
             "rotated": false,
-            "notes": "!tag MoF\n!tag Moriya\n!tag Moreya"
+            "notes": "!tag MoF\n!tag Moriya"
         },
         {
             "card_name": "Misty Lake Shores",
@@ -6458,7 +6458,7 @@
             "alias": "",
             "position": "304",
             "rotated": false,
-            "notes": "!tag MoF\n!tag Suwako\n!tag EX\n!tag StageEX\n!tag Moriya\n!tag Moreya\n!tag Music\n!tag Playable"
+            "notes": "!tag MoF\n!tag Suwako\n!tag EX\n!tag StageEX\n!tag Moriya\n!tag Music\n!tag Playable"
         },
         {
             "card_name": "Shining Needle Rebellion",

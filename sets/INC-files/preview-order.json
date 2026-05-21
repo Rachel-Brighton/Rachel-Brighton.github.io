@@ -1,5 +1,6 @@
 ﻿[
 	{ "title": "EoSD", "cards":  [ "!group EoSD" ] },
+	{ "title": "MoF", "cards":  [ "!group MoF" ] },
 	{ "title": "FW", "cards":  [ "!group FW" ] },
 	{ "cards":  [ "W", "U", "B", "R", "G" ] },
 	{ "title": "gold", "cards":  [ "WU", "UB", "BR", "RG", "GW" ] },

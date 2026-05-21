@@ -2115,7 +2115,7 @@
 			}
 		},
 		{
-			"name": "Moreya Shrine Path",
+			"name": "Moriya Shrine Path",
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
@@ -3838,7 +3838,7 @@
 	2 Human Village Streets
 	2 Lunar Capitol Thoroughfare
 	2 Nameless Hillside
-	2 Moreya Shrine Path
+	2 Moriya Shrine Path
 	2 Misty Lake Shores
 	2 The Jailbreak King
 	2 Enigmatic Vestige
@@ -4408,7 +4408,7 @@
 	2 Human Village Streets
 	2 Lunar Capitol Thoroughfare
 	2 Nameless Hillside
-	2 Moreya Shrine Path
+	2 Moriya Shrine Path
 	2 Misty Lake Shores
 	12 Helpful Bunnies
 	2 The Jailbreak King
@@ -4746,7 +4746,7 @@
 	7 Human Village Streets
 	7 Lunar Capitol Thoroughfare
 	7 Nameless Hillside
-	7 Moreya Shrine Path
+	7 Moriya Shrine Path
 	7 Misty Lake Shores
 	6 Helpful Bunnies
 	7 The Jailbreak King

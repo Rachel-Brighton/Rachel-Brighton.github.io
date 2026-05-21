@@ -5,7 +5,7 @@
 			<name>2HU</name>
 			<longname>Universes Beyond: The Touhou Project</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-05-18</releasedate>
+			<releasedate>2026-05-21</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -3818,9 +3818,9 @@ Equip {1}</text>
 			<tablerow>0</tablerow>
 		</card>
 		<card>
-			<name>Moreya Shrine Path</name>
+			<name>Moriya Shrine Path</name>
 			<text>{T}, Pay 1 life: Add {G} or {U}.
-{T}, Sacrifice Moreya Shrine Path: Search your library for a basic Forest or Island, put it onto the battlefield tapped, then shuffle.</text>
+{T}, Sacrifice Moriya Shrine Path: Search your library for a basic Forest or Island, put it onto the battlefield tapped, then shuffle.</text>
 			<set rarity="rare" picurl="https://Rachel-Brighton.github.io/sets/2HU-files/img/210.png" num="330">2HU</set>
 			<prop>
 				<layout>normal</layout>

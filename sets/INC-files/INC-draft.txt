@@ -5,7 +5,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{4}{B}{R}",
 			"type": "Legendary Creature — Vampire Noble",
-			"collector_number": "27",
+			"collector_number": "40",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/0.png"
 			}
@@ -15,7 +15,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Instant",
-			"collector_number": "15",
+			"collector_number": "21",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/1.png"
 			}
@@ -25,7 +25,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Enchantment",
-			"collector_number": "19",
+			"collector_number": "25",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/2.png"
 			}
@@ -35,7 +35,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}",
 			"type": "Legendary Creature — Youkai",
-			"collector_number": "22",
+			"collector_number": "28",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/3.png"
 			}
@@ -45,7 +45,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{B}",
 			"type": "Legendary Creature — Human",
-			"collector_number": "17",
+			"collector_number": "23",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/4.png"
 			}
@@ -55,7 +55,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{R}",
 			"type": "Legendary Creature — Faerie",
-			"collector_number": "18",
+			"collector_number": "24",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/5.png"
 			}
@@ -65,7 +65,7 @@
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Legendary Creature — Shade Youkai",
-			"collector_number": "16",
+			"collector_number": "22",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/6.png"
 			}
@@ -75,7 +75,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Swamp",
-			"collector_number": "37",
+			"collector_number": "54",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/7.png"
 			}
@@ -85,7 +85,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Mountain",
-			"collector_number": "38",
+			"collector_number": "55",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/8.png"
 			}
@@ -95,7 +95,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Swamp Mountain",
-			"collector_number": "32",
+			"collector_number": "48",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/9.png"
 			}
@@ -105,7 +105,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}",
 			"type": "Enchantment — Aura",
-			"collector_number": "13",
+			"collector_number": "19",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/10.png"
 			}
@@ -115,7 +115,7 @@
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Instant",
-			"collector_number": "21",
+			"collector_number": "27",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/11.png"
 			}
@@ -125,7 +125,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Instant",
-			"collector_number": "23",
+			"collector_number": "29",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/12.png"
 			}
@@ -135,7 +135,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Faerie Pest",
-			"collector_number": "20",
+			"collector_number": "26",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/13.png"
 			}
@@ -145,7 +145,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B/R}",
 			"type": "Creature — Devil",
-			"collector_number": "29",
+			"collector_number": "44",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/14.png"
 			}
@@ -165,7 +165,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}{R}",
 			"type": "Legendary Creature — Vampire Noble",
-			"collector_number": "26",
+			"collector_number": "38",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/16.png"
 			}
@@ -175,7 +175,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Sorcery",
-			"collector_number": "24",
+			"collector_number": "30",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/17.png"
 			}
@@ -195,7 +195,7 @@
 			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Sorcery",
-			"collector_number": "9",
+			"collector_number": "13",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/19.png"
 			}
@@ -205,7 +205,7 @@
 			"rarity": "common",
 			"mana_cost": "{X}{W}",
 			"type": "Instant",
-			"collector_number": "3",
+			"collector_number": "4",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/20.png"
 			}
@@ -215,7 +215,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "33",
+			"collector_number": "49",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/21.png"
 			}
@@ -235,7 +235,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Sorcery",
-			"collector_number": "14",
+			"collector_number": "20",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/23.png"
 			}
@@ -245,7 +245,7 @@
 			"rarity": "rare",
 			"mana_cost": "{W}{U}",
 			"type": "Legendary Creature — Human God Noble",
-			"collector_number": "28",
+			"collector_number": "42",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/24.png"
 			}
@@ -255,7 +255,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}",
 			"type": "Artifact Creature — Stone Prism",
-			"collector_number": "31",
+			"collector_number": "46",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/25.png"
 			}
@@ -265,7 +265,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Enchantment — Aura",
-			"collector_number": "10",
+			"collector_number": "14",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/26.png"
 			}
@@ -275,7 +275,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{W}",
 			"type": "Legendary Creature — Moonfolk Noble",
-			"collector_number": "6",
+			"collector_number": "7",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/27.png"
 			}
@@ -285,7 +285,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Legendary Creature — Hag Noble",
-			"collector_number": "7",
+			"collector_number": "8",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/28.png"
 			}
@@ -295,7 +295,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
 			"type": "Legendary Creature — Golem",
-			"collector_number": "11",
+			"collector_number": "15",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/29.png"
 			}
@@ -305,7 +305,7 @@
 			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Sorcery",
-			"collector_number": "12",
+			"collector_number": "18",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/30.png"
 			}
@@ -315,7 +315,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Instant",
-			"collector_number": "4",
+			"collector_number": "5",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/31.png"
 			}
@@ -325,7 +325,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Plains Island",
-			"collector_number": "34",
+			"collector_number": "50",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/32.png"
 			}
@@ -335,7 +335,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Plains",
-			"collector_number": "35",
+			"collector_number": "51",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/33.png"
 			}
@@ -345,7 +345,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Island",
-			"collector_number": "36",
+			"collector_number": "52",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/34.png"
 			}
@@ -355,7 +355,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{W/U}",
 			"type": "Artifact Creature — Stone Prism",
-			"collector_number": "30",
+			"collector_number": "45",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/35.png"
 			}
@@ -365,7 +365,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Human Illusion",
-			"collector_number": "5",
+			"collector_number": "6",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/36.png"
 			}
@@ -375,7 +375,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{U}{U}",
 			"type": "Legendary Artifact",
-			"collector_number": "8",
+			"collector_number": "10",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/37.png"
 			}
@@ -385,7 +385,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{5}{W}{U}",
 			"type": "Legendary Creature — God",
-			"collector_number": "25",
+			"collector_number": "37",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/38.png"
 			}
@@ -398,6 +398,186 @@
 			"collector_number": "1",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/39.png"
+			}
+		},
+		{
+			"name": "Horizon Sign",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/40.png"
+			}
+		},
+		{
+			"name": "Artistic Dedication",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/41.png"
+			}
+		},
+		{
+			"name": "Autumnal Waterfall",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/42.png"
+			}
+		},
+		{
+			"name": "Kanako, Avatar of Mountains",
+			"rarity": "mythic",
+			"mana_cost": "{4}{G}{U}",
+			"type": "Legendary Creature — God",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/43.png"
+			}
+		},
+		{
+			"name": "Nitori, Candid Friend",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Creature — Turtle Youkai Artificer",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/44.png"
+			}
+		},
+		{
+			"name": "Sanae Kochiya",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{U}",
+			"type": "Legendary Creature — Human God",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/45.png"
+			}
+		},
+		{
+			"name": "Aya, Closest Available Responder",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Legendary Creature — Bird Youkai",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/46.png"
+			}
+		},
+		{
+			"name": "Suwako, Old God of Moriya",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}",
+			"type": "Legendary Creature — God",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/47.png"
+			}
+		},
+		{
+			"name": "Hina, Dark Side of Fate",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Legendary Creature — God",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/48.png"
+			}
+		},
+		{
+			"name": "Countless Native Gods",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — God",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/49.png"
+			}
+		},
+		{
+			"name": "Patrol of Nine Heavens",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Wolf Youkai Scout",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/50.png"
+			}
+		},
+		{
+			"name": "Esoterica 「Forgotten Ritual」",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/51.png"
+			}
+		},
+		{
+			"name": "Hunt for Trespassers",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/52.png"
+			}
+		},
+		{
+			"name": "God's Wind",
+			"rarity": "common",
+			"mana_cost": "{1}{G/U}",
+			"type": "Instant",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/53.png"
+			}
+		},
+		{
+			"name": "Incident Resolvers (MoF)",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Creature — Human",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/54.png"
+			}
+		},
+		{
+			"name": "Genbu Ravine",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Forest Island",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/55.png"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/56.png"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/57.png"
 			}
 		}
 	]
@@ -412,6 +592,10 @@
 	2 Overflowing Wonder
 	2 Asama Purifying Mountain
 	1 Ariya, Spirit of Permanence
+	1 Kanako, Avatar of Mountains
+	2 Sanae Kochiya
+	2 Aya, Closest Available Responder
+	2 Suwako, Old God of Moriya
 [uncommon(3)]
 	4 Knight of Nights
 	4 A Dream More Scarlet
@@ -424,6 +608,11 @@
 	4 Ubame, Yamanba Chief
 	4 Nareko, Confined Dousojin
 	4 Sea of Tranquility
+	4 Autumnal Waterfall
+	4 Nitori, Candid Friend
+	4 Hina, Dark Side of Fate
+	4 Incident Resolvers (MoF)
+	4 Genbu Ravine
 [common(6)]
 	8 Cirno, Ice Spirit on the Lake
 	8 Rumia, Wrapped in Dusk
@@ -439,6 +628,13 @@
 	8 Unchanging Daily Life
 	8 Breach the Sanctuary
 	8 Hallucinated Companion
+	8 Horizon Sign
+	8 Artistic Dedication
+	8 Countless Native Gods
+	8 Patrol of Nine Heavens
+	8 Esoterica 「Forgotten Ritual」
+	8 Hunt for Trespassers
+	8 God's Wind
 [common | masterpiece(1)]
 	8 Cirno, Ice Spirit on the Lake
 	8 Rumia, Wrapped in Dusk
@@ -454,6 +650,13 @@
 	8 Unchanging Daily Life
 	8 Breach the Sanctuary
 	8 Hallucinated Companion
+	8 Horizon Sign
+	8 Artistic Dedication
+	8 Countless Native Gods
+	8 Patrol of Nine Heavens
+	8 Esoterica 「Forgotten Ritual」
+	8 Hunt for Trespassers
+	8 God's Wind
 [foil(1)]
 	1 Remilia, the Scarlet Devil
 	6 Knight of Nights
@@ -489,6 +692,22 @@
 	12 Hallucinated Companion
 	2 Asama Purifying Mountain
 	1 Ariya, Spirit of Permanence
+	12 Horizon Sign
+	12 Artistic Dedication
+	6 Autumnal Waterfall
+	1 Kanako, Avatar of Mountains
+	6 Nitori, Candid Friend
+	2 Sanae Kochiya
+	2 Aya, Closest Available Responder
+	2 Suwako, Old God of Moriya
+	6 Hina, Dark Side of Fate
+	12 Countless Native Gods
+	12 Patrol of Nine Heavens
+	12 Esoterica 「Forgotten Ritual」
+	12 Hunt for Trespassers
+	12 God's Wind
+	6 Incident Resolvers (MoF)
+	6 Genbu Ravine
 [wildcard(1)]
 	4 Remilia, the Scarlet Devil
 	15 Knight of Nights
@@ -524,3 +743,19 @@
 	6 Hallucinated Companion
 	7 Asama Purifying Mountain
 	4 Ariya, Spirit of Permanence
+	6 Horizon Sign
+	6 Artistic Dedication
+	15 Autumnal Waterfall
+	4 Kanako, Avatar of Mountains
+	15 Nitori, Candid Friend
+	7 Sanae Kochiya
+	7 Aya, Closest Available Responder
+	7 Suwako, Old God of Moriya
+	15 Hina, Dark Side of Fate
+	6 Countless Native Gods
+	6 Patrol of Nine Heavens
+	6 Esoterica 「Forgotten Ritual」
+	6 Hunt for Trespassers
+	6 God's Wind
+	15 Incident Resolvers (MoF)
+	15 Genbu Ravine

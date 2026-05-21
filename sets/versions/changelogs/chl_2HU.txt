@@ -1,4 +1,22 @@
-﻿VERSION 21 CHANGELOG
+﻿VERSION 22 CHANGELOG
+====================
+
+Moriya Shrine Path added.
+
+Moreya Shrine Path removed.
+
+Sanae, Living God
+
+Autumnal Waterfall
+
+Kanako, God of Progress
+
+Vine of Wisteria
+
+Suwako, Native God
+
+
+VERSION 21 CHANGELOG
 ====================
 
 
