@@ -1,0 +1,1 @@
+[MoF Stage 3 Boss - Akutagawa Ryuunosuke's "Kappa" ~ Candid Friend ](https://www.youtube.com/watch?v=tX0PwiwvLnE)

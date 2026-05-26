@@ -5,7 +5,7 @@
 			<name>INC</name>
 			<longname>It&apos;s an Incident! — UB Touhou Story Decks</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-05-21</releasedate>
+			<releasedate>2026-05-25</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -116,7 +116,7 @@ Luna Dial — When Sakuya enters, draw two cards. You lose 2 life unless you con
 		</card>
 		<card>
 			<name>Rumia, Wrapped in Dusk</name>
-			<text>Night Bird — When Rumia dies, you may pay 1 life. When you do, draw a card.</text>
+			<text>Night Bird — {B}, Exile Rumia, Wrapped in Dusk from your graveyard: Draw a card.</text>
 			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/INC-files/img/6.png" num="22">INC</set>
 			<prop>
 				<layout>normal</layout>

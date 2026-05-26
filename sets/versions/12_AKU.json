@@ -1442,7 +1442,7 @@
             "type": "Legendary Creature \u2014 Demon Spirit",
             "number": 14,
             "color_identity": "B",
-            "cost": "{2}{B}{B}{B}",
+            "cost": "{3}{B}{B}{B}",
             "rules_text": "Menace\nWhenever this creature enters or deals combat damage to an opponent, up to one Human you control becomes a Deserter in addition to its other types. Create two 1/1 red and black Youkai creature tokens.\nDeserters you control get +2/+2 and have indestructible.",
             "flavor_text": "[i][/i]",
             "pt": "5/5",

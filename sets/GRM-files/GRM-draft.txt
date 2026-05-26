@@ -303,7 +303,7 @@
 		{
 			"name": "Sakuya, Perfect and Elegant",
 			"rarity": "rare",
-			"mana_cost": "{U}{B}",
+			"mana_cost": "{1}{U}{B}",
 			"type": "Legendary Creature — Human",
 			"collector_number": "46",
 			"image_uris": {

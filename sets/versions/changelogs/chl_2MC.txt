@@ -1,4 +1,31 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+
+
+Rumia, Wrapped in Dusk
+rules_text: [i]Night Bird[/i] — When Rumia dies, you may pay 1 life. When you do, draw a card. => [i]Night Bird[/i] — {B}, Exile Rumia, Wrapped in Dusk from your graveyard: Draw a card.
+
+Oni of the Night Parade
+cost: {2}{B}{B}{B} => {3}{B}{B}{B}
+
+Sakuya, Perfect and Elegant
+cost: {U}{B} => {1}{U}{B}
+
+Yukari, Sage of Boundaries
+rules_text: [+1]: You may tap or untap target creature. Draw a card.
+[-1]: Return target card from your graveyard to your hand.
+[-7]: Search your library for a permanent card and put it into the battlefield, then shuffle. It gains haste until end of turn. => [+1]: You may tap or untap up to one target creature. Draw a card.
+[-1]: Return target card from your graveyard to your hand.
+[-7]: Search your library for a permanent card and put it into the battlefield, then shuffle. It gains haste until end of turn.
+special_text: [+1]: You may tap or untap target creature. Draw a card.
+[-1]: Return target card from your graveyard to your hand.
+[-7]: Search your library for a permanent card and put it into the battlefield, then shuffle. It gains haste until end of turn. => [+1]: You may tap or untap up to one target creature. Draw a card.
+[-1]: Return target card from your graveyard to your hand.
+[-7]: Search your library for a permanent card and put it into the battlefield, then shuffle. It gains haste until end of turn.
+
+
+VERSION 3 CHANGELOG
 ====================
 
 Artistic Dedication added.

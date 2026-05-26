@@ -1,1 +1,1 @@
-[EoSD Stage 6 Boss - Tomboyish Girl in Love AKA Beloved Tomboyish Girl](https://www.youtube.com/watch?v=JIZ12EQ2SFg)
+[EoSD Stage 2 Boss - Tomboyish Girl in Love AKA Beloved Tomboyish Girl](https://www.youtube.com/watch?v=JIZ12EQ2SFg)

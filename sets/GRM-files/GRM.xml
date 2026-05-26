@@ -5,7 +5,7 @@
 			<name>GRM</name>
 			<longname>Grimoire of Spellfire</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-05-12</releasedate>
+			<releasedate>2026-05-25</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -562,8 +562,8 @@ Ricochet Knife — When Sakuya enters, copy target activated or triggered abilit
 				<side>front</side>
 				<type>Legendary Creature — Human</type>
 				<maintype>Creature</maintype>
-				<manacost>UB</manacost>
-				<cmc>2</cmc>
+				<manacost>1UB</manacost>
+				<cmc>3</cmc>
 				<colors>UB</colors>
 				<coloridentity>UB</coloridentity>
 				<pt>2/3</pt>
@@ -912,7 +912,7 @@ III — The next creature spell you cast this turn costs {G}.</text>
 		</card>
 		<card>
 			<name>Yukari, Sage of Boundaries</name>
-			<text>[+1]: You may tap or untap target creature. Draw a card.
+			<text>[+1]: You may tap or untap up to one target creature. Draw a card.
 [-1]: Return target card from your graveyard to your hand.
 [-7]: Search your library for a permanent card and put it into the battlefield, then shuffle. It gains haste until end of turn.</text>
 			<set rarity="mythic" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/50.png" num="52">GRM</set>

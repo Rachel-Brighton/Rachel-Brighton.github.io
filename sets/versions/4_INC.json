@@ -141,7 +141,7 @@
             "number": 22,
             "color_identity": "B",
             "cost": "{B}",
-            "rules_text": "[i]Night Bird[/i] \u2014 When Rumia dies, you may pay 1 life. When you do, draw a card.",
+            "rules_text": "[i]Night Bird[/i] \u2014 {B}, Exile Rumia, Wrapped in Dusk from your graveyard: Draw a card.",
             "flavor_text": "[i]With the scarlet mist blocking out the sun, nocturnal youkai had free reign to thrive during the day as well.[/i]",
             "pt": "2/1",
             "special_text": "",

@@ -473,7 +473,7 @@
 		{
 			"name": "Oni of the Night Parade",
 			"rarity": "mythic",
-			"mana_cost": "{2}{B}{B}{B}",
+			"mana_cost": "{3}{B}{B}{B}",
 			"type": "Legendary Creature — Demon Spirit",
 			"collector_number": "50",
 			"image_uris": {
@@ -1463,7 +1463,7 @@
 		{
 			"name": "Sakuya, Perfect and Elegant",
 			"rarity": "rare",
-			"mana_cost": "{U}{B}",
+			"mana_cost": "{1}{U}{B}",
 			"type": "Legendary Creature — Human",
 			"collector_number": "114",
 			"image_uris": {

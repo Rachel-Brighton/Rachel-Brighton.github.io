@@ -5,7 +5,7 @@
 			<name>AKU</name>
 			<longname>Akyuu&apos;s Untouched Chronicle</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-05-08</releasedate>
+			<releasedate>2026-05-25</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -1230,8 +1230,8 @@ Deserters you control get +2/+2 and have indestructible.</text>
 				<side>front</side>
 				<type>Legendary Creature — Demon Spirit</type>
 				<maintype>Creature</maintype>
-				<manacost>2BBB</manacost>
-				<cmc>5</cmc>
+				<manacost>3BBB</manacost>
+				<cmc>6</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
 				<pt>5/5</pt>

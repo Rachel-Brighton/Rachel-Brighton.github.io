@@ -1,4 +1,13 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+
+
+Rumia, Wrapped in Dusk
+rules_text: [i]Night Bird[/i] — When Rumia dies, you may pay 1 life. When you do, draw a card. => [i]Night Bird[/i] — {B}, Exile Rumia, Wrapped in Dusk from your graveyard: Draw a card.
+
+
+VERSION 3 CHANGELOG
 ====================
 
 Horizon Sign added.

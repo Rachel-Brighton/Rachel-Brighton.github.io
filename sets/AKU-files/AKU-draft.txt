@@ -683,7 +683,7 @@
 		{
 			"name": "Oni of the Night Parade",
 			"rarity": "mythic",
-			"mana_cost": "{2}{B}{B}{B}",
+			"mana_cost": "{3}{B}{B}{B}",
 			"type": "Legendary Creature — Demon Spirit",
 			"collector_number": "14",
 			"image_uris": {

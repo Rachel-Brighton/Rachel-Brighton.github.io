@@ -1,4 +1,13 @@
-﻿VERSION 11 CHANGELOG
+﻿VERSION 12 CHANGELOG
+====================
+
+
+
+Oni of the Night Parade
+cost: {2}{B}{B}{B} => {3}{B}{B}{B}
+
+
+VERSION 11 CHANGELOG
 ====================
 
 

@@ -5,7 +5,7 @@
 			<name>2MC</name>
 			<longname>2HU Miniset Collection</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-05-21</releasedate>
+			<releasedate>2026-05-25</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -116,7 +116,7 @@ Luna Dial — When Sakuya enters, draw two cards. You lose 2 life unless you con
 		</card>
 		<card>
 			<name>Rumia, Wrapped in Dusk</name>
-			<text>Night Bird — When Rumia dies, you may pay 1 life. When you do, draw a card.</text>
+			<text>Night Bird — {B}, Exile Rumia, Wrapped in Dusk from your graveyard: Draw a card.</text>
 			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/2MC-files/img/6.png" num="54">2MC</set>
 			<prop>
 				<layout>normal</layout>
@@ -840,8 +840,8 @@ Deserters you control get +2/+2 and have indestructible.</text>
 				<side>front</side>
 				<type>Legendary Creature — Demon Spirit</type>
 				<maintype>Creature</maintype>
-				<manacost>2BBB</manacost>
-				<cmc>5</cmc>
+				<manacost>3BBB</manacost>
+				<cmc>6</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
 				<pt>5/5</pt>
@@ -2609,8 +2609,8 @@ Ricochet Knife — When Sakuya enters, copy target activated or triggered abilit
 				<side>front</side>
 				<type>Legendary Creature — Human</type>
 				<maintype>Creature</maintype>
-				<manacost>UB</manacost>
-				<cmc>2</cmc>
+				<manacost>1UB</manacost>
+				<cmc>3</cmc>
 				<colors>UB</colors>
 				<coloridentity>UB</coloridentity>
 				<pt>2/3</pt>
@@ -2715,7 +2715,7 @@ Whenever Youmu deals combat damage while attacking, create a 1/1 white Spirit cr
 		</card>
 		<card>
 			<name>Yukari, Sage of Boundaries</name>
-			<text>[+1]: You may tap or untap target creature. Draw a card.
+			<text>[+1]: You may tap or untap up to one target creature. Draw a card.
 [-1]: Return target card from your graveyard to your hand.
 [-7]: Search your library for a permanent card and put it into the battlefield, then shuffle. It gains haste until end of turn.</text>
 			<set rarity="mythic" picurl="https://Rachel-Brighton.github.io/sets/2MC-files/img/152.png" num="123">2MC</set>
