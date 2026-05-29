@@ -182,9 +182,9 @@ Whenever enchanted creature deals damage to an opponent, you may reveal the top 
 		<card>
 			<name>Fog Sign</name>
 			<text>Tiered (Choose one additional cost)
-• Scarlet Shoot — {0} — This spell deals 2 damage to any target.
-• Red Magic — {2} — This spell deals 2 damage divided as you choose among one or two targets.
-• Mountain of a Thousand Needles — {4}{R} — This spell deals 4 damage divided as you choose among any number of targets.</text>
+• Scarlet Shoot — {0} — Fog Sign deals 2 damage to any target.
+• Red Magic — {2} — Fog Sign deals 2 damage divided as you choose among one or two targets.
+• Mountain of a Thousand Needles — {4}{R} — Fog Sign deals 4 damage divided as you choose among any number of targets.</text>
 			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/2MC-files/img/10.png" num="59">2MC</set>
 			<prop>
 				<layout>normal</layout>

@@ -1,4 +1,19 @@
-﻿VERSION 5 CHANGELOG
+﻿VERSION 6 CHANGELOG
+====================
+
+
+
+Fog Sign
+rules_text: Tiered [i](Choose one additional cost)[/i]
+• [i]Scarlet Shoot[/i] — {0} — This spell deals 2 damage to any target.
+• [i]Red Magic[/i] — {2} — This spell deals 2 damage divided as you choose among one or two targets.
+• [i]Mountain of a Thousand Needles [/i]— {4}{R} — This spell deals 4 damage divided as you choose among any number of targets. => Tiered [i](Choose one additional cost)[/i]
+• [i]Scarlet Shoot[/i] — {0} — Fog Sign deals 2 damage to any target.
+• [i]Red Magic[/i] — {2} — Fog Sign deals 2 damage divided as you choose among one or two targets.
+• [i]Mountain of a Thousand Needles [/i]— {4}{R} — Fog Sign deals 4 damage divided as you choose among any number of targets.
+
+
+VERSION 5 CHANGELOG
 ====================
 
 Incident Resolvers (LoLK) added.

@@ -246,7 +246,7 @@
             "number": 30,
             "color_identity": "R",
             "cost": "{R}",
-            "rules_text": "Tiered [i](Choose one additional cost)[/i]\n\u2022 [i]Scarlet Shoot[/i] \u2014 {0} \u2014 This spell deals 2 damage to any target.\n\u2022 [i]Red Magic[/i] \u2014 {2} \u2014 This spell deals 2 damage divided as you choose among one or two targets.\n\u2022 [i]Mountain of a Thousand Needles [/i]\u2014 {4}{R} \u2014 This spell deals 4 damage divided as you choose among any number of targets.",
+            "rules_text": "Tiered [i](Choose one additional cost)[/i]\n\u2022 [i]Scarlet Shoot[/i] \u2014 {0} \u2014 Fog Sign deals 2 damage to any target.\n\u2022 [i]Red Magic[/i] \u2014 {2} \u2014 Fog Sign deals 2 damage divided as you choose among one or two targets.\n\u2022 [i]Mountain of a Thousand Needles [/i]\u2014 {4}{R} \u2014 Fog Sign deals 4 damage divided as you choose among any number of targets.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
