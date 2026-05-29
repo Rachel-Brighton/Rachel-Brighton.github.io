@@ -699,6 +699,16 @@
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/69.png"
 			}
+		},
+		{
+			"name": "Treasure",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Treasure",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/AKU-files/img/70.png"
+			}
 		}
 	]
 

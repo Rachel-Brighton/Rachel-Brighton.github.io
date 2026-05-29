@@ -85,7 +85,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{R}{R}",
 			"type": "Legendary Creature — Human",
-			"collector_number": "128",
+			"collector_number": "127",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/8.png"
 			}
@@ -425,7 +425,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{R}{R}",
 			"type": "Legendary Creature — Youkai Rebel Bard",
-			"collector_number": "130",
+			"collector_number": "129",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/42.png"
 			}
@@ -612,7 +612,7 @@
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Legendary Creature — Human",
-			"collector_number": "123",
+			"collector_number": "122",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/60.png"
 			}
@@ -842,7 +842,7 @@
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Legendary Creature — Youkai Monk",
-			"collector_number": "124",
+			"collector_number": "123",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/83.png"
 			}
@@ -912,7 +912,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Sorcery",
-			"collector_number": "133",
+			"collector_number": "132",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/90.png"
 			}
@@ -1018,9 +1018,9 @@
 			}
 		},
 		{
-			"name": "Sagume, the Reversed Fortune",
+			"name": "Sagume, the Wheel Reversed",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{W}{B}{B}",
+			"mana_cost": "{1}{W}{W}{B}",
 			"type": "Legendary Creature — Moonfolk Advisor",
 			"collector_number": "253",
 			"image_uris": {
@@ -1232,7 +1232,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Legendary Creature — Human Pilot Artificer",
-			"collector_number": "131",
+			"collector_number": "130",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/122.png"
 			}
@@ -1809,7 +1809,7 @@
 			"rarity": "rare",
 			"mana_cost": "{R}{R}",
 			"type": "Sorcery",
-			"collector_number": "121",
+			"collector_number": "120",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/179.png"
 			}
@@ -1875,11 +1875,11 @@
 			}
 		},
 		{
-			"name": "Get Ahead Of Yourself",
+			"name": "Scavenged Arsenal",
 			"rarity": "uncommon",
-			"mana_cost": "{R}",
-			"type": "Sorcery",
-			"collector_number": "120",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "133",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/186.png"
 			}
@@ -1959,7 +1959,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}{R}",
 			"type": "Enchantment",
-			"collector_number": "122",
+			"collector_number": "121",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/194.png"
 			}
@@ -2499,7 +2499,7 @@
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Creature — Human Citizen",
-			"collector_number": "132",
+			"collector_number": "131",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/248.png"
 			}
@@ -2619,7 +2619,7 @@
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Instant",
-			"collector_number": "129",
+			"collector_number": "128",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/260.png"
 			}
@@ -2836,7 +2836,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Instant",
-			"collector_number": "125",
+			"collector_number": "124",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/281.png"
 			}
@@ -3086,7 +3086,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{X}{R}",
 			"type": "Legendary Instant",
-			"collector_number": "127",
+			"collector_number": "126",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/306.png"
 			}
@@ -3496,7 +3496,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}",
 			"type": "Instant",
-			"collector_number": "126",
+			"collector_number": "125",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/2HU-files/img/347.png"
 			}
@@ -3926,7 +3926,7 @@
 	4 Kagerou, Bamboos Loup-Garou
 	4 Aunn, Guardian Beast
 	4 Narumi, Life Giver
-	4 Sagume, the Reversed Fortune
+	4 Sagume, the Wheel Reversed
 	4 Kutaka, Hells Border Patrol
 	4 Yachie Kicchou
 	4 Sannyo Komakusa
@@ -3953,7 +3953,7 @@
 	4 Phantom Ensemble
 	4 Repurposed Rover
 	4 Fires of Hokkai
-	4 Get Ahead Of Yourself
+	4 Scavenged Arsenal
 	4 Land of Faith and Fantasy
 	4 Exploitable Resources
 	4 Battle Bond
@@ -4300,7 +4300,7 @@
 	6 Narumi, Life Giver
 	12 Seiran, Lunar Invader
 	12 Ringo, Tactical Coordinator
-	6 Sagume, the Reversed Fortune
+	6 Sagume, the Wheel Reversed
 	12 Fierce Fang, Wolf
 	12 Kiketsus Sneak, Otter
 	12 Eika Ebisu
@@ -4385,7 +4385,7 @@
 	2 The Palanquin Ship
 	12 Drunk As I Like
 	6 Fires of Hokkai
-	6 Get Ahead Of Yourself
+	6 Scavenged Arsenal
 	2 Cursed Decoy Doll
 	6 Land of Faith and Fantasy
 	12 Gensokyo Accepts All
@@ -4638,7 +4638,7 @@
 	15 Narumi, Life Giver
 	6 Seiran, Lunar Invader
 	6 Ringo, Tactical Coordinator
-	15 Sagume, the Reversed Fortune
+	15 Sagume, the Wheel Reversed
 	6 Fierce Fang, Wolf
 	6 Kiketsus Sneak, Otter
 	6 Eika Ebisu
@@ -4723,7 +4723,7 @@
 	7 The Palanquin Ship
 	6 Drunk As I Like
 	15 Fires of Hokkai
-	15 Get Ahead Of Yourself
+	15 Scavenged Arsenal
 	7 Cursed Decoy Doll
 	15 Land of Faith and Fantasy
 	6 Gensokyo Accepts All

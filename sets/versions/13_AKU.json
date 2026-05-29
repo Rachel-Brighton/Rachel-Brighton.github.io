@@ -656,7 +656,7 @@
             "alias": "",
             "position": "30",
             "rotated": false,
-            "notes": "!tag FS\n!tag Print\n!tag Reisen\n!tag Udonge\n!tag Udongein\n!tag Inaba\n!tag Eientei"
+            "notes": "!tag FS\n!tag Print\n!tag Reisen\n!tag Udongein\n!tag Inaba\n!tag Eientei"
         },
         {
             "card_name": "Kappa Tinkerers",
@@ -1181,7 +1181,7 @@
             "alias": "",
             "position": "55",
             "rotated": false,
-            "notes": "!tag WaHH\n!tag Tenshi\n!tag Hinanawi\n!tag Hinanai\n!tag Print"
+            "notes": "!tag WaHH\n!tag Tenshi\n!tag Hinanawi\n!tag Print"
         },
         {
             "card_name": "A Discerning Customer",
@@ -1476,6 +1476,27 @@
             "position": "69",
             "rotated": false,
             "notes": "!tag VFiS\n!tag Print\n!tag Hell"
+        },
+        {
+            "card_name": "Treasure",
+            "color": "",
+            "rarity": "common",
+            "type": "Token Artifact \u2014 Treasure",
+            "number": 10,
+            "color_identity": "C",
+            "cost": "",
+            "rules_text": "{T}, Sacrifice this artifact: Add one mana of any color.",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "token",
+            "set": "AKU",
+            "loyalty": "",
+            "artist": "\u6728\u539f\u6620/Retalseta",
+            "alias": "",
+            "position": "70",
+            "rotated": false,
+            "notes": "!related Visionary Fairies in Shrine"
         }
     ]
 }

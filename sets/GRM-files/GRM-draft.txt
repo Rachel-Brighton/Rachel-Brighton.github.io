@@ -565,7 +565,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Vehicle",
-			"collector_number": "8",
+			"collector_number": "9",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/GRM-files/img/56.png"
 			}
@@ -638,6 +638,16 @@
 			"collector_number": "20",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/GRM-files/img/63.png"
+			}
+		},
+		{
+			"name": "Treasure",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Treasure",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/GRM-files/img/64.png"
 			}
 		}
 	]

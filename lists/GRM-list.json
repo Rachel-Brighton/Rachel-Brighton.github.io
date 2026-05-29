@@ -537,8 +537,16 @@
         "position": "37"
     },
     {
-        "card_name": "Vehicle",
+        "card_name": "Treasure",
         "number": 8,
+        "shape": "token",
+        "set": "GRM",
+        "rotated": false,
+        "position": "64"
+    },
+    {
+        "card_name": "Vehicle",
+        "number": 9,
         "shape": "token",
         "set": "GRM",
         "rotated": false,
@@ -591,9 +599,6 @@
         "set": "GRM",
         "rotated": false,
         "position": "55"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "e"

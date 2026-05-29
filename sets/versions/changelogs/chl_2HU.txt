@@ -1,4 +1,39 @@
-﻿VERSION 22 CHANGELOG
+﻿VERSION 23 CHANGELOG
+====================
+
+Sagume, the Wheel Reversed added.
+Scavenged Arsenal added.
+
+Sagume, the Reversed Fortune removed.
+Get Ahead Of Yourself removed.
+
+Reisen, Lunatic Moon Rabbit
+
+Tenshi, Delinquent Celestial
+
+Sekibanki
+
+The Jailbreak King
+rules_text: Flying
+Haunt [i](When this creature dies, exile it haunting target creature.)[/i]
+As long as The Jailbreak King is in exile haunting a creature, you control that creature.
+{4}{U}{B}: If The Jailbreak King is in exile haunting a creature, return her to the battlefield under her owner's control. [i](That creature is no longer haunted)[/i] => Flying
+Haunt [i](When this creature dies, exile it haunting target creature.)[/i]
+You control the creature The Jailbreak King haunts.
+{4}{U}{B}: If The Jailbreak King is haunting a creature, return her to the battlefield under her owner's control. [i](That creature is no longer haunted)[/i]
+
+Lunar Reinforcements
+rules_text: Kicker—Sacrifice a non-Rabbit token [i](You may sacrifice a non-Rabbit token in addition to any other costs as you cast this spell.)[/i]
+Create two 1/1 white Rabbit creature tokens. If this spell was kicked, create four instead. => Kicker—Sacrifice a non-Rabbit token. [i](You may sacrifice a non-Rabbit token in addition to any other costs as you cast this spell.)[/i]
+Create two 1/1 white Rabbit creature tokens. If this spell was kicked, create four instead.
+
+May As Well Throw a Party
+rules_text: Kicker—Sacrifice a Food [i](You may sacrifice a Food in addition to any other costs as you cast this spell.)[/i]
+Put a +1/+1 counter on each creature you control. If this spell was kicked, those creatures gain trample and haste until end of turn. => Kicker—Sacrifice a Food. [i](You may sacrifice a Food in addition to any other costs as you cast this spell.)[/i]
+Put a +1/+1 counter on each creature you control. If this spell was kicked, those creatures gain trample and haste until end of turn.
+
+
+VERSION 22 CHANGELOG
 ====================
 
 Moriya Shrine Path added.

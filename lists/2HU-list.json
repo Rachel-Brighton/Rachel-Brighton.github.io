@@ -25,7 +25,7 @@
     },
     {
         "card_name": "Master Spark",
-        "number": 127,
+        "number": 126,
         "shape": "normal",
         "set": "2HU",
         "rotated": false,
@@ -65,7 +65,7 @@
     },
     {
         "card_name": "Mokou, Immortal Smoke",
-        "number": 128,
+        "number": 127,
         "shape": "normal",
         "set": "2HU",
         "rotated": false,
@@ -105,7 +105,7 @@
     },
     {
         "card_name": "Raiko, Pristine Beat",
-        "number": 130,
+        "number": 129,
         "shape": "normal",
         "set": "2HU",
         "rotated": false,
@@ -185,7 +185,7 @@
     },
     {
         "card_name": "Giga Flare",
-        "number": 121,
+        "number": 120,
         "shape": "normal",
         "set": "2HU",
         "rotated": false,
@@ -225,7 +225,7 @@
     },
     {
         "card_name": "The Ground's Color is Yellow",
-        "number": 122,
+        "number": 121,
         "shape": "normal",
         "set": "2HU",
         "rotated": false,
@@ -584,12 +584,12 @@
         "position": "297"
     },
     {
-        "card_name": "Get Ahead Of Yourself",
-        "number": 120,
+        "card_name": "Legend of Spontaneous Combustion",
+        "number": 125,
         "shape": "normal",
         "set": "2HU",
         "rotated": false,
-        "position": "186"
+        "position": "347"
     },
     {
         "card_name": "Parasol of the Flower Youkai",
@@ -624,12 +624,12 @@
         "position": "34"
     },
     {
-        "card_name": "Legend of Spontaneous Combustion",
-        "number": 126,
+        "card_name": "Scavenged Arsenal",
+        "number": 133,
         "shape": "normal",
         "set": "2HU",
         "rotated": false,
-        "position": "347"
+        "position": "186"
     },
     {
         "card_name": "Son Biten",
@@ -985,7 +985,7 @@
     },
     {
         "card_name": "Kosuzu, Curious Youth",
-        "number": 123,
+        "number": 122,
         "shape": "adventure",
         "set": "2HU",
         "rotated": false,
@@ -1025,7 +1025,7 @@
     },
     {
         "card_name": "Kyouko Kasodani",
-        "number": 124,
+        "number": 123,
         "shape": "normal",
         "set": "2HU",
         "rotated": false,
@@ -1065,7 +1065,7 @@
     },
     {
         "card_name": "Kyuu... BOOM~!",
-        "number": 125,
+        "number": 124,
         "shape": "normal",
         "set": "2HU",
         "rotated": false,
@@ -1105,7 +1105,7 @@
     },
     {
         "card_name": "Moonlit Pursuit",
-        "number": 129,
+        "number": 128,
         "shape": "normal",
         "set": "2HU",
         "rotated": false,
@@ -1145,7 +1145,7 @@
     },
     {
         "card_name": "Rika, the Tank Girl",
-        "number": 131,
+        "number": 130,
         "shape": "normal",
         "set": "2HU",
         "rotated": false,
@@ -1185,7 +1185,7 @@
     },
     {
         "card_name": "Rowdy Drunkard",
-        "number": 132,
+        "number": 131,
         "shape": "normal",
         "set": "2HU",
         "rotated": false,
@@ -1225,7 +1225,7 @@
     },
     {
         "card_name": "Scarlet Detonation",
-        "number": 133,
+        "number": 132,
         "shape": "normal",
         "set": "2HU",
         "rotated": false,
@@ -2038,7 +2038,7 @@
         "position": "107"
     },
     {
-        "card_name": "Sagume, the Reversed Fortune",
+        "card_name": "Sagume, the Wheel Reversed",
         "number": 253,
         "shape": "normal",
         "set": "2HU",

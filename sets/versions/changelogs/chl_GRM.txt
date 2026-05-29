@@ -1,4 +1,27 @@
-﻿VERSION 7 CHANGELOG
+﻿VERSION 8 CHANGELOG
+====================
+
+Treasure added.
+
+
+Antinomy of Common Flowers
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — You draw 2 cards and lose 2 life.
+II — Target player discards two cards.
+III — Each opponent loses X life and you gain X life, where X is the greatest power among creatures you control. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — You draw 2 cards and lose 2 life.
+II — Distribute two +1/+1 counters and a menace counter among up to three target creatures you control.
+III — Each opponent loses X life and you gain X life, where X is the greatest power among creatures you control.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — You draw 2 cards and lose 2 life.
+II — Target player discards two cards.
+III — Each opponent loses X life and you gain X life, where X is the greatest power among creatures you control. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — You draw 2 cards and lose 2 life.
+II — Distribute two +1/+1 counters and a menace counter among up to three target creatures you control.
+III — Each opponent loses X life and you gain X life, where X is the greatest power among creatures you control.
+
+
+VERSION 7 CHANGELOG
 ====================
 
 

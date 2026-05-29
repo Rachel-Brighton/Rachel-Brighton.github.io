@@ -1,4 +1,15 @@
-﻿VERSION 12 CHANGELOG
+﻿VERSION 13 CHANGELOG
+====================
+
+Treasure added.
+
+
+Mysterious Medicine Merchant
+
+Tenshi, Earthbound
+
+
+VERSION 12 CHANGELOG
 ====================
 
 

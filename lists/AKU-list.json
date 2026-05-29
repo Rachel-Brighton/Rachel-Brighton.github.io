@@ -623,6 +623,14 @@
         "position": "65"
     },
     {
+        "card_name": "Treasure",
+        "number": 10,
+        "shape": "token",
+        "set": "AKU",
+        "rotated": false,
+        "position": "70"
+    },
+    {
         "card_name": "Bird Youkai",
         "number": 2,
         "shape": "token",
@@ -669,9 +677,6 @@
         "set": "AKU",
         "rotated": false,
         "position": "59"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "er"

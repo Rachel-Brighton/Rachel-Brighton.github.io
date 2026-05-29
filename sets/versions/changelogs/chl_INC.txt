@@ -1,4 +1,16 @@
-﻿VERSION 4 CHANGELOG
+﻿VERSION 5 CHANGELOG
+====================
+
+Incident Resolvers (LoLK) added.
+Incident Resolvers (SWR) added.
+Junko added.
+Tenshi, Catastrophe in Heaven added.
+Netherworld Gates added.
+Youkai Mountain added.
+
+
+
+VERSION 4 CHANGELOG
 ====================
 
 

@@ -1,4 +1,345 @@
-﻿VERSION 4 CHANGELOG
+﻿VERSION 5 CHANGELOG
+====================
+
+Treasure added.
+
+Incident Resolvers (EoSD) removed.
+Incident Resolvers (FW) removed.
+
+Flandre, Sister of the Devil
+
+Sun Sign 「Royal Flare」
+
+Fiction Sign
+
+Aspect Shift
+
+Otherland's Edge
+
+Forbidden 「Starbow Break」
+
+Yuiman, Data Purifier
+
+Wonder Stone
+
+For the Glory of the Moon
+
+Toyohime, System Administrator
+
+Ubame, Yamanba Chief
+
+Nareko, Confined Dousojin
+
+Unchanging Daily Life
+
+Breach the Sanctuary
+
+Overflowing Wonder
+
+Hallucinated Companion
+
+Asama Purifying Mountain
+
+Ariya, Spirit of Permanence
+
+Copy
+
+Lord Tenma's Command
+
+Remote-Work Zashiki-Warashi
+
+Silent Sinner in Blue
+
+Those Were Good Pills
+
+Curiosities of Lotus Asia
+
+Kappa Tinkerers
+
+The Gensokyo Chronicle
+
+Thirst for Companionship
+
+Apparitions Stalk the Night
+
+Forbidden Scrollery
+
+Oni of the Night Parade
+
+Reduce to Vapor
+
+Magic is All About Power
+
+Visionary Fairies in Shrine
+
+The White Rabbit's Trick
+
+Helpful Hofgoblin
+
+The Purest Sky and Sea
+
+Twin Spark
+
+Wild and Horned Hermit
+
+Aunn, Temple Helper
+
+Aya, Reporter of Fantasy
+
+Cheating Detective Satori
+
+Choujuu Gigaku
+
+A Discerning Customer
+
+Mamizou, Ever Watching
+
+Mizuchi, Traitor to Humanity
+
+Mysterious Medicine Merchant
+
+Raiko, Guest Drummer
+
+Reimu, Spirits' Grudge
+
+Tenshi, Earthbound
+
+Whitewater Champions
+
+Enenra
+
+Great Fairies
+
+Kitsune Impostor
+
+A Little Sin
+
+Magician's Companion
+
+Shadow Mirror
+
+Spirit Mirror
+
+Spirit of the Hakurei Relic
+
+Tanuki Impostor
+
+TORIFUNE Monstrosity
+
+Iron Rings of Moriya
+
+Personalized Fortune Slip
+
+Roukanken and Hakurouken
+
+Stone Cherry
+
+Ancient Sanctuary
+
+Garden of the Sun
+
+Genbu Ravine
+
+Hellfire Mantle
+
+Land of the Backdoor
+
+Netherworld Gates
+
+Probability Space Hypervessel
+
+Sea of Tranquility
+
+Wonderful Heaven
+
+Youkai Mountain
+
+Copy
+
+Bird Youkai
+
+Rabbit
+
+Spirit
+
+Faerie Army
+
+Nightstalker
+
+Youkai
+
+Clue
+
+Food
+
+Final Spell: Last Word
+
+Dance of Dazzling Iridescence
+
+Fey Inaba
+
+Lyrica, Solo Live
+
+Matsuyoi-Reflecting Slash
+
+Price of Life
+
+Spirit Sign 「Fantasy Seal」
+
+Urban Legend in Limbo
+
+Bitch, Get Out Of The Way!
+
+Hopeless Masquerade
+
+Perfect Freeze
+
+Seamless Ceiling of Kinkaku-ji
+
+Spark-Like Flashlight
+
+Spellbound Volume
+
+Yachie, Irresistable Matriarch
+
+Antinomy of Common Flowers
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — You draw 2 cards and lose 2 life.
+II — Target player discards two cards.
+III — Each opponent loses X life and you gain X life, where X is the greatest power among creatures you control. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — You draw 2 cards and lose 2 life.
+II — Distribute two +1/+1 counters and a menace counter among up to three target creatures you control.
+III — Each opponent loses X life and you gain X life, where X is the greatest power among creatures you control.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — You draw 2 cards and lose 2 life.
+II — Target player discards two cards.
+III — Each opponent loses X life and you gain X life, where X is the greatest power among creatures you control. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — You draw 2 cards and lose 2 life.
+II — Distribute two +1/+1 counters and a menace counter among up to three target creatures you control.
+III — Each opponent loses X life and you gain X life, where X is the greatest power among creatures you control.
+
+Just Dodge It, Bro
+
+Koishi, Right Behind You
+
+Pichuun!
+
+Poison Nail 「Undead Murderer」
+
+Yuuma, Blood Titan
+
+Zombie Fairy
+
+For Her Sake
+
+Full Focus
+
+Hell's Tokamak
+
+Illusionary Dominance
+
+Mob Swarm
+
+Saki, Charging Matriarch
+
+Scarlet Weather Rhapsody
+
+Aerial Combat
+
+Bumper Crop
+
+Esoterica 「Forgotten Ritual」
+
+Follow Me, Unafraid
+
+Immaterial and Missing Power
+
+Monstrous Minions
+
+Suika, Tiny Night Parade
+
+Byakuren, Turbo Rider
+
+Cirno, Summer Freeze
+
+Dreamworld Doppelganger
+
+Flandre, Matara's Ace
+
+Futo, Plate Breaker
+
+Kasen, the Hermit Sage
+
+Meiling, Dream Guardian
+
+Miko, Almighty Tao
+
+Okina, Sage of Doors
+
+Sakuya, Perfect and Elegant
+
+Sanae Kochiya
+
+Shinki, Ordeal from God
+
+Sumireko, Last Occultist
+
+Yamame, Bright Net in the Dark
+
+Youmu, Half-Phantom
+
+Yukari, Sage of Boundaries
+
+Gun Sign 「3D Printer Gun」
+
+Magician's Broom
+
+Mini-Hakkero
+
+Otherworld Observer
+
+Spirit
+
+Spirit
+
+Demon
+
+Wolf Spirit
+
+Youkai
+
+Blood
+
+Vehicle
+
+Artistic Dedication
+
+Autumnal Waterfall
+
+Countless Native Gods
+
+God's Wind
+
+Hina, Dark Side of Fate
+
+Horizon Sign
+
+Hunt for Trespassers
+
+Incident Resolvers (MoF)
+
+Kanako, Avatar of Mountains
+
+Nitori, Candid Friend
+
+Patrol of Nine Heavens
+
+Suwako, Old God of Moriya
+
+Aya, Closest Available Responder
+
+
+VERSION 4 CHANGELOG
 ====================
 
 

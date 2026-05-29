@@ -5,7 +5,7 @@
 			<name>2HU</name>
 			<longname>Universes Beyond: The Touhou Project</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-05-21</releasedate>
+			<releasedate>2026-05-28</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -160,7 +160,7 @@ Return to the moon — When Kaguya leaves the battlefield, return up to one targ
 			<text>You may cast Mokou, Immortal Smoke from your graveyard.
 Haste
 Inextinguishable — Sacrifice Mokou: She deals 2 damage to any target and 2 damage to you.</text>
-			<set rarity="mythic" picurl="https://Rachel-Brighton.github.io/sets/2HU-files/img/8.png" num="128">2HU</set>
+			<set rarity="mythic" picurl="https://Rachel-Brighton.github.io/sets/2HU-files/img/8.png" num="127">2HU</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -781,7 +781,7 @@ Unexplained Fever — Whenever a creature dies, if it had a -1/-1 counter on it,
 			<name>Raiko, Pristine Beat</name>
 			<text>Flying, double strike
 Phantasmal Percussion — Whenever Raiko deals combat damage to a player, she deals that much damage to each creature they control.</text>
-			<set rarity="mythic" picurl="https://Rachel-Brighton.github.io/sets/2HU-files/img/42.png" num="130">2HU</set>
+			<set rarity="mythic" picurl="https://Rachel-Brighton.github.io/sets/2HU-files/img/42.png" num="129">2HU</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1128,7 +1128,7 @@ You have protection from Spirits. (You can&apos;t be targeted, dealt damage, or 
 ---
 
 Create three 1/1 black and red Youkai creature tokens. Each player loses 2 life. (Then exile this card. You may cast this creature later from exile.)</text>
-			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/2HU-files/img/60.png" num="123">2HU</set>
+			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/2HU-files/img/60.png" num="122">2HU</set>
 			<prop>
 				<layout>adventure</layout>
 				<side>front</side>
@@ -1545,7 +1545,7 @@ Whenever Shou enters or attacks, you may sacrifice an artifact. When you do, put
 			<name>Kyouko Kasodani</name>
 			<text>Echo {R} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)
 Whenever Kyouko enters or her echo cost is paid, target creature can&apos;t block this turn.</text>
-			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/2HU-files/img/83.png" num="124">2HU</set>
+			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/2HU-files/img/83.png" num="123">2HU</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1671,7 +1671,7 @@ Whenever Utsuho Reiuji attacks, she deals damage equal to her power to target cr
 		<card>
 			<name>Scarlet Detonation</name>
 			<text>Destroy target land. Its controller may search their library for a basic land card, put it onto the battlefield tapped, then shuffle. Scarlet Detonation deals 3 damage to each opponent.</text>
-			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/2HU-files/img/90.png" num="133">2HU</set>
+			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/2HU-files/img/90.png" num="132">2HU</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1717,7 +1717,7 @@ Dullahan Night — Whenever a creature token you control dies, Sekibanki deals 1
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related>BankiHead</related>
+			<related count="X">BankiHead</related>
 		</card>
 		<card>
 			<name>Kagerou, Bamboos Loup-Garou</name>
@@ -1866,18 +1866,18 @@ Ringo gets +2/+2 for each other Rabbit creature you control.</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Sagume, the Reversed Fortune</name>
+			<name>Sagume, the Wheel Reversed</name>
 			<text>Flash
-When Sagume enters, until end of turn, if a player would gain life, that player loses that much life instead.
-Discard a card: Target player gains life equal to that card&apos;s mana value. Activate only as a sorcery, and only once each turn.</text>
+Flying
+When Sagume enters, the next time a source of your choice would deal damage this turn, it deals that much damage to its controller instead.</text>
 			<set rarity="uncommon" picurl="https://Rachel-Brighton.github.io/sets/2HU-files/img/101.png" num="253">2HU</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Legendary Creature — Moonfolk Advisor</type>
 				<maintype>Creature</maintype>
-				<manacost>2WBB</manacost>
-				<cmc>5</cmc>
+				<manacost>1WWB</manacost>
+				<cmc>4</cmc>
 				<colors>WB</colors>
 				<coloridentity>WB</coloridentity>
 				<pt>4/4</pt>
@@ -2254,7 +2254,7 @@ Then let us die together — At the beginning of your end step, if Sariel is in 
 			<text>Haste
 She&apos;s in a Temper!! — {T}: Target Vehicle you control becomes an artifact creature until end of turn.
 Vehicles you control have &quot;{R}, {T}: This permanent deals 2 damage to target player.&quot;</text>
-			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/2HU-files/img/122.png" num="131">2HU</set>
+			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/2HU-files/img/122.png" num="130">2HU</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3301,7 +3301,7 @@ Crew 2 (Tap any number of creatures you control with total power 2 or more: This
 			<name>Giga Flare</name>
 			<text>As an additional cost to cast this spell, pay {3} or tap an untapped creature you control with power 5 or greater.
 Giga Flare deals 5 damage to each creature and each planeswalker.</text>
-			<set rarity="rare" picurl="https://Rachel-Brighton.github.io/sets/2HU-files/img/179.png" num="121">2HU</set>
+			<set rarity="rare" picurl="https://Rachel-Brighton.github.io/sets/2HU-files/img/179.png" num="120">2HU</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3416,17 +3416,17 @@ Crew 3</text>
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Get Ahead Of Yourself</name>
-			<text>As an additional cost to cast this spell, sacrifice a creature.
-Exile the top three cards of your library. Until your next turn, you may play those cards.</text>
-			<set rarity="uncommon" picurl="https://Rachel-Brighton.github.io/sets/2HU-files/img/186.png" num="120">2HU</set>
+			<name>Scavenged Arsenal</name>
+			<text>Kicker—Sacrifice an artifact. (You may sacrifice an artifact in addition to any other costs as you cast this spell.)
+Exile the top two cards of your library. If this spell was kicked, exile three instead. You may play those cards until your next end step.</text>
+			<set rarity="uncommon" picurl="https://Rachel-Brighton.github.io/sets/2HU-files/img/186.png" num="133">2HU</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Sorcery</type>
-				<maintype>Sorcery</maintype>
-				<manacost>R</manacost>
-				<cmc>1</cmc>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
 			</prop>
@@ -3560,7 +3560,7 @@ Princess Who Slays Dragon Kings — When Momoyo becomes monstrous, each opponent
 			<name>The Ground&apos;s Color is Yellow</name>
 			<text>Each player must attack each combat if able.
 Weather pattern shifting! — Whenever a player attacks with each creature they control, exile the top card of your library. That player exiles the top card of their library. Players may play cards they exiled this way until their next end step.</text>
-			<set rarity="rare" picurl="https://Rachel-Brighton.github.io/sets/2HU-files/img/194.png" num="122">2HU</set>
+			<set rarity="rare" picurl="https://Rachel-Brighton.github.io/sets/2HU-files/img/194.png" num="121">2HU</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3926,8 +3926,8 @@ Whenever this creature becomes tapped, create a Food token. (It&apos;s an artifa
 			<name>The Jailbreak King</name>
 			<text>Flying
 Haunt (When this creature dies, exile it haunting target creature.)
-As long as The Jailbreak King is in exile haunting a creature, you control that creature.
-{4}{U}{B}: If The Jailbreak King is in exile haunting a creature, return her to the battlefield under her owner&apos;s control. (That creature is no longer haunted)</text>
+You control the creature The Jailbreak King haunts.
+{4}{U}{B}: If The Jailbreak King is haunting a creature, return her to the battlefield under her owner&apos;s control. (That creature is no longer haunted)</text>
 			<set rarity="rare" picurl="https://Rachel-Brighton.github.io/sets/2HU-files/img/216.png" num="203">2HU</set>
 			<prop>
 				<layout>normal</layout>
@@ -4522,7 +4522,7 @@ Whenever an opponent draws a card other than the first one they draw in each of 
 			<name>Rowdy Drunkard</name>
 			<text>This creature has haste as long as you control an artifact token.
 Whenever you sacrifice an artifact token, this creature gains menace until end of turn.</text>
-			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/2HU-files/img/248.png" num="132">2HU</set>
+			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/2HU-files/img/248.png" num="131">2HU</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4721,7 +4721,7 @@ When you cast this spell, you may return a permanent you control to its owner&ap
 		<card>
 			<name>Moonlit Pursuit</name>
 			<text>Up to two target creatures each get +1/+0 and gain haste and trample until end of turn.</text>
-			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/2HU-files/img/260.png" num="129">2HU</set>
+			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/2HU-files/img/260.png" num="128">2HU</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4736,7 +4736,7 @@ When you cast this spell, you may return a permanent you control to its owner&ap
 		</card>
 		<card>
 			<name>Lunar Reinforcements</name>
-			<text>Kicker—Sacrifice a non-Rabbit token (You may sacrifice a non-Rabbit token in addition to any other costs as you cast this spell.)
+			<text>Kicker—Sacrifice a non-Rabbit token. (You may sacrifice a non-Rabbit token in addition to any other costs as you cast this spell.)
 Create two 1/1 white Rabbit creature tokens. If this spell was kicked, create four instead.</text>
 			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/2HU-files/img/261.png" num="26">2HU</set>
 			<prop>
@@ -5108,7 +5108,7 @@ At the beginning of each player&apos;s upkeep, if that player controls a tapped 
 			<name>Kyuu... BOOM~!</name>
 			<text>Destroy target artifact.
 Cycling {2} ({2}, Discard this card: Draw a card.)</text>
-			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/2HU-files/img/281.png" num="125">2HU</set>
+			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/2HU-files/img/281.png" num="124">2HU</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5557,7 +5557,7 @@ Untap any number of target artifacts and/or lands. Until end of turn, they becom
 			<name>Master Spark</name>
 			<text>(You may cast a legendary instant only if you control a legendary creature or planeswalker.)
 Master Spark deals X damage to any target. Excess damage is dealt to a permanent this way is dealt to that permanent&apos;s controller instead.</text>
-			<set rarity="mythic" picurl="https://Rachel-Brighton.github.io/sets/2HU-files/img/306.png" num="127">2HU</set>
+			<set rarity="mythic" picurl="https://Rachel-Brighton.github.io/sets/2HU-files/img/306.png" num="126">2HU</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6273,7 +6273,7 @@ Whenever this creature attacks, untap each legendary creature you control.</text
 			<name>Legend of Spontaneous Combustion</name>
 			<text>As an additional cost to cast this spell, sacrifice a creature.
 Legend of Spontaneous Combustion deals 5 damage to target creature or planeswalker. If a permanent dealt damage this way would die this turn, exile it instead.</text>
-			<set rarity="uncommon" picurl="https://Rachel-Brighton.github.io/sets/2HU-files/img/347.png" num="126">2HU</set>
+			<set rarity="uncommon" picurl="https://Rachel-Brighton.github.io/sets/2HU-files/img/347.png" num="125">2HU</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6632,7 +6632,7 @@ When this creature enters, tap up to one other target creature. Then if you cont
 		</card>
 		<card>
 			<name>May As Well Throw a Party</name>
-			<text>Kicker—Sacrifice a Food (You may sacrifice a Food in addition to any other costs as you cast this spell.)
+			<text>Kicker—Sacrifice a Food. (You may sacrifice a Food in addition to any other costs as you cast this spell.)
 Put a +1/+1 counter on each creature you control. If this spell was kicked, those creatures gain trample and haste until end of turn.</text>
 			<set rarity="uncommon" picurl="https://Rachel-Brighton.github.io/sets/2HU-files/img/367.png" num="226">2HU</set>
 			<prop>
