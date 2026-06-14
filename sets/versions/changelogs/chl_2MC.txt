@@ -1,4 +1,47 @@
-﻿VERSION 6 CHANGELOG
+﻿VERSION 7 CHANGELOG
+====================
+
+Marisa, Ordinary Magician added.
+Road of Liminality added.
+
+
+Curiosities of Lotus Asia
+
+Aunn, Temple Helper
+rules_text: When Aunn enters, return up to one target God you control or God card in your graveyard to its owner's hand.
+Whenever a God enters the battlefield under your control, you gain 2 life and draw a card. => When Aunn enters, return up to one target God you control or God card in your graveyard to its owner's hand.
+Whenever a God you control enters, you gain 2 life and draw a card.
+
+Magician's Companion
+rules_text: Wizards you cast cost {1} less to cast.
+Wizards you control have “Instant and sorcery spells you cast cost {1} less to cast.” => Wizard spells you cast cost {1} less to cast.
+Wizards you control have “Instant and sorcery spells you cast cost {1} less to cast.”
+
+Urban Legend in Limbo
+
+Antinomy of Common Flowers
+
+Mob Swarm
+rules_text: Flying
+Whenever you attack, amass faeries 1 [i](Put a +1/+1 counter on an Army you control. It's also a Faerie. If you don't control an Army, create a 0/0 black Faerie Army creature token first.)[/i] => Flying
+Whenever you attack, amass Faeries 1 [i](Put a +1/+1 counter on an Army you control. It's also a Faerie. If you don't control an Army, create a 0/0 black Faerie Army creature token first.)[/i]
+
+Cirno, Summer Freeze
+rules_text: Flying
+[i]Perfect Summer Ice[/i] — Whenever Cirno deals combat damage to a player, you may pay {1}. When you do, draw a card, then put a stun counter on up to one target tapped creature. => Flying
+[i]Perfect Summer Ice[/i] — Whenever Cirno deals combat damage to a player, you may pay {2}. When you do, draw a card, then put a stun counter on up to one target tapped creature.
+
+Youmu, Half-Phantom
+rules_text: Vigilance
+When Youmu enters, you may attach an equipment you control to her.
+Whenever Youmu deals combat damage while attacking, create a 1/1 white Spirit creature token with flying. => Vigilance
+When Youmu enters, you may attach an Equipment you control to her.
+Whenever Youmu deals combat damage while attacking, create a 1/1 white Spirit creature token with flying.
+
+Incident Resolvers (MoF)
+
+
+VERSION 6 CHANGELOG
 ====================
 
 

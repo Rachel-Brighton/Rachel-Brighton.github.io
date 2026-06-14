@@ -1,7 +1,7 @@
 ﻿[
     {
         "card_name": "Remilia, the Scarlet Devil",
-        "number": 43,
+        "number": 55,
         "shape": "normal",
         "set": "INC",
         "rotated": false,
@@ -9,7 +9,7 @@
     },
     {
         "card_name": "Flandre, Sister of the Devil",
-        "number": 41,
+        "number": 52,
         "shape": "normal",
         "set": "INC",
         "rotated": false,
@@ -17,7 +17,7 @@
     },
     {
         "card_name": "Sakuya, the Head Maid",
-        "number": 26,
+        "number": 37,
         "shape": "normal",
         "set": "INC",
         "rotated": false,
@@ -25,7 +25,7 @@
     },
     {
         "card_name": "Meiling, the Gatekeeper",
-        "number": 31,
+        "number": 42,
         "shape": "normal",
         "set": "INC",
         "rotated": false,
@@ -33,7 +33,7 @@
     },
     {
         "card_name": "Rumia, Wrapped in Dusk",
-        "number": 25,
+        "number": 36,
         "shape": "normal",
         "set": "INC",
         "rotated": false,
@@ -41,7 +41,7 @@
     },
     {
         "card_name": "Cirno, Ice Spirit on the Lake",
-        "number": 27,
+        "number": 38,
         "shape": "normal",
         "set": "INC",
         "rotated": false,
@@ -49,7 +49,7 @@
     },
     {
         "card_name": "Fairy Menace",
-        "number": 29,
+        "number": 40,
         "shape": "normal",
         "set": "INC",
         "rotated": false,
@@ -57,7 +57,7 @@
     },
     {
         "card_name": "Little Devil",
-        "number": 48,
+        "number": 62,
         "shape": "normal",
         "set": "INC",
         "rotated": false,
@@ -73,7 +73,7 @@
     },
     {
         "card_name": "Knight of Nights",
-        "number": 24,
+        "number": 34,
         "shape": "normal",
         "set": "INC",
         "rotated": false,
@@ -81,7 +81,7 @@
     },
     {
         "card_name": "Fog Sign",
-        "number": 30,
+        "number": 41,
         "shape": "normal",
         "set": "INC",
         "rotated": false,
@@ -89,7 +89,7 @@
     },
     {
         "card_name": "Forbidden \u300cStarbow Break\u300d",
-        "number": 23,
+        "number": 31,
         "shape": "normal",
         "set": "INC",
         "rotated": false,
@@ -97,7 +97,7 @@
     },
     {
         "card_name": "Scarlet Gensokyo",
-        "number": 32,
+        "number": 43,
         "shape": "normal",
         "set": "INC",
         "rotated": false,
@@ -105,7 +105,7 @@
     },
     {
         "card_name": "Sun Sign \u300cRoyal Flare\u300d",
-        "number": 33,
+        "number": 44,
         "shape": "normal",
         "set": "INC",
         "rotated": false,
@@ -113,7 +113,7 @@
     },
     {
         "card_name": "Dangerous Curiosity",
-        "number": 22,
+        "number": 28,
         "shape": "normal",
         "set": "INC",
         "rotated": false,
@@ -121,7 +121,7 @@
     },
     {
         "card_name": "A Dream More Scarlet",
-        "number": 28,
+        "number": 39,
         "shape": "normal",
         "set": "INC",
         "rotated": false,
@@ -129,7 +129,7 @@
     },
     {
         "card_name": "Swamp",
-        "number": 61,
+        "number": 76,
         "shape": "normal",
         "set": "INC",
         "rotated": false,
@@ -137,7 +137,7 @@
     },
     {
         "card_name": "Mountain",
-        "number": 63,
+        "number": 77,
         "shape": "normal",
         "set": "INC",
         "rotated": false,
@@ -164,7 +164,7 @@
     "a->MoF",
     {
         "card_name": "Kanako, Avatar of Mountains",
-        "number": 42,
+        "number": 54,
         "shape": "normal",
         "set": "INC",
         "rotated": false,
@@ -172,7 +172,7 @@
     },
     {
         "card_name": "Sanae Kochiya",
-        "number": 44,
+        "number": 57,
         "shape": "normal",
         "set": "INC",
         "rotated": false,
@@ -180,7 +180,7 @@
     },
     {
         "card_name": "Suwako, Old God of Moriya",
-        "number": 39,
+        "number": 50,
         "shape": "normal",
         "set": "INC",
         "rotated": false,
@@ -188,7 +188,7 @@
     },
     {
         "card_name": "Aya, Closest Available Responder",
-        "number": 15,
+        "number": 20,
         "shape": "normal",
         "set": "INC",
         "rotated": false,
@@ -196,7 +196,7 @@
     },
     {
         "card_name": "Hina, Dark Side of Fate",
-        "number": 36,
+        "number": 47,
         "shape": "normal",
         "set": "INC",
         "rotated": false,
@@ -204,7 +204,7 @@
     },
     {
         "card_name": "Nitori, Candid Friend",
-        "number": 19,
+        "number": 24,
         "shape": "normal",
         "set": "INC",
         "rotated": false,
@@ -212,7 +212,7 @@
     },
     {
         "card_name": "Countless Native Gods",
-        "number": 34,
+        "number": 45,
         "shape": "normal",
         "set": "INC",
         "rotated": false,
@@ -220,7 +220,7 @@
     },
     {
         "card_name": "Patrol of Nine Heavens",
-        "number": 20,
+        "number": 25,
         "shape": "normal",
         "set": "INC",
         "rotated": false,
@@ -236,7 +236,7 @@
     },
     {
         "card_name": "Horizon Sign",
-        "number": 37,
+        "number": 48,
         "shape": "normal",
         "set": "INC",
         "rotated": false,
@@ -244,7 +244,7 @@
     },
     {
         "card_name": "Esoterica \u300cForgotten Ritual\u300d",
-        "number": 35,
+        "number": 46,
         "shape": "normal",
         "set": "INC",
         "rotated": false,
@@ -252,7 +252,7 @@
     },
     {
         "card_name": "Autumnal Waterfall",
-        "number": 14,
+        "number": 19,
         "shape": "normal",
         "set": "INC",
         "rotated": false,
@@ -260,7 +260,7 @@
     },
     {
         "card_name": "Hunt for Trespassers",
-        "number": 38,
+        "number": 49,
         "shape": "normal",
         "set": "INC",
         "rotated": false,
@@ -268,7 +268,7 @@
     },
     {
         "card_name": "God's Wind",
-        "number": 47,
+        "number": 61,
         "shape": "normal",
         "set": "INC",
         "rotated": false,
@@ -276,7 +276,7 @@
     },
     {
         "card_name": "Artistic Dedication",
-        "number": 12,
+        "number": 17,
         "shape": "normal",
         "set": "INC",
         "rotated": false,
@@ -284,7 +284,7 @@
     },
     {
         "card_name": "Forest",
-        "number": 65,
+        "number": 79,
         "shape": "normal",
         "set": "INC",
         "rotated": false,
@@ -292,169 +292,11 @@
     },
     {
         "card_name": "Island",
-        "number": 59,
+        "number": 74,
         "shape": "normal",
         "set": "INC",
         "rotated": false,
         "position": "57"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    "a->FW",
-    {
-        "card_name": "Ariya, Spirit of Permanence",
-        "number": 40,
-        "shape": "normal",
-        "set": "INC",
-        "rotated": false,
-        "position": "38"
-    },
-    {
-        "card_name": "Yuiman, Data Purifier",
-        "number": 46,
-        "shape": "normal",
-        "set": "INC",
-        "rotated": false,
-        "position": "24"
-    },
-    {
-        "card_name": "Toyohime, System Administrator",
-        "number": 10,
-        "shape": "normal",
-        "set": "INC",
-        "rotated": false,
-        "position": "27"
-    },
-    {
-        "card_name": "Ubame, Yamanba Chief",
-        "number": 11,
-        "shape": "normal",
-        "set": "INC",
-        "rotated": false,
-        "position": "28"
-    },
-    {
-        "card_name": "Nareko, Confined Dousojin",
-        "number": 18,
-        "shape": "normal",
-        "set": "INC",
-        "rotated": false,
-        "position": "29"
-    },
-    {
-        "card_name": "Overflowing Wonder",
-        "number": 49,
-        "shape": "normal",
-        "set": "INC",
-        "rotated": false,
-        "position": "35"
-    },
-    {
-        "card_name": "Hallucinated Companion",
-        "number": 9,
-        "shape": "normal",
-        "set": "INC",
-        "rotated": false,
-        "position": "36"
-    },
-    {
-        "card_name": "Wonder Stone",
-        "number": 50,
-        "shape": "normal",
-        "set": "INC",
-        "rotated": false,
-        "position": "25"
-    },
-    {
-        "card_name": "Incident Resolvers (FW)",
-        "number": 2,
-        "shape": "normal",
-        "set": "INC",
-        "rotated": false,
-        "position": "18"
-    },
-    {
-        "card_name": "Aspect Shift",
-        "number": 7,
-        "shape": "normal",
-        "set": "INC",
-        "rotated": false,
-        "position": "20"
-    },
-    {
-        "card_name": "Fiction Sign",
-        "number": 16,
-        "shape": "normal",
-        "set": "INC",
-        "rotated": false,
-        "position": "19"
-    },
-    {
-        "card_name": "Breach the Sanctuary",
-        "number": 8,
-        "shape": "normal",
-        "set": "INC",
-        "rotated": false,
-        "position": "31"
-    },
-    {
-        "card_name": "Unchanging Daily Life",
-        "number": 21,
-        "shape": "normal",
-        "set": "INC",
-        "rotated": false,
-        "position": "30"
-    },
-    {
-        "card_name": "Asama Purifying Mountain",
-        "number": 13,
-        "shape": "normal",
-        "set": "INC",
-        "rotated": false,
-        "position": "37"
-    },
-    {
-        "card_name": "For the Glory of the Moon",
-        "number": 17,
-        "shape": "normal",
-        "set": "INC",
-        "rotated": false,
-        "position": "26"
-    },
-    {
-        "card_name": "Plains",
-        "number": 57,
-        "shape": "normal",
-        "set": "INC",
-        "rotated": false,
-        "position": "33"
-    },
-    {
-        "card_name": "Island",
-        "number": 60,
-        "shape": "normal",
-        "set": "INC",
-        "rotated": false,
-        "position": "34"
     },
     {
         "card_name": "e"
@@ -487,6 +329,54 @@
         "position": "60"
     },
     {
+        "card_name": "Sagume, The Careful Tongue",
+        "number": 56,
+        "shape": "normal",
+        "set": "INC",
+        "rotated": false,
+        "position": "68"
+    },
+    {
+        "card_name": "Ringo, Eagle Ravi Orange",
+        "number": 12,
+        "shape": "normal",
+        "set": "INC",
+        "rotated": false,
+        "position": "69"
+    },
+    {
+        "card_name": "Hecatia, Goddess of Hell",
+        "number": 33,
+        "shape": "normal",
+        "set": "INC",
+        "rotated": false,
+        "position": "71"
+    },
+    {
+        "card_name": "Seiran, Eagle Ravi Blue",
+        "number": 13,
+        "shape": "normal",
+        "set": "INC",
+        "rotated": false,
+        "position": "70"
+    },
+    {
+        "card_name": "Clownpiece, Star-Spangled Pierrot",
+        "number": 27,
+        "shape": "normal",
+        "set": "INC",
+        "rotated": false,
+        "position": "72"
+    },
+    {
+        "card_name": "Fairy Hellraiser",
+        "number": 30,
+        "shape": "normal",
+        "set": "INC",
+        "rotated": false,
+        "position": "80"
+    },
+    {
         "card_name": "Incident Resolvers (LoLK)",
         "number": 3,
         "shape": "normal",
@@ -495,8 +385,72 @@
         "position": "58"
     },
     {
+        "card_name": "Lunar Reinforcements",
+        "number": 11,
+        "shape": "normal",
+        "set": "INC",
+        "rotated": false,
+        "position": "79"
+    },
+    {
+        "card_name": "Existential Humankind",
+        "number": 29,
+        "shape": "normal",
+        "set": "INC",
+        "rotated": false,
+        "position": "75"
+    },
+    {
+        "card_name": "Hate",
+        "number": 32,
+        "shape": "normal",
+        "set": "INC",
+        "rotated": false,
+        "position": "76"
+    },
+    {
+        "card_name": "Nightmares Never Before Seen",
+        "number": 35,
+        "shape": "normal",
+        "set": "INC",
+        "rotated": false,
+        "position": "83"
+    },
+    {
+        "card_name": "Judgement",
+        "number": 53,
+        "shape": "normal",
+        "set": "INC",
+        "rotated": false,
+        "position": "74"
+    },
+    {
+        "card_name": "First and Final Nameless Spell",
+        "number": 60,
+        "shape": "normal",
+        "set": "INC",
+        "rotated": false,
+        "position": "78"
+    },
+    {
+        "card_name": "Cage of Marital Vows",
+        "number": 9,
+        "shape": "normal",
+        "set": "INC",
+        "rotated": false,
+        "position": "82"
+    },
+    {
+        "card_name": "Superiority",
+        "number": 14,
+        "shape": "normal",
+        "set": "INC",
+        "rotated": false,
+        "position": "77"
+    },
+    {
         "card_name": "Plains",
-        "number": 58,
+        "number": 71,
         "shape": "normal",
         "set": "INC",
         "rotated": false,
@@ -504,11 +458,172 @@
     },
     {
         "card_name": "Swamp",
-        "number": 62,
+        "number": 75,
         "shape": "normal",
         "set": "INC",
         "rotated": false,
         "position": "64"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->FW",
+    {
+        "card_name": "Ariya, Spirit of Permanence",
+        "number": 51,
+        "shape": "normal",
+        "set": "INC",
+        "rotated": false,
+        "position": "38"
+    },
+    {
+        "card_name": "Yuiman, Data Purifier",
+        "number": 59,
+        "shape": "normal",
+        "set": "INC",
+        "rotated": false,
+        "position": "24"
+    },
+    {
+        "card_name": "Toyohime, System Administrator",
+        "number": 15,
+        "shape": "normal",
+        "set": "INC",
+        "rotated": false,
+        "position": "27"
+    },
+    {
+        "card_name": "Ubame, Yamanba Chief",
+        "number": 16,
+        "shape": "normal",
+        "set": "INC",
+        "rotated": false,
+        "position": "28"
+    },
+    {
+        "card_name": "Nareko, Confined Dousojin",
+        "number": 23,
+        "shape": "normal",
+        "set": "INC",
+        "rotated": false,
+        "position": "29"
+    },
+    {
+        "card_name": "Overflowing Wonder",
+        "number": 63,
+        "shape": "normal",
+        "set": "INC",
+        "rotated": false,
+        "position": "35"
+    },
+    {
+        "card_name": "Hallucinated Companion",
+        "number": 10,
+        "shape": "normal",
+        "set": "INC",
+        "rotated": false,
+        "position": "36"
+    },
+    {
+        "card_name": "Wonder Stone",
+        "number": 64,
+        "shape": "normal",
+        "set": "INC",
+        "rotated": false,
+        "position": "25"
+    },
+    {
+        "card_name": "Incident Resolvers (FW)",
+        "number": 2,
+        "shape": "normal",
+        "set": "INC",
+        "rotated": false,
+        "position": "18"
+    },
+    {
+        "card_name": "Aspect Shift",
+        "number": 7,
+        "shape": "normal",
+        "set": "INC",
+        "rotated": false,
+        "position": "20"
+    },
+    {
+        "card_name": "Fiction Sign",
+        "number": 21,
+        "shape": "normal",
+        "set": "INC",
+        "rotated": false,
+        "position": "19"
+    },
+    {
+        "card_name": "Breach the Sanctuary",
+        "number": 8,
+        "shape": "normal",
+        "set": "INC",
+        "rotated": false,
+        "position": "31"
+    },
+    {
+        "card_name": "Unchanging Daily Life",
+        "number": 26,
+        "shape": "normal",
+        "set": "INC",
+        "rotated": false,
+        "position": "30"
+    },
+    {
+        "card_name": "Asama Purifying Mountain",
+        "number": 18,
+        "shape": "normal",
+        "set": "INC",
+        "rotated": false,
+        "position": "37"
+    },
+    {
+        "card_name": "For the Glory of the Moon",
+        "number": 22,
+        "shape": "normal",
+        "set": "INC",
+        "rotated": false,
+        "position": "26"
+    },
+    {
+        "card_name": "Plains",
+        "number": 72,
+        "shape": "normal",
+        "set": "INC",
+        "rotated": false,
+        "position": "33"
+    },
+    {
+        "card_name": "Island",
+        "number": 73,
+        "shape": "normal",
+        "set": "INC",
+        "rotated": false,
+        "position": "34"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "e"
@@ -528,7 +643,7 @@
     "a->SWR",
     {
         "card_name": "Tenshi, Catastrophe in Heaven",
-        "number": 45,
+        "number": 58,
         "shape": "normal",
         "set": "INC",
         "rotated": false,
@@ -544,7 +659,7 @@
     },
     {
         "card_name": "Mountain",
-        "number": 64,
+        "number": 78,
         "shape": "normal",
         "set": "INC",
         "rotated": false,
@@ -552,7 +667,7 @@
     },
     {
         "card_name": "Forest",
-        "number": 66,
+        "number": 80,
         "shape": "normal",
         "set": "INC",
         "rotated": false,
@@ -578,7 +693,7 @@
     },
     {
         "card_name": "Sea of Tranquility",
-        "number": 55,
+        "number": 69,
         "shape": "normal",
         "set": "INC",
         "rotated": false,
@@ -589,7 +704,7 @@
     },
     {
         "card_name": "Hellfire Mantle",
-        "number": 52,
+        "number": 66,
         "shape": "normal",
         "set": "INC",
         "rotated": false,
@@ -597,7 +712,7 @@
     },
     {
         "card_name": "Youkai Mountain",
-        "number": 56,
+        "number": 70,
         "shape": "normal",
         "set": "INC",
         "rotated": false,
@@ -623,7 +738,7 @@
     },
     {
         "card_name": "Netherworld Gates",
-        "number": 53,
+        "number": 67,
         "shape": "normal",
         "set": "INC",
         "rotated": false,
@@ -640,7 +755,7 @@
     },
     {
         "card_name": "Genbu Ravine",
-        "number": 51,
+        "number": 65,
         "shape": "normal",
         "set": "INC",
         "rotated": false,
@@ -663,7 +778,7 @@
     },
     {
         "card_name": "Otherland's Edge",
-        "number": 54,
+        "number": 68,
         "shape": "normal",
         "set": "INC",
         "rotated": false,
@@ -703,18 +818,28 @@
         "position": "39"
     },
     {
-        "card_name": "Youkai",
+        "card_name": "Rabbit",
         "number": 2,
         "shape": "token",
         "set": "INC",
         "rotated": false,
+        "position": "81"
+    },
+    {
+        "card_name": "Faerie Army",
+        "number": 3,
+        "shape": "token",
+        "set": "INC",
+        "rotated": false,
+        "position": "73"
+    },
+    {
+        "card_name": "Youkai",
+        "number": 4,
+        "shape": "token",
+        "set": "INC",
+        "rotated": false,
         "position": "22"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "e"

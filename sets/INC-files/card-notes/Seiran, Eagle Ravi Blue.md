@@ -1,0 +1,1 @@
+[LoLK Stage 1 Boss - The Rabbit Has Landed](https://www.youtube.com/watch?v=Fv5eQfLGaTY)

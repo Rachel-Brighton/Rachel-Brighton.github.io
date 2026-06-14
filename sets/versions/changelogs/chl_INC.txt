@@ -1,4 +1,32 @@
-﻿VERSION 6 CHANGELOG
+﻿VERSION 7 CHANGELOG
+====================
+
+Sagume, The Careful Tongue added.
+Ringo, Eagle Ravi Orange added.
+Seiran, Eagle Ravi Blue added.
+Hecatia, Goddess of Hell added.
+Clownpiece, Star-Spangled Pierrot added.
+Faerie Army added.
+Judgement added.
+Existential Humankind added.
+Hate added.
+Superiority added.
+First and Final Nameless Spell added.
+Lunar Reinforcements added.
+Fairy Hellraiser added.
+Rabbit added.
+Cage of Marital Vows added.
+Nightmares Never Before Seen added.
+
+
+Hellfire Mantle
+
+Incident Resolvers (LoLK)
+
+Netherworld Gates
+
+
+VERSION 6 CHANGELOG
 ====================
 
 

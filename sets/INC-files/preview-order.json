@@ -1,8 +1,8 @@
 ﻿[
 	{ "title": "EoSD", "cards":  [ "!group EoSD" ] },
 	{ "title": "MoF", "cards":  [ "!group MoF" ] },
-	{ "title": "FW", "cards":  [ "!group FW" ] },
 	{ "title": "LoLK", "cards":  [ "!group LoLK" ] },
+	{ "title": "FW", "cards":  [ "!group FW" ] },
 	{ "title": "SWR", "cards":  [ "!group SWR" ] },
 	{ "cards":  [ "W", "U", "B", "R", "G" ] },
 	{ "title": "gold", "cards":  [ "WU", "UB", "BR", "RG", "GW" ] },

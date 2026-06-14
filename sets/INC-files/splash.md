@@ -43,12 +43,14 @@ Countless Native Gods x4
 Patrol of Nine Heavens x4
 Incident Resolvers x3
 
-SPELL x12
+INSTANT x7
 Autumnal Waterfall x2
 Esoterica 「Forgotten Ritual」 x3
+God's Wind x2
+
+SORCERY x5
 Horizon Sign x3
 Hunt for Trespassers x2
-God's Wind x2
 
 ENCHANTMENT x2
 Artistic Dedication x2
@@ -58,6 +60,37 @@ Genbu Ravine x4
 Otherland's Edge x4
 Forest x8
 Island x8
+
+## Legacy of Lunatic Kingdom
+CREATURE x18
+Junko x1
+Sagume, the Careful Tongue x1
+Ringo, Eagle Ravi Orange x2
+Hecatia, Goddess of Hell x2
+Seiran, Eagle Ravi Blue x3
+Clownpiece, Star-Spangled Pierrot x3
+Fairy Hellraiser x3
+Incident Resolvers x3
+
+INSTANT x10
+Lunar Reinforcements x4
+Existential Humankind x2
+Nightmares Never Before Seen x2
+Judgement x2
+
+SORCERY x5
+Hate x3
+First and Final Nameless Spell x2
+
+ENCHANTMENT x3
+Cage of Marital Vows x2
+Superiority x1
+
+LAND X24
+Netherworld Gates x4
+Otherland's Edge x4
+Plains x8
+Swamp x8
 
 ## Fossilized Wonders
 CREATURE x22

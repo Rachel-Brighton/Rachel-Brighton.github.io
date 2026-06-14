@@ -492,7 +492,7 @@
     },
     {
         "card_name": "Sea of Tranquility",
-        "number": 59,
+        "number": 60,
         "shape": "normal",
         "set": "AKU",
         "rotated": false,
@@ -516,7 +516,7 @@
     },
     {
         "card_name": "Youkai Mountain",
-        "number": 61,
+        "number": 62,
         "shape": "normal",
         "set": "AKU",
         "rotated": false,
@@ -571,7 +571,7 @@
     },
     {
         "card_name": "Wonderful Heaven",
-        "number": 60,
+        "number": 61,
         "shape": "normal",
         "set": "AKU",
         "rotated": false,
@@ -584,6 +584,41 @@
         "set": "AKU",
         "rotated": false,
         "position": "1"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Road of Liminality",
+        "number": 59,
+        "shape": "normal",
+        "set": "AKU",
+        "rotated": false,
+        "position": "71"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "er"

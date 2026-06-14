@@ -75,7 +75,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}{G}",
 			"type": "Legendary Creature — Spider Youkai",
-			"collector_number": "50",
+			"collector_number": "51",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/GRM-files/img/7.png"
 			}
@@ -85,7 +85,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}",
 			"type": "Artifact",
-			"collector_number": "53",
+			"collector_number": "54",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/GRM-files/img/8.png"
 			}
@@ -95,7 +95,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{4}",
 			"type": "Legendary Artifact",
-			"collector_number": "55",
+			"collector_number": "56",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/GRM-files/img/9.png"
 			}
@@ -255,7 +255,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{G}{U}",
 			"type": "Legendary Creature — Human God",
-			"collector_number": "47",
+			"collector_number": "48",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/GRM-files/img/25.png"
 			}
@@ -265,7 +265,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{W}{B}",
 			"type": "Legendary Creature — Mystic Noble",
-			"collector_number": "44",
+			"collector_number": "45",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/GRM-files/img/26.png"
 			}
@@ -285,7 +285,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}{G}",
 			"type": "Legendary Creature — Youkai",
-			"collector_number": "43",
+			"collector_number": "44",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/GRM-files/img/28.png"
 			}
@@ -295,7 +295,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}{W}",
 			"type": "Legendary Creature — Human Spirit Samurai",
-			"collector_number": "51",
+			"collector_number": "52",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/GRM-files/img/29.png"
 			}
@@ -305,7 +305,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{U}{B}",
 			"type": "Legendary Creature — Human",
-			"collector_number": "46",
+			"collector_number": "47",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/GRM-files/img/30.png"
 			}
@@ -385,7 +385,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}",
 			"type": "Artifact Creature — Eye",
-			"collector_number": "56",
+			"collector_number": "57",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/GRM-files/img/38.png"
 			}
@@ -405,7 +405,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}",
 			"type": "Artifact — Equipment",
-			"collector_number": "54",
+			"collector_number": "55",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/GRM-files/img/40.png"
 			}
@@ -465,7 +465,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{U}{R}{W}",
 			"type": "Legendary Planeswalker — Sumireko",
-			"collector_number": "49",
+			"collector_number": "50",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/GRM-files/img/46.png"
 			}
@@ -485,7 +485,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{B}{G}{U}",
 			"type": "Legendary Planeswalker — Okina",
-			"collector_number": "45",
+			"collector_number": "46",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/GRM-files/img/48.png"
 			}
@@ -495,7 +495,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{R}{W}{B}",
 			"type": "Legendary Planeswalker — Shinki",
-			"collector_number": "48",
+			"collector_number": "49",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/GRM-files/img/49.png"
 			}
@@ -505,7 +505,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{G}{U}{R}",
 			"type": "Legendary Planeswalker — Yukari",
-			"collector_number": "52",
+			"collector_number": "53",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/GRM-files/img/50.png"
 			}
@@ -649,6 +649,16 @@
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/GRM-files/img/64.png"
 			}
+		},
+		{
+			"name": "Marisa, Ordinary Magician",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}{B}{R}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/GRM-files/img/65.png"
+			}
 		}
 	]
 
@@ -681,6 +691,7 @@
 	1 Shinki, Ordeal from God
 	1 Yukari, Sage of Boundaries
 	2 Dreamworld Doppelganger
+	1 Marisa, Ordinary Magician
 [uncommon(3)]
 	4 Gun Sign 「3D Printer Gun」
 	4 Spellbound Volume
@@ -786,6 +797,7 @@
 	12 Price of Life
 	12 Seamless Ceiling of Kinkaku-ji
 	12 Poison Nail 「Undead Murderer」
+	1 Marisa, Ordinary Magician
 [wildcard(1)]
 	6 Matsuyoi-Reflecting Slash
 	6 Perfect Freeze
@@ -843,3 +855,4 @@
 	6 Price of Life
 	6 Seamless Ceiling of Kinkaku-ji
 	6 Poison Nail 「Undead Murderer」
+	4 Marisa, Ordinary Magician

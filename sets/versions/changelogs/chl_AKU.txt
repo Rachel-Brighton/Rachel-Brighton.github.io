@@ -1,4 +1,23 @@
-﻿VERSION 13 CHANGELOG
+﻿VERSION 14 CHANGELOG
+====================
+
+Road of Liminality added.
+
+
+Curiosities of Lotus Asia
+
+Aunn, Temple Helper
+rules_text: When Aunn enters, return up to one target God you control or God card in your graveyard to its owner's hand.
+Whenever a God enters the battlefield under your control, you gain 2 life and draw a card. => When Aunn enters, return up to one target God you control or God card in your graveyard to its owner's hand.
+Whenever a God you control enters, you gain 2 life and draw a card.
+
+Magician's Companion
+rules_text: Wizards you cast cost {1} less to cast.
+Wizards you control have “Instant and sorcery spells you cast cost {1} less to cast.” => Wizard spells you cast cost {1} less to cast.
+Wizards you control have “Instant and sorcery spells you cast cost {1} less to cast.”
+
+
+VERSION 13 CHANGELOG
 ====================
 
 Treasure added.

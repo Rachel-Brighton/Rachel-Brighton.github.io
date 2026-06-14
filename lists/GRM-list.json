@@ -302,7 +302,7 @@
     },
     {
         "card_name": "Sakuya, Perfect and Elegant",
-        "number": 46,
+        "number": 47,
         "shape": "normal",
         "set": "GRM",
         "rotated": false,
@@ -318,7 +318,7 @@
     },
     {
         "card_name": "Meiling, Dream Guardian",
-        "number": 43,
+        "number": 44,
         "shape": "normal",
         "set": "GRM",
         "rotated": false,
@@ -326,7 +326,7 @@
     },
     {
         "card_name": "Youmu, Half-Phantom",
-        "number": 51,
+        "number": 52,
         "shape": "normal",
         "set": "GRM",
         "rotated": false,
@@ -349,7 +349,7 @@
     },
     {
         "card_name": "Miko, Almighty Tao",
-        "number": 44,
+        "number": 45,
         "shape": "normal",
         "set": "GRM",
         "rotated": false,
@@ -365,7 +365,7 @@
     },
     {
         "card_name": "Yamame, Bright Net in the Dark",
-        "number": 50,
+        "number": 51,
         "shape": "normal",
         "set": "GRM",
         "rotated": false,
@@ -381,7 +381,7 @@
     },
     {
         "card_name": "Sanae Kochiya",
-        "number": 47,
+        "number": 48,
         "shape": "normal",
         "set": "GRM",
         "rotated": false,
@@ -404,7 +404,7 @@
     },
     {
         "card_name": "Yukari, Sage of Boundaries",
-        "number": 52,
+        "number": 53,
         "shape": "planeswalker",
         "set": "GRM",
         "rotated": false,
@@ -420,7 +420,7 @@
     },
     {
         "card_name": "Okina, Sage of Doors",
-        "number": 45,
+        "number": 46,
         "shape": "planeswalker",
         "set": "GRM",
         "rotated": false,
@@ -428,7 +428,7 @@
     },
     {
         "card_name": "Shinki, Ordeal from God",
-        "number": 48,
+        "number": 49,
         "shape": "planeswalker",
         "set": "GRM",
         "rotated": false,
@@ -436,11 +436,19 @@
     },
     {
         "card_name": "Sumireko, Last Occultist",
-        "number": 49,
+        "number": 50,
         "shape": "planeswalker",
         "set": "GRM",
         "rotated": false,
         "position": "46"
+    },
+    {
+        "card_name": "Marisa, Ordinary Magician",
+        "number": 43,
+        "shape": "normal",
+        "set": "GRM",
+        "rotated": false,
+        "position": "65"
     },
     {
         "card_name": "Dreamworld Doppelganger",
@@ -449,9 +457,6 @@
         "set": "GRM",
         "rotated": false,
         "position": "58"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "e"
@@ -485,7 +490,7 @@
     },
     {
         "card_name": "Mini-Hakkero",
-        "number": 55,
+        "number": 56,
         "shape": "normal",
         "set": "GRM",
         "rotated": false,
@@ -493,7 +498,7 @@
     },
     {
         "card_name": "Gun Sign \u300c3D Printer Gun\u300d",
-        "number": 53,
+        "number": 54,
         "shape": "normal",
         "set": "GRM",
         "rotated": false,
@@ -501,7 +506,7 @@
     },
     {
         "card_name": "Magician's Broom",
-        "number": 54,
+        "number": 55,
         "shape": "normal",
         "set": "GRM",
         "rotated": false,
@@ -509,7 +514,7 @@
     },
     {
         "card_name": "Otherworld Observer",
-        "number": 56,
+        "number": 57,
         "shape": "normal",
         "set": "GRM",
         "rotated": false,

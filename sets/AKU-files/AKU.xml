@@ -5,7 +5,7 @@
 			<name>AKU</name>
 			<longname>Akyuu&apos;s Untouched Chronicle</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-05-28</releasedate>
+			<releasedate>2026-06-13</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -14,7 +14,7 @@
 			<text>({T}: Add {W} or {U}.)
 This land enters tapped.
 When this land enters, you gain 1 life.</text>
-			<set rarity="uncommon" picurl="https://Rachel-Brighton.github.io/sets/AKU-files/img/0.png" num="59">AKU</set>
+			<set rarity="uncommon" picurl="https://Rachel-Brighton.github.io/sets/AKU-files/img/0.png" num="60">AKU</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -50,7 +50,7 @@ When this land enters, you gain 1 life.</text>
 			<text>({T}: Add {R} or {W}.)
 This land enters tapped.
 When this land enters, you gain 1 life.</text>
-			<set rarity="uncommon" picurl="https://Rachel-Brighton.github.io/sets/AKU-files/img/2.png" num="60">AKU</set>
+			<set rarity="uncommon" picurl="https://Rachel-Brighton.github.io/sets/AKU-files/img/2.png" num="61">AKU</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -375,7 +375,7 @@ When this land enters, you gain 1 life.</text>
 			<text>({T}: Add {R} or {G}.)
 This land enters tapped.
 When this land enters, you gain 1 life.</text>
-			<set rarity="uncommon" picurl="https://Rachel-Brighton.github.io/sets/AKU-files/img/20.png" num="61">AKU</set>
+			<set rarity="uncommon" picurl="https://Rachel-Brighton.github.io/sets/AKU-files/img/20.png" num="62">AKU</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -763,7 +763,7 @@ Bards you control have &quot;Whenever an ability of this creature triggers, you 
 		<card>
 			<name>Aunn, Temple Helper</name>
 			<text>When Aunn enters, return up to one target God you control or God card in your graveyard to its owner&apos;s hand.
-Whenever a God enters the battlefield under your control, you gain 2 life and draw a card.</text>
+Whenever a God you control enters, you gain 2 life and draw a card.</text>
 			<set rarity="rare" picurl="https://Rachel-Brighton.github.io/sets/AKU-files/img/42.png" num="26">AKU</set>
 			<prop>
 				<layout>normal</layout>
@@ -889,7 +889,7 @@ Whenever you gain life, put a +1/+1 counter on target creature you control. This
 		</card>
 		<card>
 			<name>Magician&apos;s Companion</name>
-			<text>Wizards you cast cost {1} less to cast.
+			<text>Wizard spells you cast cost {1} less to cast.
 Wizards you control have &quot;Instant and sorcery spells you cast cost {1} less to cast.&quot;</text>
 			<set rarity="uncommon" picurl="https://Rachel-Brighton.github.io/sets/AKU-files/img/49.png" num="42">AKU</set>
 			<prop>
@@ -1268,6 +1268,20 @@ When this artifact enters, scry 1, then put a +1/+1 counter on up to one creatur
 			<tablerow>1</tablerow>
 			<token>1</token>
 			<reverse-related>Visionary Fairies in Shrine</reverse-related>
+		</card>
+		<card>
+			<name>Road of Liminality</name>
+			<text>{T}, Pay 1 life, Sacrifice this land: Search your library for a land card with a basic land type, put it onto the battlefield tapped, then shuffle.</text>
+			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/AKU-files/img/71.png" num="59">AKU</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
 		</card>
 	</cards>
 </cockatrice_carddatabase>

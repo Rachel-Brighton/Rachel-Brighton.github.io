@@ -1,0 +1,1 @@
+[Reprint from Universes Beyond: Touhou Fangames/Albums by RickyRister](https://rickyrister.github.io/card?set=F2HU&num=8&name=Cage+of+Marital+Vows)

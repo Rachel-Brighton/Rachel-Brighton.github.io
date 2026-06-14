@@ -1,4 +1,12 @@
-﻿VERSION 23 CHANGELOG
+﻿VERSION 24 CHANGELOG
+====================
+
+HURRY UP added.
+Choose Your Path added.
+
+
+
+VERSION 23 CHANGELOG
 ====================
 
 Sagume, the Wheel Reversed added.
