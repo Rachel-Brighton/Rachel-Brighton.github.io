@@ -1,4 +1,15 @@
-﻿VERSION 7 CHANGELOG
+﻿VERSION 8 CHANGELOG
+====================
+
+
+
+Existential Humankind
+
+Lunar Reinforcements
+type: Instant => Sorcery
+
+
+VERSION 7 CHANGELOG
 ====================
 
 Sagume, The Careful Tongue added.

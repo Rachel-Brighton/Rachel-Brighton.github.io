@@ -794,7 +794,7 @@
 			"name": "Lunar Reinforcements",
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
-			"type": "Instant",
+			"type": "Sorcery",
 			"collector_number": "11",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/79.png"

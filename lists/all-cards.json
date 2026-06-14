@@ -18065,7 +18065,7 @@
             "alias": "",
             "position": "75",
             "rotated": false,
-            "notes": "!group LoLK\n!sort 10\n\n!tag LoLK\n!tag RickyRister\n!tag Music\n",
+            "notes": "!group LoLK\n!sort 10\n\n!tag LoLK\n!tag RickyRister\n!tag Music",
             "image_type": "png",
             "v_mana": "",
             "designer_notes": "<p><a href=\"https://www.youtube.com/watch?v=vz93OL5t7lM\">DLW Final Boss - Eastern Aspects of Love and Beauty ~ Existential Humankind</a></p>\n<p><a href=\"https://rickyrister.github.io/card?set=F2HU&amp;num=75&amp;name=Existential+Humankind\">Reprint from Universes Beyond: Touhou Fangames/Albums by RickyRister</a></p>"
@@ -18143,7 +18143,7 @@
             "card_name": "Lunar Reinforcements",
             "color": "W",
             "rarity": "common",
-            "type": "Instant",
+            "type": "Sorcery",
             "number": 11,
             "color_identity": "W",
             "cost": "{1}{W}",

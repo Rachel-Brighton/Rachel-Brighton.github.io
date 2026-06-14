@@ -1601,7 +1601,7 @@
             "alias": "",
             "position": "75",
             "rotated": false,
-            "notes": "!group LoLK\n!sort 10\n\n!tag LoLK\n!tag RickyRister\n!tag Music\n"
+            "notes": "!group LoLK\n!sort 10\n\n!tag LoLK\n!tag RickyRister\n!tag Music"
         },
         {
             "card_name": "Hate",
@@ -1670,7 +1670,7 @@
             "card_name": "Lunar Reinforcements",
             "color": "W",
             "rarity": "common",
-            "type": "Instant",
+            "type": "Sorcery",
             "number": 11,
             "color_identity": "W",
             "cost": "{1}{W}",
