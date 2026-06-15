@@ -1,4 +1,26 @@
-﻿VERSION 7 CHANGELOG
+﻿VERSION 8 CHANGELOG
+====================
+
+
+
+Scarlet Weather Rhapsody
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — You may discard a card. If you do, draw two cards.
+II — Add {R}{R}. Until end of turn, you don't lose this mana as steps and phases end.
+III — Return up to one card from your graveyard to your hand that's an instant, sorcery, and/or has an Adventure. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Exile the top three cards of your library. You may play those cards for as long as you control this Saga.
+II — Add {R}{R}{R}.
+III — Return up to one card from your graveyard to your hand that's an instant, sorcery, and/or has an Adventure.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — You may discard a card. If you do, draw two cards.
+II — Add {R}{R}. Until end of turn, you don't lose this mana as steps and phases end.
+III — Return up to one card from your graveyard to your hand that's an instant, sorcery, and/or has an Adventure. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Exile the top three cards of your library. You may play those cards for as long as you control this Saga.
+II — Add {R}{R}{R}.
+III — Return up to one card from your graveyard to your hand that's an instant, sorcery, and/or has an Adventure.
+
+
+VERSION 7 CHANGELOG
 ====================
 
 Marisa, Ordinary Magician added.

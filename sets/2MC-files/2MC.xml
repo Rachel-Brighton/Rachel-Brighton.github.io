@@ -5,7 +5,7 @@
 			<name>2MC</name>
 			<longname>2HU Miniset Collection</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-06-13</releasedate>
+			<releasedate>2026-06-15</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -2258,8 +2258,8 @@ Create a 3/1 red Wolf Spirit creature token with haste and &quot;This creature m
 		<card>
 			<name>Scarlet Weather Rhapsody</name>
 			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
-I — You may discard a card. If you do, draw two cards.
-II — Add {R}{R}. Until end of turn, you don&apos;t lose this mana as steps and phases end.
+I — Exile the top three cards of your library. You may play those cards for as long as you control this Saga.
+II — Add {R}{R}{R}.
 III — Return up to one card from your graveyard to your hand that&apos;s an instant, sorcery, and/or has an Adventure.</text>
 			<set rarity="uncommon" picurl="https://Rachel-Brighton.github.io/sets/2MC-files/img/127.png" num="69">2MC</set>
 			<prop>
