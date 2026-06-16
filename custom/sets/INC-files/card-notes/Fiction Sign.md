@@ -1,1 +1,1 @@
-[Reprint from Universes Beyond: Touhou Fangames/Albums by RickyRister](https://rickyrister.github.io/card?set=F2HU&num=43&name=Fiction+Sign)
+[Reprint from Universes Beyond: Touhou Fangames/Albums by RickyRister](https://rickyrister.github.io/card?set=F2HU&num=44&name=Fiction+Sign)

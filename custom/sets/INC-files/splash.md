@@ -31,6 +31,11 @@ Otherland's Edge x4
 Mountain x8
 Swamp x8
 
+SIDEBOARD x10
+Forbidden 「Starbow Break」 x2
+Scarlet Detonation x4
+Reduce to Vapor x4
+
 ## Mountain of Faith
 CREATURE x22/22
 Kanako, Avatar of Mountains x1
@@ -60,6 +65,48 @@ Genbu Ravine x4
 Otherland's Edge x4
 Forest x8
 Island x8
+
+SIDEBOARD x10
+Hina, Dark Side of Fate x2
+Bumper Crop x4
+Excessive Monologuing x4
+
+## Scarlet Weather Rhapsody
+CREATURE x22
+Tenshi, Catastrophe in Heaven x1
+Iku, Envoy of the Dragon Palace x2
+Suika, Night's Sprinkle x2
+Reisen, Red-Eyed Vapor x3
+Youmu, Verdant Open Sky x3
+Ditto Matchup x3
+Shanghai Doll x4
+Incident Resolvers x3
+
+PLANESWALKER x1
+Yukari, Fantastic Sunshower x1
+
+INSTANT x10
+High-Angle Shot x2
+Lightning Word x3
+Drunk As I Like x3
+Temperamental Sky x2
+
+SORCERY x2
+Heaven Through a Child's Eyes x2
+
+ARTIFACT x2
+Heavenly Keystone x2
+
+LAND x24
+Youkai Mountain x4
+Otherland's Edge x4
+Mountain x8
+Forest x8
+
+SIDEBOARD x10
+High-Angle Shot x2
+Casual Arson x4
+Peaches of Paradise x4
 
 ## Legacy of Lunatic Kingdom
 CREATURE x18
@@ -92,6 +139,11 @@ Otherland's Edge x4
 Plains x8
 Swamp x8
 
+SIDEBOARD x10
+Cage of Marital Vows x2
+Incorruptible Perfection x4
+Just Dodge It, Bro x4
+
 ## Fossilized Wonders
 CREATURE x22
 Ariya, Spirit of Permanence	x1
@@ -123,3 +175,8 @@ Sea of Tranquility x4
 Otherland's Edge x4
 Plains x8
 Island x8
+
+SIDEBOARD x10
+Toyohime, System Administrator x2
+Safe Zone x4
+Prune Reality x4

@@ -1,4 +1,47 @@
-﻿VERSION 8 CHANGELOG
+﻿VERSION 9 CHANGELOG
+====================
+
+Ditto Matchup added.
+High-Angle Shot added.
+Iku, Envoy of the Dragon Palace added.
+Lightning Word added.
+Reisen, Red-Eyed Vapor added.
+Shanghai Doll added.
+Suika, Night's Sprinkle added.
+Youmu, Verdant Open Sky added.
+Yukari, Fantastic Sunshower added.
+Drunk As I Like added.
+Temperamental Sky added.
+Heavenly Keystone added.
+Heaven Through a Child's Mind added.
+Scarlet Detonation added.
+Reduce to Vapor added.
+Bumper Crop added.
+Excessive Monologuing added.
+Peaches of Paradise added.
+Casual Arson added.
+Incorruptible Perfection added.
+Just Dodge It, Bro added.
+Prune Reality added.
+Safe Zone added.
+
+
+Incident Resolvers (EoSD)
+
+Incident Resolvers (FW)
+
+Incident Resolvers (MoF)
+
+Incident Resolvers (LoLK)
+
+Incident Resolvers (SWR)
+
+Tenshi, Catastrophe in Heaven
+
+First and Final Nameless Spell
+
+
+VERSION 8 CHANGELOG
 ====================
 
 
