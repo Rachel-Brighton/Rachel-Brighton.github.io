@@ -17,18 +17,49 @@ def generateHTML():
 
     article_data = {} # Category -> [Article Info]
 
+    def slugify(text, keep_case=False):
+        t = text if keep_case else text.lower()
+        pattern = r'[^a-zA-Z0-9\s-]' if keep_case else r'[^a-z0-9\s-]'
+        slug = re.sub(pattern, '', t)
+        return re.sub(r'\s+', '-', slug).strip('-')
+
     def process_article(article_path, category):
         md_path = os.path.join(article_path, 'article.md')
         if not os.path.exists(md_path):
             return None
 
         article_folder_name = os.path.basename(article_path)
-        category_slug = category.lower().replace(' ', '-')
+        article_slug = slugify(article_folder_name)
+
+        # Use the existing folder's casing if it matches our category name
+        # to ensure links work on case-sensitive filesystems like GitHub Pages.
+        category_slug = slugify(category, keep_case=True)
+        category_dir = os.path.join('articles', category_slug)
+        
+        if os.path.exists(category_dir):
+            # On case-insensitive systems (macOS/Windows), we must find the actual casing
+            # on disk to ensure links work correctly on case-sensitive hosts like GitHub.
+            try:
+                parent_dir = 'articles'
+                for entry in os.scandir(parent_dir):
+                    if entry.name.lower() == category_slug.lower():
+                        category_slug = entry.name
+                        category_dir = os.path.join(parent_dir, category_slug)
+                        break
+            except:
+                pass
+        else:
+            # If the directory doesn't exist yet, we prefer all-lowercase for the new path
+            category_slug = slugify(category, keep_case=False)
+            category_dir = os.path.join('articles', category_slug)
+            if not os.path.exists(category_dir):
+                os.makedirs(category_dir)
         
         with open(md_path, 'r', encoding='utf-8') as f:
             md_content = f.read()
 
         # Simplified: Use folder name for title
+
         title = article_folder_name.upper()
         subtitle = ""
 
@@ -55,8 +86,8 @@ def generateHTML():
                     rel_article_path = os.path.relpath(article_path, '.')
                     first_image = os.path.join(rel_article_path, first_image).replace('\\', '/')
 
-        # Generate individual article HTML
-        html_body = markdown.markdown(md_content)
+        # Generate individual article HTML with extensions to honor manual <br> tags and newlines
+        html_body = markdown.markdown(md_content, extensions=['extra', 'nl2br'])
         
         # Adjust image paths in html_body for individual articles
         # They are now in articles/category-slug/ArticleName.html
@@ -151,7 +182,8 @@ def generateHTML():
         width: 80%;
         margin: 20px auto;
     }}
-    .article-content p:has(img) br {{
+    /* Only hide BR tags that are immediately between images in a flex row */
+    .article-content p:has(img) img + br {{
         display: none;
     }}
     h4 {{
@@ -234,11 +266,7 @@ def generateHTML():
 </body>
 </html>'''
 
-        category_dir = os.path.join('articles', category_slug)
-        if not os.path.exists(category_dir):
-            os.makedirs(category_dir)
-            
-        output_html_file = os.path.join(category_dir, article_folder_name + '.html')
+        output_html_file = os.path.join(category_dir, article_slug + '.html')
         with open(output_html_file, 'w', encoding='utf-8') as f:
             f.write(article_html)
 
@@ -246,7 +274,7 @@ def generateHTML():
             'title': title,
             'subtitle': subtitle,
             'image': first_image,
-            'url': f'articles/{category_slug}/{article_folder_name}',
+            'url': f'articles/{category_slug}/{article_slug}',
             'ctime': os.path.getctime(md_path)
         }
 
@@ -265,6 +293,11 @@ def generateHTML():
             else:
                 # Potential category folder
                 category = entry.name
+                title_txt_path = os.path.join(entry.path, 'title.txt')
+                if os.path.exists(title_txt_path):
+                    with open(title_txt_path, 'r', encoding='utf-8') as f:
+                        category = f.read().strip()
+                
                 for subentry in os.scandir(entry.path):
                     if subentry.is_dir():
                         info = process_article(subentry.path, category)
@@ -350,7 +383,7 @@ def generate_index_html(article_data, header_snippet):
     }}
     .articles-page-container {{
         width: 90%;
-        max-width: 1200px;
+        max-width: 1350px;
         margin: 40px auto;
     }}
     .gallery-section {{
