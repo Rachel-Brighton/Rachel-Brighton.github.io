@@ -605,14 +605,6 @@
         "position": "83"
     },
     {
-        "card_name": "Judgement",
-        "number": 72,
-        "shape": "normal",
-        "set": "INC",
-        "rotated": false,
-        "position": "74"
-    },
-    {
         "card_name": "First and Final Nameless Spell",
         "number": 80,
         "shape": "normal",
@@ -667,6 +659,14 @@
         "set": "INC",
         "rotated": false,
         "position": "104"
+    },
+    {
+        "card_name": "Judgement",
+        "number": 72,
+        "shape": "normal",
+        "set": "INC",
+        "rotated": false,
+        "position": "74"
     },
     {
         "card_name": "er"

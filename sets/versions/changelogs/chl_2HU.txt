@@ -1,4 +1,32 @@
-﻿VERSION 24 CHANGELOG
+﻿VERSION 25 CHANGELOG
+====================
+
+
+
+Hatate Himekaidou
+rules_text: Flash
+Flying
+[i]Thoughtography[/i] — When Hatate enters, you may exile target card from a graveyard. When you do, gain life equal to that card's mana value.
+{2}{W}{B}: Return Hatate to her owner's hand. => Flash
+Flying
+[i]Thoughtography[/i] — When Hatate enters, you may exile target card from a graveyard. When you do, you gain life equal to that card's mana value.
+{2}{W}{B}: Return Hatate to her owner's hand.
+
+Ariya, Stone Goddess
+
+Toyohime, System Administrator
+rules_text: Flash
+When Toyohime enters, choose one —
+• Exile target enchantment.
+• Exile target graveyard.
+• Exile target creature, then return it to the battlefield at the beginning of your next upkeep. => Flash
+When Toyohime enters, choose one —
+• Exile target enchantment.
+• Exile target player's graveyard.
+• Exile another target creature, then return it to the battlefield at the beginning of your next upkeep.
+
+
+VERSION 24 CHANGELOG
 ====================
 
 HURRY UP added.

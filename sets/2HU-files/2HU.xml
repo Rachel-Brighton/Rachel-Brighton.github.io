@@ -5,7 +5,7 @@
 			<name>2HU</name>
 			<longname>Universes Beyond: The Touhou Project</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-06-13</releasedate>
+			<releasedate>2026-06-24</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -1451,7 +1451,7 @@ BOO! — When Kogasa enters, change the target of target spell with a single tar
 			<name>Hatate Himekaidou</name>
 			<text>Flash
 Flying
-Thoughtography — When Hatate enters, you may exile target card from a graveyard. When you do, gain life equal to that card&apos;s mana value.
+Thoughtography — When Hatate enters, you may exile target card from a graveyard. When you do, you gain life equal to that card&apos;s mana value.
 {2}{W}{B}: Return Hatate to her owner&apos;s hand.</text>
 			<set rarity="uncommon" picurl="https://Rachel-Brighton.github.io/sets/2HU-files/img/78.png" num="197">2HU</set>
 			<prop>
@@ -6382,8 +6382,8 @@ Whenever another legendary creature or planeswalker you control enters, you may 
 			<text>Flash
 When Toyohime enters, choose one —
 • Exile target enchantment.
-• Exile target graveyard.
-• Exile target creature, then return it to the battlefield at the beginning of your next upkeep.</text>
+• Exile target player&apos;s graveyard.
+• Exile another target creature, then return it to the battlefield at the beginning of your next upkeep.</text>
 			<set rarity="rare" picurl="https://Rachel-Brighton.github.io/sets/2HU-files/img/353.png" num="38">2HU</set>
 			<prop>
 				<layout>normal</layout>

@@ -712,7 +712,7 @@
 		},
 		{
 			"name": "Road of Liminality",
-			"rarity": "common",
+			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "59",
@@ -746,6 +746,7 @@
 	2 Whitewater Champions
 	2 Roukanken and Hakurouken
 	1 Oni of the Night Parade
+	2 Road of Liminality
 [uncommon(3)]
 	4 Sea of Tranquility
 	4 Genbu Ravine
@@ -786,7 +787,6 @@
 	8 Fairy Menace
 	8 Personalized Fortune Slip
 	8 Stone Cherry
-	8 Road of Liminality
 [common | masterpiece(1)]
 	8 Apparitions Stalk the Night
 	8 The White Rabbit's Trick
@@ -800,7 +800,6 @@
 	8 Fairy Menace
 	8 Personalized Fortune Slip
 	8 Stone Cherry
-	8 Road of Liminality
 [foil(1)]
 	6 Sea of Tranquility
 	6 Genbu Ravine
@@ -863,7 +862,7 @@
 	6 Iron Rings of Moriya
 	1 Oni of the Night Parade
 	12 Stone Cherry
-	12 Road of Liminality
+	2 Road of Liminality
 [wildcard(1)]
 	15 Sea of Tranquility
 	15 Genbu Ravine
@@ -926,4 +925,4 @@
 	15 Iron Rings of Moriya
 	4 Oni of the Night Parade
 	6 Stone Cherry
-	6 Road of Liminality
+	7 Road of Liminality

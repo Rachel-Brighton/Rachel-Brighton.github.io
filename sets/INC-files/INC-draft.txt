@@ -52,7 +52,7 @@
 		},
 		{
 			"name": "Cirno, Ice Spirit on the Lake",
-			"rarity": "common",
+			"rarity": "uncommon",
 			"mana_cost": "{3}{R}",
 			"type": "Legendary Creature — Faerie",
 			"collector_number": "45",
@@ -1098,6 +1098,7 @@
 [uncommon(3)]
 	4 Knight of Nights
 	4 A Dream More Scarlet
+	4 Cirno, Ice Spirit on the Lake
 	4 Hellfire Mantle
 	4 Dangerous Curiosity
 	4 Scarlet Gensokyo
@@ -1131,7 +1132,6 @@
 	4 Incorruptible Perfection
 	4 Prune Reality
 [common(6)]
-	8 Cirno, Ice Spirit on the Lake
 	8 Rumia, Wrapped in Dusk
 	8 Fog Sign
 	8 Fairy Menace
@@ -1169,7 +1169,6 @@
 	8 Just Dodge It, Bro
 	8 Safe Zone
 [common | masterpiece(1)]
-	8 Cirno, Ice Spirit on the Lake
 	8 Rumia, Wrapped in Dusk
 	8 Fog Sign
 	8 Fairy Menace
@@ -1212,7 +1211,7 @@
 	6 A Dream More Scarlet
 	2 Meiling, the Gatekeeper
 	2 Sakuya, the Head Maid
-	12 Cirno, Ice Spirit on the Lake
+	6 Cirno, Ice Spirit on the Lake
 	12 Rumia, Wrapped in Dusk
 	6 Hellfire Mantle
 	6 Dangerous Curiosity
@@ -1306,7 +1305,7 @@
 	15 A Dream More Scarlet
 	7 Meiling, the Gatekeeper
 	7 Sakuya, the Head Maid
-	6 Cirno, Ice Spirit on the Lake
+	15 Cirno, Ice Spirit on the Lake
 	6 Rumia, Wrapped in Dusk
 	15 Hellfire Mantle
 	15 Dangerous Curiosity

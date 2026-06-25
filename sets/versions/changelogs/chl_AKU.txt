@@ -1,4 +1,21 @@
-﻿VERSION 14 CHANGELOG
+﻿VERSION 15 CHANGELOG
+====================
+
+
+
+Aya, Reporter of Fantasy
+rules_text: Flash
+Flying, haste
+[i]Candid Shot[/i] — When Aya enters, look at target player's hand and choose a card in it. That player reveals that card, and Aya deals damage to them equal to its mana value.
+{3}{U}{R}: Return Aya to her owner's hand. => Flash
+Flying, haste
+[i]Candid Shot[/i] — When Aya enters, look at target player's hand and choose a card in it. That player reveals that card, then may have Aya deal damage to them equal to its mana value. If they don't, they put that card on the bottom of their library.
+{3}{U}{R}: Return Aya to her owner's hand.
+
+Road of Liminality
+
+
+VERSION 14 CHANGELOG
 ====================
 
 Road of Liminality added.

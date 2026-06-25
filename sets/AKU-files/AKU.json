@@ -582,7 +582,7 @@
             "number": 27,
             "color_identity": "UR",
             "cost": "{1}{U}{R}",
-            "rules_text": "Flash\nFlying, haste\n[i]Candid Shot[/i] \u2014 When Aya enters, look at target player's hand and choose a card in it. That player reveals that card, and Aya deals damage to them equal to its mana value.\n{3}{U}{R}: Return Aya to her owner's hand.",
+            "rules_text": "Flash\nFlying, haste\n[i]Candid Shot[/i] \u2014 When Aya enters, look at target player's hand and choose a card in it. That player reveals that card, then may have Aya deal damage to them equal to its mana value. If they don't, they put that card on the bottom of their library.\n{3}{U}{R}: Return Aya to her owner's hand.",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -1501,7 +1501,7 @@
         {
             "card_name": "Road of Liminality",
             "color": "",
-            "rarity": "common",
+            "rarity": "rare",
             "type": "Land",
             "number": 59,
             "color_identity": "C",
@@ -1520,5 +1520,5 @@
             "notes": "!tag PMiSS\n!tag Print"
         }
     ],
-    "version": 14
+    "version": 15
 }

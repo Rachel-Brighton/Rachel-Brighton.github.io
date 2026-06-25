@@ -5,7 +5,7 @@
 			<name>INC</name>
 			<longname>It&apos;s an Incident! — UB Touhou Story Decks</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-06-15</releasedate>
+			<releasedate>2026-06-24</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -100,7 +100,7 @@ Luna Dial — When Sakuya enters, draw two cards. You lose 2 life unless you con
 • Cirno deals 3 damage to target creature.
 • Put a +1/+1 counter on her.
 • Destroy target artifact.</text>
-			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/INC-files/img/5.png" num="45">INC</set>
+			<set rarity="uncommon" picurl="https://Rachel-Brighton.github.io/sets/INC-files/img/5.png" num="45">INC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -479,8 +479,8 @@ Enchanted creature has &quot;At the beginning of each opponent&apos;s upkeep, th
 			<text>Flash
 When Toyohime enters, choose one —
 • Exile target enchantment.
-• Exile target graveyard.
-• Exile target creature, then return it to the battlefield at the beginning of your next upkeep.</text>
+• Exile target player&apos;s graveyard.
+• Exile another target creature, then return it to the battlefield at the beginning of your next upkeep.</text>
 			<set rarity="rare" picurl="https://Rachel-Brighton.github.io/sets/INC-files/img/27.png" num="17">INC</set>
 			<prop>
 				<layout>normal</layout>
@@ -1594,7 +1594,7 @@ When Youmu enters, choose one —
 				<cmc>4</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
-				<pt>3/3</pt>
+				<pt>4/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>

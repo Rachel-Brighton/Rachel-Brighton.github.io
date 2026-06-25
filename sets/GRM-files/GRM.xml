@@ -5,7 +5,7 @@
 			<name>GRM</name>
 			<longname>Grimoire of Spellfire</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-06-13</releasedate>
+			<releasedate>2026-06-24</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -147,8 +147,8 @@ Venom Web — When Yamame enters, put a -1/-1 counter on each tapped creature.</
 		</card>
 		<card>
 			<name>Gun Sign 「3D Printer Gun」</name>
-			<text>{7}, {T}, Sacrifice this artifact: Destroy target permanent.
-{T}, Remove two loyalty counters from a planeswalker you control, Sacrifice this artifact: Destroy target permanent.</text>
+			<text>{7}, {T}, Sacrifice this artifact: Destroy target nonland permanent.
+{T}, Remove two loyalty counters from a planeswalker you control, Sacrifice this artifact: Destroy target nonland permanent.</text>
 			<set rarity="uncommon" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/8.png" num="54">GRM</set>
 			<prop>
 				<layout>normal</layout>

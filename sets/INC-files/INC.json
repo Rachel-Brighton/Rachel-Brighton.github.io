@@ -115,7 +115,7 @@
         {
             "card_name": "Cirno, Ice Spirit on the Lake",
             "color": "R",
-            "rarity": "common",
+            "rarity": "uncommon",
             "type": "Legendary Creature \u2014 Faerie",
             "number": 45,
             "color_identity": "R",
@@ -582,7 +582,7 @@
             "number": 17,
             "color_identity": "W",
             "cost": "{3}{W}",
-            "rules_text": "Flash\nWhen Toyohime enters, choose one \u2014\n\u2022 Exile target enchantment.\n\u2022 Exile target graveyard.\n\u2022 Exile target creature, then return it to the battlefield at the beginning of your next upkeep.",
+            "rules_text": "Flash\nWhen Toyohime enters, choose one \u2014\n\u2022 Exile target enchantment.\n\u2022 Exile target player's graveyard.\n\u2022 Exile another target creature, then return it to the battlefield at the beginning of your next upkeep.",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",
@@ -824,7 +824,7 @@
             "alias": "",
             "position": "38",
             "rotated": false,
-            "notes": "!group FW\n!sort 01\n\n!tag FW\n!tag Ariya\n!tag Iwagana"
+            "notes": "!group FW\n!sort 01\n\n!tag FW\n!tag Ariya\n!tag Iwanaga"
         },
         {
             "card_name": "Copy",
@@ -1580,7 +1580,7 @@
             "alias": "",
             "position": "74",
             "rotated": false,
-            "notes": "!group LoLK\n!sort 13\n\n!tag LoLK"
+            "notes": "!group LoLK\n!sort 9\n\n!tag LoLK"
         },
         {
             "card_name": "Existential Humankind",
@@ -1601,7 +1601,7 @@
             "alias": "",
             "position": "75",
             "rotated": false,
-            "notes": "!group LoLK\n!sort 10\n\n!tag LoLK\n!tag RickyRister\n!tag Music"
+            "notes": "!group LoLK\n!sort 11\n\n!tag LoLK\n!tag RickyRister\n!tag Music"
         },
         {
             "card_name": "Hate",
@@ -1622,7 +1622,7 @@
             "alias": "",
             "position": "76",
             "rotated": false,
-            "notes": "!group LoLK\n!sort 11\n\n!tag LoLK\n!tag Junko"
+            "notes": "!group LoLK\n!sort 12\n\n!tag LoLK\n!tag Junko"
         },
         {
             "card_name": "Superiority",
@@ -1685,7 +1685,7 @@
             "alias": "",
             "position": "79",
             "rotated": false,
-            "notes": "!group LoLK\n!sort 09\n\n!tag LoLK"
+            "notes": "!group LoLK\n!sort 10\n\n!tag LoLK"
         },
         {
             "card_name": "Fairy Hellraiser",
@@ -1769,7 +1769,7 @@
             "alias": "",
             "position": "83",
             "rotated": false,
-            "notes": "!group LoLK\n!sort 12\n\n!tag LoLK\n!tag Music"
+            "notes": "!group LoLK\n!sort 13\n\n!tag LoLK\n!tag Music"
         },
         {
             "card_name": "Ditto Matchup",
@@ -1928,7 +1928,7 @@
             "cost": "{3}{G}",
             "rules_text": "Flash\nWhen Youmu enters, choose one \u2014\n\u2022 Destroy target noncreature, nonland permanent. Its controller draws a card.\n\u2022 You gain 3 life.\n\u2022 Goad target creature. [i](Until your next turn, that creature attacks each combat if able and attacks a player other than you if able.)[/i]",
             "flavor_text": "[i][/i]",
-            "pt": "3/3",
+            "pt": "4/4",
             "special_text": "",
             "shape": "normal",
             "set": "INC",
@@ -2255,5 +2255,5 @@
             "notes": "!group FW\n!sort 19\n\n!tag FW\n!tag Gameplay"
         }
     ],
-    "version": 9
+    "version": 10
 }

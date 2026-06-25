@@ -1,4 +1,38 @@
-﻿VERSION 9 CHANGELOG
+﻿VERSION 10 CHANGELOG
+====================
+
+
+
+Cirno, Ice Spirit on the Lake
+
+Toyohime, System Administrator
+rules_text: Flash
+When Toyohime enters, choose one —
+• Exile target enchantment.
+• Exile target graveyard.
+• Exile target creature, then return it to the battlefield at the beginning of your next upkeep. => Flash
+When Toyohime enters, choose one —
+• Exile target enchantment.
+• Exile target player's graveyard.
+• Exile another target creature, then return it to the battlefield at the beginning of your next upkeep.
+
+Ariya, Spirit of Permanence
+
+Judgement
+
+Existential Humankind
+
+Hate
+
+Lunar Reinforcements
+
+Nightmares Never Before Seen
+
+Youmu, Verdant Open Sky
+pt: 3/3 => 4/4
+
+
+VERSION 9 CHANGELOG
 ====================
 
 Ditto Matchup added.

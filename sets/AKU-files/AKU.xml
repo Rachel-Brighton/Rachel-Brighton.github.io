@@ -5,7 +5,7 @@
 			<name>AKU</name>
 			<longname>Akyuu&apos;s Untouched Chronicle</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-06-13</releasedate>
+			<releasedate>2026-06-24</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -497,7 +497,7 @@ Mind Reader — When Satori enters, for each opponent, that player reveals their
 			<name>Aya, Reporter of Fantasy</name>
 			<text>Flash
 Flying, haste
-Candid Shot — When Aya enters, look at target player&apos;s hand and choose a card in it. That player reveals that card, and Aya deals damage to them equal to its mana value.
+Candid Shot — When Aya enters, look at target player&apos;s hand and choose a card in it. That player reveals that card, then may have Aya deal damage to them equal to its mana value. If they don&apos;t, they put that card on the bottom of their library.
 {3}{U}{R}: Return Aya to her owner&apos;s hand.</text>
 			<set rarity="rare" picurl="https://Rachel-Brighton.github.io/sets/AKU-files/img/27.png" num="27">AKU</set>
 			<prop>
@@ -1272,7 +1272,7 @@ When this artifact enters, scry 1, then put a +1/+1 counter on up to one creatur
 		<card>
 			<name>Road of Liminality</name>
 			<text>{T}, Pay 1 life, Sacrifice this land: Search your library for a land card with a basic land type, put it onto the battlefield tapped, then shuffle.</text>
-			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/AKU-files/img/71.png" num="59">AKU</set>
+			<set rarity="rare" picurl="https://Rachel-Brighton.github.io/sets/AKU-files/img/71.png" num="59">AKU</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>

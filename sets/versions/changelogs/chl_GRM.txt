@@ -1,4 +1,17 @@
-﻿VERSION 9 CHANGELOG
+﻿VERSION 10 CHANGELOG
+====================
+
+
+
+Gun Sign 「3D Printer Gun」
+rules_text: {7}, {T}, Sacrifice this artifact: Destroy target permanent.
+{T}, Remove two loyalty counters from a planeswalker you control, Sacrifice this artifact: Destroy target permanent. => {7}, {T}, Sacrifice this artifact: Destroy target nonland permanent.
+{T}, Remove two loyalty counters from a planeswalker you control, Sacrifice this artifact: Destroy target nonland permanent.
+
+For Her Sake
+
+
+VERSION 9 CHANGELOG
 ====================
 
 Marisa, Ordinary Magician added.

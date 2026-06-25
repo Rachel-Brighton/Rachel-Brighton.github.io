@@ -183,7 +183,7 @@
             "number": 54,
             "color_identity": "C",
             "cost": "{1}",
-            "rules_text": "{7}, {T}, Sacrifice this artifact: Destroy target permanent.\n{T}, Remove two loyalty counters from a planeswalker you control, Sacrifice this artifact: Destroy target permanent.",
+            "rules_text": "{7}, {T}, Sacrifice this artifact: Destroy target nonland permanent.\n{T}, Remove two loyalty counters from a planeswalker you control, Sacrifice this artifact: Destroy target nonland permanent.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -737,7 +737,7 @@
             "alias": "",
             "position": "31",
             "rotated": false,
-            "notes": "!tag FW\n!tag Ariya\n!tag Iwagana\n!tag Yuiman\n!tag Asama\n!tag Yuri\n!tag Gay"
+            "notes": "!tag FW\n!tag Ariya\n!tag Iwanaga\n!tag Yuiman\n!tag Asama\n!tag Yuri\n!tag Gay"
         },
         {
             "card_name": "Spirit Sign \u300cFantasy Seal\u300d",
@@ -1454,5 +1454,5 @@
             "notes": "!tag GoM\n!tag Marisa\n!tag Kirisame\n!tag Print"
         }
     ],
-    "version": 9
+    "version": 10
 }
