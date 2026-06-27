@@ -23,7 +23,7 @@ def generateHTML():
         slug = re.sub(pattern, '', t)
         return re.sub(r'\s+', '-', slug).strip('-')
 
-    def process_article(article_path, category):
+    def process_article(article_path, category, rel_base_path):
         md_path = os.path.join(article_path, 'article.md')
         if not os.path.exists(md_path):
             return None
@@ -63,6 +63,9 @@ def generateHTML():
         title = article_folder_name.upper()
         subtitle = ""
 
+        # Use the provided rel_base_path which already has the correct disk casing
+        url_safe_rel_base_path = rel_base_path.replace(' ', '%20')
+
         first_image = ""
         # Check for card image with priority: png, jpg, jpeg
         found_card_img = False
@@ -70,8 +73,8 @@ def generateHTML():
             card_img_filename = f'card.{ext}'
             card_img_path = os.path.join(article_path, card_img_filename)
             if os.path.exists(card_img_path):
-                rel_article_path = os.path.relpath(article_path, '.')
-                first_image = os.path.join(rel_article_path, card_img_filename).replace('\\', '/')
+                # Relative to root (all-articles.html)
+                first_image = f"articles/{url_safe_rel_base_path}/{card_img_filename}"
                 found_card_img = True
                 break
         
@@ -80,35 +83,36 @@ def generateHTML():
             if image_match:
                 first_image = image_match.group(1)
                 # If relative to article folder, we need to adjust path for all-articles.html
-                # all-articles.html is at root, images are in articles/Path/To/Article/img.png
                 if not first_image.startswith('http') and not first_image.startswith('/'):
-                    # Assuming image path is relative to article.md
-                    rel_article_path = os.path.relpath(article_path, '.')
-                    first_image = os.path.join(rel_article_path, first_image).replace('\\', '/')
+                    first_image = f"articles/{url_safe_rel_base_path}/{first_image}"
 
         # Generate individual article HTML with extensions to honor manual <br> tags and newlines
         html_body = markdown.markdown(md_content, extensions=['extra', 'nl2br'])
         
-        # Adjust image paths in html_body for individual articles
-        # They are now in articles/category-slug/ArticleName.html
-        # Original images were in Category/ArticleName/img.png (relative to articles/)
-        # So from articles/category-slug/ArticleName.html, we need to go to ../../articles/Category/ArticleName/img.png
-        # rel_base_path is the path from articles/ to the article folder
-        
-        rel_base_path = os.path.relpath(article_path, articles_dir).replace('\\', '/')
-        
         def adjust_img_src(match):
             src = match.group(2)
             if not src.startswith('http') and not src.startswith('/') and not src.startswith('data:'):
-                return f'<img {match.group(1)}src="../../articles/{rel_base_path}/{src}"'
+                # From articles/category-slug/article-slug.html to articles/Category/ArticleName/src
+                return f'<img {match.group(1)}src="../../articles/{url_safe_rel_base_path}/{src}"'
             return match.group(0)
 
         html_body = re.sub(r'<img (.*?)src="(.*?)"', adjust_img_src, html_body)
 
+        def tag_image_paragraphs(match):
+            content = match.group(1)
+            # Remove all HTML tags and see if any non-whitespace text remains
+            text_only = re.sub(r'<[^>]+>', '', content).strip()
+            
+            if not text_only and '<img' in content:
+                return f'<p class="image-paragraph">{content}</p>'
+            return f'<p>{content}</p>'
+
+        html_body = re.sub(r'<p>(.*?)</p>', tag_image_paragraphs, html_body, flags=re.DOTALL)
+
         bg_path = os.path.join(article_path, 'bg.png')
         bg_style = ""
         if os.path.exists(bg_path):
-            bg_style = f"background-image: url('../../articles/{rel_base_path}/bg.png'); background-size: cover; background-attachment: fixed;"
+            bg_style = f"background-image: url('../../articles/{url_safe_rel_base_path}/bg.png'); background-size: cover; background-attachment: fixed;"
         else:
             bg_style = "background-color: #ffffff;"
 
@@ -173,7 +177,7 @@ def generateHTML():
         flex: 0 1 auto;
         min-width: 0;
     }}
-    .article-content p:has(img) {{
+    .article-content p.image-paragraph {{
         display: flex;
         flex-wrap: nowrap;
         justify-content: center;
@@ -183,7 +187,7 @@ def generateHTML():
         margin: 20px auto;
     }}
     /* Only hide BR tags that are immediately between images in a flex row */
-    .article-content p:has(img) img + br {{
+    .article-content p.image-paragraph img + br {{
         display: none;
     }}
     h4 {{
@@ -286,7 +290,7 @@ def generateHTML():
             if os.path.exists(md_path):
                 # Top-level article
                 category = "General"
-                info = process_article(entry.path, category)
+                info = process_article(entry.path, category, entry.name)
                 if info:
                     if category not in article_data: article_data[category] = []
                     article_data[category].append(info)
@@ -300,7 +304,8 @@ def generateHTML():
                 
                 for subentry in os.scandir(entry.path):
                     if subentry.is_dir():
-                        info = process_article(subentry.path, category)
+                        rel_path = f"{entry.name}/{subentry.name}"
+                        info = process_article(subentry.path, category, rel_path)
                         if info:
                             if category not in article_data: article_data[category] = []
                             article_data[category].append(info)
@@ -418,7 +423,7 @@ def generate_index_html(article_data, header_snippet):
         border-radius: 4px;
     }}
     .article-card {{
-        flex: 0 0 300px;
+        flex: 0 0 310px;
         background-color: white;
         border: 1px solid #d5d9d9;
         border-radius: 8px;
