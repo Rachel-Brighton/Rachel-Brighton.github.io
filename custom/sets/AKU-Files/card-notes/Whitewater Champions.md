@@ -1,1 +1,1 @@
-A team-up between [Wakasagihime](https://rachel-brighton.github.io/card?set=2HU&num=73&name=Wakasagihime) and [Shinmyoumaru Sukuna](https://rachel-brighton.github.io/card?set=2HU&num=265&name=Sukuna+of+the+Shining+Needle).
+A team-up between [Wakasagihime](https://rachel-brighton.github.io/card?set=2HU&num=73&name=Wakasagihime) and [Shinmyoumaru Sukuna](https://rachel-brighton.github.io/card?set=2HU&num=267&name=Sukuna+of+the+Shining+Needle).

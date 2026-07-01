@@ -1,1 +1,1 @@
-The vengeful spirit of [Mizuchi Miyadeguchi](https://rachel-brighton.github.io/card?set=AKU&num=33&name=Mizuchi%2C+Traitor+to+Humanity).
+The vengeful spirit of [Mizuchi Miyadeguchi](https://rachel-brighton.github.io/card?set=AKU&num=32&name=Mizuchi%2C+Traitor+to+Humanity).
