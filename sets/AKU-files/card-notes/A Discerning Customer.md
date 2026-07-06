@@ -1,1 +1,1 @@
-[Yasaka Kanako's](https://rachel-brighton.github.io/card?set=2HU&num=206&name=Kanako%2C+God+of+Progress) human disguise.
+[Yasaka Kanako's](https://rachel-brighton.github.io/card?set=2HU&num=208&name=Kanako%2C+God+of+Progress) human disguise.
