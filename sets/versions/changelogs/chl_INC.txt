@@ -1,4 +1,21 @@
-﻿VERSION 12 CHANGELOG
+﻿VERSION 13 CHANGELOG
+====================
+
+Countless Native Gods added.
+
+
+Incident Resolvers (EoSD)
+
+Incident Resolvers (FW)
+
+Incident Resolvers (MoF)
+
+Incident Resolvers (LoLK)
+
+Incident Resolvers (SWR)
+
+
+VERSION 12 CHANGELOG
 ====================
 
 

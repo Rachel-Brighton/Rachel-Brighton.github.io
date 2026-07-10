@@ -1,7 +1,7 @@
 ﻿[
     {
         "card_name": "Remilia, the Scarlet Devil",
-        "number": 73,
+        "number": 74,
         "shape": "normal",
         "set": "INC",
         "rotated": false,
@@ -9,7 +9,7 @@
     },
     {
         "card_name": "Flandre, Sister of the Devil",
-        "number": 70,
+        "number": 71,
         "shape": "normal",
         "set": "INC",
         "rotated": false,
@@ -57,7 +57,7 @@
     },
     {
         "card_name": "Little Devil",
-        "number": 82,
+        "number": 83,
         "shape": "normal",
         "set": "INC",
         "rotated": false,
@@ -129,7 +129,7 @@
     },
     {
         "card_name": "Swamp",
-        "number": 97,
+        "number": 98,
         "shape": "normal",
         "set": "INC",
         "rotated": false,
@@ -137,7 +137,7 @@
     },
     {
         "card_name": "Mountain",
-        "number": 100,
+        "number": 101,
         "shape": "normal",
         "set": "INC",
         "rotated": false,
@@ -174,7 +174,7 @@
     "a->MoF",
     {
         "card_name": "Kanako, Avatar of Mountains",
-        "number": 72,
+        "number": 73,
         "shape": "normal",
         "set": "INC",
         "rotated": false,
@@ -182,7 +182,7 @@
     },
     {
         "card_name": "Sanae Kochiya",
-        "number": 75,
+        "number": 76,
         "shape": "normal",
         "set": "INC",
         "rotated": false,
@@ -190,7 +190,7 @@
     },
     {
         "card_name": "Suwako, Old God of Moriya",
-        "number": 67,
+        "number": 68,
         "shape": "normal",
         "set": "INC",
         "rotated": false,
@@ -206,7 +206,7 @@
     },
     {
         "card_name": "Hina, Dark Side of Fate",
-        "number": 63,
+        "number": 64,
         "shape": "normal",
         "set": "INC",
         "rotated": false,
@@ -219,6 +219,14 @@
         "set": "INC",
         "rotated": false,
         "position": "44"
+    },
+    {
+        "card_name": "Countless Native Gods",
+        "number": 59,
+        "shape": "normal",
+        "set": "INC",
+        "rotated": false,
+        "position": "106"
     },
     {
         "card_name": "Patrol of Nine Heavens",
@@ -238,7 +246,7 @@
     },
     {
         "card_name": "Horizon Sign",
-        "number": 64,
+        "number": 65,
         "shape": "normal",
         "set": "INC",
         "rotated": false,
@@ -246,7 +254,7 @@
     },
     {
         "card_name": "Esoterica \u300cForgotten Ritual\u300d",
-        "number": 60,
+        "number": 61,
         "shape": "normal",
         "set": "INC",
         "rotated": false,
@@ -262,7 +270,7 @@
     },
     {
         "card_name": "Hunt for Trespassers",
-        "number": 65,
+        "number": 66,
         "shape": "normal",
         "set": "INC",
         "rotated": false,
@@ -270,7 +278,7 @@
     },
     {
         "card_name": "God's Wind",
-        "number": 80,
+        "number": 81,
         "shape": "normal",
         "set": "INC",
         "rotated": false,
@@ -286,7 +294,7 @@
     },
     {
         "card_name": "Forest",
-        "number": 102,
+        "number": 103,
         "shape": "normal",
         "set": "INC",
         "rotated": false,
@@ -294,7 +302,7 @@
     },
     {
         "card_name": "Island",
-        "number": 95,
+        "number": 97,
         "shape": "normal",
         "set": "INC",
         "rotated": false,
@@ -320,9 +328,6 @@
         "card_name": "e"
     },
     {
-        "card_name": "e"
-    },
-    {
         "card_name": "er"
     },
     {
@@ -337,7 +342,7 @@
     "a->SWR",
     {
         "card_name": "Tenshi, Catastrophe in Heaven",
-        "number": 76,
+        "number": 77,
         "shape": "normal",
         "set": "INC",
         "rotated": false,
@@ -345,7 +350,7 @@
     },
     {
         "card_name": "Yukari, Fantastic Sunshower",
-        "number": 78,
+        "number": 79,
         "shape": "planeswalker",
         "set": "INC",
         "rotated": false,
@@ -361,7 +366,7 @@
     },
     {
         "card_name": "Suika, Night's Sprinkle",
-        "number": 66,
+        "number": 67,
         "shape": "normal",
         "set": "INC",
         "rotated": false,
@@ -377,7 +382,7 @@
     },
     {
         "card_name": "Youmu, Verdant Open Sky",
-        "number": 68,
+        "number": 69,
         "shape": "normal",
         "set": "INC",
         "rotated": false,
@@ -393,7 +398,7 @@
     },
     {
         "card_name": "Shanghai Doll",
-        "number": 85,
+        "number": 86,
         "shape": "normal",
         "set": "INC",
         "rotated": false,
@@ -417,7 +422,7 @@
     },
     {
         "card_name": "High-Angle Shot",
-        "number": 62,
+        "number": 63,
         "shape": "normal",
         "set": "INC",
         "rotated": false,
@@ -425,7 +430,7 @@
     },
     {
         "card_name": "Drunk As I Like",
-        "number": 59,
+        "number": 60,
         "shape": "normal",
         "set": "INC",
         "rotated": false,
@@ -441,7 +446,7 @@
     },
     {
         "card_name": "Heaven Through a Child's Mind",
-        "number": 61,
+        "number": 62,
         "shape": "normal",
         "set": "INC",
         "rotated": false,
@@ -449,7 +454,7 @@
     },
     {
         "card_name": "Heavenly Keystone",
-        "number": 81,
+        "number": 82,
         "shape": "normal",
         "set": "INC",
         "rotated": false,
@@ -457,7 +462,7 @@
     },
     {
         "card_name": "Mountain",
-        "number": 99,
+        "number": 100,
         "shape": "normal",
         "set": "INC",
         "rotated": false,
@@ -465,7 +470,7 @@
     },
     {
         "card_name": "Forest",
-        "number": 101,
+        "number": 102,
         "shape": "normal",
         "set": "INC",
         "rotated": false,
@@ -481,7 +486,7 @@
     },
     {
         "card_name": "Peaches of Paradise",
-        "number": 84,
+        "number": 85,
         "shape": "normal",
         "set": "INC",
         "rotated": false,
@@ -513,7 +518,7 @@
     },
     {
         "card_name": "Sagume, The Careful Tongue",
-        "number": 74,
+        "number": 75,
         "shape": "normal",
         "set": "INC",
         "rotated": false,
@@ -601,7 +606,7 @@
     },
     {
         "card_name": "First and Final Nameless Spell",
-        "number": 79,
+        "number": 80,
         "shape": "normal",
         "set": "INC",
         "rotated": false,
@@ -625,7 +630,7 @@
     },
     {
         "card_name": "Plains",
-        "number": 93,
+        "number": 94,
         "shape": "normal",
         "set": "INC",
         "rotated": false,
@@ -633,7 +638,7 @@
     },
     {
         "card_name": "Swamp",
-        "number": 98,
+        "number": 99,
         "shape": "normal",
         "set": "INC",
         "rotated": false,
@@ -657,7 +662,7 @@
     },
     {
         "card_name": "Judgement",
-        "number": 71,
+        "number": 72,
         "shape": "normal",
         "set": "INC",
         "rotated": false,
@@ -678,7 +683,7 @@
     "a->FW",
     {
         "card_name": "Ariya, Spirit of Permanence",
-        "number": 69,
+        "number": 70,
         "shape": "normal",
         "set": "INC",
         "rotated": false,
@@ -686,7 +691,7 @@
     },
     {
         "card_name": "Yuiman, Data Purifier",
-        "number": 77,
+        "number": 78,
         "shape": "normal",
         "set": "INC",
         "rotated": false,
@@ -718,7 +723,7 @@
     },
     {
         "card_name": "Overflowing Wonder",
-        "number": 83,
+        "number": 84,
         "shape": "normal",
         "set": "INC",
         "rotated": false,
@@ -734,7 +739,7 @@
     },
     {
         "card_name": "Wonder Stone",
-        "number": 86,
+        "number": 87,
         "shape": "normal",
         "set": "INC",
         "rotated": false,
@@ -798,7 +803,7 @@
     },
     {
         "card_name": "Plains",
-        "number": 94,
+        "number": 95,
         "shape": "normal",
         "set": "INC",
         "rotated": false,
@@ -848,7 +853,7 @@
     },
     {
         "card_name": "Sea of Tranquility",
-        "number": 91,
+        "number": 92,
         "shape": "normal",
         "set": "INC",
         "rotated": false,
@@ -859,7 +864,7 @@
     },
     {
         "card_name": "Hellfire Mantle",
-        "number": 88,
+        "number": 89,
         "shape": "normal",
         "set": "INC",
         "rotated": false,
@@ -867,7 +872,7 @@
     },
     {
         "card_name": "Youkai Mountain",
-        "number": 92,
+        "number": 93,
         "shape": "normal",
         "set": "INC",
         "rotated": false,
@@ -893,7 +898,7 @@
     },
     {
         "card_name": "Netherworld Gates",
-        "number": 89,
+        "number": 90,
         "shape": "normal",
         "set": "INC",
         "rotated": false,
@@ -910,7 +915,7 @@
     },
     {
         "card_name": "Genbu Ravine",
-        "number": 87,
+        "number": 88,
         "shape": "normal",
         "set": "INC",
         "rotated": false,
@@ -933,7 +938,7 @@
     },
     {
         "card_name": "Otherland's Edge",
-        "number": 90,
+        "number": 91,
         "shape": "normal",
         "set": "INC",
         "rotated": false,

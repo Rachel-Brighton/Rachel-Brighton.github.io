@@ -5,7 +5,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{4}{B}{R}",
 			"type": "Legendary Creature — Vampire Noble",
-			"collector_number": "73",
+			"collector_number": "74",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/0.png"
 			}
@@ -75,7 +75,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Swamp",
-			"collector_number": "97",
+			"collector_number": "98",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/7.png"
 			}
@@ -85,7 +85,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Mountain",
-			"collector_number": "100",
+			"collector_number": "101",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/8.png"
 			}
@@ -95,7 +95,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Swamp Mountain",
-			"collector_number": "88",
+			"collector_number": "89",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/9.png"
 			}
@@ -145,7 +145,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B/R}",
 			"type": "Creature — Devil",
-			"collector_number": "82",
+			"collector_number": "83",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/14.png"
 			}
@@ -165,7 +165,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}{R}",
 			"type": "Legendary Creature — Vampire Noble",
-			"collector_number": "70",
+			"collector_number": "71",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/16.png"
 			}
@@ -215,7 +215,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "90",
+			"collector_number": "91",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/21.png"
 			}
@@ -245,7 +245,7 @@
 			"rarity": "rare",
 			"mana_cost": "{W}{U}",
 			"type": "Legendary Creature — Human God Noble",
-			"collector_number": "77",
+			"collector_number": "78",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/24.png"
 			}
@@ -255,7 +255,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}",
 			"type": "Artifact Creature — Stone Prism",
-			"collector_number": "86",
+			"collector_number": "87",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/25.png"
 			}
@@ -325,7 +325,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Plains Island",
-			"collector_number": "91",
+			"collector_number": "92",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/32.png"
 			}
@@ -335,7 +335,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Plains",
-			"collector_number": "94",
+			"collector_number": "95",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/33.png"
 			}
@@ -355,7 +355,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{W/U}",
 			"type": "Artifact Creature — Stone Prism",
-			"collector_number": "83",
+			"collector_number": "84",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/35.png"
 			}
@@ -385,7 +385,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{5}{W}{U}",
 			"type": "Legendary Creature — God",
-			"collector_number": "69",
+			"collector_number": "70",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/38.png"
 			}
@@ -405,7 +405,7 @@
 			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Sorcery",
-			"collector_number": "64",
+			"collector_number": "65",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/40.png"
 			}
@@ -435,7 +435,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{4}{G}{U}",
 			"type": "Legendary Creature — God",
-			"collector_number": "72",
+			"collector_number": "73",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/43.png"
 			}
@@ -455,7 +455,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{G}{U}",
 			"type": "Legendary Creature — Human God",
-			"collector_number": "75",
+			"collector_number": "76",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/45.png"
 			}
@@ -475,7 +475,7 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{G}",
 			"type": "Legendary Creature — God",
-			"collector_number": "67",
+			"collector_number": "68",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/47.png"
 			}
@@ -485,7 +485,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Legendary Creature — God",
-			"collector_number": "63",
+			"collector_number": "64",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/48.png"
 			}
@@ -505,7 +505,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Instant",
-			"collector_number": "60",
+			"collector_number": "61",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/50.png"
 			}
@@ -515,7 +515,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Sorcery",
-			"collector_number": "65",
+			"collector_number": "66",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/51.png"
 			}
@@ -525,7 +525,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G/U}",
 			"type": "Instant",
-			"collector_number": "80",
+			"collector_number": "81",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/52.png"
 			}
@@ -545,7 +545,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Forest Island",
-			"collector_number": "87",
+			"collector_number": "88",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/54.png"
 			}
@@ -555,7 +555,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Forest",
-			"collector_number": "102",
+			"collector_number": "103",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/55.png"
 			}
@@ -565,7 +565,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Island",
-			"collector_number": "95",
+			"collector_number": "97",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/56.png"
 			}
@@ -605,7 +605,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{R}{G}",
 			"type": "Legendary Creature — Mystic",
-			"collector_number": "76",
+			"collector_number": "77",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/60.png"
 			}
@@ -615,7 +615,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Mountain",
-			"collector_number": "99",
+			"collector_number": "100",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/61.png"
 			}
@@ -625,7 +625,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Forest",
-			"collector_number": "101",
+			"collector_number": "102",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/62.png"
 			}
@@ -635,7 +635,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Swamp",
-			"collector_number": "98",
+			"collector_number": "99",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/63.png"
 			}
@@ -645,7 +645,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Plains",
-			"collector_number": "93",
+			"collector_number": "94",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/64.png"
 			}
@@ -655,7 +655,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Plains Swamp",
-			"collector_number": "89",
+			"collector_number": "90",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/65.png"
 			}
@@ -665,7 +665,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Mountain Forest",
-			"collector_number": "92",
+			"collector_number": "93",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/66.png"
 			}
@@ -675,7 +675,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{W}{B}",
 			"type": "Legendary Creature — Moonfolk Advisor",
-			"collector_number": "74",
+			"collector_number": "75",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/67.png"
 			}
@@ -735,7 +735,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}{B}",
 			"type": "Instant",
-			"collector_number": "71",
+			"collector_number": "72",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/73.png"
 			}
@@ -775,7 +775,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W/B}",
 			"type": "Sorcery",
-			"collector_number": "79",
+			"collector_number": "80",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/77.png"
 			}
@@ -845,7 +845,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Instant",
-			"collector_number": "62",
+			"collector_number": "63",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/84.png"
 			}
@@ -885,7 +885,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}",
 			"type": "Artifact Creature — Doll",
-			"collector_number": "85",
+			"collector_number": "86",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/88.png"
 			}
@@ -895,7 +895,7 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{G}",
 			"type": "Legendary Creature — Demon",
-			"collector_number": "66",
+			"collector_number": "67",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/89.png"
 			}
@@ -905,7 +905,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}",
 			"type": "Legendary Creature — Human Spirit Samurai",
-			"collector_number": "68",
+			"collector_number": "69",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/90.png"
 			}
@@ -915,7 +915,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}{G}",
 			"type": "Legendary Planeswalker — Yukari",
-			"collector_number": "78",
+			"collector_number": "79",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/91.png"
 			}
@@ -925,7 +925,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Instant",
-			"collector_number": "59",
+			"collector_number": "60",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/92.png"
 			}
@@ -945,7 +945,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R/G}",
 			"type": "Artifact",
-			"collector_number": "81",
+			"collector_number": "82",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/94.png"
 			}
@@ -955,7 +955,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Sorcery",
-			"collector_number": "61",
+			"collector_number": "62",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/95.png"
 			}
@@ -995,7 +995,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
 			"type": "Artifact — Food",
-			"collector_number": "84",
+			"collector_number": "85",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/99.png"
 			}
@@ -1058,6 +1058,16 @@
 			"collector_number": "41",
 			"image_uris": {
 				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/105.png"
+			}
+		},
+		{
+			"name": "Countless Native Gods",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — God",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://Rachel-Brighton.github.io/sets/INC-files/img/106.png"
 			}
 		}
 	]
@@ -1157,6 +1167,7 @@
 	8 Just Dodge It, Bro
 	8 Safe Zone
 	8 Reduce to Vapor
+	8 Countless Native Gods
 [common | masterpiece(1)]
 	8 Rumia, Wrapped in Dusk
 	8 Fog Sign
@@ -1193,6 +1204,7 @@
 	8 Just Dodge It, Bro
 	8 Safe Zone
 	8 Reduce to Vapor
+	8 Countless Native Gods
 [foil(1)]
 	1 Remilia, the Scarlet Devil
 	6 Knight of Nights
@@ -1286,6 +1298,7 @@
 	6 Prune Reality
 	12 Safe Zone
 	12 Reduce to Vapor
+	12 Countless Native Gods
 [wildcard(1)]
 	4 Remilia, the Scarlet Devil
 	15 Knight of Nights
@@ -1379,3 +1392,4 @@
 	15 Prune Reality
 	6 Safe Zone
 	6 Reduce to Vapor
+	6 Countless Native Gods
