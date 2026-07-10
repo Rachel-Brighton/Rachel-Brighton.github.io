@@ -1,4 +1,117 @@
-﻿VERSION 11 CHANGELOG
+﻿VERSION 12 CHANGELOG
+====================
+
+
+Countless Native Gods removed.
+AAAAAAAAAAAA removed.
+
+Patrol of Nine Heavens
+
+Esoterica 「Forgotten Ritual」
+
+Hunt for Trespassers
+
+God's Wind
+
+Incident Resolvers (MoF)
+
+Genbu Ravine
+
+Incident Resolvers (LoLK)
+
+Incident Resolvers (SWR)
+
+Junko
+
+Tenshi, Catastrophe in Heaven
+
+Netherworld Gates
+
+Youkai Mountain
+
+Sagume, The Careful Tongue
+
+Ringo, Eagle Ravi Orange
+
+Seiran, Eagle Ravi Blue
+
+Hecatia, Goddess of Hell
+
+Clownpiece, Star-Spangled Pierrot
+
+Faerie Army
+
+Judgement
+
+Existential Humankind
+
+Hate
+
+Superiority
+
+First and Final Nameless Spell
+
+Lunar Reinforcements
+
+Fairy Hellraiser
+
+Rabbit
+
+Cage of Marital Vows
+
+Nightmares Never Before Seen
+
+Ditto Matchup
+
+High-Angle Shot
+
+Iku, Envoy of the Dragon Palace
+
+Lightning Word
+
+Reisen, Red-Eyed Vapor
+rules_text: [i]Mind Bending[/i] — Whenever Reisen attacks, goad target creature defending player controls. [i](Until your next turn, that creature attacks each combat if able and attacks a player other than you if able.)[/i]
+Goaded creatures you don't control can't block. => [i]Mind Bending[/i] — Whenever Reisen attacks, goad target creature. [i](Until your next turn, that creature attacks each combat if able and attacks a player other than you if able.)[/i]
+Goaded creatures you don't control can't block.
+
+Shanghai Doll
+
+Suika, Night's Sprinkle
+
+Youmu, Verdant Open Sky
+
+Yukari, Fantastic Sunshower
+
+Drunk As I Like
+
+Temperamental Sky
+
+Heavenly Keystone
+
+Heaven Through a Child's Mind
+
+Scarlet Detonation
+
+Bumper Crop
+
+Excessive Monologuing
+
+Peaches of Paradise
+
+Casual Arson
+
+Incorruptible Perfection
+
+Just Dodge It, Bro
+
+Prune Reality
+
+Safe Zone
+
+Reduce to Vapor
+
+
+VERSION 11 CHANGELOG
 ====================
 
 AAAAAAAAAAAA added.
