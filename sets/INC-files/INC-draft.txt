@@ -151,7 +151,7 @@
 			}
 		},
 		{
-			"name": "Incident Resolvers (EoSD)",
+			"name": "Incident Resolvers",
 			"rarity": "uncommon",
 			"mana_cost": "{3}",
 			"type": "Creature — Human",
@@ -181,7 +181,7 @@
 			}
 		},
 		{
-			"name": "Incident Resolvers (FW)",
+			"name": "Incident Resolvers",
 			"rarity": "uncommon",
 			"mana_cost": "{3}",
 			"type": "Creature — Human",
@@ -531,7 +531,7 @@
 			}
 		},
 		{
-			"name": "Incident Resolvers (MoF)",
+			"name": "Incident Resolvers",
 			"rarity": "uncommon",
 			"mana_cost": "{3}",
 			"type": "Creature — Human",
@@ -571,7 +571,7 @@
 			}
 		},
 		{
-			"name": "Incident Resolvers (LoLK)",
+			"name": "Incident Resolvers",
 			"rarity": "uncommon",
 			"mana_cost": "{3}",
 			"type": "Creature — Human",
@@ -581,7 +581,7 @@
 			}
 		},
 		{
-			"name": "Incident Resolvers (SWR)",
+			"name": "Incident Resolvers",
 			"rarity": "uncommon",
 			"mana_cost": "{3}",
 			"type": "Creature — Human",
@@ -1102,19 +1102,19 @@
 	4 Hellfire Mantle
 	4 Dangerous Curiosity
 	4 Scarlet Gensokyo
-	4 Incident Resolvers (EoSD)
+	4 Incident Resolvers
 	4 Sun Sign 「Royal Flare」
-	4 Incident Resolvers (FW)
+	4 Incident Resolvers
 	4 Ubame, Yamanba Chief
 	4 Nareko, Confined Dousojin
 	4 Sea of Tranquility
 	4 Autumnal Waterfall
 	4 Nitori, Candid Friend
 	4 Hina, Dark Side of Fate
-	4 Incident Resolvers (MoF)
+	4 Incident Resolvers
 	4 Genbu Ravine
-	4 Incident Resolvers (LoLK)
-	4 Incident Resolvers (SWR)
+	4 Incident Resolvers
+	4 Incident Resolvers
 	4 Netherworld Gates
 	4 Youkai Mountain
 	4 Seiran, Eagle Ravi Blue
@@ -1219,10 +1219,10 @@
 	6 Scarlet Gensokyo
 	12 Fairy Menace
 	12 Little Devil
-	6 Incident Resolvers (EoSD)
+	6 Incident Resolvers
 	2 Flandre, Sister of the Devil
 	6 Sun Sign 「Royal Flare」
-	6 Incident Resolvers (FW)
+	6 Incident Resolvers
 	12 Fiction Sign
 	12 Aspect Shift
 	12 Otherland's Edge
@@ -1253,10 +1253,10 @@
 	12 Esoterica 「Forgotten Ritual」
 	12 Hunt for Trespassers
 	12 God's Wind
-	6 Incident Resolvers (MoF)
+	6 Incident Resolvers
 	6 Genbu Ravine
-	6 Incident Resolvers (LoLK)
-	6 Incident Resolvers (SWR)
+	6 Incident Resolvers
+	6 Incident Resolvers
 	1 Junko
 	1 Tenshi, Catastrophe in Heaven
 	6 Netherworld Gates
@@ -1313,10 +1313,10 @@
 	15 Scarlet Gensokyo
 	6 Fairy Menace
 	6 Little Devil
-	15 Incident Resolvers (EoSD)
+	15 Incident Resolvers
 	7 Flandre, Sister of the Devil
 	15 Sun Sign 「Royal Flare」
-	15 Incident Resolvers (FW)
+	15 Incident Resolvers
 	6 Fiction Sign
 	6 Aspect Shift
 	6 Otherland's Edge
@@ -1347,10 +1347,10 @@
 	6 Esoterica 「Forgotten Ritual」
 	6 Hunt for Trespassers
 	6 God's Wind
-	15 Incident Resolvers (MoF)
+	15 Incident Resolvers
 	15 Genbu Ravine
-	15 Incident Resolvers (LoLK)
-	15 Incident Resolvers (SWR)
+	15 Incident Resolvers
+	15 Incident Resolvers
 	4 Junko
 	4 Tenshi, Catastrophe in Heaven
 	15 Netherworld Gates

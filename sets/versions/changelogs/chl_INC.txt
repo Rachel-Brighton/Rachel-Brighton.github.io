@@ -1,4 +1,20 @@
-﻿VERSION 13 CHANGELOG
+﻿VERSION 14 CHANGELOG
+====================
+
+Incident Resolvers added.
+Incident Resolvers added.
+Incident Resolvers added.
+Incident Resolvers added.
+Incident Resolvers added.
+
+Incident Resolvers (EoSD) removed.
+Incident Resolvers (FW) removed.
+Incident Resolvers (MoF) removed.
+Incident Resolvers (LoLK) removed.
+Incident Resolvers (SWR) removed.
+
+
+VERSION 13 CHANGELOG
 ====================
 
 Countless Native Gods added.

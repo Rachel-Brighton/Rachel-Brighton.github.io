@@ -269,7 +269,7 @@ When this creature enters, up to one other target creature gets +1/-1 until end 
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Incident Resolvers (EoSD)</name>
+			<name>Incident Resolvers</name>
 			<text>When this creature enters, draw a card.
 Spells you cast during combat cost {1} less to cast.</text>
 			<set rarity="uncommon" picurl="https://Rachel-Brighton.github.io/sets/INC-files/img/15.png" num="1">INC</set>
@@ -319,7 +319,7 @@ Lävatein — When Flandre enters, each opponent sacrifices a nontoken creature 
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Incident Resolvers (FW)</name>
+			<name>Incident Resolvers</name>
 			<text>When this creature enters, draw a card.
 Spells you cast during combat cost {1} less to cast.</text>
 			<set rarity="uncommon" picurl="https://Rachel-Brighton.github.io/sets/INC-files/img/18.png" num="2">INC</set>
@@ -934,7 +934,7 @@ Draw a card.</text>
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Incident Resolvers (MoF)</name>
+			<name>Incident Resolvers</name>
 			<text>When this creature enters, draw a card.
 Spells you cast during combat cost {1} less to cast.</text>
 			<set rarity="uncommon" picurl="https://Rachel-Brighton.github.io/sets/INC-files/img/53.png" num="4">INC</set>
@@ -998,7 +998,7 @@ When this land enters, you gain 1 life.</text>
 			<tablerow>0</tablerow>
 		</card>
 		<card>
-			<name>Incident Resolvers (LoLK)</name>
+			<name>Incident Resolvers</name>
 			<text>When this creature enters, draw a card.
 Spells you cast during combat cost {1} less to cast.</text>
 			<set rarity="uncommon" picurl="https://Rachel-Brighton.github.io/sets/INC-files/img/57.png" num="3">INC</set>
@@ -1014,7 +1014,7 @@ Spells you cast during combat cost {1} less to cast.</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Incident Resolvers (SWR)</name>
+			<name>Incident Resolvers</name>
 			<text>When this creature enters, draw a card.
 Spells you cast during combat cost {1} less to cast.</text>
 			<set rarity="uncommon" picurl="https://Rachel-Brighton.github.io/sets/INC-files/img/58.png" num="5">INC</set>

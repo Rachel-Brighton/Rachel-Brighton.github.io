@@ -323,7 +323,7 @@
             "notes": "!group EoSD\n!sort 08\n\n!tag EoSD\n!tag Koakuma"
         },
         {
-            "card_name": "Incident Resolvers (EoSD)",
+            "card_name": "Incident Resolvers",
             "color": "",
             "rarity": "uncommon",
             "type": "Creature \u2014 Human",
@@ -341,7 +341,7 @@
             "alias": "",
             "position": "15",
             "rotated": false,
-            "notes": "\\\\!exportname Incident Resolvers (EoSD)\n!group EoSD\n!sort 09\n\n!tag EoSD\n!tag Reimu\n!tag Hakurei\n!tag Marisa\n!tag Kirisame\n!tag Playable"
+            "notes": "!group EoSD\n!sort 09\n\n!tag EoSD\n!tag Reimu\n!tag Hakurei\n!tag Marisa\n!tag Kirisame\n!tag Playable"
         },
         {
             "card_name": "Flandre, Sister of the Devil",
@@ -386,7 +386,7 @@
             "notes": "!group EoSD\n!sort 14\n\n!tag EoSD\n!tag Patchouli\n!tag Knowledge\n!tag Spellcard"
         },
         {
-            "card_name": "Incident Resolvers (FW)",
+            "card_name": "Incident Resolvers",
             "color": "",
             "rarity": "uncommon",
             "type": "Creature \u2014 Human",
@@ -404,7 +404,7 @@
             "alias": "",
             "position": "18",
             "rotated": false,
-            "notes": "\\\\!exportname Incident Resolvers (FW)\n!group FW\n!sort 09\n\n!tag FW\n!tag Reimu\n!tag Hakurei\n!tag Marisa\n!tag Kirisame\n!tag Playable"
+            "notes": "!group FW\n!sort 09\n\n!tag FW\n!tag Reimu\n!tag Hakurei\n!tag Marisa\n!tag Kirisame\n!tag Playable"
         },
         {
             "card_name": "Fiction Sign",
@@ -1121,7 +1121,7 @@
             "notes": "!group MoF\n!sort 15\n\n!tag MoF\n!tag Kanako\n!tag Yasaka\n!tag Sanae\n!tag Kochiya\n!tag Spellcard"
         },
         {
-            "card_name": "Incident Resolvers (MoF)",
+            "card_name": "Incident Resolvers",
             "color": "",
             "rarity": "uncommon",
             "type": "Creature \u2014 Human",
@@ -1139,7 +1139,7 @@
             "alias": "",
             "position": "53",
             "rotated": false,
-            "notes": "\\\\!exportname Incident Resolvers (MoF)\n!group MoF\n!sort 09\n\n!tag MoF\n!tag Reimu\n!tag Hakurei\n!tag Marisa\n!tag Kirisame\n!tag Playable"
+            "notes": "!group MoF\n!sort 09\n\n!tag MoF\n!tag Reimu\n!tag Hakurei\n!tag Marisa\n!tag Kirisame\n!tag Playable"
         },
         {
             "card_name": "Genbu Ravine",
@@ -1205,7 +1205,7 @@
             "notes": "!group MoF\n!sort 18\n\n!tag MoF"
         },
         {
-            "card_name": "Incident Resolvers (LoLK)",
+            "card_name": "Incident Resolvers",
             "color": "",
             "rarity": "uncommon",
             "type": "Creature \u2014 Human",
@@ -1223,10 +1223,10 @@
             "alias": "",
             "position": "57",
             "rotated": false,
-            "notes": "\\\\!exportname Incident Resolvers (LoLK)\n!group LoLK\n!sort 08\n\n!tag LoLK\n!tag Reimu\n!tag Hakurei\n!tag Marisa\n!tag Kirisame\n!tag Sanae\n!tag Kochiya\n!tag Reisen\n!tag Udongein\n!tag Inaba\n!tag Playable"
+            "notes": "!group LoLK\n!sort 08\n\n!tag LoLK\n!tag Reimu\n!tag Hakurei\n!tag Marisa\n!tag Kirisame\n!tag Sanae\n!tag Kochiya\n!tag Reisen\n!tag Udongein\n!tag Inaba\n!tag Playable"
         },
         {
-            "card_name": "Incident Resolvers (SWR)",
+            "card_name": "Incident Resolvers",
             "color": "",
             "rarity": "uncommon",
             "type": "Creature \u2014 Human",
@@ -1244,7 +1244,7 @@
             "alias": "",
             "position": "58",
             "rotated": false,
-            "notes": "\\\\!exportname Incident Resolvers (SWR)\n!group SWR\n!sort 09\n\n!tag SWR\n!tag Reimu\n!tag Hakurei\n!tag Marisa\n!tag Kirisame\n!tag Spinoff\n!tag Fighter\n!tag Playable"
+            "notes": "!group SWR\n!sort 09\n\n!tag SWR\n!tag Reimu\n!tag Hakurei\n!tag Marisa\n!tag Kirisame\n!tag Spinoff\n!tag Fighter\n!tag Playable"
         },
         {
             "card_name": "Junko",
@@ -2255,5 +2255,5 @@
             "notes": "!group MoF\n!sort 07\n\n!tag MoF\n!tag Minoriko\n!tag Shizuha\n!tag Aki"
         }
     ],
-    "version": 13
+    "version": 14
 }
