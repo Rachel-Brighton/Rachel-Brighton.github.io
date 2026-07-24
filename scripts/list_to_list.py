@@ -109,9 +109,6 @@ def convertList(setCode):
 
 	#F: now go over the cards again
 	for card in cards:
-		#F: skip the card if it's in the skipdex
-		if card['number'] in skipdex or ('previewed' in locals() and card['card_name'] not in previewed):
-			continue
 
 		# Capture bucketing criteria before cleanCard modifies fields
 		is_token = 'token' in card['shape']

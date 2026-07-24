@@ -64,6 +64,14 @@
         "position": "14"
     },
     {
+        "card_name": "Incident Resolvers",
+        "number": 3,
+        "shape": "normal",
+        "set": "INC",
+        "rotated": false,
+        "position": "15"
+    },
+    {
         "card_name": "Knight of Nights",
         "number": 39,
         "shape": "normal",
@@ -152,9 +160,6 @@
         "position": "96"
     },
     {
-        "card_name": "e"
-    },
-    {
         "card_name": "er"
     },
     {
@@ -230,6 +235,14 @@
         "set": "INC",
         "rotated": false,
         "position": "49"
+    },
+    {
+        "card_name": "Incident Resolvers",
+        "number": 4,
+        "shape": "normal",
+        "set": "INC",
+        "rotated": false,
+        "position": "53"
     },
     {
         "card_name": "Horizon Sign",
@@ -310,9 +323,6 @@
         "set": "INC",
         "rotated": false,
         "position": "98"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "e"
@@ -555,6 +565,14 @@
         "position": "79"
     },
     {
+        "card_name": "Incident Resolvers",
+        "number": 2,
+        "shape": "normal",
+        "set": "INC",
+        "rotated": false,
+        "position": "57"
+    },
+    {
         "card_name": "Lunar Reinforcements",
         "number": 12,
         "shape": "normal",
@@ -651,9 +669,6 @@
         "position": "73"
     },
     {
-        "card_name": "e"
-    },
-    {
         "card_name": "er"
     },
     {
@@ -729,6 +744,14 @@
         "set": "INC",
         "rotated": false,
         "position": "25"
+    },
+    {
+        "card_name": "Incident Resolvers",
+        "number": 1,
+        "shape": "normal",
+        "set": "INC",
+        "rotated": false,
+        "position": "18"
     },
     {
         "card_name": "Aspect Shift",
@@ -809,9 +832,6 @@
         "set": "INC",
         "rotated": false,
         "position": "103"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "e"
@@ -932,6 +952,54 @@
     },
     {
         "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->token",
+    {
+        "card_name": "Copy",
+        "number": 1,
+        "shape": "token",
+        "set": "INC",
+        "rotated": false,
+        "position": "39"
+    },
+    {
+        "card_name": "Rabbit",
+        "number": 2,
+        "shape": "token",
+        "set": "INC",
+        "rotated": false,
+        "position": "80"
+    },
+    {
+        "card_name": "Faerie Army",
+        "number": 3,
+        "shape": "token",
+        "set": "INC",
+        "rotated": false,
+        "position": "72"
+    },
+    {
+        "card_name": "Youkai",
+        "number": 4,
+        "shape": "token",
+        "set": "INC",
+        "rotated": false,
+        "position": "22"
     },
     {
         "card_name": "e"
