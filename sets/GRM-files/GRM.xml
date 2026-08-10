@@ -5,14 +5,14 @@
 			<name>GRM</name>
 			<longname>Grimoire of Spellfire</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-06-24</releasedate>
+			<releasedate>2026-08-09</releasedate>
 		</set>
 	</sets>
 	<cards>
 		<card>
 			<name>Matsuyoi-Reflecting Slash</name>
 			<text>Destroy target artifact or enchantment. Untap up to one target creature you control.</text>
-			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/0.png" num="5">GRM</set>
+			<set rarity="common" picurl="https://rachel-brighton.github.io/sets/GRM-files/img/0.png" num="5">GRM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -29,7 +29,7 @@
 			<name>Perfect Freeze</name>
 			<text>Kicker—{U}, Tap an untapped Faerie you control. (You may pay an additional {U} and tap an untapped Faerie you control as you cast this spell.)
 Tap target creature and put three stun counters on it. If this spell was kicked, put nine stun counters on it instead.</text>
-			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/1.png" num="11">GRM</set>
+			<set rarity="common" picurl="https://rachel-brighton.github.io/sets/GRM-files/img/1.png" num="11">GRM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -46,7 +46,7 @@ Tap target creature and put three stun counters on it. If this spell was kicked,
 			<name>Spark-Like Flashlight</name>
 			<text>(You may cast a legendary instant only if you control a legendary creature or planeswalker.)
 Target creature gets -X/-0 until end of turn. Tap it. Its controller mills twice X cards.</text>
-			<set rarity="mythic" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/2.png" num="13">GRM</set>
+			<set rarity="mythic" picurl="https://rachel-brighton.github.io/sets/GRM-files/img/2.png" num="13">GRM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -62,7 +62,7 @@ Target creature gets -X/-0 until end of turn. Tap it. Its controller mills twice
 		<card>
 			<name>Just Dodge It, Bro</name>
 			<text>Until end of turn, creatures your opponents control lose hexproof, ward, protection, and indestructible and can&apos;t have or gain those abilities.</text>
-			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/3.png" num="17">GRM</set>
+			<set rarity="common" picurl="https://rachel-brighton.github.io/sets/GRM-files/img/3.png" num="17">GRM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -78,7 +78,7 @@ Target creature gets -X/-0 until end of turn. Tap it. Its controller mills twice
 		<card>
 			<name>Full Focus</name>
 			<text>Target creature you control deals damage equal to its power to target creature an opponent controls. If excess damage was dealt this way, create a Treasure token.</text>
-			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/4.png" num="24">GRM</set>
+			<set rarity="common" picurl="https://rachel-brighton.github.io/sets/GRM-files/img/4.png" num="24">GRM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -94,7 +94,7 @@ Target creature gets -X/-0 until end of turn. Tap it. Its controller mills twice
 		<card>
 			<name>Hell&apos;s Tokamak</name>
 			<text>Add seven {R}. Spend this mana only to cast legendary spells or activate the abilities of legendary permanents.</text>
-			<set rarity="mythic" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/5.png" num="25">GRM</set>
+			<set rarity="mythic" picurl="https://rachel-brighton.github.io/sets/GRM-files/img/5.png" num="25">GRM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -112,7 +112,7 @@ Target creature gets -X/-0 until end of turn. Tap it. Its controller mills twice
 			<text>Start your engines! (If you have no speed, it starts at 1. It increases once on each of your turns when an opponent loses life. Max speed is 4.)
 When Byakuren enters, create a 3/2 colorless Vehicle artifact token with crew 1.
 Max Speed — Byakuren and Vehicles you control get +2/+2 and have vigilance.</text>
-			<set rarity="rare" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/6.png" num="37">GRM</set>
+			<set rarity="rare" picurl="https://rachel-brighton.github.io/sets/GRM-files/img/6.png" num="37">GRM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -131,7 +131,7 @@ Max Speed — Byakuren and Vehicles you control get +2/+2 and have vigilance.</t
 			<text>Web-slinging {B}{G} (You may cast this spell for {B}{G} if you also return a tapped creature you control to its owner&apos;s hand.)
 Reach
 Venom Web — When Yamame enters, put a -1/-1 counter on each tapped creature.</text>
-			<set rarity="rare" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/7.png" num="51">GRM</set>
+			<set rarity="rare" picurl="https://rachel-brighton.github.io/sets/GRM-files/img/7.png" num="51">GRM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -149,7 +149,7 @@ Venom Web — When Yamame enters, put a -1/-1 counter on each tapped creature.</
 			<name>Gun Sign 「3D Printer Gun」</name>
 			<text>{7}, {T}, Sacrifice this artifact: Destroy target nonland permanent.
 {T}, Remove two loyalty counters from a planeswalker you control, Sacrifice this artifact: Destroy target nonland permanent.</text>
-			<set rarity="uncommon" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/8.png" num="54">GRM</set>
+			<set rarity="uncommon" picurl="https://rachel-brighton.github.io/sets/GRM-files/img/8.png" num="54">GRM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -164,7 +164,7 @@ Venom Web — When Yamame enters, put a -1/-1 counter on each tapped creature.</
 			<name>Mini-Hakkero</name>
 			<text>Noncreature spells you cast cost {1} less to cast.
 {1}, {T}, Discard a card: Draw a card, then exile the top card of your library. Until your next turn, you may play the exiled card.</text>
-			<set rarity="mythic" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/9.png" num="56">GRM</set>
+			<set rarity="mythic" picurl="https://rachel-brighton.github.io/sets/GRM-files/img/9.png" num="56">GRM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -178,7 +178,7 @@ Venom Web — When Yamame enters, put a -1/-1 counter on each tapped creature.</
 		<card>
 			<name>Dance of Dazzling Iridescence</name>
 			<text>Until end of turn, creatures you control are 4/4 and have flying and vigilance.</text>
-			<set rarity="mythic" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/10.png" num="2">GRM</set>
+			<set rarity="mythic" picurl="https://rachel-brighton.github.io/sets/GRM-files/img/10.png" num="2">GRM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -199,7 +199,7 @@ Lyrica enters with two additional +1/+1 counters on her if a creature you contro
 ---
 
 Exile target creature you control, then return it to the battlefield under its owner&apos;s control.</text>
-			<set rarity="rare" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/11.png" num="4">GRM</set>
+			<set rarity="rare" picurl="https://rachel-brighton.github.io/sets/GRM-files/img/11.png" num="4">GRM</set>
 			<prop>
 				<layout>adventure</layout>
 				<side>front</side>
@@ -221,7 +221,7 @@ Whenever one or more creatures deal combat damage to one of your opponents, the 
 ---
 
 Target creature can&apos;t be blocked this turn.</text>
-			<set rarity="rare" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/12.png" num="15">GRM</set>
+			<set rarity="rare" picurl="https://rachel-brighton.github.io/sets/GRM-files/img/12.png" num="15">GRM</set>
 			<prop>
 				<layout>adventure</layout>
 				<side>front</side>
@@ -240,7 +240,7 @@ Target creature can&apos;t be blocked this turn.</text>
 			<text>Flying
 When this creature enters, scry 2.
 Whenever this creature deals combat damage to a player, draw a card, then discard a card.</text>
-			<set rarity="uncommon" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/13.png" num="14">GRM</set>
+			<set rarity="uncommon" picurl="https://rachel-brighton.github.io/sets/GRM-files/img/13.png" num="14">GRM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -262,7 +262,7 @@ When Koishi enters, you may discard a card. If you do, she gains haste and shado
 ---
 
 You draw a card and lose 1 life.</text>
-			<set rarity="rare" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/14.png" num="18">GRM</set>
+			<set rarity="rare" picurl="https://rachel-brighton.github.io/sets/GRM-files/img/14.png" num="18">GRM</set>
 			<prop>
 				<layout>adventure</layout>
 				<side>front</side>
@@ -280,7 +280,7 @@ You draw a card and lose 1 life.</text>
 			<name>Pichuun!</name>
 			<text>This spell costs {2} less to cast if it targets a creature that was dealt damage this turn.
 Destroy target creature.</text>
-			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/15.png" num="19">GRM</set>
+			<set rarity="common" picurl="https://rachel-brighton.github.io/sets/GRM-files/img/15.png" num="19">GRM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -297,7 +297,7 @@ Destroy target creature.</text>
 			<name>Mob Swarm</name>
 			<text>Flying
 Whenever you attack, amass Faeries 1 (Put a +1/+1 counter on an Army you control. It&apos;s also a Faerie. If you don&apos;t control an Army, create a 0/0 black Faerie Army creature token first.)</text>
-			<set rarity="uncommon" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/16.png" num="27">GRM</set>
+			<set rarity="uncommon" picurl="https://rachel-brighton.github.io/sets/GRM-files/img/16.png" num="27">GRM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -319,7 +319,7 @@ Whenever an attacking creature you control dies, Saki deals 1 damage to each opp
 ---
 
 Create a 3/1 red Wolf Spirit creature token with haste and &quot;This creature must attack each combat if able.&quot;</text>
-			<set rarity="rare" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/17.png" num="28">GRM</set>
+			<set rarity="rare" picurl="https://rachel-brighton.github.io/sets/GRM-files/img/17.png" num="28">GRM</set>
 			<prop>
 				<layout>adventure</layout>
 				<side>front</side>
@@ -336,7 +336,7 @@ Create a 3/1 red Wolf Spirit creature token with haste and &quot;This creature m
 		<card>
 			<name>Follow Me, Unafraid</name>
 			<text>Look at the top seven cards of your library. You may cast any number of creature spells from among them. Put the rest on the bottom of your library in a random order.</text>
-			<set rarity="mythic" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/18.png" num="33">GRM</set>
+			<set rarity="mythic" picurl="https://rachel-brighton.github.io/sets/GRM-files/img/18.png" num="33">GRM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -356,7 +356,7 @@ Create a 3/1 red Wolf Spirit creature token with haste and &quot;This creature m
 ---
 
 Distribute two +1/+1 counters among one or two target creatures.</text>
-			<set rarity="rare" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/19.png" num="36">GRM</set>
+			<set rarity="rare" picurl="https://rachel-brighton.github.io/sets/GRM-files/img/19.png" num="36">GRM</set>
 			<prop>
 				<layout>adventure</layout>
 				<side>front</side>
@@ -375,7 +375,7 @@ Distribute two +1/+1 counters among one or two target creatures.</text>
 			<text>Choose one —
 • Target creature you control fights target creature you don&apos;t control.
 • Target creature you control deals damage equal to twice its power to target creature you don&apos;t control with flying.</text>
-			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/20.png" num="30">GRM</set>
+			<set rarity="common" picurl="https://rachel-brighton.github.io/sets/GRM-files/img/20.png" num="30">GRM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -394,7 +394,7 @@ Distribute two +1/+1 counters among one or two target creatures.</text>
 Trample
 When this creature enters, choose a creature type.
 Other creatures you control of the chosen type get +1/+1 and have trample.</text>
-			<set rarity="uncommon" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/21.png" num="35">GRM</set>
+			<set rarity="uncommon" picurl="https://rachel-brighton.github.io/sets/GRM-files/img/21.png" num="35">GRM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -411,7 +411,7 @@ Other creatures you control of the chosen type get +1/+1 and have trample.</text
 		<card>
 			<name>Esoterica 「Forgotten Ritual」</name>
 			<text>Untap target creature. It gets +3/+3 and gains reach until end of turn.</text>
-			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/22.png" num="32">GRM</set>
+			<set rarity="common" picurl="https://rachel-brighton.github.io/sets/GRM-files/img/22.png" num="32">GRM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -428,7 +428,7 @@ Other creatures you control of the chosen type get +1/+1 and have trample.</text
 			<name>Futo, Plate Breaker</name>
 			<text>Firebending 2 (Whenever this creature attacks, add {R}{R}. This mana lasts until end of combat.)
 Boast — {1}: The next Equipment, Aura, or sorcery spell you cast this turn may be cast as though it had flash. When an Equipment you cast this way enters, attach it to target creature you control. (Activate only if this creature attacked this turn and only once each turn.)</text>
-			<set rarity="rare" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/23.png" num="41">GRM</set>
+			<set rarity="rare" picurl="https://rachel-brighton.github.io/sets/GRM-files/img/23.png" num="41">GRM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -446,7 +446,7 @@ Boast — {1}: The next Equipment, Aura, or sorcery spell you cast this turn may
 			<name>Cirno, Summer Freeze</name>
 			<text>Flying
 Perfect Summer Ice — Whenever Cirno deals combat damage to a player, you may pay {2}. When you do, draw a card, then put a stun counter on up to one target tapped creature.</text>
-			<set rarity="rare" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/24.png" num="38">GRM</set>
+			<set rarity="rare" picurl="https://rachel-brighton.github.io/sets/GRM-files/img/24.png" num="38">GRM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -464,7 +464,7 @@ Perfect Summer Ice — Whenever Cirno deals combat damage to a player, you may p
 			<name>Sanae Kochiya</name>
 			<text>Flying
 Gray Thaumaturgy — Whenever Sanae deals combat damage to an opponent, reveal the top card of your library. Put it onto the battlefield tapped if it&apos;s a land. Otherwise, you may cast that card and it costs {2} less to cast.</text>
-			<set rarity="rare" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/25.png" num="48">GRM</set>
+			<set rarity="rare" picurl="https://rachel-brighton.github.io/sets/GRM-files/img/25.png" num="48">GRM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -482,7 +482,7 @@ Gray Thaumaturgy — Whenever Sanae deals combat damage to an opponent, reveal t
 			<name>Miko, Almighty Tao</name>
 			<text>Indestructible
 Whenever Miko attacks, defending player faces a villainous choice — They lose 3 life and discard a card, or you put two +1/+1 counters on Miko and draw a card.</text>
-			<set rarity="rare" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/26.png" num="45">GRM</set>
+			<set rarity="rare" picurl="https://rachel-brighton.github.io/sets/GRM-files/img/26.png" num="45">GRM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -501,7 +501,7 @@ Whenever Miko attacks, defending player faces a villainous choice — They lose 
 			<text>Flying
 {BR}: Flandre gets +1/+0 until end of turn.
 Scarlet Nihility — Whenever Flandre deals combat damage to a player, that player sacrifices a permanent with mana value equal to the damage dealt.</text>
-			<set rarity="rare" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/27.png" num="40">GRM</set>
+			<set rarity="rare" picurl="https://rachel-brighton.github.io/sets/GRM-files/img/27.png" num="40">GRM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -519,7 +519,7 @@ Scarlet Nihility — Whenever Flandre deals combat damage to a player, that play
 			<name>Meiling, Dream Guardian</name>
 			<text>Vigilance
 If noncombat damage would be dealt to Meiling, prevent that damage and put a +1/+1 counter on her.</text>
-			<set rarity="rare" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/28.png" num="44">GRM</set>
+			<set rarity="rare" picurl="https://rachel-brighton.github.io/sets/GRM-files/img/28.png" num="44">GRM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -538,7 +538,7 @@ If noncombat damage would be dealt to Meiling, prevent that damage and put a +1/
 			<text>Vigilance
 When Youmu enters, you may attach an Equipment you control to her.
 Whenever Youmu deals combat damage while attacking, create a 1/1 white Spirit creature token with flying.</text>
-			<set rarity="rare" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/29.png" num="52">GRM</set>
+			<set rarity="rare" picurl="https://rachel-brighton.github.io/sets/GRM-files/img/29.png" num="52">GRM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -556,7 +556,7 @@ Whenever Youmu deals combat damage while attacking, create a 1/1 white Spirit cr
 			<name>Sakuya, Perfect and Elegant</name>
 			<text>Flash
 Ricochet Knife — When Sakuya enters, copy target activated or triggered ability. You may choose new targets for the copy.</text>
-			<set rarity="rare" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/30.png" num="47">GRM</set>
+			<set rarity="rare" picurl="https://rachel-brighton.github.io/sets/GRM-files/img/30.png" num="47">GRM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -573,7 +573,7 @@ Ricochet Knife — When Sakuya enters, copy target activated or triggered abilit
 		<card>
 			<name>For Her Sake</name>
 			<text>Surveil 3, then exile the top card of your library. Until your next turn, you may play that card. (To surveil 3, look at the top three cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
-			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/31.png" num="23">GRM</set>
+			<set rarity="common" picurl="https://rachel-brighton.github.io/sets/GRM-files/img/31.png" num="23">GRM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -590,7 +590,7 @@ Ricochet Knife — When Sakuya enters, copy target activated or triggered abilit
 			<name>Spirit Sign 「Fantasy Seal」</name>
 			<text>Target player sacrifices an attacking creature of their choice.
 You gain 4 life.</text>
-			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/32.png" num="7">GRM</set>
+			<set rarity="common" picurl="https://rachel-brighton.github.io/sets/GRM-files/img/32.png" num="7">GRM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -607,7 +607,7 @@ You gain 4 life.</text>
 			<name>Zombie Fairy</name>
 			<text>Flying
 When this creature dies, each opponent loses 2 life. Create a 1/1 white Spirit creature token with flying.</text>
-			<set rarity="uncommon" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/33.png" num="22">GRM</set>
+			<set rarity="uncommon" picurl="https://rachel-brighton.github.io/sets/GRM-files/img/33.png" num="22">GRM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -625,7 +625,7 @@ When this creature dies, each opponent loses 2 life. Create a 1/1 white Spirit c
 			<name>Fey Inaba</name>
 			<text>Flying
 {4}{W}{W}: Create three 1/1 white Spirit creature tokens with flying. Activate this ability only once.</text>
-			<set rarity="uncommon" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/34.png" num="3">GRM</set>
+			<set rarity="uncommon" picurl="https://rachel-brighton.github.io/sets/GRM-files/img/34.png" num="3">GRM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -643,7 +643,7 @@ When this creature dies, each opponent loses 2 life. Create a 1/1 white Spirit c
 			<name>Bitch, Get Out Of The Way!</name>
 			<text>This spell costs {1} less to cast while you control an attacking creature.
 Return target nonland permanent to its owner&apos;s hand.</text>
-			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/35.png" num="9">GRM</set>
+			<set rarity="common" picurl="https://rachel-brighton.github.io/sets/GRM-files/img/35.png" num="9">GRM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -661,7 +661,7 @@ Return target nonland permanent to its owner&apos;s hand.</text>
 			<text>Indestructible
 Whenever Yuuma enters or attacks, create two Blood tokens. (They&apos;re artifacts with &quot;{1}, {T}, Discard a card, Sacrifice this token: Draw a card.&quot;)
 At the beginning of your end step, you may sacrifice any number of artifacts. You lose X life and put X +1/+1 counters on Yuuma, where X is the number of artifacts sacrificed this way.</text>
-			<set rarity="mythic" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/36.png" num="21">GRM</set>
+			<set rarity="mythic" picurl="https://rachel-brighton.github.io/sets/GRM-files/img/36.png" num="21">GRM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -678,7 +678,7 @@ At the beginning of your end step, you may sacrifice any number of artifacts. Yo
 		<card>
 			<name>Blood GRM</name>
 			<text>{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.</text>
-			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/37.png" num="7">GRM</set>
+			<set rarity="common" picurl="https://rachel-brighton.github.io/sets/GRM-files/img/37.png" num="7">GRM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -695,7 +695,7 @@ At the beginning of your end step, you may sacrifice any number of artifacts. Yo
 		<card>
 			<name>Otherworld Observer</name>
 			<text>Whenever this creature attacks, you may move a counter from another permanent you control onto this creature.</text>
-			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/38.png" num="57">GRM</set>
+			<set rarity="common" picurl="https://rachel-brighton.github.io/sets/GRM-files/img/38.png" num="57">GRM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -710,7 +710,7 @@ At the beginning of your end step, you may sacrifice any number of artifacts. Yo
 		<card>
 			<name>Final Spell: Last Word</name>
 			<text>Return target creature card from your graveyard to the battlefield. It gets +5/+5 and gains haste until end of turn. Exile that creature at the beginning of the next end step.</text>
-			<set rarity="mythic" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/39.png" num="1">GRM</set>
+			<set rarity="mythic" picurl="https://rachel-brighton.github.io/sets/GRM-files/img/39.png" num="1">GRM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -725,7 +725,7 @@ At the beginning of your end step, you may sacrifice any number of artifacts. Yo
 			<name>Magician&apos;s Broom</name>
 			<text>Equipped creature has flying, haste, and prowess.
 Equip {1}</text>
-			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/40.png" num="55">GRM</set>
+			<set rarity="common" picurl="https://rachel-brighton.github.io/sets/GRM-files/img/40.png" num="55">GRM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -742,7 +742,7 @@ Equip {1}</text>
 I — Create two 1/1 white Spirit creature tokens with flying.
 II — Until end of turn, whenever a creature you control attacks, put a +1/+1 counter on it.
 III — You may reveal a Legendary card you own from outside the game and put it into your hand.</text>
-			<set rarity="uncommon" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/41.png" num="8">GRM</set>
+			<set rarity="uncommon" picurl="https://rachel-brighton.github.io/sets/GRM-files/img/41.png" num="8">GRM</set>
 			<prop>
 				<layout>saga</layout>
 				<side>front</side>
@@ -762,7 +762,7 @@ III — You may reveal a Legendary card you own from outside the game and put it
 I — Until your next turn, creatures you don&apos;t control get -2/-0.
 II — Draw two cards, then discard a card.
 III — Another target artifact or enchantment you control becomes a 5/5 Spirit creature in addition to its other types.</text>
-			<set rarity="uncommon" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/42.png" num="10">GRM</set>
+			<set rarity="uncommon" picurl="https://rachel-brighton.github.io/sets/GRM-files/img/42.png" num="10">GRM</set>
 			<prop>
 				<layout>saga</layout>
 				<side>front</side>
@@ -781,7 +781,7 @@ III — Another target artifact or enchantment you control becomes a 5/5 Spirit 
 I — You draw 2 cards and lose 2 life.
 II — Distribute two +1/+1 counters and a menace counter among up to three target creatures you control.
 III — Each opponent loses X life and you gain X life, where X is the greatest power among creatures you control.</text>
-			<set rarity="uncommon" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/43.png" num="16">GRM</set>
+			<set rarity="uncommon" picurl="https://rachel-brighton.github.io/sets/GRM-files/img/43.png" num="16">GRM</set>
 			<prop>
 				<layout>saga</layout>
 				<side>front</side>
@@ -800,7 +800,7 @@ III — Each opponent loses X life and you gain X life, where X is the greatest 
 I — Exile the top three cards of your library. You may play those cards for as long as you control this Saga.
 II — Add {R}{R}{R}.
 III — Return up to one card from your graveyard to your hand that&apos;s an instant, sorcery, and/or has an Adventure.</text>
-			<set rarity="uncommon" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/44.png" num="29">GRM</set>
+			<set rarity="uncommon" picurl="https://rachel-brighton.github.io/sets/GRM-files/img/44.png" num="29">GRM</set>
 			<prop>
 				<layout>saga</layout>
 				<side>front</side>
@@ -819,7 +819,7 @@ III — Return up to one card from your graveyard to your hand that&apos;s an in
 I — You gain 4 life.
 II — Goad two target creatures. (Until your next turn, those creatures attack each combat if able and attack a player other than you if able.)
 III — The next creature spell you cast this turn costs {G}.</text>
-			<set rarity="uncommon" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/45.png" num="34">GRM</set>
+			<set rarity="uncommon" picurl="https://rachel-brighton.github.io/sets/GRM-files/img/45.png" num="34">GRM</set>
 			<prop>
 				<layout>saga</layout>
 				<side>front</side>
@@ -838,7 +838,7 @@ III — The next creature spell you cast this turn costs {G}.</text>
 [+1]: Mill two cards, then draw a card.
 [0]: Exile Sumireko. Return her to the battlefield under her owner&apos;s control at the beginning of the next end step.
 [-5]: Sumireko deals 5 damage to any target. If a permanent dealt damage this way would die this turn, instead exile it and you may cast it for as long as it remains exiled.</text>
-			<set rarity="mythic" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/46.png" num="50">GRM</set>
+			<set rarity="mythic" picurl="https://rachel-brighton.github.io/sets/GRM-files/img/46.png" num="50">GRM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -857,7 +857,7 @@ III — The next creature spell you cast this turn costs {G}.</text>
 			<text>[+2]: Until end of turn, Kasen becomes a 6/6 Demon Mystic creature with indestructible, trample, and haste. (She doesn&apos;t lose loyalty while she&apos;s not a planeswalker.)
 [-3]: Exile target nonland permanent.
 [-5]: You may put a creature card from your hand or graveyard onto the battlefield. It gains indestructible, trample, and haste until end of turn.</text>
-			<set rarity="mythic" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/47.png" num="42">GRM</set>
+			<set rarity="mythic" picurl="https://rachel-brighton.github.io/sets/GRM-files/img/47.png" num="42">GRM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -876,7 +876,7 @@ III — The next creature spell you cast this turn costs {G}.</text>
 			<text>[+1]: Put a +1/+1 counter on up to one target creature. It must be blocked this turn if able.
 [0]: Surveil 3. Create a Blood token.
 [-7]: Gain control of target creature. It gains haste until end of turn.</text>
-			<set rarity="mythic" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/48.png" num="46">GRM</set>
+			<set rarity="mythic" picurl="https://rachel-brighton.github.io/sets/GRM-files/img/48.png" num="46">GRM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -896,7 +896,7 @@ III — The next creature spell you cast this turn costs {G}.</text>
 [+1]: Shinki deals 2 damage to any target.
 [0]: Add three mana in any combination of {R}, {W}, and/or {B}.
 [-6]: Each opponent sacrifices a creature. Each opponent who can&apos;t discards a card. Repeat this process for an artifact and an enchantment.</text>
-			<set rarity="mythic" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/49.png" num="49">GRM</set>
+			<set rarity="mythic" picurl="https://rachel-brighton.github.io/sets/GRM-files/img/49.png" num="49">GRM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -915,7 +915,7 @@ III — The next creature spell you cast this turn costs {G}.</text>
 			<text>[+1]: You may tap or untap up to one target creature. Draw a card.
 [-1]: Return target card from your graveyard to your hand.
 [-7]: Search your library for a permanent card and put it into the battlefield, then shuffle. It gains haste until end of turn.</text>
-			<set rarity="mythic" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/50.png" num="53">GRM</set>
+			<set rarity="mythic" picurl="https://rachel-brighton.github.io/sets/GRM-files/img/50.png" num="53">GRM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -932,7 +932,7 @@ III — The next creature spell you cast this turn costs {G}.</text>
 		<card>
 			<name>Spirit GRM</name>
 			<text>Flying</text>
-			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/51.png" num="1">GRM</set>
+			<set rarity="common" picurl="https://rachel-brighton.github.io/sets/GRM-files/img/51.png" num="1">GRM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -951,7 +951,7 @@ III — The next creature spell you cast this turn costs {G}.</text>
 		<card>
 			<name>Spirit GRM</name>
 			<text>Flying</text>
-			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/52.png" num="2">GRM</set>
+			<set rarity="common" picurl="https://rachel-brighton.github.io/sets/GRM-files/img/52.png" num="2">GRM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -969,7 +969,7 @@ III — The next creature spell you cast this turn costs {G}.</text>
 		<card>
 			<name>Faerie Army GRM</name>
 			<text></text>
-			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/53.png" num="4">GRM</set>
+			<set rarity="common" picurl="https://rachel-brighton.github.io/sets/GRM-files/img/53.png" num="4">GRM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -987,7 +987,7 @@ III — The next creature spell you cast this turn costs {G}.</text>
 		<card>
 			<name>Wolf Spirit GRM</name>
 			<text>This creature must attack each combat if able.</text>
-			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/54.png" num="5">GRM</set>
+			<set rarity="common" picurl="https://rachel-brighton.github.io/sets/GRM-files/img/54.png" num="5">GRM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1005,7 +1005,7 @@ III — The next creature spell you cast this turn costs {G}.</text>
 		<card>
 			<name>Youkai GRM</name>
 			<text></text>
-			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/55.png" num="6">GRM</set>
+			<set rarity="common" picurl="https://rachel-brighton.github.io/sets/GRM-files/img/55.png" num="6">GRM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1023,7 +1023,7 @@ III — The next creature spell you cast this turn costs {G}.</text>
 		<card>
 			<name>Vehicle GRM</name>
 			<text>Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
-			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/56.png" num="9">GRM</set>
+			<set rarity="common" picurl="https://rachel-brighton.github.io/sets/GRM-files/img/56.png" num="9">GRM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1040,7 +1040,7 @@ III — The next creature spell you cast this turn costs {G}.</text>
 		<card>
 			<name>Demon GRM</name>
 			<text>Menace</text>
-			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/57.png" num="3">GRM</set>
+			<set rarity="common" picurl="https://rachel-brighton.github.io/sets/GRM-files/img/57.png" num="3">GRM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1058,7 +1058,7 @@ III — The next creature spell you cast this turn costs {G}.</text>
 		<card>
 			<name>Dreamworld Doppelganger</name>
 			<text>When Doppelganger enters, look at the top ten cards of your library. You may reveal a Wizard creature or Sumireko planeswalker card from among them, put it into your hand, and put the rest on the bottom of your library in a random order. Doppelganger becomes a copy of the revealed card, except it&apos;s 3/3 if it&apos;s a creature. Put three loyalty counters on it if it&apos;s a planeswalker.</text>
-			<set rarity="rare" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/58.png" num="39">GRM</set>
+			<set rarity="rare" picurl="https://rachel-brighton.github.io/sets/GRM-files/img/58.png" num="39">GRM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1076,7 +1076,7 @@ III — The next creature spell you cast this turn costs {G}.</text>
 			<name>Bumper Crop</name>
 			<text>Search your library for a land card, put that card onto the battlefield tapped, then shuffle.
 Then if you control three or more basic lands, create two Food tokens. (They&apos;re artifacts with &quot;{2}, {T}, Sacrifice this token: You gain 3 life.&quot;)</text>
-			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/59.png" num="31">GRM</set>
+			<set rarity="common" picurl="https://rachel-brighton.github.io/sets/GRM-files/img/59.png" num="31">GRM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1092,7 +1092,7 @@ Then if you control three or more basic lands, create two Food tokens. (They&apo
 		<card>
 			<name>Illusionary Dominance</name>
 			<text>Target creature gets +3/+1 and gains haste and first strike until end of turn.</text>
-			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/60.png" num="26">GRM</set>
+			<set rarity="common" picurl="https://rachel-brighton.github.io/sets/GRM-files/img/60.png" num="26">GRM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1108,7 +1108,7 @@ Then if you control three or more basic lands, create two Food tokens. (They&apo
 		<card>
 			<name>Price of Life</name>
 			<text>Target creature gets +2/+2 until end of turn. If mana from a Treasure was spent to cast this spell, that creature also gains indestructible and lifelink until end of turn.</text>
-			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/61.png" num="6">GRM</set>
+			<set rarity="common" picurl="https://rachel-brighton.github.io/sets/GRM-files/img/61.png" num="6">GRM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1124,7 +1124,7 @@ Then if you control three or more basic lands, create two Food tokens. (They&apo
 		<card>
 			<name>Seamless Ceiling of Kinkaku-ji</name>
 			<text>Counter target spell if it&apos;s an instant, sorcery, or unless its controller pays {1}.</text>
-			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/62.png" num="12">GRM</set>
+			<set rarity="common" picurl="https://rachel-brighton.github.io/sets/GRM-files/img/62.png" num="12">GRM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1141,7 +1141,7 @@ Then if you control three or more basic lands, create two Food tokens. (They&apo
 			<name>Poison Nail 「Undead Murderer」</name>
 			<text>As an additional cost to cast this spell, pay X life.
 Target creature gets -X/-X until end of turn.</text>
-			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/63.png" num="20">GRM</set>
+			<set rarity="common" picurl="https://rachel-brighton.github.io/sets/GRM-files/img/63.png" num="20">GRM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1157,7 +1157,7 @@ Target creature gets -X/-X until end of turn.</text>
 		<card>
 			<name>Treasure GRM</name>
 			<text>{T}, Sacrifice this artifact: Add one mana of any color.</text>
-			<set rarity="common" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/64.png" num="8">GRM</set>
+			<set rarity="common" picurl="https://rachel-brighton.github.io/sets/GRM-files/img/64.png" num="8">GRM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1174,7 +1174,7 @@ Target creature gets -X/-X until end of turn.</text>
 			<name>Marisa, Ordinary Magician</name>
 			<text>Flying
 The Grimoire of Marisa — Whenever Marisa attacks, exile up to one instant or sorcery card from your hand or graveyard, then copy each spell exiled with her. You may cast the copies.</text>
-			<set rarity="mythic" picurl="https://Rachel-Brighton.github.io/sets/GRM-files/img/65.png" num="43">GRM</set>
+			<set rarity="mythic" picurl="https://rachel-brighton.github.io/sets/GRM-files/img/65.png" num="43">GRM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
