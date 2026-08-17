@@ -1,4 +1,51 @@
-﻿VERSION 25 CHANGELOG
+﻿VERSION 26 CHANGELOG
+====================
+
+Forbidden Magic added.
+Unnatural Nature added.
+
+
+Marisa and Alice
+cost: {4}{U}{R} => {2}{U}{R}{W}
+
+Reimu and Yukari
+cost: {3}{U}{R}{W} => {3}{R}{G}{W}
+
+Konngara, Astral Knight
+rules_text: First strike, vigilance, reach
+[i]Swordsman of a Distant Star[/i] — Whenever a creature dealt damage by Konngara this turn dies, exile it, then Konngara deals damage to each opponent equal to that creature's mana value. => Reach, first strike, vigilance
+[i]Swordsman of a Distant Star[/i] — Whenever a creature dealt damage by Konngara this turn dies, exile it, then Konngara deals damage to each opponent equal to that creature's mana value.
+
+The Coward Pierrot
+
+Panic Bomb
+cost: {1}{B} => {B}
+
+Momoyo, Onyx Dragon-Eater
+type: Legendary Creature — Insect Youkai => Legendary Creature — Centipede Youkai
+rules_text: Vigilance, trample, reach
+{4}{B}{R}{G}: Monstrosity 5. [i](If this creature isn't monstrous, put five +1/+1 counters on it and it becomes monstrous.)[/i]
+[i]Princess Who Slays Dragon Kings[/i] — When Momoyo becomes monstrous, each opponent sacrifices a creature with the highest power among creatures they control. Create four Treasure tokens. => Reach, vigilance, trample
+{4}{B}{R}{G}: Monstrosity 5. [i](If this creature isn't monstrous, put five +1/+1 counters on it and it becomes monstrous.)[/i]
+[i]Princess Who Slays Dragon Kings[/i] — When Momoyo becomes monstrous, each opponent sacrifices a creature with the highest power among creatures they control. Create four Treasure tokens.
+
+Enigmatic Vestige
+rules_text: Vigilance, reach, haste
+[i]Wind Sign[/i] — When Enigmatic Vestige enters, you may return another creature you control to its owner's hand. When you do, add {R}{G}.
+[i]Flower Sign[/i] — Other creatures you control enter with an additional +1/+1 counter on them. => Reach, vigilance, haste
+[i]Wind Sign[/i] — When Enigmatic Vestige enters, you may return another creature you control to its owner's hand. When you do, add {R}{G}.
+[i]Flower Sign[/i] — Other creatures you control enter with an additional +1/+1 counter on them.
+
+Mima, Complete Darkness
+type: Legendary Creature — Spirit Wizard => Legendary Creature — Wizard Spirit
+
+Yuuka Kazami
+rules_text: [i]Gensokyo, Past and Present[/i] — Whenever Yuuka enters or attacks, you may sacrifice a land. When you do, search your library for a land card and put it onto the battlefield, then shuffle.
+Yuuka gets +3/+3 as long as you control three or more basic lands and has vigilance, trample, and reach as long as you control three or more nonbasic lands. => [i]Gensokyo, Past and Present[/i] — Whenever Yuuka enters or attacks, you may sacrifice a land. When you do, search your library for a land card and put it onto the battlefield, then shuffle.
+Yuuka gets +3/+3 as long as you control three or more basic lands and has reach, vigilance, and trample as long as you control three or more nonbasic lands.
+
+
+VERSION 25 CHANGELOG
 ====================
 
 

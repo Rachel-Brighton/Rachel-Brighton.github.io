@@ -1,4 +1,19 @@
-﻿VERSION 16 CHANGELOG
+﻿VERSION 17 CHANGELOG
+====================
+
+Mirror Matchup added.
+Cheating Detective Satori added.
+Mizuchi Miyadeguchi added.
+Supporting Cast added.
+
+Ditto Matchup removed.
+
+Judgement
+
+Reduce to Vapor
+
+
+VERSION 16 CHANGELOG
 ====================
 
 

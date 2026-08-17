@@ -4,6 +4,7 @@
 	{ "title": "SWR", "cards":  [ "!group SWR" ] },
 	{ "title": "LoLK", "cards":  [ "!group LoLK" ] },
 	{ "title": "FW", "cards":  [ "!group FW" ] },
+	{ "title": "CDS", "cards":  [ "!group CDS" ] },
 	{ "cards":  [ "W", "U", "B", "R", "G" ] },
 	{ "title": "gold", "cards":  [ "WU", "UB", "BR", "RG", "GW" ] },
 	{ "cards":  [ "WB", "UR", "BG", "RW", "GU" ] },
