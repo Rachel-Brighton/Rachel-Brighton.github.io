@@ -1,4 +1,4 @@
-[MS Stafe 4 Boss - Forbidden Magic](https://www.youtube.com/watch?v=2OyYlBFfdxY)
+[MS Stage 4 Boss - Forbidden Magic](https://www.youtube.com/watch?v=2OyYlBFfdxY)
 
 [MS Yuki's Theme - Crimson Maiden ~ Crimson Dead!!](https://www.youtube.com/watch?v=Vsj7QloW5Zo)
 

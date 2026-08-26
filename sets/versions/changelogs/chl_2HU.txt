@@ -1,4 +1,38 @@
-﻿VERSION 26 CHANGELOG
+﻿VERSION 27 CHANGELOG
+====================
+
+The World Is Just Adorable added.
+Magical Beast Scramble added.
+
+
+Mokou, Immortal Smoke
+
+Hisami, Hell's Invitation
+
+Yamame Kurodani
+
+Seija, Bane of Gensokyo
+
+Hieda no Akyuu
+
+The Coward Pierrot
+
+Food
+
+The Jailbreak King
+
+Reimu of Eastern Winds
+
+Orb
+
+Bird
+
+Wolf Spirit
+
+Toyohime, System Administrator
+
+
+VERSION 26 CHANGELOG
 ====================
 
 Forbidden Magic added.
