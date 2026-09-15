@@ -14755,7 +14755,7 @@
             "alias": "",
             "position": "113",
             "rotated": false,
-            "notes": "!tag CDS\n!tag FDS\n!tag Print\n!tag Aya\n!tag Shameimaru\n!tag Tengu",
+            "notes": "!group CDS\n!sort 05\n\n!tag CDS\n!tag FDS\n!tag Print\n!tag Aya\n!tag Shameimaru\n!tag Tengu",
             "image_type": "png",
             "v_mana": ""
         },
@@ -14778,7 +14778,7 @@
             "alias": "",
             "position": "114",
             "rotated": false,
-            "notes": "!tag CDS\n!tag FDS\n!tag Print\n!tag Byakuren\n!tag Hijiri\n!tag Myouren",
+            "notes": "!group CDS\n!sort 03\n\n!tag CDS\n!tag FDS\n!tag Print\n!tag Byakuren\n!tag Hijiri\n!tag Myouren",
             "image_type": "png",
             "v_mana": ""
         },
@@ -14801,7 +14801,7 @@
             "alias": "",
             "position": "115",
             "rotated": false,
-            "notes": "!tag CDS\n!tag FDS\n!tag Print",
+            "notes": "!group CDS\n!sort 13\n\n!tag CDS\n!tag FDS\n!tag Print",
             "image_type": "png",
             "v_mana": ""
         },
@@ -14824,7 +14824,7 @@
             "alias": "",
             "position": "116",
             "rotated": false,
-            "notes": "!tag CDS\n!tag FDS\n!tag Print",
+            "notes": "!group CDS\n!sort 07\n\n!tag CDS\n!tag FDS\n!tag Print",
             "image_type": "png",
             "v_mana": ""
         },
@@ -14847,7 +14847,7 @@
             "alias": "",
             "position": "117",
             "rotated": false,
-            "notes": "!tag CDS\n!tag FDS\n!tag Print\n!tag Mizuchi\n!tag Miyadeguchi",
+            "notes": "!group CDS\n!sort 14\n\n!tag CDS\n!tag FDS\n!tag Print\n!tag Mizuchi\n!tag Miyadeguchi",
             "image_type": "png",
             "v_mana": ""
         },
@@ -14893,7 +14893,7 @@
             "alias": "",
             "position": "119",
             "rotated": false,
-            "notes": "!tag CDS\n!tag FDS\n!tag Print\n!tag Music\n!tag Mizuchi\n!tag Miyadeguchi\n!tag RickyRister",
+            "notes": "!group CDS\n!sort 11\n\n!tag CDS\n!tag FDS\n!tag Print\n!tag Music\n!tag Mizuchi\n!tag Miyadeguchi\n!tag RickyRister",
             "image_type": "png",
             "v_mana": "",
             "designer_notes": "<p><a href=\"https://www.youtube.com/watch?v=jfty3xGb0j8\">SoBH Stage 6 - Theory of Lethal Entertainment</a></p>\n<p><a href=\"https://rickyrister.github.io/card?set=F2HU&amp;num=82&amp;name=Lethal+Entertainment\">Reprint from Universes Beyond: Touhou Fangames/Albums by RickyRister</a></p>"
@@ -14917,7 +14917,7 @@
             "alias": "",
             "position": "120",
             "rotated": false,
-            "notes": "!tag CDS\n!tag FDS\n!tag Print\n!tag Rin\n!tag Kaenbyou\n!tag Orin\n!tag Hell\n!tag Chireiden",
+            "notes": "!group CDS\n!sort 06\n\n!tag CDS\n!tag FDS\n!tag Print\n!tag Rin\n!tag Kaenbyou\n!tag Orin\n!tag Hell\n!tag Chireiden",
             "image_type": "png",
             "v_mana": ""
         },
@@ -14940,7 +14940,7 @@
             "alias": "",
             "position": "121",
             "rotated": false,
-            "notes": "!tag CDS\n!tag FDS\n!tag Print\n!tag Hell",
+            "notes": "!group CDS\n!sort 08\n\n!tag CDS\n!tag FDS\n!tag Print\n!tag Hell",
             "image_type": "png",
             "v_mana": ""
         },
@@ -14963,7 +14963,7 @@
             "alias": "",
             "position": "122",
             "rotated": false,
-            "notes": "!tag CDS\n!tag FDS\n!tag Print\n!tag Yuugi\n!tag Hoshiguma\n!tag Hell",
+            "notes": "!group CDS\n!sort 04\n\n!tag CDS\n!tag FDS\n!tag Print\n!tag Yuugi\n!tag Hoshiguma\n!tag Hell",
             "image_type": "png",
             "v_mana": ""
         },
@@ -14986,7 +14986,7 @@
             "alias": "",
             "position": "123",
             "rotated": false,
-            "notes": "!tag CDS\n!tag FDS\n!tag Print\n!tag Mizuchi\n!tag Miyadeguchi",
+            "notes": "!group CDS\n!sort 10\n\n!tag CDS\n!tag FDS\n!tag Print\n!tag Mizuchi\n!tag Miyadeguchi",
             "image_type": "png",
             "v_mana": ""
         },
@@ -15009,7 +15009,7 @@
             "alias": "",
             "position": "124",
             "rotated": false,
-            "notes": "!tag CDS\n!tag FDS\n!tag Print\n!tag Satori\n!tag Komeiji",
+            "notes": "!group CDS\n!sort 15\n\n!tag CDS\n!tag FDS\n!tag Print\n!tag Satori\n!tag Komeiji",
             "image_type": "png",
             "v_mana": ""
         },

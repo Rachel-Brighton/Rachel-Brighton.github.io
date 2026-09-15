@@ -866,99 +866,12 @@
         "position": "106"
     },
     {
-        "card_name": "Supporting Cast",
-        "number": 7,
-        "shape": "normal",
-        "set": "INC",
-        "rotated": false,
-        "position": "109"
-    },
-    {
-        "card_name": "Hate",
-        "number": 42,
-        "shape": "normal",
-        "set": "INC",
-        "rotated": false,
-        "position": "118"
-    },
-    {
-        "card_name": "Island",
-        "number": 114,
-        "shape": "normal",
-        "set": "INC",
-        "rotated": false,
-        "position": "107"
-    },
-    {
-        "card_name": "Swamp",
-        "number": 115,
-        "shape": "normal",
-        "set": "INC",
-        "rotated": false,
-        "position": "110"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "e"
-    },
-    {
         "card_name": "Byakuren, Head Priest",
         "number": 25,
         "shape": "normal",
         "set": "INC",
         "rotated": false,
         "position": "114"
-    },
-    {
-        "card_name": "Lethal Entertainment",
-        "number": 47,
-        "shape": "normal",
-        "set": "INC",
-        "rotated": false,
-        "position": "119"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Aya, Reporter on the Case",
-        "number": 24,
-        "shape": "normal",
-        "set": "INC",
-        "rotated": false,
-        "position": "113"
     },
     {
         "card_name": "Yuugi, Former Hell Kingpin",
@@ -969,21 +882,12 @@
         "position": "122"
     },
     {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Exclusion Zone",
-        "number": 27,
+        "card_name": "Aya, Reporter on the Case",
+        "number": 24,
         "shape": "normal",
         "set": "INC",
         "rotated": false,
-        "position": "115"
+        "position": "113"
     },
     {
         "card_name": "Rin, Detective's Assistant",
@@ -992,15 +896,6 @@
         "set": "INC",
         "rotated": false,
         "position": "120"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "Unconscious Victim",
@@ -1019,46 +914,12 @@
         "position": "121"
     },
     {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Unnatural Reaction",
-        "number": 36,
+        "card_name": "Supporting Cast",
+        "number": 7,
         "shape": "normal",
         "set": "INC",
         "rotated": false,
-        "position": "117"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    "a->gold",
-    {
-        "card_name": "e"
+        "position": "109"
     },
     {
         "card_name": "Outplay",
@@ -1069,16 +930,36 @@
         "position": "123"
     },
     {
-        "card_name": "e"
+        "card_name": "Lethal Entertainment",
+        "number": 47,
+        "shape": "normal",
+        "set": "INC",
+        "rotated": false,
+        "position": "119"
     },
     {
-        "card_name": "e"
+        "card_name": "Hate",
+        "number": 42,
+        "shape": "normal",
+        "set": "INC",
+        "rotated": false,
+        "position": "118"
     },
     {
-        "card_name": "e"
+        "card_name": "Exclusion Zone",
+        "number": 27,
+        "shape": "normal",
+        "set": "INC",
+        "rotated": false,
+        "position": "115"
     },
     {
-        "card_name": "e"
+        "card_name": "Unnatural Reaction",
+        "number": 36,
+        "shape": "normal",
+        "set": "INC",
+        "rotated": false,
+        "position": "117"
     },
     {
         "card_name": "Search for Answers",
@@ -1087,6 +968,22 @@
         "set": "INC",
         "rotated": false,
         "position": "124"
+    },
+    {
+        "card_name": "Island",
+        "number": 114,
+        "shape": "normal",
+        "set": "INC",
+        "rotated": false,
+        "position": "107"
+    },
+    {
+        "card_name": "Swamp",
+        "number": 115,
+        "shape": "normal",
+        "set": "INC",
+        "rotated": false,
+        "position": "110"
     },
     {
         "card_name": "e"

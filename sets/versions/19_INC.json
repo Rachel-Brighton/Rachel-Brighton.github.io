@@ -2399,7 +2399,7 @@
             "alias": "",
             "position": "113",
             "rotated": false,
-            "notes": "!tag CDS\n!tag FDS\n!tag Print\n!tag Aya\n!tag Shameimaru\n!tag Tengu"
+            "notes": "!group CDS\n!sort 05\n\n!tag CDS\n!tag FDS\n!tag Print\n!tag Aya\n!tag Shameimaru\n!tag Tengu"
         },
         {
             "card_name": "Byakuren, Head Priest",
@@ -2420,7 +2420,7 @@
             "alias": "",
             "position": "114",
             "rotated": false,
-            "notes": "!tag CDS\n!tag FDS\n!tag Print\n!tag Byakuren\n!tag Hijiri\n!tag Myouren"
+            "notes": "!group CDS\n!sort 03\n\n!tag CDS\n!tag FDS\n!tag Print\n!tag Byakuren\n!tag Hijiri\n!tag Myouren"
         },
         {
             "card_name": "Exclusion Zone",
@@ -2441,7 +2441,7 @@
             "alias": "",
             "position": "115",
             "rotated": false,
-            "notes": "!tag CDS\n!tag FDS\n!tag Print"
+            "notes": "!group CDS\n!sort 13\n\n!tag CDS\n!tag FDS\n!tag Print"
         },
         {
             "card_name": "Unconscious Victim",
@@ -2462,7 +2462,7 @@
             "alias": "",
             "position": "116",
             "rotated": false,
-            "notes": "!tag CDS\n!tag FDS\n!tag Print"
+            "notes": "!group CDS\n!sort 07\n\n!tag CDS\n!tag FDS\n!tag Print"
         },
         {
             "card_name": "Unnatural Reaction",
@@ -2483,7 +2483,7 @@
             "alias": "",
             "position": "117",
             "rotated": false,
-            "notes": "!tag CDS\n!tag FDS\n!tag Print\n!tag Mizuchi\n!tag Miyadeguchi"
+            "notes": "!group CDS\n!sort 14\n\n!tag CDS\n!tag FDS\n!tag Print\n!tag Mizuchi\n!tag Miyadeguchi"
         },
         {
             "card_name": "Hate",
@@ -2525,7 +2525,7 @@
             "alias": "",
             "position": "119",
             "rotated": false,
-            "notes": "!tag CDS\n!tag FDS\n!tag Print\n!tag Music\n!tag Mizuchi\n!tag Miyadeguchi\n!tag RickyRister"
+            "notes": "!group CDS\n!sort 11\n\n!tag CDS\n!tag FDS\n!tag Print\n!tag Music\n!tag Mizuchi\n!tag Miyadeguchi\n!tag RickyRister"
         },
         {
             "card_name": "Rin, Detective's Assistant",
@@ -2546,7 +2546,7 @@
             "alias": "",
             "position": "120",
             "rotated": false,
-            "notes": "!tag CDS\n!tag FDS\n!tag Print\n!tag Rin\n!tag Kaenbyou\n!tag Orin\n!tag Hell\n!tag Chireiden"
+            "notes": "!group CDS\n!sort 06\n\n!tag CDS\n!tag FDS\n!tag Print\n!tag Rin\n!tag Kaenbyou\n!tag Orin\n!tag Hell\n!tag Chireiden"
         },
         {
             "card_name": "Spiteful Soul",
@@ -2567,7 +2567,7 @@
             "alias": "",
             "position": "121",
             "rotated": false,
-            "notes": "!tag CDS\n!tag FDS\n!tag Print\n!tag Hell"
+            "notes": "!group CDS\n!sort 08\n\n!tag CDS\n!tag FDS\n!tag Print\n!tag Hell"
         },
         {
             "card_name": "Yuugi, Former Hell Kingpin",
@@ -2588,7 +2588,7 @@
             "alias": "",
             "position": "122",
             "rotated": false,
-            "notes": "!tag CDS\n!tag FDS\n!tag Print\n!tag Yuugi\n!tag Hoshiguma\n!tag Hell"
+            "notes": "!group CDS\n!sort 04\n\n!tag CDS\n!tag FDS\n!tag Print\n!tag Yuugi\n!tag Hoshiguma\n!tag Hell"
         },
         {
             "card_name": "Outplay",
@@ -2609,7 +2609,7 @@
             "alias": "",
             "position": "123",
             "rotated": false,
-            "notes": "!tag CDS\n!tag FDS\n!tag Print\n!tag Mizuchi\n!tag Miyadeguchi"
+            "notes": "!group CDS\n!sort 10\n\n!tag CDS\n!tag FDS\n!tag Print\n!tag Mizuchi\n!tag Miyadeguchi"
         },
         {
             "card_name": "Search for Answers",
@@ -2630,7 +2630,7 @@
             "alias": "",
             "position": "124",
             "rotated": false,
-            "notes": "!tag CDS\n!tag FDS\n!tag Print\n!tag Satori\n!tag Komeiji"
+            "notes": "!group CDS\n!sort 15\n\n!tag CDS\n!tag FDS\n!tag Print\n!tag Satori\n!tag Komeiji"
         },
         {
             "card_name": "Land of the Backdoor",

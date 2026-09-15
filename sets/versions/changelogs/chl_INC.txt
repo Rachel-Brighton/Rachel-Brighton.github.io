@@ -1,4 +1,32 @@
-﻿VERSION 18 CHANGELOG
+﻿VERSION 19 CHANGELOG
+====================
+
+
+
+Aya, Reporter on the Case
+
+Byakuren, Head Priest
+
+Exclusion Zone
+
+Unconscious Victim
+
+Unnatural Reaction
+
+Lethal Entertainment
+
+Rin, Detective's Assistant
+
+Spiteful Soul
+
+Yuugi, Former Hell Kingpin
+
+Outplay
+
+Search for Answers
+
+
+VERSION 18 CHANGELOG
 ====================
 
 Clue added.
