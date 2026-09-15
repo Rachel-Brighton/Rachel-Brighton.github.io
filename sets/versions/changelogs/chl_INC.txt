@@ -1,4 +1,86 @@
-﻿VERSION 17 CHANGELOG
+﻿VERSION 18 CHANGELOG
+====================
+
+Clue added.
+Aya, Reporter on the Case added.
+Byakuren, Head Priest added.
+Exclusion Zone added.
+Unconscious Victim added.
+Unnatural Reaction added.
+Hate added.
+Lethal Entertainment added.
+Rin, Detective's Assistant added.
+Spiteful Soul added.
+Yuugi, Former Hell Kingpin added.
+Outplay added.
+Search for Answers added.
+Land of the Backdoor added.
+Food added.
+
+
+Cirno, Ice Spirit on the Lake
+
+Toyohime, System Administrator
+
+Ubame, Yamanba Chief
+rules_text: Flash
+[i]Cosmic Dust[/i] — When Ubame enters, untap another target creature you control. => Flash
+[i]Cosmic Dust[/i] — When Ubame enters, tap or untap another target creature.
+
+Aya, Closest Available Responder
+
+Hecatia, Goddess of Hell
+
+Youmu, Verdant Open Sky
+
+Drunk As I Like
+
+Temperamental Sky
+
+Heavenly Keystone
+
+Heaven Through a Child's Mind
+
+Scarlet Detonation
+
+Bumper Crop
+
+Excessive Monologuing
+
+Peaches of Paradise
+
+Casual Arson
+
+Incorruptible Perfection
+
+Just Dodge It, Bro
+
+Prune Reality
+
+Safe Zone
+
+Reduce to Vapor
+
+Countless Native Gods
+
+Cheating Detective Satori
+rules_text: Menace
+[i]Mind reader[/i] — When Satori enters, for each opponent, that player reveals their hand and you investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i]
+{2}, {T}, Sacrifice a Clue: Exile target card from an opponent's graveyard. Until end of turn, you may cast that card and mana of any type may be spent to cast it. => Menace
+[i]Mind reader[/i] — When Satori enters, for each opponent, that player reveals their hand and you investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i]
+{2}, Sacrifice a Clue: Exile target card from an opponent's graveyard. Until end of turn, you may cast that card and mana of any type may be spent to cast it.
+
+Mizuchi Miyadeguchi
+
+Supporting Cast
+rules_text: When this creature enters, scry 2. [i](Look at the top two cards of your library, then put any number of them on the bottom and the rest on top in any order.)[/i]
+{1}: Add one mana of any color. Activate only once each turn. => When this creature enters, surveil 2. [i](Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i]
+{1}: Add one mana of any color. Activate only once each turn.
+
+Yukari, Fantastic Sunshower
+
+
+VERSION 17 CHANGELOG
 ====================
 
 Mirror Matchup added.
