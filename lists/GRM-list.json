@@ -205,7 +205,7 @@
         "shape": "normal",
         "set": "GRM",
         "rotated": false,
-        "position": "61"
+        "position": "56"
     },
     {
         "card_name": "Perfect Freeze",
@@ -237,7 +237,7 @@
         "shape": "normal",
         "set": "GRM",
         "rotated": false,
-        "position": "59"
+        "position": "54"
     },
     {
         "card_name": "Spirit Sign \u300cFantasy Seal\u300d",
@@ -253,7 +253,7 @@
         "shape": "normal",
         "set": "GRM",
         "rotated": false,
-        "position": "62"
+        "position": "57"
     },
     {
         "card_name": "Poison Nail \u300cUndead Murderer\u300d",
@@ -261,7 +261,7 @@
         "shape": "normal",
         "set": "GRM",
         "rotated": false,
-        "position": "63"
+        "position": "58"
     },
     {
         "card_name": "Illusionary Dominance",
@@ -269,7 +269,7 @@
         "shape": "normal",
         "set": "GRM",
         "rotated": false,
-        "position": "60"
+        "position": "55"
     },
     {
         "card_name": "Esoterica \u300cForgotten Ritual\u300d",
@@ -408,7 +408,7 @@
         "shape": "planeswalker",
         "set": "GRM",
         "rotated": false,
-        "position": "50"
+        "position": "65"
     },
     {
         "card_name": "Kasen, the Hermit Sage",
@@ -416,7 +416,7 @@
         "shape": "planeswalker",
         "set": "GRM",
         "rotated": false,
-        "position": "47"
+        "position": "62"
     },
     {
         "card_name": "Okina, Sage of Doors",
@@ -424,7 +424,7 @@
         "shape": "planeswalker",
         "set": "GRM",
         "rotated": false,
-        "position": "48"
+        "position": "63"
     },
     {
         "card_name": "Shinki, Ordeal from God",
@@ -432,7 +432,7 @@
         "shape": "planeswalker",
         "set": "GRM",
         "rotated": false,
-        "position": "49"
+        "position": "64"
     },
     {
         "card_name": "Sumireko, Last Occultist",
@@ -440,7 +440,7 @@
         "shape": "planeswalker",
         "set": "GRM",
         "rotated": false,
-        "position": "46"
+        "position": "61"
     },
     {
         "card_name": "Marisa, Ordinary Magician",
@@ -448,7 +448,7 @@
         "shape": "normal",
         "set": "GRM",
         "rotated": false,
-        "position": "65"
+        "position": "60"
     },
     {
         "card_name": "Dreamworld Doppelganger",
@@ -456,7 +456,7 @@
         "shape": "normal",
         "set": "GRM",
         "rotated": false,
-        "position": "58"
+        "position": "53"
     },
     {
         "card_name": "e"
@@ -547,7 +547,7 @@
         "shape": "token",
         "set": "GRM",
         "rotated": false,
-        "position": "64"
+        "position": "59"
     },
     {
         "card_name": "Vehicle",
@@ -555,7 +555,7 @@
         "shape": "token",
         "set": "GRM",
         "rotated": false,
-        "position": "56"
+        "position": "51"
     },
     {
         "card_name": "Spirit",
@@ -563,7 +563,7 @@
         "shape": "token",
         "set": "GRM",
         "rotated": false,
-        "position": "51"
+        "position": "46"
     },
     {
         "card_name": "Spirit",
@@ -571,7 +571,7 @@
         "shape": "token",
         "set": "GRM",
         "rotated": false,
-        "position": "52"
+        "position": "47"
     },
     {
         "card_name": "Demon",
@@ -579,7 +579,7 @@
         "shape": "token",
         "set": "GRM",
         "rotated": false,
-        "position": "57"
+        "position": "52"
     },
     {
         "card_name": "Faerie Army",
@@ -587,7 +587,7 @@
         "shape": "token",
         "set": "GRM",
         "rotated": false,
-        "position": "53"
+        "position": "48"
     },
     {
         "card_name": "Wolf Spirit",
@@ -595,7 +595,7 @@
         "shape": "token",
         "set": "GRM",
         "rotated": false,
-        "position": "54"
+        "position": "49"
     },
     {
         "card_name": "Youkai",
@@ -603,7 +603,7 @@
         "shape": "token",
         "set": "GRM",
         "rotated": false,
-        "position": "55"
+        "position": "50"
     },
     {
         "card_name": "e"

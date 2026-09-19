@@ -1,4 +1,149 @@
-﻿VERSION 15 CHANGELOG
+﻿VERSION 16 CHANGELOG
+====================
+
+Pet Chupacabra added.
+Blood added.
+Lunar Subjugation added.
+Gathering of New Powers added.
+Stealing Christmas added.
+Driven to Extremes added.
+Suima's Phantasm added.
+
+Now, Until Your Final Breath removed.
+Apparitions Stalk the Night removed.
+Nightstalker removed.
+Immemorial Marketeer removed.
+Hidden Star in All Seasons removed.
+Solar Sect of Mystic Wisdom removed.
+Grave of Being removed.
+
+The White Rabbit's Trick
+
+The Purest Sky and Sea
+
+Ancient Sanctuary
+
+Silent Sinner in Blue
+
+Curiosities of Lotus Asia
+
+Forbidden Scrollery
+
+Visionary Fairies in Shrine
+
+Wild and Horned Hermit
+
+Magic is All About Power
+
+Hellfire Mantle
+
+Netherworld Gates
+
+Garden of the Sun
+
+Youkai Mountain
+
+The Gensokyo Chronicle
+
+Cheating Detective Satori
+rules_text: Menace
+[i]Mind Reader[/i] — When Satori enters, for each opponent, that player reveals their hand and you investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i]
+{2}, {T}, Sacrifice a Clue: Exile target card from an opponent's graveyard. Until end of turn, you may cast that card and mana of any type may be spent to cast it. => Menace
+[i]Mind Reader[/i] — When Satori enters, for each opponent, that player reveals their hand and you investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i]
+{2}, Sacrifice a Clue: Exile target card from an opponent's graveyard. Until end of turn, you may cast that card and mana of any type may be spent to cast it.
+
+Aya, Reporter of Fantasy
+
+Mizuchi, Traitor to Humanity
+
+Reimu, Spirits' Grudge
+
+Mysterious Medicine Merchant
+
+Kappa Tinkerers
+
+Choujuu Gigaku
+
+Remote-Work Zashiki-Warashi
+
+Helpful Hofgoblin
+
+Lord Tenma's Command
+
+Those Were Good Pills
+
+Thirst for Companionship
+
+Reduce to Vapor
+
+Fairy Menace
+
+Twin Spark
+
+Raiko, Guest Drummer
+
+Aunn, Temple Helper
+
+Mamizou, Ever Watching
+
+Faerie Army
+
+Enenra
+
+Great Fairies
+
+Kitsune Impostor
+
+A Little Sin
+
+Magician's Companion
+
+Shadow Mirror
+
+Spirit Mirror
+
+Spirit of the Hakurei Relic
+
+Tanuki Impostor
+
+TORIFUNE Monstrosity
+
+Tenshi, Earthbound
+
+A Discerning Customer
+
+Whitewater Champions
+
+Personalized Fortune Slip
+
+Youkai
+
+Rabbit
+
+Roukanken and Hakurouken
+
+Iron Rings of Moriya
+
+Bird Youkai
+
+Spirit
+
+Food
+
+Clue
+
+Copy
+
+Oni of the Night Parade
+
+Stone Cherry
+
+Treasure
+
+Road of Liminality
+
+
+VERSION 15 CHANGELOG
 ====================
 
 

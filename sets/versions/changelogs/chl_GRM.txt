@@ -1,4 +1,70 @@
-﻿VERSION 10 CHANGELOG
+﻿VERSION 11 CHANGELOG
+====================
+
+
+
+Esoterica 「Forgotten Ritual」
+
+Blood
+
+Hopeless Masquerade
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Until your next turn, creatures you don't control get -2/-0.
+II — Draw two cards, then discard a card.
+III — Another target artifact or enchantment you control becomes a 5/5 Spirit creature in addition to its other types. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Until your next turn, creatures attacking you get -2/-0.
+II — Draw two cards, then discard a card.
+III — Another target artifact or enchantment you control becomes a 5/5 Spirit creature in addition to its other types.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Until your next turn, creatures you don't control get -2/-0.
+II — Draw two cards, then discard a card.
+III — Another target artifact or enchantment you control becomes a 5/5 Spirit creature in addition to its other types. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Until your next turn, creatures attacking you get -2/-0.
+II — Draw two cards, then discard a card.
+III — Another target artifact or enchantment you control becomes a 5/5 Spirit creature in addition to its other types.
+
+Spirit
+
+Spirit
+
+Faerie Army
+
+Wolf Spirit
+
+Youkai
+
+Vehicle
+
+Demon
+
+Dreamworld Doppelganger
+
+Bumper Crop
+
+Illusionary Dominance
+
+Price of Life
+
+Seamless Ceiling of Kinkaku-ji
+
+Poison Nail 「Undead Murderer」
+
+Treasure
+
+Marisa, Ordinary Magician
+
+Sumireko, Last Occultist
+
+Kasen, the Hermit Sage
+
+Okina, Sage of Doors
+
+Shinki, Ordeal from God
+
+Yukari, Sage of Boundaries
+
+
+VERSION 10 CHANGELOG
 ====================
 
 

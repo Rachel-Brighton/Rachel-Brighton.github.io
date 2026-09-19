@@ -1,4 +1,474 @@
-﻿VERSION 8 CHANGELOG
+﻿VERSION 9 CHANGELOG
+====================
+
+Lunar Subjugation added.
+Gathering of New Powers added.
+Pet Chupacabra added.
+Stealing Christmas added.
+Driven to Extremes added.
+Suima's Phantasm added.
+Faerie Army added.
+Blood added.
+Treasure added.
+Incident Resolvers added.
+Junko added.
+Supporting Cast added.
+Cage of Marital Vows added.
+Incorruptible Perfection added.
+Lunar Reinforcements added.
+Ringo, Eagle Ravi Orange added.
+Safe Zone added.
+Seiran, Eagle Ravi Blue added.
+Superiority added.
+Aya, Reporter on the Case added.
+Byakuren, Head Priest added.
+Excessive Monologuing added.
+Exclusion Zone added.
+Prune Reality added.
+Unconscious Victim added.
+Unnatural Reaction added.
+Clownpiece, Star-Spangled Pierrot added.
+Existential Humankind added.
+Fairy Hellraiser added.
+Hate added.
+Hecatia, Goddess of Hell added.
+Lethal Entertainment added.
+Nightmares Never Before Seen added.
+Rin, Detective's Assistant added.
+Spiteful Soul added.
+Yuugi, Former Hell Kingpin added.
+Casual Arson added.
+Iku, Envoy of the Dragon Palace added.
+Lightning Word added.
+Mirror Matchup added.
+Reisen, Red-Eyed Vapor added.
+Scarlet Detonation added.
+Temperamental Sky added.
+Drunk As I Like added.
+Heaven Through a Child's Mind added.
+High-Angle Shot added.
+Suika, Night's Sprinkle added.
+Youmu, Verdant Open Sky added.
+Judgement added.
+Mizuchi Miyadeguchi added.
+Outplay added.
+Sagume, The Careful Tongue added.
+Tenshi, Catastrophe in Heaven added.
+Yukari, Fantastic Sunshower added.
+First and Final Nameless Spell added.
+Heavenly Keystone added.
+Search for Answers added.
+Peaches of Paradise added.
+Shanghai Doll added.
+Rabbit added.
+Faerie Army added.
+Youkai added.
+Clue added.
+Food added.
+
+Apparitions Stalk the Night removed.
+Nightstalker removed.
+Incident Resolvers (MoF) removed.
+
+Lord Tenma's Command
+
+Remote-Work Zashiki-Warashi
+
+Silent Sinner in Blue
+
+Those Were Good Pills
+
+Curiosities of Lotus Asia
+
+Kappa Tinkerers
+
+The Gensokyo Chronicle
+
+Thirst for Companionship
+
+Forbidden Scrollery
+
+Oni of the Night Parade
+
+Magic is All About Power
+
+Visionary Fairies in Shrine
+
+The White Rabbit's Trick
+
+Helpful Hofgoblin
+
+The Purest Sky and Sea
+
+Twin Spark
+
+Wild and Horned Hermit
+
+Aunn, Temple Helper
+
+Aya, Reporter of Fantasy
+rules_text: Flash
+Flying, haste
+[i]Candid Shot[/i] — When Aya enters, look at target player's hand and choose a card in it. That player reveals that card, and Aya deals damage to them equal to its mana value.
+{3}{U}{R}: Return Aya to her owner's hand. => Flash
+Flying, haste
+[i]Candid Shot[/i] — When Aya enters, look at target player's hand and choose a card in it. That player reveals that card, then may have Aya deal damage to them equal to its mana value. If they don't, they put that card on the bottom of their library.
+{3}{U}{R}: Return Aya to her owner's hand.
+
+Choujuu Gigaku
+
+A Discerning Customer
+
+Mamizou, Ever Watching
+
+Mizuchi, Traitor to Humanity
+
+Mysterious Medicine Merchant
+
+Raiko, Guest Drummer
+
+Reimu, Spirits' Grudge
+
+Tenshi, Earthbound
+
+Whitewater Champions
+
+Enenra
+
+Great Fairies
+
+Kitsune Impostor
+
+A Little Sin
+
+Magician's Companion
+
+Shadow Mirror
+
+Spirit Mirror
+
+Spirit of the Hakurei Relic
+
+Tanuki Impostor
+
+TORIFUNE Monstrosity
+
+Iron Rings of Moriya
+
+Personalized Fortune Slip
+
+Roukanken and Hakurouken
+
+Stone Cherry
+
+Ancient Sanctuary
+
+Garden of the Sun
+
+Hellfire Mantle
+
+Land of the Backdoor
+
+Netherworld Gates
+
+Probability Space Hypervessel
+
+Road of Liminality
+
+Sea of Tranquility
+
+Wonderful Heaven
+
+Youkai Mountain
+
+Copy
+
+Bird Youkai
+
+Rabbit
+
+Spirit
+
+Faerie Army
+
+Youkai
+
+Blood
+
+Clue
+
+Food
+
+Treasure
+
+Final Spell: Last Word
+
+Dance of Dazzling Iridescence
+
+Fey Inaba
+
+Lyrica, Solo Live
+
+Matsuyoi-Reflecting Slash
+
+Price of Life
+
+Spirit Sign 「Fantasy Seal」
+
+Urban Legend in Limbo
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create two 1/1 white Spirit creature tokens with flying.
+II — Until end of turn, whenever a creature you control attacks, put a +1/+1 counter on it.
+III — You may reveal a Legendary card you own from outside the game and put it into your hand. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create two 1/1 white Spirit creature tokens with flying.
+II — Whenever a creature you control attacks this turn, it gets +1/+1 until end of turn.
+III — You may reveal a Legendary card you own from outside the game and put it into your hand.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create two 1/1 white Spirit creature tokens with flying.
+II — Until end of turn, whenever a creature you control attacks, put a +1/+1 counter on it.
+III — You may reveal a Legendary card you own from outside the game and put it into your hand. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create two 1/1 white Spirit creature tokens with flying.
+II — Whenever a creature you control attacks this turn, it gets +1/+1 until end of turn.
+III — You may reveal a Legendary card you own from outside the game and put it into your hand.
+
+Bitch, Get Out Of The Way!
+
+Hopeless Masquerade
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Until your next turn, creatures you don't control get -2/-0.
+II — Draw two cards, then discard a card.
+III — Another target artifact or enchantment you control becomes a 5/5 Spirit creature in addition to its other types. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Until your next turn, creatures attacking you get -2/-0.
+II — Draw two cards, then discard a card.
+III — Another target artifact or enchantment you control becomes a 5/5 Spirit creature in addition to its other types.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Until your next turn, creatures you don't control get -2/-0.
+II — Draw two cards, then discard a card.
+III — Another target artifact or enchantment you control becomes a 5/5 Spirit creature in addition to its other types. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Until your next turn, creatures attacking you get -2/-0.
+II — Draw two cards, then discard a card.
+III — Another target artifact or enchantment you control becomes a 5/5 Spirit creature in addition to its other types.
+
+Perfect Freeze
+
+Seamless Ceiling of Kinkaku-ji
+
+Spark-Like Flashlight
+
+Spellbound Volume
+
+Yachie, Irresistable Matriarch
+
+Antinomy of Common Flowers
+
+Just Dodge It, Bro
+
+Koishi, Right Behind You
+
+Pichuun!
+
+Poison Nail 「Undead Murderer」
+
+Yuuma, Blood Titan
+
+Zombie Fairy
+
+For Her Sake
+
+Full Focus
+
+Hell's Tokamak
+
+Illusionary Dominance
+
+Mob Swarm
+
+Saki, Charging Matriarch
+
+Scarlet Weather Rhapsody
+
+Aerial Combat
+
+Esoterica 「Forgotten Ritual」
+
+Follow Me, Unafraid
+
+Immaterial and Missing Power
+
+Monstrous Minions
+
+Suika, Tiny Night Parade
+
+Byakuren, Turbo Rider
+
+Cirno, Summer Freeze
+
+Dreamworld Doppelganger
+
+Flandre, Matara's Ace
+
+Futo, Plate Breaker
+
+Kasen, the Hermit Sage
+
+Marisa, Ordinary Magician
+
+Meiling, Dream Guardian
+
+Miko, Almighty Tao
+
+Okina, Sage of Doors
+
+Sakuya, Perfect and Elegant
+
+Sanae Kochiya
+
+Shinki, Ordeal from God
+
+Sumireko, Last Occultist
+
+Yamame, Bright Net in the Dark
+
+Youmu, Half-Phantom
+
+Yukari, Sage of Boundaries
+
+Gun Sign 「3D Printer Gun」
+rules_text: {7}, {T}, Sacrifice this artifact: Destroy target permanent.
+{T}, Remove two loyalty counters from a planeswalker you control, Sacrifice this artifact: Destroy target permanent. => {7}, {T}, Sacrifice this artifact: Destroy target nonland permanent.
+{T}, Remove two loyalty counters from a planeswalker you control, Sacrifice this artifact: Destroy target nonland permanent.
+
+Magician's Broom
+
+Mini-Hakkero
+
+Otherworld Observer
+
+Spirit
+
+Spirit
+
+Demon
+
+Wolf Spirit
+
+Youkai
+
+Vehicle
+
+Aspect Shift
+
+Breach the Sanctuary
+
+Hallucinated Companion
+
+Toyohime, System Administrator
+rules_text: Flash
+When Toyohime enters, choose one —
+• Exile target enchantment.
+• Exile target graveyard.
+• Exile target creature, then return it to the battlefield at the beginning of your next upkeep. => Flash
+When Toyohime enters, choose one —
+• Exile target enchantment.
+• Exile target player's graveyard.
+• Exile another target creature, then return it to the battlefield at the beginning of your next upkeep.
+
+Ubame, Yamanba Chief
+rules_text: Flash
+[i]Cosmic Dust[/i] — When Ubame enters, untap another target creature you control. => Flash
+[i]Cosmic Dust[/i] — When Ubame enters, tap or untap another target creature.
+
+Artistic Dedication
+
+Asama Purifying Mountain
+
+Autumnal Waterfall
+
+Aya, Closest Available Responder
+
+Fiction Sign
+
+For the Glory of the Moon
+
+Nareko, Confined Dousojin
+
+Nitori, Candid Friend
+
+Patrol of Nine Heavens
+
+Unchanging Daily Life
+
+Dangerous Curiosity
+
+Forbidden 「Starbow Break」
+
+Knight of Nights
+
+Reduce to Vapor
+
+Rumia, Wrapped in Dusk
+
+Sakuya, the Head Maid
+
+Cirno, Ice Spirit on the Lake
+
+A Dream More Scarlet
+
+Fairy Menace
+
+Fog Sign
+
+Meiling, the Gatekeeper
+
+Scarlet Gensokyo
+
+Sun Sign 「Royal Flare」
+
+Bumper Crop
+
+Countless Native Gods
+
+Hina, Dark Side of Fate
+
+Horizon Sign
+
+Hunt for Trespassers
+
+Suwako, Old God of Moriya
+
+Ariya, Spirit of Permanence
+
+Cheating Detective Satori
+rules_text: Menace
+[i]Mind Reader[/i] — When Satori enters, for each opponent, that player reveals their hand and you investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i]
+{2}, {T}, Sacrifice a Clue: Exile target card from an opponent's graveyard. Until end of turn, you may cast that card and mana of any type may be spent to cast it. => Menace
+[i]Mind reader[/i] — When Satori enters, for each opponent, that player reveals their hand and you investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i]
+{2}, Sacrifice a Clue: Exile target card from an opponent's graveyard. Until end of turn, you may cast that card and mana of any type may be spent to cast it.
+
+Flandre, Sister of the Devil
+
+Kanako, Avatar of Mountains
+
+Remilia, the Scarlet Devil
+
+Yuiman, Data Purifier
+
+God's Wind
+
+Little Devil
+
+Overflowing Wonder
+
+Wonder Stone
+
+Genbu Ravine
+
+Otherland's Edge
+
+Copy
+
+
+VERSION 8 CHANGELOG
 ====================
 
 
