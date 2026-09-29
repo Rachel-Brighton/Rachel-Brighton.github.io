@@ -1,4 +1,33 @@
-﻿VERSION 19 CHANGELOG
+﻿VERSION 20 CHANGELOG
+====================
+
+
+
+Rumia, Wrapped in Dusk
+rules_text: [i]Night Bird[/i] — {B}, Exile Rumia, Wrapped in Dusk from your graveyard: Draw a card. => [i]Night Bird[/i] — {1}{B}, Exile Rumia, Wrapped in Dusk from your graveyard: Draw a card and you lose 1 life.
+
+Flandre, Sister of the Devil
+cost: {2}{B}{R} => {3}{B}{R}
+rules_text: Flying
+[i]Lävatein[/i] — When Flandre enters, each opponent sacrifices a nontoken creature of their choice and discards a card. => Flying
+[i]Lävatein[/i] — When Flandre enters, each opponent sacrifices a creature of their choice and discards a card.
+
+Hina, Dark Side of Fate
+rules_text: Trample
+[i]Exiled Doll[/i] — When Hina enters, destroy up to one target artifact or enchantment. If you controlled it, draw a card. => [i]Exiled Doll[/i] — When Hina enters, destroy up to one target artifact or enchantment. If you controlled it, draw a card.
+pt: 3/2 => 3/1
+
+Iku, Envoy of the Dragon Palace
+rules_text: Flying, haste
+[i]Dragon Fish's Wrath[/i] — When Iku enters, you may discard a card. If you do, she deals 3 damage to any target and 3 damage to you. => Flying, haste
+[i]Dragon Fish's Wrath[/i] — When Iku enters, you may discard a card. If you do, she deals 3 damage to any nonplayer target and 3 damage to you.
+
+Just Dodge It, Bro
+rules_text: Until end of turn, creatures your opponents control lose hexproof, ward, protection, and indestructible and can't have or gain those abilities. => Until end of turn, creatures your opponents control lose hexproof, ward, protection, and indestructible and can't have or gain those abilities.
+Cycling {2} [i]({2}, Discard this card: Draw a card.)[/i]
+
+
+VERSION 19 CHANGELOG
 ====================
 
 

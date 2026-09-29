@@ -5,7 +5,7 @@
 			<name>GRM</name>
 			<longname>Grimoire of Spellfire</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-09-19</releasedate>
+			<releasedate>2026-09-28</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -61,7 +61,8 @@ Target creature gets -X/-0 until end of turn. Tap it. Its controller mills twice
 		</card>
 		<card>
 			<name>Just Dodge It, Bro</name>
-			<text>Until end of turn, creatures your opponents control lose hexproof, ward, protection, and indestructible and can&apos;t have or gain those abilities.</text>
+			<text>Until end of turn, creatures your opponents control lose hexproof, ward, protection, and indestructible and can&apos;t have or gain those abilities.
+Cycling {2} ({2}, Discard this card: Draw a card.)</text>
 			<set rarity="common" picurl="https://rachel-brighton.github.io/sets/GRM-files/img/3.png" num="17">GRM</set>
 			<prop>
 				<layout>normal</layout>
@@ -194,7 +195,7 @@ Venom Web — When Yamame enters, put a -1/-1 counter on each tapped creature.</
 		<card>
 			<name>Lyrica, Solo Live // Phantom Noise</name>
 			<text>Flying
-Lyrica enters with two additional +1/+1 counters on her if a creature you control left the battlefield this turn.
+When Lyrica enters, put a +1/+1 counter on her if a creature you control left the battlefield this turn.
 
 ---
 
@@ -203,7 +204,7 @@ Exile target creature you control, then return it to the battlefield under its o
 			<prop>
 				<layout>adventure</layout>
 				<side>front</side>
-				<type>Legendary Creature — Spirit Bard // Instant — Adventure</type>
+				<type>Legendary Creature — Spirit Bard // Sorcery — Adventure</type>
 				<maintype>Creature</maintype>
 				<manacost>1W // W</manacost>
 				<cmc>2</cmc>
@@ -220,7 +221,7 @@ Whenever one or more creatures deal combat damage to one of your opponents, the 
 
 ---
 
-Target creature can&apos;t be blocked this turn.</text>
+Target creature can&apos;t be blocked this turn. (Then exile this card. You may cast the creature later from exile.)</text>
 			<set rarity="rare" picurl="https://rachel-brighton.github.io/sets/GRM-files/img/12.png" num="15">GRM</set>
 			<prop>
 				<layout>adventure</layout>
@@ -261,14 +262,14 @@ When Koishi enters, you may discard a card. If you do, she gains haste and shado
 
 ---
 
-You draw a card and lose 1 life.</text>
+You draw a card and lose 1 life. (Then exile this card. You may cast the creature later from exile.)</text>
 			<set rarity="rare" picurl="https://rachel-brighton.github.io/sets/GRM-files/img/14.png" num="18">GRM</set>
 			<prop>
 				<layout>adventure</layout>
 				<side>front</side>
 				<type>Legendary Creature — Youkai // Instant — Adventure</type>
 				<maintype>Creature</maintype>
-				<manacost>2B // B</manacost>
+				<manacost>2B // 1B</manacost>
 				<cmc>3</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
@@ -296,7 +297,7 @@ Destroy target creature.</text>
 		<card>
 			<name>Mob Swarm</name>
 			<text>Flying
-Whenever you attack, amass Faeries 1 (Put a +1/+1 counter on an Army you control. It&apos;s also a Faerie. If you don&apos;t control an Army, create a 0/0 black Faerie Army creature token first.)</text>
+Whenever you attack, amass Faeries 1. (Put a +1/+1 counter on an Army you control. It&apos;s also a Faerie. If you don&apos;t control an Army, create a 0/0 black Faerie Army creature token first.)</text>
 			<set rarity="uncommon" picurl="https://rachel-brighton.github.io/sets/GRM-files/img/16.png" num="27">GRM</set>
 			<prop>
 				<layout>normal</layout>
@@ -355,7 +356,7 @@ Create a 3/1 red Wolf Spirit creature token with haste and &quot;This creature m
 
 ---
 
-Distribute two +1/+1 counters among one or two target creatures.</text>
+Distribute two +1/+1 counters among one or two target creatures. (Then exile this card. You may cast the creature later from exile.)</text>
 			<set rarity="rare" picurl="https://rachel-brighton.github.io/sets/GRM-files/img/19.png" num="36">GRM</set>
 			<prop>
 				<layout>adventure</layout>
@@ -740,7 +741,7 @@ Equip {1}</text>
 			<name>Urban Legend in Limbo</name>
 			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
 I — Create two 1/1 white Spirit creature tokens with flying.
-II — Until end of turn, whenever a creature you control attacks, put a +1/+1 counter on it.
+II — Whenever a creature you control attacks this turn, it gets +1/+1 until end of turn.
 III — You may reveal a Legendary card you own from outside the game and put it into your hand.</text>
 			<set rarity="uncommon" picurl="https://rachel-brighton.github.io/sets/GRM-files/img/41.png" num="8">GRM</set>
 			<prop>

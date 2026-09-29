@@ -1,4 +1,12 @@
-﻿VERSION 16 CHANGELOG
+﻿VERSION 17 CHANGELOG
+====================
+
+Magic Mirror added.
+
+Spirit Mirror removed.
+
+
+VERSION 16 CHANGELOG
 ====================
 
 Pet Chupacabra added.

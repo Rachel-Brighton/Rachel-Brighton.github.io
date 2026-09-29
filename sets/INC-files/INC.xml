@@ -5,7 +5,7 @@
 			<name>INC</name>
 			<longname>It&apos;s an Incident! — UB Touhou Story Decks</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-09-14</releasedate>
+			<releasedate>2026-09-28</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -116,7 +116,7 @@ Luna Dial — When Sakuya enters, draw two cards. You lose 2 life unless you con
 		</card>
 		<card>
 			<name>Rumia, Wrapped in Dusk</name>
-			<text>Night Bird — {B}, Exile Rumia, Wrapped in Dusk from your graveyard: Draw a card.</text>
+			<text>Night Bird — {1}{B}, Exile Rumia, Wrapped in Dusk from your graveyard: Draw a card and you lose 1 life.</text>
 			<set rarity="common" picurl="https://rachel-brighton.github.io/sets/INC-files/img/6.png" num="51">INC</set>
 			<prop>
 				<layout>normal</layout>
@@ -287,15 +287,15 @@ Spells you cast during combat cost {1} less to cast.</text>
 		<card>
 			<name>Flandre, Sister of the Devil</name>
 			<text>Flying
-Lävatein — When Flandre enters, each opponent sacrifices a nontoken creature of their choice and discards a card.</text>
+Lävatein — When Flandre enters, each opponent sacrifices a creature of their choice and discards a card.</text>
 			<set rarity="rare" picurl="https://rachel-brighton.github.io/sets/INC-files/img/16.png" num="83">INC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Legendary Creature — Vampire Noble</type>
 				<maintype>Creature</maintype>
-				<manacost>2BR</manacost>
-				<cmc>4</cmc>
+				<manacost>3BR</manacost>
+				<cmc>5</cmc>
 				<colors>BR</colors>
 				<coloridentity>BR</coloridentity>
 				<pt>3/3</pt>
@@ -850,8 +850,7 @@ Froggy Braves the Wind — Whenever Suwako attacks, untap up to three lands.</te
 		</card>
 		<card>
 			<name>Hina, Dark Side of Fate</name>
-			<text>Trample
-Exiled Doll — When Hina enters, destroy up to one target artifact or enchantment. If you controlled it, draw a card.</text>
+			<text>Exiled Doll — When Hina enters, destroy up to one target artifact or enchantment. If you controlled it, draw a card.</text>
 			<set rarity="uncommon" picurl="https://rachel-brighton.github.io/sets/INC-files/img/48.png" num="75">INC</set>
 			<prop>
 				<layout>normal</layout>
@@ -862,7 +861,7 @@ Exiled Doll — When Hina enters, destroy up to one target artifact or enchantme
 				<cmc>3</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
-				<pt>3/2</pt>
+				<pt>3/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -1477,7 +1476,7 @@ Sacrifice this enchantment: When target creature dies this turn, return that car
 		<card>
 			<name>Iku, Envoy of the Dragon Palace</name>
 			<text>Flying, haste
-Dragon Fish&apos;s Wrath — When Iku enters, you may discard a card. If you do, she deals 3 damage to any target and 3 damage to you.</text>
+Dragon Fish&apos;s Wrath — When Iku enters, you may discard a card. If you do, she deals 3 damage to any nonplayer target and 3 damage to you.</text>
 			<set rarity="rare" picurl="https://rachel-brighton.github.io/sets/INC-files/img/85.png" num="60">INC</set>
 			<prop>
 				<layout>normal</layout>
@@ -1749,7 +1748,8 @@ Counter target spell that targets you, a permanent you control, or a spell you c
 		</card>
 		<card>
 			<name>Just Dodge It, Bro</name>
-			<text>Until end of turn, creatures your opponents control lose hexproof, ward, protection, and indestructible and can&apos;t have or gain those abilities.</text>
+			<text>Until end of turn, creatures your opponents control lose hexproof, ward, protection, and indestructible and can&apos;t have or gain those abilities.
+Cycling {2} ({2}, Discard this card: Draw a card.)</text>
 			<set rarity="common" picurl="https://rachel-brighton.github.io/sets/INC-files/img/101.png" num="45">INC</set>
 			<prop>
 				<layout>normal</layout>

@@ -253,8 +253,8 @@
         "position": "35"
     },
     {
-        "card_name": "Spirit Mirror",
-        "number": 44,
+        "card_name": "Magic Mirror",
+        "number": 42,
         "shape": "normal",
         "set": "AKU",
         "rotated": false,
@@ -262,7 +262,7 @@
     },
     {
         "card_name": "Shadow Mirror",
-        "number": 43,
+        "number": 44,
         "shape": "normal",
         "set": "AKU",
         "rotated": false,
@@ -357,7 +357,7 @@
     },
     {
         "card_name": "Magician's Companion",
-        "number": 42,
+        "number": 43,
         "shape": "normal",
         "set": "AKU",
         "rotated": false,

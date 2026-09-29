@@ -5,7 +5,7 @@
 			<name>AKU</name>
 			<longname>Akyuu&apos;s Untouched Chronicle</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-09-19</releasedate>
+			<releasedate>2026-09-28</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -771,7 +771,7 @@ Whenever you gain life, put a +1/+1 counter on target creature you control. This
 			<name>Magician&apos;s Companion</name>
 			<text>Wizard spells you cast cost {1} less to cast.
 Wizards you control have &quot;Instant and sorcery spells you cast cost {1} less to cast.&quot;</text>
-			<set rarity="uncommon" picurl="https://rachel-brighton.github.io/sets/AKU-files/img/42.png" num="42">AKU</set>
+			<set rarity="uncommon" picurl="https://rachel-brighton.github.io/sets/AKU-files/img/42.png" num="43">AKU</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -790,7 +790,7 @@ Wizards you control have &quot;Instant and sorcery spells you cast cost {1} less
 			<text>Flying
 When this creature enters, any number of target players each mill five cards.
 Warp {1}{UB} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)</text>
-			<set rarity="uncommon" picurl="https://rachel-brighton.github.io/sets/AKU-files/img/43.png" num="43">AKU</set>
+			<set rarity="uncommon" picurl="https://rachel-brighton.github.io/sets/AKU-files/img/43.png" num="44">AKU</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -805,10 +805,10 @@ Warp {1}{UB} (You may cast this card from your hand for its warp cost. Exile thi
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Spirit Mirror</name>
+			<name>Magic Mirror</name>
 			<text>Flying
 You have ward {5}. (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {5}.)</text>
-			<set rarity="uncommon" picurl="https://rachel-brighton.github.io/sets/AKU-files/img/44.png" num="44">AKU</set>
+			<set rarity="uncommon" picurl="https://rachel-brighton.github.io/sets/AKU-files/img/44.png" num="42">AKU</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
