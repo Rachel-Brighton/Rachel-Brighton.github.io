@@ -5,7 +5,7 @@
 			<name>INC</name>
 			<longname>It&apos;s an Incident! — UB Touhou Story Decks</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-09-28</releasedate>
+			<releasedate>2026-10-12</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -616,7 +616,7 @@ When this land enters, you gain 1 life.</text>
 			<name>Overflowing Wonder</name>
 			<text>Flash
 Flying
-When this creature enters, exile another target creature or spell. Its controller may cast it for as long as it remains exiled.</text>
+When this creature enters, exile another target creature or spell. Starting next turn, its owner may cast it without paying its mana cost for as long as it remains exiled.</text>
 			<set rarity="rare" picurl="https://rachel-brighton.github.io/sets/INC-files/img/35.png" num="98">INC</set>
 			<prop>
 				<layout>normal</layout>
@@ -1355,7 +1355,7 @@ Destroy target creature or planeswalker.</text>
 		</card>
 		<card>
 			<name>Lunar Reinforcements</name>
-			<text>Kicker—Sacrifice a non-Rabbit token. (You may sacrifice a non-Rabbit token in addition to any other costs as you cast this spell.)
+			<text>Kicker—{W}, Sacrifice a token. (You may pay an additional {W} and sacrifice a token as you cast this spell.)
 Create two 1/1 white Rabbit creature tokens. If this spell was kicked, create four instead.</text>
 			<set rarity="common" picurl="https://rachel-brighton.github.io/sets/INC-files/img/78.png" num="13">INC</set>
 			<prop>
@@ -1373,7 +1373,7 @@ Create two 1/1 white Rabbit creature tokens. If this spell was kicked, create fo
 		<card>
 			<name>Fairy Hellraiser</name>
 			<text>Flying, deathtouch
-When this creature dies, you gain 1 life.</text>
+When this creature dies, each opponent loses 1 life and you gain 1 life.</text>
 			<set rarity="common" picurl="https://rachel-brighton.github.io/sets/INC-files/img/79.png" num="40">INC</set>
 			<prop>
 				<layout>normal</layout>
@@ -1384,7 +1384,7 @@ When this creature dies, you gain 1 life.</text>
 				<cmc>2</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
-				<pt>1/2</pt>
+				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>

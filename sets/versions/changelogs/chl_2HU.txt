@@ -1,4 +1,670 @@
-﻿VERSION 27 CHANGELOG
+﻿VERSION 28 CHANGELOG
+====================
+
+
+
+Fantasy Nature
+rules_text: Flash
+Enchant legendary creature or planeswalker
+Vanishing 2 [i](This permanent enters with two time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)[/i]
+Enchanted permanent has protection from everything. This effect doesn't remove Fantasy Nature. => Flash
+Enchant legendary creature or planeswalker
+Vanishing 2 [i](This enchantment enters with two time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)[/i]
+Enchanted permanent has protection from everything. This effect doesn't remove Fantasy Nature.
+
+Tewi, White Rabbit of Inaba
+
+Medicine Melancholy
+
+Komachi, Ferrywoman
+
+Judgement
+
+Kosuzu, Curious Youth
+
+Marisa and Alice
+
+Ore from the Age of the Gods
+
+Kitten of Great Fortune
+
+Reimu and Yukari
+
+Hina Kagiyama
+
+Nitori, Super Youkai Warhead
+
+Momiji Inubashiri
+
+Kanako, God of Progress
+
+Yoshika Miyako
+rules_text: Devour 2 [i](As this enters, you may sacrifice any number of creatures. This creature enters with twice that many +1/+1 counters on it.)[/i]
+Persist [i](When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner's control with a -1/-1 counter on it. If a creature has both -1/-1 and +1/+1 counters, remove one of each until only one kind remains.)[/i] => Devour 2 [i](As this creature enters, you may sacrifice any number of creatures. This creature enters with twice that many +1/+1 counters on it.)[/i]
+Persist [i](When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner's control with a -1/-1 counter on it. If a creature has both -1/-1 and +1/+1 counters, remove one of each until only one kind remains.)[/i]
+
+Kisume
+
+Parsee, Green-Eyed Monster
+
+Safe Zone
+
+Satori Komeiji
+
+Koishi Komeiji
+
+Iizunamaru, Daitengu
+
+Nazrin, Treasure Tracker
+
+Kogasa, Forgotten Umbrella
+
+Hatate Himekaidou
+
+Ichirin Kumoi
+
+Tenshi, Delinquent Celestial
+
+Captain Murasa
+
+Shou, Bishamonten's Light
+
+Kyouko Kasodani
+
+Tojiko, Thunder Soul
+
+Mononobe no Futo
+
+Miko, the Saint Reborn
+
+Wakasagihime
+
+Dynamic Entrance
+
+Utsuho Reiuji
+
+Scarlet Detonation
+
+Shanghai Doll
+
+Sekibanki
+
+Kagerou, Bamboos Loup-Garou
+
+Seija, Bane of Gensokyo
+
+Sukuna of the Shining Needle
+
+Eternity Larva, Birth and Rebirth
+
+Aunn, Guardian Beast
+
+Narumi, Life Giver
+
+Seiran, Lunar Invader
+
+Ringo, Tactical Coordinator
+
+Sagume, the Wheel Reversed
+
+Fierce Fang, Wolf
+
+Kiketsus Sneak, Otter
+
+Eika Ebisu
+
+Urumi Ushizaki
+
+Kutaka, Hells Border Patrol
+
+Yachie Kicchou
+
+Kaguyas Impossible Request
+
+Mayumi Joutougu
+
+Namazu
+
+Keiki, the Sculptor God
+
+Saki Kurokoma
+
+Mike Goutokuji
+
+Takane Yamashiro
+
+Sannyo Komakusa
+
+Misumaru Tamatsukuri
+
+Tsukasa, Daitengu's Consultant
+
+YuugenMagan
+
+Kikuri, Hellish Moon
+
+Konngara, Astral Knight
+
+Sariel, Angel of Death
+
+Rika, the Tank Girl
+
+Meira, Seeker of Dark Power
+
+Otherworld Defense Platform
+
+Bad Apple
+
+Iwakasa, Bearer of the Elixir
+
+Spellcard Declaration
+
+Item Collection Border
+
+Deep-Mountain Encounter
+
+Ellen, Empty and Eternal
+
+Kana Anaberal
+
+Kotohime, Maniacal Princess
+
+Rikako Asakura
+
+Yumemi Okazaki
+
+Memento of the Avaricious Beast
+
+Unshou, the Fisherman
+
+Orange
+
+Kurumi, Keeper of the Lake
+
+Elly, Guardian of Mugenkan
+
+Sara, Gatekeeper of Makai
+
+Louise, Visitor from Makai
+
+Yuki and Mai
+
+Yumeko, Blade of Makai
+
+Iku Nagae
+
+Joon, Avaricious Pestilence
+
+Shion, Consuming Poverty
+
+Suika Ibuki
+
+Hieda no Akyuu
+
+Luna Child
+
+Youmu, Netherworld's Blades
+
+Reisen, the Junior
+
+This, Too, Is Yuri
+
+Knight of Nights
+
+Kokoro, Noh Embodied
+
+Rinnosuke Morichika
+
+Sunny Milk
+
+Star Sapphire
+
+Junko, Pure Fury
+
+Toyohime, Divine Ward
+
+Yorihime, Divine Vessel
+
+Hakurei Ancestor
+
+Hisou Tensoku
+
+Layla, the Last Prismriver
+
+Lily Black
+
+Lord Tenma
+
+Nuclear Options
+
+Priestess of Pseudo Paradise
+
+The Coward Pierrot
+
+Youki, Konpaku Ancestor
+
+Panic Bomb
+
+Spellcard Capture
+
+Full Power Up!!
+
+Goliath Doll
+
+Bloom Nobly, Ink-Black Blossoms
+
+Ultimate Truth
+
+Phantom Ensemble
+
+Ferryboat of the Dead
+
+Giga Flare
+
+Ghost Lead
+
+Repurposed Rover
+
+Interdimensional Voyage
+
+The Palanquin Ship
+
+Drunk As I Like
+
+Fires of Hokkai
+
+Scavenged Arsenal
+
+Cursed Decoy Doll
+
+Land of Faith and Fantasy
+
+Gensokyo Accepts All
+
+Become Marketable
+
+Doll
+
+Exploitable Resources
+
+Momoyo, Onyx Dragon-Eater
+
+The Ground's Color is Yellow
+
+Vine of Wisteria
+
+Yuuka of Dreamland
+
+Persuasion Needle
+
+Battle Bond
+
+Homing Option
+
+Let's Live in a Lovely Cemetery
+
+Aerodynamic Blades
+
+Throwing Mt. Togakushi
+
+Hakurei Shrine Grounds
+
+Myouren Temple Road
+
+Kaian Passageway
+
+Primate Garden Depths
+
+Human Village Streets
+
+Lunar Capitol Thoroughfare
+
+Nameless Hillside
+
+Moriya Shrine Path
+
+Misty Lake Shores
+
+Unzan token
+
+Helpful Bunnies
+
+Food
+
+Rabbit
+
+The Jailbreak King
+
+Tsuchinoko
+
+Enigmatic Vestige
+
+Ordinary Magician's Charm
+
+Marisa of Scarlet Dreams
+
+Reimu of Eastern Winds
+
+Treasure
+
+Skeleton
+
+Demon
+
+Youkai
+
+Vampire Noble
+
+Bird Youkai
+
+Spirit
+
+Orb
+
+Eye
+
+Manifest
+
+Insect
+
+Wizard
+
+Human Cleric
+
+Mishaguji
+
+Soldier
+
+Bird
+
+Royal Role
+
+Monster Role
+
+Sorcerer Role
+
+Blood
+
+Dog
+
+Clue
+
+Wolf Spirit
+
+Youkai
+
+Error-Prone Maid
+
+Probability Collapse
+
+Rowdy Drunkard
+
+Player 2
+
+Chen, Servitor's Lackey
+
+Blood Drive
+
+Agatha ChrisQ
+
+Chiyuri, Sailor of Time
+
+Sakuya, Scarlet Guardian
+
+Moonlit Pursuit
+
+Lunar Reinforcements
+rules_text: Kicker—Sacrifice a non-Rabbit token. [i](You may sacrifice a non-Rabbit token in addition to any other costs as you cast this spell.)[/i]
+Create two 1/1 white Rabbit creature tokens. If this spell was kicked, create four instead. => Kicker—{W}, Sacrifice a token. [i](You may pay an additional {W} and sacrifice a token as you cast this spell.)[/i]
+Create two 1/1 white Rabbit creature tokens. If this spell was kicked, create four instead.
+
+The Fortune-Teller
+
+Maiden's Bunraku
+
+Pristine Lunacy
+
+Purified
+
+Sea of Petroleum
+
+Devil's Recitation
+
+Yuugi, Old Hell's Might
+
+Byakuren, Superhuman
+
+Body Enhancement Magic
+
+Sorcerer's Sutra Scroll
+
+Hanged Hourai Doll
+
+Roving Orb
+
+Magician's Grimoire
+
+Tea Break
+
+Incorruptible Perfection
+
+Parasol of the Flower Youkai
+
+Alice of Wonderland
+
+Doremy, Eternal Spring Dream
+
+Kyuu... BOOM~!
+
+Miyoi, Geidontei's Poster Girl
+
+Creation of Gensokyo
+
+Peak Performance
+
+100th Black Market
+
+Great Frog of the Pond
+
+Guard Tiger
+
+Take it Easy!
+
+You, Get Bigger!
+
+Flower Youkai's Charm
+
+Living God's Charm
+
+Lucky Rabbit's Charm
+
+Shrine Maiden's Charm
+
+Youkai Sages' Charm
+
+Rin, Hell's Traffic Accident
+
+Yuyuko, Mistress of Death
+
+SinGyoku, the Gatekeeper
+
+The Saigyou Ayakashi
+
+Elis, Innocence Devil
+
+The Secret Sealing Club
+
+Ran, Sage's Servitor
+
+Stage Transition
+
+Suwako, Native God
+
+Shining Needle Rebellion
+
+Master Spark
+
+Phantasmagoria of Dimensions
+
+Phantasmagoria of Flowers
+
+Laika, Lively Soul
+
+Mugetsu
+
+Gengetsu
+
+Mima, Complete Darkness
+
+Nue, Heian Alien
+
+Manifest
+
+Evil Eye Σ
+
+The Flower Tank
+
+Go-Shintank
+
+Vengeful Spirit
+
+A Dream More Scarlet
+
+Bunbunmaru Newspaper
+
+Unlocated Hell
+
+Where Flowers Reflect
+
+Peaches of Paradise
+
+Chimata, the Market God
+
+Ubame, Sanctuary's Protector
+
+Chimi, Ancient Abomination
+
+Nareko, the Altar's Warden
+
+Nemuno, Sanctuary Keeper
+
+Seed of Unknown Form
+
+Copy
+
+Obsolescent Industrial Remains
+
+Wonder Stone
+
+Eiki, Final Judge of Fate
+
+Yuiman, Data Purifier
+
+Ariya, Stone Goddess
+
+Nina, Newborn Apparition
+
+For the Glory of the Moon
+
+A Little Curse
+
+Child of Light
+
+Legend of the Eight-Foot Woman
+
+Legend of the Occult Balls
+
+Legend of the Haunted Well
+
+Legend of Spontaneous Combustion
+
+Legend of the Little Green Men
+
+Floating Fluffball
+
+Manzairaku
+
+Trump Card
+
+Yuyuko, Night Sakura's Spirit
+
+Toyohime, System Administrator
+
+Aya, Bullet Photographer
+
+Sakuya and Remilia
+
+Youmu and Yuyuko
+
+Bewitching Lotus Flower
+
+Yuuka Kazami
+
+Tokiko
+
+Spread Shot
+
+Divine Spirits' Macrocosm
+
+Grassroots Youkai Networking
+
+Underworld Palace Halls
+
+Bakebake
+
+Rainfall Fairy
+
+Imperishable Night
+
+May As Well Throw a Party
+
+Unfinished Dreams
+
+Genji, Hakurei Companion
+
+Teireida and Nishida
+
+Flowers in the Sky
+
+Dream of a Spring Breeze
+
+HURRY UP
+
+Choose Your Path
+
+Forbidden Magic
+
+Unnatural Nature
+
+The World Is Just Adorable
+rules_text: Choose X, then create those tokens—
+• A 3/1 red Wolf Spirit creature token with haste and “This creature attacks each turn if able.”
+• A 1/2 blue Bird creature token with flying and “Whenever this creature deals combat damage to a player, draw a card.”
+• Two 1/1 colorless Orb artifact creature tokens.
+• Two Food tokens. => Choose X, then create those tokens—
+• A 3/1 red Wolf Spirit creature token with haste and “This creature must attack each combat if able.”
+• A 1/2 blue Bird creature token with flying and “Whenever this creature deals combat damage to a player, draw a card.”
+• Two 1/1 colorless Orb artifact creature tokens.
+• Two Food tokens.
+
+Magical Beast Scramble
+
+Kasen, Seeking Herself
+
+Shinki, Infinite Being
+
+Okina, the Hidden God
+
+Sumireko Usami
+
+Yukari Yakumo
+
+Keine Kamishirasawa
+
+Ibaraki-Douji
+
+
+VERSION 27 CHANGELOG
 ====================
 
 The World Is Just Adorable added.

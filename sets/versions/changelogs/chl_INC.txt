@@ -1,4 +1,28 @@
-﻿VERSION 20 CHANGELOG
+﻿VERSION 21 CHANGELOG
+====================
+
+
+
+Overflowing Wonder
+rules_text: Flash
+Flying
+When this creature enters, exile another target creature or spell. Its controller may cast it for as long as it remains exiled. => Flash
+Flying
+When this creature enters, exile another target creature or spell. Starting next turn, its owner may cast it without paying its mana cost for as long as it remains exiled.
+
+Lunar Reinforcements
+rules_text: Kicker—Sacrifice a non-Rabbit token. [i](You may sacrifice a non-Rabbit token in addition to any other costs as you cast this spell.)[/i]
+Create two 1/1 white Rabbit creature tokens. If this spell was kicked, create four instead. => Kicker—{W}, Sacrifice a token. [i](You may pay an additional {W} and sacrifice a token as you cast this spell.)[/i]
+Create two 1/1 white Rabbit creature tokens. If this spell was kicked, create four instead.
+
+Fairy Hellraiser
+rules_text: Flying, deathtouch
+When this creature dies, you gain 1 life. => Flying, deathtouch
+When this creature dies, each opponent loses 1 life and you gain 1 life.
+pt: 1/2 => 1/1
+
+
+VERSION 20 CHANGELOG
 ====================
 
 
